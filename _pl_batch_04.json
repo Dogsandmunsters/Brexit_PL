@@ -1,43 +1,43 @@
 {
   "61": {
     "PROSE": [
-      "'Well, quotas – obviously that's how much you can take of something before another tariff rate cuts in. So if it's a thousand containers of inflatable sex dolls – '",
-      "'Oh please!' cries Dent, going slightly pinker even than his usual radishy complexion.",
-      "'Could be anything. Cucumbers, then. First thousand containers, 1% tariff. Next thousand, 2%, whatever. Thing is, that's stuff that's being sold across the whole EU. When we come out, what bit of it is our quota? Got to be agreed. How many calories do you think that éclair was, by the way?'",
-      "'What about schedules?' says the Chancellor, plainly astonished.",
-      "'Cripes, even more complicated. It might be different tariffs on goods that the rest of the EU wants more than we do, or the other way round. And regulations like how much of a domestic financial institution can be held by foreign investors. But nobody in Russia wants a Greek bank and they'd all like a British one, so when we break our schedules out of the EU, what ends up where? So you can see how frightful it all is.'"
+      "„No cóż, kontyngenty – to oczywiście określa, ile czegoś można sprowadzić, zanim zacznie obowiązywać inna stawka celna. Więc jeśli chodzi o tysiąc kontenerów nadmuchiwanych lalek erotycznych…"",
+      "„Och, proszę!" – wykrzykuje Dent, czerwieniejąc jeszcze bardziej niż zwykle, choć i tak na co dzień ma cerę koloru rzodkiewki.",
+      "„Mogłoby chodzić o cokolwiek. Niech będą ogórki. Pierwszy tysiąc kontenerów – 1% cła. Następny tysiąc – 2%, i tak dalej. Rzecz w tym, że to towar sprzedawany w całej UE. Kiedy z niej wyjdziemy, jaka część kontyngentu przypada nam? Trzeba to uzgodnić. A tak przy okazji, ile kalorii twoim zdaniem miał ten eklerek?"",
+      "„A co z harmonogramami?" – pyta Kanclerz, wyraźnie zdumiony.",
+      "„O rany, to jeszcze bardziej skomplikowane. Mogą być różne stawki celne na towary, których reszta UE potrzebuje bardziej niż my, albo odwrotnie. No i są regulacje, na przykład jaka część krajowej instytucji finansowej może należeć do zagranicznych inwestorów. Ale nikt w Rosji nie chce greckiego banku, za to wszyscy chętnie wzięliby brytyjski, więc kiedy wyodrębnimy nasze harmonogramy z unijnych, co gdzie trafi? Więc widzisz, jaka to koszmarnie zawiła sprawa.""
     ],
     "OPTIONS": [
-      "[OPTION] \"'What about most favoured nations?'\" ►38",
-      "[OPTION] \"'You mentioned non-tariff barriers.'\" ►383",
-      "[OPTION] \"'Those are details we can look at another time.'\" ►454"
+      "[OPTION] \"'A co z klauzulą najwyższego uprzywilejowania?'\" ►38",
+      "[OPTION] \"'Wspomniałeś o barierach pozataryfowych.'\" ►383",
+      "[OPTION] \"'To szczegóły, którymi możemy się zająć innym razem.'\" ►454"
     ]
   },
   "62": {
     "PROSE": [
-      "Dennis Dent is knocked out. That leaves you, Colin Fungale and Tiffany Rufus for the win. After one more round of voting by the Parliamentary party, the remaining two candidates will go to a ballot of the rank-and-file membership.",
-      "'If you can win against Fungale,' says Ron Beardsley, 'you're a shoo-in against Rufus. The members regard her as an England-hating technocrat Europuppet.'",
-      "'I don't want to be up against Fungale, that's for sure. Most of our members are Kippers at heart.'",
-      "'Right. So in this next round you need to knock Fungale out. Quite a few of our MPs would as soon give a loaded gun to a toddler as give him control of the party. Just stick to a Brexit-for-grown-ups position.'",
-      "'Maybe. Another argument is that neither I nor Fungale will attract many of the votes on the soft-Brexit wing of the party, so actually I have to vie with him for the crown of mad prophet of <em>Brexit impavidus</em>.'",
-      "'Just for God's sake don't use any Latin,' says Ron, narrowing his eyes warily. 'One thing the members hate more than a moderate is an intellectual.'",
-      "What's it to be?"
+      "Dennis Dent odpada. Zostajecie ty, Colin Fungale i Tiffany Rufus w walce o zwycięstwo. Po jeszcze jednej rundzie głosowania frakcji parlamentarnej, pozostała dwójka kandydatów zostanie poddana pod głosowanie szeregowych członków partii.",
+      "„Jeśli wygrasz z Fungale'em" – mówi Ron Beardsley – „to z Rufus będziesz miał łatwiznę. Członkowie uważają ją za nienawidzącą Anglii technokratkę i euroniańkę."",
+      "„Nie chcę się mierzyć z Fungale'em, to pewne. Większość naszych członków to w głębi duszy kiperowcy."",
+      "„Właśnie. Więc w tej rundzie musisz wyeliminować Fungale'a. Sporo naszych posłów prędzej dałoby naładowany pistolet maluchowi niż jemu kontrolę nad partią. Po prostu trzymaj się pozycji Brexitu-dla-dorosłych."",
+      "„Może. Jest też inny argument – ani ja, ani Fungale nie przyciągniemy wielu głosów z miękkiego skrzydła partii, więc tak naprawdę muszę rywalizować z nim o koronę szalonego proroka <em>Brexit impavidus</em>."",
+      "„Tylko na litość boską, nie używaj łaciny" – mówi Ron, mrużąc oczy z niepokojem. „Jedyne, czego członkowie nienawidzą bardziej niż umiarkowanego, to intelektualista."",
+      "Co wybierasz?"
     ],
     "OPTIONS": [
-      "[OPTION] \"Maintain a policy of rational Brexit with allowance for dialogue and compromise\" ►353",
-      "[OPTION] \"Go full throttle – show that your Brexit zeal is even more vehement than Fungale's\" ►552"
+      "[OPTION] \"Utrzymać politykę racjonalnego Brexitu z gotowością do dialogu i kompromisu\" ►353",
+      "[OPTION] \"Pełna para naprzód – pokazać, że twój brexitowy zapał jest jeszcze żarliwszy niż Fungale'a\" ►552"
     ]
   },
   "63": {
     "PROSE": [
-      "'India, for instance. They want Mode IV access to UK markets for their service suppliers.'",
-      "'Meaning?'",
-      "'It's the World Trade agreement allowing workers from one country to move to another WTO country in order to provide a service. So we're not talking about Delhi call centres. These are boots on the ground – or sandals, I guess. The point is they'll need to send people over here. And they want us to ease up on visa restrictions for students and business personnel. And your Leave voters aren't going to like it. Not to sugar-coat it, they don't want to see more brown faces on their way to the betting shop, do they?'",
-      "'That's pretty offensive, I must say.'",
-      "'The whole referendum campaign was offensive. Talking of which, it'll be the same with Turkey. Remember that Leave poster – \"the Turkic horde is about to arrive in Britain, eek\"? Well they weren't, but they are now.'"
+      "„Weźmy na przykład Indie. Chcą dostępu w trybie IV do rynków brytyjskich dla swoich dostawców usług."",
+      "„Czyli?"",
+      "„To porozumienie Światowej Organizacji Handlu pozwalające pracownikom z jednego kraju przenosić się do innego kraju WTO w celu świadczenia usług. Więc nie mówimy tu o call centre w Delhi. To ludzie na miejscu – buty na ziemi, a raczej sandały. Chodzi o to, że będą musieli przysyłać tu ludzi. I chcą, żebyśmy złagodzili ograniczenia wizowe dla studentów i personelu biznesowego. A twoim wyborcom Leave się to nie spodoba. Nie owijając w bawełnę – nie chcą widzieć więcej brązowych twarzy w drodze do bukmachera, prawda?"",
+      "„To dość obraźliwe, muszę przyznać."",
+      "„Cała kampania referendalna była obraźliwa. A skoro przy tym jesteśmy, z Turcją będzie to samo. Pamiętasz ten plakat Leave – 'tureckia horda zaraz przybędzie do Brytanii, ratunku'? No więc nie przybywała, ale teraz owszem.""
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►700"
+      "[OPTION] \"Dalej\" ►700"
     ]
   },
   "64": {
@@ -45,19 +45,19 @@
       "[EFFECT getKW:GAZELLE]"
     ],
     "PROSE": [
-      "A few days later, you and the Chancellor are working together into the evening.",
-      "'You're taking a risk,' he says, a rare confessional mood coming upon him as you press a whisky into his hand.",
-      "'I'm surprised to hear you say that, Alan. Isn't the risk that Britain falls off the cliff of a disastrously negotiated Brexit?'",
-      "'We've spent two years talking about the gory details. Now you're turning round and telling everybody it was all a mistake. They're bound to say that we've put too much into negotiating Brexit to back out now.'",
-      "'That makes no sense. It's arguing from the basis of sunk costs.'",
-      "He stares into his glass, swirling the ice cubes thoughtfully. 'I hate to admit it, but people aren't rational. Worse, as the reality of Brexit comes home to them they start to panic. And that makes them even harder to reason with.'",
-      "'You're a ray of sunshine.'",
-      "'Looking on the bright side, if you muck this up I'll get a crack at the top job, eh?' That brings a brief, wintry smile to his lips. He knocks back the whisky at a gulp and says goodnight.",
-      "How will your own stance sway the public? That depends…"
+      "Kilka dni później pracujesz z Kanclerzem do późnego wieczora.",
+      "„Ryzykujesz" – mówi, ogarniając go rzadki nastrój zwierzeń, kiedy wciskasz mu w dłoń szklankę whisky.",
+      "„Dziwię się, że to mówisz, Alanie. Czyż ryzykiem nie jest raczej to, że Brytania spadnie z klifu katastrofalnie wynegocjowanego Brexitu?"",
+      "„Spędziliśmy dwa lata, omawiając krwawe szczegóły. A teraz odwracasz się i mówisz wszystkim, że to była pomyłka. Na pewno powiedzą, że włożyliśmy zbyt wiele w negocjowanie Brexitu, żeby się teraz wycofywać."",
+      "„To nie ma sensu. To argumentacja oparta na kosztach utopionych."",
+      "Wpatruje się w szklankę, zamyślony, obracając w niej kostki lodu. „Nie lubię tego przyznawać, ale ludzie nie są racjonalni. Co gorsza, kiedy rzeczywistość Brexitu do nich dociera, zaczynają panikować. A to sprawia, że jeszcze trudniej się z nimi porozumieć."",
+      "„Jesteś prawdziwym promykiem słońca."",
+      "„Patrząc z jasnej strony, jeśli to spieprzysz, ja dostanę szansę na najwyższe stanowisko, co?" To wywołuje na jego ustach krótki, zimny uśmiech. Jednym haustem wypija whisky i życzy dobrej nocy.",
+      "Jak twoje stanowisko wpłynie na opinię publiczną? To zależy…"
     ],
     "GOTO": [
-      "[IF Popularity>=51] \"Flavour of the month\" ►388",
-      "[ELSE] \"Out of favour\" ►766"
+      "[IF Popularity>=51] \"Ulubieniec chwili\" ►388",
+      "[ELSE] \"W niełasce\" ►766"
     ]
   },
   "65": {
@@ -68,43 +68,43 @@
   },
   "66": {
     "PROSE": [
-      "'Services are more important to Britain than goods,' says Strewel, looking for a pen to jot it down on his shirt cuff. 'Mustn't forget that. I'm on <em>News Talk</em> tonight and bloody whasisname might try and trip me up.'"
+      "„Usługi są dla Brytanii ważniejsze niż towary" – mówi Strewel, szukając długopisu, żeby zanotować to na mankiecie koszuli. „Nie wolno o tym zapominać. Dziś wieczorem jestem w <em>News Talk</em> i ten cholerny jakżemubyło może spróbować mnie podpuścić.""
     ],
     "OPTIONS": [
-      "[OPTION] \"'Are the European Economic Area's financial service agreements as good as full EU membership?'\" ►72",
-      "[OPTION] \"'We can depend on the EU to accommodate us when it comes to financial services, surely?'\" ►327",
-      "[OPTION] \"'Jog my memory; what are financial passports?'\" ►318",
-      "[OPTION] \"'Presumably financial services only really affect London, not the rest of the country.'\" ►807",
-      "[OPTION] \"'Let's talk about other service industries.'\" ►418",
-      "[OPTION] \"'We'll leave this discussion for another day.'\" ►17"
+      "[OPTION] \"'Czy umowy Europejskiego Obszaru Gospodarczego w zakresie usług finansowych są tak dobre jak pełne członkostwo w UE?'\" ►72",
+      "[OPTION] \"'Możemy liczyć na to, że UE pójdzie nam na rękę w kwestii usług finansowych, prawda?'\" ►327",
+      "[OPTION] \"'Przypomnij mi, czym są paszporty finansowe?'\" ►318",
+      "[OPTION] \"'Zapewne usługi finansowe dotyczą tylko Londynu, a nie reszty kraju.'\" ►807",
+      "[OPTION] \"'Porozmawiajmy o innych branżach usługowych.'\" ►418",
+      "[OPTION] \"'Odłóżmy tę dyskusję na inny dzień.'\" ►17"
     ]
   },
   "67": {
     "PROSE": [
-      "This promises to be a battle-royal. Despite a stompingly insensitive public persona beside which Prince Philip comes across as the poster boy for liberal enlightenment, Peter Strewel is the darling of the grassroots members."
+      "To zapowiada się na walkę na całego. Pomimo ostentacyjnie nietaktownej publicznej persony, przy której książę Filip wypada jak wzór liberalnego oświecenia, Peter Strewel jest ulubieńcem szeregowych członków partii."
     ],
     "GOTO": [
-      "[IF Goodwill<=33] \"Continue\" ►78",
-      "[ELSEIF Goodwill>=66] \"Continue\" ►783",
-      "[ELSE] \"Continue\" ►415"
+      "[IF Goodwill<=33] \"Dalej\" ►78",
+      "[ELSEIF Goodwill>=66] \"Dalej\" ►783",
+      "[ELSE] \"Dalej\" ►415"
     ]
   },
   "68": {
     "PROSE": [
-      "'It's only a half-hour appointment, I'm afraid.'",
-      "'Make a stab at it. Not literally,' you add, noticing the gleaming steel prong in his hand.",
-      "'First of all, referendums at best simply vote on an objective. They don't give a weighting of desired outcomes, or any basis for compromise.'",
-      "'Good government isn't about compromise. It's about doing what is right.'",
-      "For that he drops your chair a few inches. 'Sometimes compromise is what's right, isn't it. Suppose that the referendum had actually spelled out the kind of Brexit people wanted. \"Stay in the EU, or move to a Norway model?\" And the Norway model won out. But then on day one you find out there's a cost to the Norway model. Perhaps the EU27 want Britain to pay twice Norway's per capita contribution. Or perhaps that model is simply too much of a fuss for all concerned and it's not on offer.'",
-      "'Then we'd walk away. No deal is better than – '",
-      "'Would you walk away today with a sucking hole in your tooth right now if I said I only had gold amalgam to stick in the filling? Sometimes no deal is the very worst that can happen. More to the point, in this example the public didn't give you a mandate to walk away. They gave you a mandate to move us to a Norway trading model. No wriggle room.'",
-      "'That's ridiculous.'",
-      "'Of course it is. The referendum only gives you a goal to aim at, not – ' He pauses. 'But maybe you don't have time for this?'"
+      "„Wizyta umówiona tylko na pół godziny, niestety."",
+      "„Spróbuj się zmieścić. Nie dosłownie" – dodajesz, zauważając lśniące stalowe narzędzie w jego dłoni.",
+      "„Po pierwsze, referenda w najlepszym wypadku dotyczą po prostu celu. Nie określają wagi pożądanych rezultatów ani nie dają podstaw do kompromisu."",
+      "„Dobre rządzenie nie polega na kompromisach. Polega na robieniu tego, co słuszne."",
+      "Za te słowa opuszcza twój fotel o kilka centymetrów. „Czasem kompromis jest tym, co słuszne, nieprawdaż. Załóżmy, że referendum faktycznie precyzowało, jakiego Brexitu ludzie chcą. 'Zostać w UE czy przejść na model norweski?' I wygrał model norweski. Ale pierwszego dnia okazuje się, że model norweski ma swoją cenę. Może UE27 chce, żeby Brytania płaciła dwukrotność norweskiej składki per capita. Albo może ten model to po prostu za dużo zachodu dla wszystkich i nikt go nie oferuje."",
+      "„Wtedy odeszlibyśmy. Brak porozumienia jest lepszy niż…"",
+      "„Wyszedłbyś pan dzisiaj z gabinetu z otwartą dziurą w zębie, gdybym powiedział, że mam tylko złoty amalgamat na plombę? Czasem brak porozumienia to najgorsze, co może się zdarzyć. Co więcej, w tym przykładzie społeczeństwo nie dało ci mandatu do odejścia. Dali ci mandat na przejście do norweskiego modelu handlowego. Bez pola manewru."",
+      "„To absurdalne."",
+      "„Oczywiście, że tak. Referendum daje ci jedynie cel, do którego masz dążyć, a nie…" Przerywa. „Ale może nie ma pan na to czasu?""
     ],
     "OPTIONS": [
-      "[OPTION] \"'Go on.'\" ►356",
-      "[OPTION] \"'Never mind that, why do you say a second referendum is acceptable if you don't think they produce good government?'\" ►571",
-      "[OPTION] \"'You're right, I don't. Just give me a temporary filling and I'll book an appointment with another dentist.'\" ►425"
+      "[OPTION] \"'Proszę kontynuować.'\" ►356",
+      "[OPTION] \"'Nieważne, dlaczego pan twierdzi, że drugie referendum jest dopuszczalne, skoro nie uważa pan, że referenda zapewniają dobre rządy?'\" ►571",
+      "[OPTION] \"'Ma pan rację, nie mam. Proszę mi po prostu założyć tymczasową plombę, a ja umówię się do innego dentysty.'\" ►425"
     ]
   },
   "69": {
@@ -115,114 +115,114 @@
   },
   "70": {
     "PROSE": [
-      "Your opponents are quick to point out that you've vacillated between Leave and Remain. 'The Prime Minister has been spinning faster than the weathervane on the village steeple,' says Noysom-Reek, who bizarrely chooses to be interviewed in red trousers in front of a gastropub. He turns to the wrong camera. 'Whereas I know exactly where I'm headed.'",
-      "'Yes – the dustbin of history, you ridiculous popinjay!' you screech at the screen.",
-      "For his TV spot, Stollard picks a desk in front of a shelf of pristine leather book spines. 'I have always been clear about my position,' he says. 'I want what's best for the country, and I don't mind speaking some hard truths to get there. I've never been one for saying what people want to hear.'",
-      "'If that was an interview for somebody to do the annual accounts, I'd hire him,' you remark to Wilkins.",
-      "'I wasn't sure whether you wanted tea or coffee, Prime Minister, so I've brought a pot of each.'"
+      "Twoi przeciwnicy szybko wytykają, że wahałeś się między Leave a Remain. „Premier kręcił się szybciej niż chorągiewka na wiejskiej dzwonnicy" – mówi Noysom-Reek, który z niewyjaśnionych przyczyn udziela wywiadu w czerwonych spodniach przed gastropubem. Odwraca się do niewłaściwej kamery. „Natomiast ja dokładnie wiem, dokąd zmierzam."",
+      "„Tak – na śmietnik historii, ty śmieszny papużniku!" – wrzeszczysz na ekran.",
+      "W swoim spocie telewizyjnym Stollard wybiera biurko ustawione przed półką z nieskazitelnymi skórzanymi grzbietami książek. „Zawsze jasno określałem swoje stanowisko" – mówi. „Chcę tego, co najlepsze dla kraju, i nie boję się mówić trudnych prawd, żeby to osiągnąć. Nigdy nie mówiłem ludziom tego, co chcą usłyszeć."",
+      "„Gdyby to była rozmowa kwalifikacyjna na stanowisko osoby od rocznych rozliczeń, zatrudniłbym go" – zauważasz do Wilkinsa.",
+      "„Nie byłem pewien, czy życzy sobie pan herbaty czy kawy, panie premierze, więc przyniosłem dzbanek jednego i drugiego.""
     ],
     "GOTO": [
-      "[IF keyword:UNCTION] \"Drink up\" ►251",
-      "[ELSE] \"Drink up\" ►460"
+      "[IF keyword:UNCTION] \"Napij się\" ►251",
+      "[ELSE] \"Napij się\" ►460"
     ]
   },
   "71": {
     "PROSE": [
-      "The chief whip dumps an armful of folders on your desk. Funny how these fellows still prefer paper documents, but given all the hacking that goes on during elections nowadays it may be just as well.",
-      "'Are all of these about Peter Strewel?'",
-      "'Oh no.' He raises an eyebrow. 'I'd have needed a trolley for his amorous peccadilloes, and all they'd achieve is to paint him as more of a jack the lad. So I just brought the escapades that might actually, you know, tarnish his reputation.'",
-      "You leaf through the files. 'I didn't know you could do that with a turkey… Remind me never to have Christmas dinner with him. Burning £50 notes in front of tramps. Well, who hasn't? Ah, now what's this?'",
-      "He glances at the grainy photo that has Strewel leering into the camera while a naked man streaks past behind him.",
-      "'That was after a Bollinger Club dinner. They stripped a homeless man and chucked him in Mercury Fountain.'",
-      "'Doesn't sound too bad.'",
-      "'It was midwinter. Nine below zero. The bloke got pneumonia and nearly died.' He waits. 'What do you think, Prime Minister? Shall I throw it to a tame paper and let them run with it?'"
+      "Główny whip zrzuca ci na biurko naręcze teczek. Zabawne, jak ci ludzie wciąż wolą papierowe dokumenty, ale biorąc pod uwagę wszystkie włamania do systemów podczas wyborów, może to i lepiej.",
+      "„Czy to wszystko dotyczy Petera Strewela?"",
+      "„Ależ skąd." Unosi brew. „Na jego miłosne wybryki potrzebowałbym wózka, a i tak jedyne, co by osiągnęły, to wzmocnienie jego wizerunku lowelasa. Więc przyniosłem tylko te eskapady, które mogłyby faktycznie, no wie pan, nadszarpnąć mu reputację."",
+      "Przeglądasz akta. „Nie wiedziałem, że to się da zrobić z indykiem… Przypomnij mi, żebym nigdy u niego nie jadł świątecznego obiadu. Palenie banknotów pięćdziesięciofuntowych przed żebrakami. No cóż, kto tego nie robił? A, a co to?"",
+      "Zerka na ziarniste zdjęcie, na którym Strewel szczerzy się do kamery, a za nim w tle przebiegasz nagi mężczyzna.",
+      "„To było po kolacji Bollinger Club. Rozebrali bezdomnego i wrzucili do fontanny Mercury."",
+      "„Nie brzmi aż tak źle."",
+      "„Była środek zimy. Minus dziewięć. Facet dostał zapalenia płuc i prawie umarł." Czeka. „Co pan myśli, panie premierze? Mam to podrzucić zaprzyjaźnionej gazecie, niech to rozwinie?""
     ],
     "OPTIONS": [
-      "[OPTION] \"'Yes. It's time people got to see what a callous bastard Strewel really is.'\" ►89",
-      "[OPTION] \"'No, smearing is no good. The man's Teflon. I need a better plan.'\" ►51"
+      "[OPTION] \"'Tak. Czas, żeby ludzie zobaczyli, jakim bezdusznym draniem naprawdę jest Strewel.'\" ►89",
+      "[OPTION] \"'Nie, pomawianie nic nie da. Ten człowiek jest teflonowy. Potrzebuję lepszego planu.'\" ►51"
     ]
   },
   "72": {
     "PROSE": [
-      "Stollard looks around the table, but the others all busy themselves in notes or on their phones. 'That one's mine as well, is it? All right, there are three drawbacks to the EEA version of the passport. First is regulation. This is a big issue for all our service industries, in fact. To trade services you must be able to show that they meet the market requirements and standards. Within the EU that's automatic. Once outside the EU our institutions must submit to the relevant supervisory bodies.'",
-      "'Just paperwork, isn't it?' says Barkwell.",
-      "'It would be, except that there's no one to send the paperwork to. The EU supervisory agencies governing banking and insurance are not part of the existing EEA agreement.'",
-      "'So we'd have to hit the ground running, get those agencies incorporated into the new improved EEA. It's in everyone's interest to get that sorted out quickly.'",
-      "A drawn-out silence suggests that not even Barkwell himself believes it will be as easy as all that."
+      "Stollard rozgląda się po zebranych, ale wszyscy gorliwie zajmują się notatkami albo telefonami. „To też na mnie? No dobrze, paszport w wersji EOG ma trzy wady. Pierwsza to regulacje. To poważna kwestia dla wszystkich naszych branż usługowych. Żeby handlować usługami, trzeba wykazać, że spełniają one wymogi i standardy rynkowe. W ramach UE dzieje się to automatycznie. Po wyjściu z UE nasze instytucje muszą podlegać odpowiednim organom nadzorczym."",
+      "„To tylko papierkowa robota, prawda?" – mówi Barkwell.",
+      "„Byłaby, gdyby było do kogo tę papierową robotę wysłać. Unijne agencje nadzorcze zajmujące się bankowością i ubezpieczeniami nie są objęte obecną umową EOG."",
+      "„Więc musielibyśmy od razu ruszyć z kopyta, włączyć te agencje do nowego, ulepszonego EOG. W interesie wszystkich jest, żeby to szybko załatwić."",
+      "Przeciągająca się cisza sugeruje, że nawet sam Barkwell nie wierzy, iż będzie to aż takie proste."
     ],
     "OPTIONS": [
-      "[OPTION] \"'You mentioned two other problems, Alan?'\" ►466",
-      "[OPTION] \"'OK, let's not get bogged down in the details.'\" ►66"
+      "[OPTION] \"'Wspomniałeś o dwóch innych problemach, Alanie?'\" ►466",
+      "[OPTION] \"'Dobrze, nie grzęźnijmy w szczegółach.'\" ►66"
     ]
   },
   "73": {
     "PROSE": [
-      "The next round pits you against Dennis Dent the Brexit Secretary, Tiffany Rufus the Home Secretary, and Gervais Noysom-Reek, twittish hope of the back benches.",
-      "To your relief, Noysom-Reek is eliminated. He was the favourite among the grass roots of the party, and would have been a hard opponent to go up against once the voting was opened up to the membership.",
-      "'The double barrel who fired a blank, that's how I shall always remember him,' you tell Ron Beardsley. 'I think a lot of the members like him because they imagine he's an aristocrat. They're such forelock-tuggers. Whereas you and I, Ron, know that he's from a long line of posh farmers.'",
-      "'Let's not focus on yesterday's fight,' warns Ron. 'We've got a new problem. The Chancellor has entered the contest.'",
-      "'What? Can he? I mean…'",
-      "Ron shrugs. 'He's got the support of a sizeable fraction of the Parliamentary party. Maybe 40% of the MPs are Remainers at heart, and he's the only one who gets up and uses terms like damage limitation when referring to Brexit.'"
+      "W następnej rundzie stajesz naprzeciw Dennisa Denta, sekretarza ds. Brexitu, Tiffany Rufus, minister spraw wewnętrznych, i Gervaisa Noysoma-Reeka, nadziei tylnych ław.",
+      "Ku twojej uldze Noysom-Reek odpada. Był faworytem wśród szeregowych członków partii i byłby trudnym przeciwnikiem, gdyby głosowanie otworzyło się na członków.",
+      "„Podwójne nazwisko, które okazało się ślepym nabojem – tak go zapamiętam na zawsze" – mówisz do Rona Beardsleya. „Myślę, że wielu członków lubi go, bo wyobrażają sobie, że jest arystokratą. Tacy z nich służalcy. Tymczasem ty i ja, Ronie, wiemy, że wywodzi się z długiej linii zamożnych farmerów."",
+      "„Nie skupiajmy się na wczorajszej walce" – ostrzega Ron. „Mamy nowy problem. Kanclerz przystąpił do rywalizacji."",
+      "„Co? Może? To znaczy…"",
+      "Ron wzrusza ramionami. „Ma poparcie sporej części frakcji parlamentarnej. Może 40% posłów to w głębi duszy zwolennicy Remain, a on jedyny wstaje i używa określeń typu ograniczanie szkód w odniesieniu do Brexitu.""
     ],
     "OPTIONS": [
-      "[OPTION] \"Carry on\" ►339"
+      "[OPTION] \"Dalej\" ►339"
     ]
   },
   "74": {
     "PROSE": [
-      "The Business minister Chloe Stoat mentions in an interview that you've always had a sensible view on Brexit. Luckily she doesn't say any more than that, seeing as you actually told her Brexit was a catastrophic mistake.",
-      "'Well, that's a relief,' you confide to your press secretary. 'It's not often a skeleton jumps out of the closet, does a tap dance with top hat and cane, and then offers you a golden ticket to the chocolate factory.'",
-      "'Don't worry, Prime Minister,' she says, furrowing her brow. 'It'll be over soon.'",
-      "Chloe Stoat's revelations carry weight with the moderate wing of the Party, who now see you as the last hope for a rational outcome."
+      "Minister ds. biznesu Chloe Stoat wspomina w wywiadzie, że zawsze miałeś rozsądne podejście do Brexitu. Na szczęście nie mówi nic więcej, biorąc pod uwagę, że powiedziałeś jej kiedyś, iż Brexit to katastrofalna pomyłka.",
+      "„No, to ulga" – zwierzasz się rzeczniczce prasowej. „Nie często zdarza się, że szkielet wyskakuje z szafy, tańczy stepowanie z cylindrem i laską, a potem wręcza ci złoty bilet do fabryki czekolady."",
+      "„Proszę się nie martwić, panie premierze" – mówi, marszcząc brwi. „To niedługo minie."",
+      "Rewelacje Chloe Stoat mają wagę dla umiarkowanego skrzydła partii, które widzi w tobie teraz ostatnią nadzieję na racjonalny wynik."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►489"
+      "[OPTION] \"Dalej\" ►489"
     ]
   },
   "75": {
     "PROSE": [
-      "'A hard Brexit is what this country needs,' says Tode. 'Will there be tough times ahead? Yes. Will it be hard to bear? Oh yes. Austerity will have to shift up a gear. Some of Britain's cherished institutions may not survive. But it will be worthwhile because out of these hardships we will forge a new and stronger Britain, in much the way that Mao took the creaking feudal edifice of China and turned it into a white-hot powerhouse nation that bestrides the world like a colossus.'",
-      "He draws himself up to his full height of five foot ten. You continue to studiously ignore the fleck of spittle that has been nestling in the corner of his lip throughout the tirade.",
-      "Then it occurs to you that he's waiting for your reply."
+      "„Twardy Brexit to jest to, czego ten kraj potrzebuje" – mówi Tode. „Czy czekają nas trudne czasy? Tak. Czy będzie ciężko to znieść? O tak. Oszczędności będą musiały wejść na wyższy bieg. Niektóre z ukochanych instytucji Brytanii mogą nie przetrwać. Ale będzie to warte zachodu, ponieważ z tych trudności wykujemy nową, silniejszą Brytanię, podobnie jak Mao wziął rozklekotany feudalny gmach Chin i zamienił go w rozgrzany do białości naród-potęgę, który kroczy po świecie niczym kolos."",
+      "Prostuje się na pełną wysokość swoich metra siedemdziesięciu ośmiu. Nadal uparcie ignorujesz odrobinę śliny, która gnieździ się w kąciku jego ust przez całą tyradę.",
+      "A potem dociera do ciebie, że czeka na twoją odpowiedź."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Perhaps I wouldn't go quite that far.'\" ►308",
-      "[OPTION] \"'Come now, Thomas. High-flown speeches might win votes, but you and I need to consider the practicalities.'\" ►423",
-      "[OPTION] \"'You took the words right out of my mouth.'\" ►633"
+      "[OPTION] \"'Może nie posunąłbym się aż tak daleko.'\" ►308",
+      "[OPTION] \"'Daj spokój, Thomasie. Górnolotne przemówienia mogą zdobywać głosy, ale ty i ja musimy rozważyć kwestie praktyczne.'\" ►423",
+      "[OPTION] \"'Wyjąłeś mi to z ust.'\" ►633"
     ]
   },
   "76": {
     "PROSE": [
-      "You return to the hospital foyer to make another choice:"
+      "Wracasz do holu szpitala, żeby dokonać kolejnego wyboru:"
     ],
     "OPTIONS": [
-      "[OPTION] \"Geriatric unit\" ►413",
-      "[OPTION] \"Miracle cure facility\" ►133",
-      "[OPTION] \"The Innovative Medicines Initiative\" ►273",
-      "[OPTION] \"Casualty\" ►57",
-      "[OPTION] \"Wake up before it's too late!\" ►368"
+      "[OPTION] \"Oddział geriatryczny\" ►413",
+      "[OPTION] \"Oddział cudownych terapii\" ►133",
+      "[OPTION] \"Inicjatywa Leków Innowacyjnych\" ►273",
+      "[OPTION] \"Izba przyjęć\" ►57",
+      "[OPTION] \"Obudź się, zanim będzie za późno!\" ►368"
     ]
   },
   "77": {
     "PROSE": [
-      "You step out of the contest and give your support to Peter Strewel, enabling him to sweep to victory. It's like electing Scaramouche. Still, that's not your problem. You can put your feet up at the Treasury.",
-      "Or so you thought. Strewel phones with a lot of flowery self-congratulation before dropping his bombshell. 'There's a bit of a hitch, I'm afraid. Better book that removal lorry for the shires after all.'",
-      "'What? You promised.'",
-      "'I thought long and hard about it over a plate of linguine. Sorry, and all that, but it's not exactly the first promise to escape back into the wild, eh? Remember that red bus? Well, just picture it with \"You will be Chancellor\" painted on the side.'",
-      "<p class=\"centered\">THE END</p>"
+      "Wycofujesz się z rywalizacji i udzielasz poparcia Peterowi Strewelowi, umożliwiając mu miażdżące zwycięstwo. To jak wybranie Scaramouche'a. Ale to nie twój problem. Możesz położyć nogi na biurku w Ministerstwie Skarbu.",
+      "A przynajmniej tak myślałeś. Strewel dzwoni z potokiem kwiecistych samogratulacji, po czym zrzuca bombę. „Jest pewien szkopuł, obawiam się. Lepiej jednak zamów tę ciężarówkę przeprowadzkową na prowincję."",
+      "„Co? Obiecałeś."",
+      "„Długo się nad tym zastanawiałem przy talerzu linguine. Przepraszam i tak dalej, ale to chyba nie pierwsza obietnica, która wymknęła się z powrotem na wolność, co? Pamiętasz ten czerwony autobus? No to wyobraź go sobie z napisem 'Będziesz Kanclerzem' na boku."",
+      "<p class=\"centered\">KONIEC</p>"
     ]
   },
   "78": {
     "PROSE": [
-      "'Brexit should have been a smooth road,' says Peter Strewel in an interview, 'but the EU didn't want it that way. They're like the scorpion that stings the dog that's taking them both across the river. Frankly, every time I sit down opposite those chaps I'm waiting for my chair to flip back SPECTRE-style and drop me in a vat of acid.'",
-      "'Good idea there for the next time we redecorate the Cabinet Room,' you remark to Ron Beadsley.",
-      "'In the fable it's a frog, not a dog,' he points out, always needled by an inaccuracy.",
-      "'Strewel knows what he's saying. It's a better image for the British people, isn't it. The trusty bulldog.'",
-      "When asked by reporters for a statement on Strewel's remarks, how will you respond?"
+      "„Brexit powinien był być gładką drogą" – mówi Peter Strewel w wywiadzie – „ale UE tego nie chciała. Są jak ten skorpion, który żądli psa, który przewozi ich obu przez rzekę. Szczerze mówiąc, za każdym razem, kiedy siadam naprzeciw tych ludzi, czekam, aż mój fotel odchyli się w stylu SPECTRE i wrzuci mnie do kadzi z kwasem."",
+      "„Dobry pomysł na następny remont Sali Gabinetowej" – zauważasz do Rona Beardsleya.",
+      "„W bajce to żaba, nie pies" – wytyka, zawsze podrażniony nieścisłością.",
+      "„Strewel wie, co mówi. Dla narodu brytyjskiego to lepszy obraz, prawda? Wierny buldog."",
+      "Kiedy reporterzy proszą cię o komentarz do wypowiedzi Strewela, jak odpowiesz?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'It's not as black and white as Mr Strewel makes out. Negotiation isn't a zero-sum game. We and the EU can find a deal we're both happy with.'\" ►243",
-      "[OPTION] \"'I don't need Mr Strewel to tell me the EU are the bad guys. I'm the one who has to try and hammer out a deal with them on a daily basis.'\" ►496"
+      "[OPTION] \"'To nie jest tak czarno-białe, jak przedstawia to pan Strewel. Negocjacje to nie gra o sumie zerowej. My i UE możemy znaleźć porozumienie, z którego obie strony będą zadowolone.'\" ►243",
+      "[OPTION] \"'Nie potrzebuję pana Strewela, żeby mi mówił, że UE to ci źli. To ja muszę z nimi na co dzień wynegocjować porozumienie.'\" ►496"
     ]
   },
   "79": {
@@ -230,23 +230,23 @@
       "[EFFECT getItem:Second EU Referendum]"
     ],
     "PROSE": [
-      "Even if the status quo isn't ideal, it's not always a good idea to throw everything away and start again. You can't be sure you won't end up with something worse."
+      "Nawet jeśli obecna sytuacja nie jest idealna, nie zawsze dobrym pomysłem jest wyrzucenie wszystkiego i zaczynanie od nowa. Nie masz pewności, że nie skończysz z czymś gorszym."
     ],
     "OPTIONS": [
-      "[OPTION] \"Let's find out\" ►450"
+      "[OPTION] \"Sprawdźmy\" ►450"
     ]
   },
   "80": {
     "PROSE": [
-      "'What are my chances of beating Colin Fungale?' you ask your closest advisors.",
-      "Ron Beardsley turns his pipe in his hands as if expecting to find the answer written on the side of it. He doesn't say you have no chance. He doesn't have to.",
-      "'To most of the members he's a cheeky chappie,' says Terri Trough. 'They imagine him leading them back to a magical time when Morecambe and Wise are on the telly and the butcher measures out cuts of meat in pounds and ounces.'",
-      "'Poetic. You ought to write a novel, Terri.'",
-      "'I might have to.'"
+      "„Jakie mam szanse na pokonanie Colina Fungale'a?" – pytasz swoich najbliższych doradców.",
+      "Ron Beardsley obraca fajkę w dłoniach, jakby spodziewał się znaleźć odpowiedź wypisaną na jej boku. Nie mówi, że nie masz szans. Nie musi.",
+      "„Dla większości członków to sympatyczny urwis" – mówi Terri Trough. „Wyobrażają sobie, że poprowadzi ich z powrotem do magicznych czasów, kiedy Morecambe i Wise są w telewizji, a rzeźnik odmierza mięso w funtach i uncjach."",
+      "„Poetycko. Powinnaś napisać powieść, Terri."",
+      "„Może będę musiała.""
     ],
     "GOTO": [
-      "[IF keyword:HEMLOCK AND keyword:BLEAK] \"Onwards\" ►713",
-      "[ELSE] \"Onwards\" ►366"
+      "[IF keyword:HEMLOCK AND keyword:BLEAK] \"Dalej\" ►713",
+      "[ELSE] \"Dalej\" ►366"
     ]
   }
 }
