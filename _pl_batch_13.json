@@ -7,96 +7,96 @@
   },
   "242": {
     "PROSE": [
-      "It's less exciting but at least you won't have to decimate the domestic chicken industry just to close one big deal.",
-      "'The essential thing is to get the media on side,' your press secretary tells you. 'We don't want them whining about the scale of these deals. \"Scraps from the EU table\", that sort of nonsense. We need them to see it as a step-by-step process towards building the UK's new role in international trade.'",
-      "'That's good, Terri. Show that we're going forward one step at a time. Like those pensioners who make models of the Topkapi Palace out of matchsticks.'",
-      "She purses her lips. At times like this it always seems like she's counting to ten. 'Perhaps we can find a metaphor with a higher ardency value,' she says at last."
+      "To mniej ekscytujące, ale przynajmniej nie będziesz musiał dziesiątkować krajowego przemysłu drobiowego tylko po to, żeby domknąć jedną wielką transakcję.",
+      "'Najważniejsze to przeciągnąć media na naszą stronę', mówi twoja sekretarz prasowa. 'Nie chcemy, żeby jęczeli o skali tych umów. «Ochłapy ze stołu UE» i takie bzdury. Muszą to widzieć jako proces krok po kroku, budowanie nowej roli Wielkiej Brytanii w handlu międzynarodowym.'",
+      "'Świetnie, Terri. Pokażmy, że idziemy do przodu krok za krokiem. Jak ci emeryci, którzy budują modele pałacu Topkapı z zapałek.'",
+      "Zaciska usta. W takich chwilach zawsze wygląda, jakby liczyła do dziesięciu. 'Może znajdziemy metaforę o nieco wyższej temperaturze emocjonalnej', mówi w końcu."
     ],
     "GOTO": [
-      "[IF Popularity>=60 AND Authority>=60] \"Carry on\" ►262",
-      "[ELSE] \"Carry on\" ►516"
+      "[IF Popularity>=60 AND Authority>=60] \"Dalej\" ►262",
+      "[ELSE] \"Dalej\" ►516"
     ]
   },
   "243": {
     "PROSE": [
-      "'A wise man once said that a contract is an agreement between friends to make sure they stay friends. It's perfectly possible to do a good deal without the other party losing out. If it wasn't, there'd be no society, no civilization, and no business.' You look around at the journalists, warming to your theme. 'The essence of negotiation, and the reason these talks are so complex, is that we are all striving to find solutions that are in everyone's interest, rather than just trying to grab what we can and run out of there like bank robbers.'",
-      "'Good speech?' says Ron Beardsley later. 'Depends on the context. If delivered in the 2008 US presidential campaign, or even the 1997 UK election, then yes. But we're on the other side of the Brexit mirror now. You can't explain things to the electorate with cogent arguments. That just makes them think you're trying to put one over on them.'",
-      "You can always rely on Ron to be doggedly honest."
+      "'Pewien mądry człowiek powiedział kiedyś, że umowa to porozumienie między przyjaciółmi, które ma zagwarantować, że pozostaną przyjaciółmi. Jak najbardziej można zawrzeć dobrą transakcję, na której druga strona nie traci. Gdyby to było niemożliwe, nie byłoby ani społeczeństwa, ani cywilizacji, ani biznesu.' Rozglądasz się po dziennikarzach, coraz bardziej wchodząc w temat. 'Istota negocjacji i powód, dla którego te rozmowy są tak skomplikowane, polega na tym, że wszyscy staramy się znaleźć rozwiązania leżące w interesie każdej ze stron, zamiast po prostu chwytać, co się da, i uciekać stamtąd jak rabusie z banku.'",
+      "'Dobre przemówienie?' mówi później Ron Beardsley. 'To zależy od kontekstu. Gdyby zostało wygłoszone podczas amerykańskiej kampanii prezydenckiej w 2008 roku, albo nawet podczas brytyjskich wyborów w 1997, to tak. Ale jesteśmy po drugiej stronie brexitowego lustra. Nie da się już tłumaczyć wyborcom czegokolwiek logicznymi argumentami. To tylko utwierdza ich w przekonaniu, że próbujesz ich wykiwać.'",
+      "Na Rona zawsze można liczyć, że będzie uparcie szczery."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►34"
+      "[OPTION] \"Dalej\" ►34"
     ]
   },
   "244": {
     "PROSE": [
-      "'You've won, Prime Minister!'",
-      "You don't even look up from your work as Terri Trough comes bouncing into the room. 'Of course I've won. Did you ever imagine the bowling clubs and women's institutes of Britain would rally behind a Remainer with a charisma bypass?'"
+      "'Wygrała pani, pani premier!'",
+      "Nawet nie odrywasz wzroku od pracy, kiedy Terri Trough wpada do pokoju z podskakiwaniem. 'Oczywiście, że wygrałam. Czy kiedykolwiek sobie wyobrażałaś, że kluby kręglarskie i stowarzyszenia kobiet w całej Brytanii staną murem za Remainerem z operacyjnie usuniętą charyzmą?'"
     ],
     "GOTO": [
-      "[IF keyword:YELLOW] \"But now there's the devil to pay\" ►670",
-      "[ELSE] \"Continue\" ►163"
+      "[IF keyword:YELLOW] \"Ale teraz nadchodzi czas zapłaty\" ►670",
+      "[ELSE] \"Dalej\" ►163"
     ]
   },
   "245": {
     "PROSE": [
-      "In such a lacklustre campaign, it's perhaps not surprising that the outcome has come down to the wire. Turnout is low, perhaps reflecting that the public are getting tired of referendums. A pity, as they're so much better an instrument for driving your policies through than old-style Parliamentary democracy is."
+      "Przy tak kiepskiej kampanii chyba nikogo nie dziwi, że wynik zawisł na włosku. Frekwencja jest niska – być może społeczeństwo ma już dość referendów. Szkoda, bo to znacznie lepsze narzędzie do przeforsowywania twojej polityki niż staromodna demokracja parlamentarna."
     ],
     "TOSS_ONE": [
-      "[HEAD] \"Continue\" ►221",
-      "[TAIL] \"Continue\" ►429"
+      "[HEAD] \"Dalej\" ►221",
+      "[TAIL] \"Dalej\" ►429"
     ]
   },
   "246": {
     "PROSE": [
-      "'I'm sorry,' says Terlamen, 'but there's no way to get something like that steamrollered through just for Britain's benefit. Each company has to apply individually. We can't just hand the UK government a stack of blank passports to fill out.'",
-      "'Fill <em>in</em>,' you snap, terminating the call.",
-      "That was just an excuse, of course. France, Germany, Belgium and Ireland all stand to profit from UK-based financial institutions transferring to them. Grudge-harbouring guttersnipe that he is, Terlamen has chosen to favour EU countries' interests over Britain's."
+      "'Przykro mi', mówi Terlamen, 'ale nie ma sposobu, żeby coś takiego przepchnąć wyłącznie dla korzyści Wielkiej Brytanii. Każda firma musi składać wniosek indywidualnie. Nie możemy po prostu wręczyć rządowi brytyjskiemu stosu pustych paszportów do wypełnienia.'",
+      "'Wy<em>pełnienia</em>', warczysz, kończąc rozmowę.",
+      "To była oczywiście tylko wymówka. Francja, Niemcy, Belgia i Irlandia – wszystkie skorzystają na tym, że instytucje finansowe z siedzibą w Wielkiej Brytanii przeniosą się do nich. Terlamen, pamiętliwy łajdak, postanowił faworyzować interesy krajów UE kosztem Wielkiej Brytanii."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►857"
+      "[OPTION] \"Dalej\" ►857"
     ]
   },
   "247": {
     "PROSE": [
-      "Strewel frowns uncertainly. Barkwell puts a hand to his chin and grimaces.",
-      "'That's risky, prime minister,' says Dent. 'Very risky. It'd be hard enough to sell to the press, never mind getting the party rank and file to swallow it. Think of the field day Fungale and the kippers would have with a story like that. He'll claim it's a stitch up, and that we're buying time to wriggle out of Brexit altogether.'",
-      "'The <em>Daily Heil</em> would be right behind him there,' says Strewel, 'The press will be all over you, saying you're trying to subvert the will of the people and all the rest of it. And I should know – it's exactly what I'd be writing for them if I wasn't Foreign Secretary.'",
-      "Dent continues. 'And do you want to risk splitting the party, maybe even forcing an election? Admittedly the opposition are in a mess, but on the other hand our majority isn't that robust.'",
-      "'And what if they come to their senses and ditch Barry Straggle,' puts in Barkwell. 'Even form a coalition with the Liberal Democrats? They could sweep up if the people see us betraying their sacred right to Brexit.'",
-      "You look to Stollard but he is making some notes and studiously avoids catching your eye. What will you say?"
+      "Strewel marszczy brwi z niepewnością. Barkwell podpiera brodę ręką i krzywi się.",
+      "'To ryzykowne, pani premier', mówi Dent. 'Bardzo ryzykowne. Trudno byłoby to sprzedać prasie, nie wspominając o przekonaniu szeregowych członków partii. Niech pani pomyśli, jaką ucztę urządziłby sobie Fungale i kippersi z taką historią. Będzie twierdził, że to ustawka i że kupujemy czas, żeby się całkowicie wymigać od Brexitu.'",
+      "'<em>Daily Heil</em> stanąłby za nim murem', mówi Strewel. 'Prasa rzuci się na panią, twierdząc, że próbuje pani podważyć wolę narodu i w ogóle. A ja powinienem wiedzieć – dokładnie to sam bym dla nich pisał, gdybym nie był ministrem spraw zagranicznych.'",
+      "Dent kontynuuje. 'A czy chce pani ryzykować rozłam w partii, może nawet wymusić wybory? Owszem, opozycja jest w rozsypce, ale z drugiej strony nasza większość nie jest aż tak solidna.'",
+      "'A co, jeśli się opamiętają i pozbędą się Barry'ego Scraggle'a', wtrąca Barkwell. 'Albo nawet utworzą koalicję z Liberalnymi Demokratami? Mogliby nas zmieść, gdyby ludzie uznali, że zdradzamy ich święte prawo do Brexitu.'",
+      "Zerkasz na Stollarda, ale on robi jakieś notatki i starannie unika twojego wzroku. Co powiesz?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'We'll worry about how to sell it later, but we really do need to be aiming for single market access along the lines of either Norway or Switzerland.'\" ►174",
-      "[OPTION] \"'You're right. Perhaps we can get most of the terms we need from a customs union.'\" ►367",
-      "[OPTION] \"'Let's work on an entirely new and bespoke trade arrangement, then.'\" ►836"
+      "[OPTION] \"'Później się będziemy martwić, jak to sprzedać, ale naprawdę musimy celować w dostęp do jednolitego rynku na zasadach zbliżonych do modelu norweskiego lub szwajcarskiego.'\" ►174",
+      "[OPTION] \"'Macie rację. Może uda nam się uzyskać większość potrzebnych warunków w ramach unii celnej.'\" ►367",
+      "[OPTION] \"'W takim razie opracujmy zupełnie nowe, szyte na miarę porozumienie handlowe.'\" ►836"
     ]
   },
   "248": {
     "PROSE": [
-      "'A lot of use that will be,' she snorts. 'You know that most of our GDP comes from service industries. And even the goods we export – they're not bolts and rivets. They're usually complex components that call for technical expertise, and which may shuttle back and forth between multiple countries as the products are assembled.'",
-      "'Clearly we'll need to train our own people. And at the same time we'll develop new supply chains and production lines within Britain. It's the old wartime spirit, Chloe, only without the Blitz this time.'",
-      "She gives a yap of bitter laughter. 'Oh, there'll be plenty of devastation, I'm sure of that.'",
-      "Enough. It's time for the important meeting of the morning."
+      "'Wiele nam to da', prycha. 'Pani wie, że większość naszego PKB pochodzi z sektora usług. A nawet towary, które eksportujemy – to nie są śruby i nity. To zwykle skomplikowane komponenty wymagające specjalistycznej wiedzy technicznej, które mogą krążyć tam i z powrotem między wieloma krajami w trakcie montażu produktów.'",
+      "'Oczywiście będziemy musieli wyszkolić własnych ludzi. A jednocześnie stworzymy nowe łańcuchy dostaw i linie produkcyjne w obrębie Wielkiej Brytanii. To stary duch wojenny, Chloe, tylko tym razem bez Blitzu.'",
+      "Wydaje z siebie krótki, gorzki śmiech. 'Och, zniszczeń na pewno nie zabraknie, tego jestem pewna.'",
+      "Wystarczy. Pora na najważniejsze spotkanie tego ranka."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►240"
+      "[OPTION] \"Dalej\" ►240"
     ]
   },
   "249": {
     "PROSE": [
-      "'According to Burke, your duty to voters is to give them your mature judgment and your enlightened conscience. A trust from Providence, he said, which politicians were not to abuse.'",
-      "'But the will of the British people is for Brexit.'",
-      "'The will of the British people is for toffees, ice cream and sticky buns too. That doesn't mean it's good for them. Isn't your job as a politician to take the time to get fully informed on complex issues on our behalf? Because running the country is a difficult job, after all, and I can't be fully up to speed on all the latest geopolitical developments as well as keeping abreast of orthodontic research.'",
-      "'You seem to have very strong views on politics for somebody who claims not to have time for it.'",
-      "'I know what I was told during the referendum. That if I voted to leave the EU we'd probably remain in the single market, like Norway. That being out of the EU would give Britain an extra £350 million a week to spend on the NHS – '",
-      "'I never made that promise.'",
-      "'It was made all the same. Those promises were used to secure my vote.'",
-      "'Wait a minute.' You fix him with a sidelong stare. 'Which way did you vote?'",
-      "'It's not important.'",
-      "Hah, that's rattled him."
+      "'Według Burke'a obowiązkiem polityka wobec wyborców jest oferowanie im dojrzałego osądu i oświeconego sumienia. Powiernictwo od Opatrzności, jak to ujął, którego politycy nie powinni nadużywać.'",
+      "'Ale wolą narodu brytyjskiego jest Brexit.'",
+      "'Wolą narodu brytyjskiego są też toffi, lody i lepkie bułeczki. To nie znaczy, że to im służy. Czy pana zadaniem jako polityka nie jest poświęcenie czasu na gruntowne zapoznanie się ze złożonymi kwestiami w naszym imieniu? Bo rządzenie krajem to trudna robota, a ja nie jestem w stanie być na bieżąco ze wszystkimi najnowszymi wydarzeniami geopolitycznymi i jednocześnie śledzić postępy w badaniach ortodontycznych.'",
+      "'Jak na kogoś, kto twierdzi, że nie ma czasu na politykę, ma pan bardzo zdecydowane poglądy.'",
+      "'Wiem, co mi mówiono podczas referendum. Że jeśli zagłosuję za wyjściem z UE, prawdopodobnie pozostaniemy na jednolitym rynku, jak Norwegia. Że bycie poza UE da Wielkiej Brytanii dodatkowe 350 milionów funtów tygodniowo na służbę zdrowia…'",
+      "'Ja nigdy niczego takiego nie obiecywałem.'",
+      "'Ale obietnica padła. Te obietnice zostały użyte, żeby zdobyć mój głos.'",
+      "'Chwileczkę.' Mierzysz go bocznym spojrzeniem. 'Jak pan głosował?'",
+      "'To nie ma znaczenia.'",
+      "Ha, to go wytrąciło z równowagi."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►668"
+      "[OPTION] \"Dalej\" ►668"
     ]
   },
   "250": {
@@ -105,90 +105,90 @@
       "[ELSE] CONTINUE"
     ],
     "PROSE": [
-      "(If you need a rest from running the country, incidentally, this would be a good point to take a break and come back later. But if you're still raring to go, don't let us stop you.)",
-      "Running a country – it's a lot to do. You're just one person and you've only got two years, so decide which aspect of Brexit you're going to oversee in person. You'll only have time to deal with one of these; your ministers will take care of the rest."
+      "(Jeśli potrzebujesz przerwy od rządzenia krajem, to jest dobry moment, żeby odłożyć książkę i wrócić do niej później. Ale jeśli wciąż rwiesz się do działania, nie będziemy cię powstrzymywać.)",
+      "Rządzenie krajem – to naprawdę dużo roboty. Jesteś tylko jedną osobą i masz zaledwie dwa lata, więc zdecyduj, którym aspektem Brexitu zajmiesz się osobiście. Będziesz mieć czas, żeby zająć się tylko jednym z nich; resztą zajmą się twoi ministrowie."
     ],
     "OPTIONS": [
-      "[IF keyword:APRICITY AND !box:250.box2] [OPTION] \"Negotiate the Exit Fee\" [EFFECT tick:250.box1] [EFFECT tick:250.box2] ►720",
-      "[IF !item:EU Trade Talks AND !box:250.box3] [OPTION] \"Deal with EU Trade Talks\" [EFFECT tick:250.box1] [EFFECT tick:250.box3] ►688",
-      "[IF !item:Residency Rights AND !box:250.box4] [OPTION] \"Deal with Residency Rights of UK and EU citizens\" [EFFECT tick:250.box1] [EFFECT tick:250.box4] ►638",
-      "[IF !item:General Election AND !box:250.box5] [OPTION] \"Try to to call a General Election\" [EFFECT tick:250.box1] [EFFECT tick:250.box5] ►416",
-      "[IF !item:Security & Defence AND !box:250.box6] [OPTION] \"Handle the question of UK/EU cooperation on Security & Defence\" [EFFECT tick:250.box1] [EFFECT tick:250.box6] ►420"
+      "[IF keyword:APRICITY AND !box:250.box2] [OPTION] \"Negocjuj opłatę za wyjście\" [EFFECT tick:250.box1] [EFFECT tick:250.box2] ►720",
+      "[IF !item:EU Trade Talks AND !box:250.box3] [OPTION] \"Zajmij się negocjacjami handlowymi z UE\" [EFFECT tick:250.box1] [EFFECT tick:250.box3] ►688",
+      "[IF !item:Residency Rights AND !box:250.box4] [OPTION] \"Zajmij się prawami pobytu obywateli Wielkiej Brytanii i UE\" [EFFECT tick:250.box1] [EFFECT tick:250.box4] ►638",
+      "[IF !item:General Election AND !box:250.box5] [OPTION] \"Spróbuj rozpisać przedterminowe wybory\" [EFFECT tick:250.box1] [EFFECT tick:250.box5] ►416",
+      "[IF !item:Security & Defence AND !box:250.box6] [OPTION] \"Zajmij się kwestią współpracy Wielkiej Brytanii i UE w zakresie Security & Defence\" [EFFECT tick:250.box1] [EFFECT tick:250.box6] ►420"
     ]
   },
   "251": {
     "PROSE": [
-      "'The thing is,' Terri Trough explains, 'you're seen as lacking in firm principles, even unscrupulous, the sort of politician who will do whatever's expedient.'",
-      "'You're my press secretary. How did you allow that sort of image to get out?'",
-      "'Oh no, Prime Minister, it's perfect. A lot of MPs distrust ideology. You're exactly the kind of leader they want.'",
-      "Let's hope she's right."
+      "'Rzecz w tym', tłumaczy Terri Trough, 'że jesteś postrzegana jako osoba pozbawiona twardych zasad, a nawet pozbawiona skrupułów – polityk, który zrobi wszystko, co akurat wygodne.'",
+      "'Jesteś moją sekretarz prasową. Jak mogłaś dopuścić do rozprzestrzenienia się takiego wizerunku?'",
+      "'Ależ nie, pani premier, to idealny wizerunek. Wielu posłów nie ufa ideologii. Jest pani dokładnie takim liderem, jakiego chcą.'",
+      "Miejmy nadzieję, że ma rację."
     ],
     "TOSS_TWO": [
-      "[BOTH HEADS] \"Continue\" ►189",
-      "[BOTH TAILS] \"Continue\" ►460",
-      "[HEAD AND TAIL] \"Continue\" ►460"
+      "[BOTH HEADS] \"Dalej\" ►189",
+      "[BOTH TAILS] \"Dalej\" ►460",
+      "[HEAD AND TAIL] \"Dalej\" ►460"
     ]
   },
   "252": {
     "PROSE": [
-      "'About £1 million of EU funds were spent building a luxury golf club in Melilla, a Spanish city on the coast of north Africa. Naturally you had refugees trying to climb the barbed wire to get into EU territory. Which they would have done with or without the golf course, I suppose, but it's hard to justify a swanky nine-hole course as an essential investment.'",
-      "'So how did they?'",
-      "'The fund commissioner ruled that it promoted sport, helped tourism, and created jobs.'",
-      "'For lots of poor Africans with watering cans, sure. Well, we can make hay out of that carefully manicured grass.'",
-      "'Except that, like the dragon statue, it wasn't actually the ERDF who allocated those funds. It was a local decision by the Melilla authorities.'",
-      "'As John Ford advised, just tweet the myth. Only the <em>Hypsterion</em> will bother to fact-check it. The other papers will be happy to blame the EU for throwing money away. They might even find a picture of the Commission President on a golf course.' You look out the window. 'And here we are.'"
+      "'Około miliona funtów z funduszy unijnych wydano na budowę luksusowego klubu golfowego w Melilli, hiszpańskim mieście na wybrzeżu Afryki Północnej. Rzecz jasna, mieliśmy tam uchodźców próbujących przeleźć przez druty kolczaste, żeby dostać się na terytorium UE. Co zrobiłoby się z klubem golfowym czy bez, ale trudno uzasadnić eleganckie dziewięciodołkowe pole jako niezbędną inwestycję.'",
+      "'I jak to uzasadnili?'",
+      "'Komisarz funduszu orzekł, że promuje sport, wspiera turystykę i tworzy miejsca pracy.'",
+      "'Dla mnóstwa biednych Afrykańczyków z konewkami, jasne. Cóż, możemy zbić kapitał na tym starannie przystrzyżonym trawniku.'",
+      "'Tyle że, podobnie jak posąg smoka, te fundusze nie zostały tak naprawdę przydzielone przez EFRR. To była lokalna decyzja władz Melilli.'",
+      "'Jak radził John Ford, po prostu tweetnij mit. Tylko <em>Hypsterion</em> będzie się trudził weryfikacją faktów. Pozostałe gazety chętnie obarczą UE winą za marnowanie pieniędzy. Może nawet znajdą zdjęcie przewodniczącego Komisji na polu golfowym.' Spoglądasz przez okno. 'A oto i jesteśmy.'"
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►203"
+      "[OPTION] \"Dalej\" ►203"
     ]
   },
   "253": {
     "PROSE": [
-      "Scraggle seems hesitant. 'I understand,' you tell him. 'You're behind in the polls. Most of your MPs think they'd do better going into an election with Worzel Gummidge in charge. I'd be worried too.'",
-      "'I'd welcome the chance to get our policies across,' he retorts. 'If the public understood the Labour message they wouldn't be so eager to support another five years of Tory austerity.'",
-      "'Fighting talk, eh, Barry? Well, you'll never get a better opportunity than an election for getting your message across.'",
-      "He nods. 'Very well. We won't stand in the way.'",
-      "'You'll vote for a new election?'",
-      "'And we'll win.'",
-      "You very much doubt that, but if his powers of self-delusion mean you can vote through a snap election, you can take yes for an answer."
+      "Scraggle wydaje się niezdecydowany. 'Rozumiem', mówisz mu. 'Jest pan za w sondażach. Większość pańskich posłów uważa, że lepiej by im poszło w wyborach z Worzel Gummidge na czele. Na pana miejscu też bym się martwił.'",
+      "'Z przyjemnością wykorzystam szansę, żeby przedstawić nasz program', ripostuje. 'Gdyby społeczeństwo zrozumiało przesłanie Partii Pracy, nie byliby tak chętni do popierania kolejnych pięciu lat torysowskich oszczędności.'",
+      "'Wojownicze słowa, Barry? Cóż, nie będzie pan miał lepszej okazji do przedstawienia swojego przesłania niż wybory.'",
+      "Kiwa głową. 'Dobrze. Nie będziemy stali na drodze.'",
+      "'Zagłosujecie za nowymi wyborami?'",
+      "'I wygramy.'",
+      "Wątpisz w to bardzo, ale skoro jego zdolności do samooszukiwania się pozwalają ci przegłosować przedterminowe wybory, możesz przyjąć tak za odpowiedź."
     ],
     "OPTIONS": [
-      "[OPTION] \"Inform the Cabinet of your decision to call an election\" ►641",
-      "[OPTION] \"Just announce it at a press conference\" ►542"
+      "[OPTION] \"Poinformuj gabinet o decyzji rozpisania wyborów\" ►641",
+      "[OPTION] \"Po prostu ogłoś to na konferencji prasowej\" ►542"
     ]
   },
   "254": {
     "PROSE": [
-      "You fly over to Washington and are then kept waiting a day while President Windrip works on his golf handicap down in Florida. When he finally arrives back at the White House he gives you his usual belligerent scowl, like a pensioner spotting a paper delivery kid on his lawn.",
-      "'Great deal. The greatest,' he says slurrily once you've explained that you'd like to accelerate a version of the Transatlantic Trade and Investment Partnership between Britain and the US.",
-      "'Oh, absolutely. There are just a few details we'd need some give and take on. For example, we can't throw our health services completely open the US pharmaceutical companies. That would mean effectively privatizing the NHS, and British voters wouldn't stand for it.'",
-      "'Huh.'",
-      "You notice that he's staring off into a corner of the room but you press on anyway. 'Then there's the matter of allowing private corporations to sue the government. We can't claw our sovereignty back from the European Court of Justice only to hand it over to attribution tribunals. You can see…'",
-      "He reaches across his desk and starts playing with a Newton's cradle. <em>Click clack, click clack</em>. You decide to take it as a positive sign that he feels so relaxed with you. He wouldn't do that with Chancellor Käsen of Germany in the room, you bet. The special relationship at work.",
-      "With a warm glow of mutual respect, you conclude by talking about banking regulations. 'Certainly the current rules are stifling investment, Mr President, and I think you'll agree with me there. But we have to be careful not to go too far the other way. If the regulations are loosened up too far, we'll have all the ingredients for another financial crisis.'",
-      "It takes him some time to notice you've finished talking. Fixing you with a puzzled frown, he says simply, 'No.' And then he gets up and leaves.",
-      "One of his staff comes over. 'What the President is saying here is TTIP is a take it or leave it type deal,' he says. 'Shall I tell your driver to bring the car round?'",
-      "So now what? Going back with no concessions at all will make you look like Windrip's puppet."
+      "Lecisz do Waszyngtonu, a potem każą ci czekać cały dzień, podczas gdy prezydent Windrip pracuje nad swoim handicapem golfowym na Florydzie. Kiedy w końcu wraca do Białego Domu, obdarza cię swoim zwykłym agresywnym spojrzeniem – jak emeryt, który dostrzegł dzieciaka od gazet na swoim trawniku.",
+      "'Świetna umowa. Najlepsza', bełkocze, kiedy wyjaśniasz, że chciałbyś przyspieszyć wersję Transatlantyckiego Partnerstwa w dziedzinie Handlu i Inwestycji między Wielką Brytanią a USA.",
+      "'Och, absolutnie. Jest tylko kilka szczegółów, w których musielibyśmy pójść na wzajemne ustępstwa. Na przykład nie możemy całkowicie otworzyć naszej służby zdrowia dla amerykańskich firm farmaceutycznych. To oznaczałoby de facto prywatyzację NHS, a brytyjscy wyborcy by tego nie zaakceptowali.'",
+      "'Hę.'",
+      "Zauważasz, że gapi się w kąt pokoju, ale kontynuujesz mimo to. 'Potem jest kwestia pozwolenia prywatnym korporacjom na pozywanie rządu. Nie możemy odzyskać suwerenności od Europejskiego Trybunału Sprawiedliwości tylko po to, żeby oddać ją trybunałom arbitrażowym. Pan chyba widzi…'",
+      "Sięga przez biurko i zaczyna bawić się wahadłem Newtona. <em>Klik klak, klik klak</em>. Postanawiasz potraktować to jako pozytywny sygnał, że czuje się z tobą tak swobodnie. Z kanclerz Käsen z Niemiec w pokoju by tego nie robił, możesz się założyć. Specjalne stosunki w akcji.",
+      "W ciepłej atmosferze wzajemnego szacunku kończysz rozmowę o regulacjach bankowych. 'Z pewnością obecne przepisy hamują inwestycje, panie prezydencie, i myślę, że pan się ze mną zgodzi. Ale musimy uważać, żeby nie przesadzić w drugą stronę. Jeśli regulacje zostaną zbyt mocno poluzowane, będziemy mieli wszystkie składniki kolejnego kryzysu finansowego.'",
+      "Mija chwila, zanim zauważa, że skończyłeś mówić. Mierząc cię zdziwionym spojrzeniem, mówi po prostu: 'Nie.' A potem wstaje i wychodzi.",
+      "Podchodzi jeden z jego ludzi. 'Prezydent chce powiedzieć, że TTIP to umowa na zasadzie bierzesz albo zostawiasz', mówi. 'Mam powiedzieć pańskiemu kierowcy, żeby podjechał?'",
+      "I co teraz? Wrócić bez żadnych ustępstw sprawi, że będziesz wyglądał jak marionetka Windripa."
     ],
     "OPTIONS": [
-      "[OPTION] \"Press ahead with a TTIP-style deal with the US regardless\" ►7",
-      "[OPTION] \"Give up on this and just repurpose a trade agreement that's already in place between the EU and a third country\" ►234"
+      "[OPTION] \"Forsuj umowę w stylu TTIP ze Stanami Zjednoczonymi mimo wszystko\" ►7",
+      "[OPTION] \"Zrezygnuj z tego i po prostu zaadaptuj umowę handlową, która już obowiązuje między UE a krajem trzecim\" ►234"
     ]
   },
   "255": {
     "PROSE": [
-      "Even the hard-line right of your party greet the news with only token protest. The <em>Heil</em> grumbles about U-turns, the <em>Outrage</em> mutters darkly about crawling back under the European yoke. But the arguments are muted, the tone grumpy rather than defiant.",
-      "'The cause hasn't gone away, of course,' says Dennis Dent as he clears his papers from the Cabinet Room table.",
-      "'Of course. You'll be back.'",
-      "'Not me. Gardening and an evening pint watching the cricket for me. Leave it to younger men to fight the battle for Britain.'",
-      "You feel a little sorry for him. He spent most of his political life campaigning to quit the EU, but you suspect that his time as Brexit Minister has been a sharp shock to those long-held convictions. Over the last two years, the country has been careering towards a terrifying precipice into the unknown, and even the maddest ideological plan does not long survive contact with pitiless reality.",
-      "'You think it's not over, then?'",
-      "He turns at the door. With his shoulders hunched and his hair in birds-nest disarray he looks like any other disappointed pensioner. 'Fungale will be back. He'll breathe on the embers of UKIP and blow up a firestorm of xenophobia. The British just don't like foreigners, you see. Foreigners make them feel inferior – or just equal, which to a Brit is every bit as bad. The funny thing is, I think we could have made it work. If we'd switched back to a manufacturing economy, turned the country into a tax haven, abolished employment laws, and opted out of foreign aid and human rights, I think we could have made a decent fist of going it alone in the world.'",
-      "'I dare say we'll find out sooner or later. This is the era of referendums. What was it Pericles said? The public's moods are like the tantrums of an infant? All that's left for us politicians is to play the indulgent parents.'",
-      "'You know, you've reminded me of something I haven't thought about for many, many years. It must have been when I was about three or four years old. I got in a strop with my mother and announced that I was leaving home. Mother got out the loaf and the butter, made me a sandwich, wrapped it up in a handkerchief, and waved me off at the door. I got as far as the end of the road and then came back.'",
-      "'Is that some kind of lesson?'",
-      "'Wouldn't matter if it was. Nobody learns.'",
-      "He shrugs and goes out."
+      "Nawet twarda prawica w twojej partii przyjmuje tę wiadomość jedynie symbolicznym protestem. <em>Heil</em> pomrukuje o zwrotach o sto osiemdziesiąt stopni, <em>Outrage</em> złowrogo mamrocze o czołganiu się z powrotem pod europejskie jarzmo. Ale argumenty są przyciszone, ton raczej zrzędliwy niż buntowniczy.",
+      "'Sprawa oczywiście nie umarła', mówi Dennis Dent, zbierając papiery ze stołu w Sali Gabinetowej.",
+      "'Oczywiście. Wrócicie.'",
+      "'Nie ja. Ogródek i wieczorne piwo przy krykiecie – to dla mnie. Niech młodsi walczą o Brytanię.'",
+      "Trochę ci go żal. Większość swojego politycznego życia spędził na kampanii na rzecz wyjścia z UE, ale podejrzewasz, że czas spędzony na stanowisku ministra ds. Brexitu był ostrym ciosem dla tych długo żywionych przekonań. Przez ostatnie dwa lata kraj pędził ku przerażającej przepaści w nieznane, a nawet najszaleńszy ideologiczny plan nie przetrwa długo zderzenia z bezlitosną rzeczywistością.",
+      "'Sądzisz, że to jeszcze nie koniec?'",
+      "Odwraca się w drzwiach. Ze zgarbionymi ramionami i włosami w artystycznym nieładzie wygląda jak każdy inny rozczarowany emeryt. 'Fungale wróci. Dmuchnie w żar UKIP i roznieci pożar ksenofobii. Brytyjczycy po prostu nie lubią cudzoziemców. Przez obcokrajowców czują się gorsi – albo po prostu równi, co dla Brytyjczyka jest równie nie do zniesienia. Zabawne jest to, że moim zdaniem mogliśmy to zrobić. Gdybyśmy wrócili do gospodarki opartej na produkcji, zamienili kraj w raj podatkowy, znieśli prawo pracy i zrezygnowali z pomocy zagranicznej i praw człowieka, myślę, że moglibyśmy całkiem nieźle sobie poradzić sami na świecie.'",
+      "'Podejrzewam, że prędzej czy później się przekonamy. To era referendów. Jak to powiedział Perykles? Nastroje ludu są jak napady złości niemowlęcia? Politykom pozostaje jedynie grać pobłażliwych rodziców.'",
+      "'Wie pani, przypomniała mi pani o czymś, o czym nie myślałem od bardzo, bardzo dawna. To musiało być, gdy miałem trzy albo cztery lata. Wpadłem w złość na matkę i oznajmiłem, że odchodzę z domu. Matka wyjęła bochenek i masło, zrobiła mi kanapkę, zawinęła ją w chusteczkę i pomachała mi na pożegnanie w drzwiach. Doszedłem do końca ulicy i wróciłem.'",
+      "'To ma być jakaś lekcja?'",
+      "'Nawet gdyby była. I tak nikt się nie uczy.'",
+      "Wzrusza ramionami i wychodzi."
     ]
   },
   "256": {
@@ -199,54 +199,54 @@
   },
   "257": {
     "PROSE": [
-      "You have the distinct impression that the EU negotiators are relieved Britain still wants to be part of the single market.",
-      "'It's best for all concerned,' President Terlaman assures you. 'What kind of single market membership are you looking for?'"
+      "Masz wyraźne wrażenie, że negocjatorzy UE odetchnęli z ulgą, że Wielka Brytania wciąż chce być częścią jednolitego rynku.",
+      "'To najlepsze rozwiązanie dla wszystkich zainteresowanych', zapewnia cię prezydent Terlaman. 'Jakiego rodzaju członkostwa na jednolitym rynku szukacie?'"
     ],
     "OPTIONS": [
-      "[OPTION] \"The so-called Norway model: a very close relationship within the European Economic Area, giving comprehensive access to trade in goods and services\" ►396",
-      "[OPTION] \"The Swiss model: an arrangement outside the EEA with only partial access to trade in goods and services, but with more opt-outs and no contributions to the EU budget\" ►312"
+      "[OPTION] \"Tak zwany model norweski: bardzo bliskie relacje w ramach Europejskiego Obszaru Gospodarczego, zapewniające kompleksowy dostęp do handlu towarami i usługami\" ►396",
+      "[OPTION] \"Model szwajcarski: porozumienie poza EOG z jedynie częściowym dostępem do handlu towarami i usługami, ale z większą liczbą klauzul opt-out i bez składek do budżetu UE\" ►312"
     ]
   },
   "258": {
     "PROSE": [
-      "Good at thinking on their feet, these graduates. 'You could say that the whole EU funding policy is about rich countries having to support shirkers.'",
-      "'I don't think I will say that as it sounds like I'm calling the people of Cornwall shirkers.'",
-      "'Oh. No, perhaps not. Well, you could swing it one-eighty – what's the good news about Brexit? A boost to tourism. Or go with all the money frittered away on nonsense projects. The newspapers love to run a story on EU wastefulness.'"
+      "Ci absolwenci potrafią myśleć na nogach. 'Mogłaby pani powiedzieć, że cała unijna polityka dotacyjna polega na tym, że bogate kraje muszą utrzymywać darmozjadów.'",
+      "'Chyba tego nie powiem, bo brzmi to, jakbym nazywała mieszkańców Kornwalii darmozjadami.'",
+      "'Ach. Nie, chyba nie. No to można obrócić o sto osiemdziesiąt – co jest dobrego w Brexicie? Boom turystyczny. Albo lecieć z pieniędzmi wyrzuconymi na bezsensowne projekty. Gazety uwielbiają artykuły o rozrzutności UE.'"
     ],
     "OPTIONS": [
-      "[OPTION] \"'All right. What's the tourism slant?'\" ►562",
-      "[OPTION] \"'Wasting money, yes. The British public lap that up. Let's have some examples.'\" ►236"
+      "[OPTION] \"'Dobra. Jaki jest ten turystyczny kąt?'\" ►562",
+      "[OPTION] \"'Marnowanie pieniędzy, tak. Brytyjska opinia publiczna to łyka. Dawaj jakieś przykłady.'\" ►236"
     ]
   },
   "259": {
     "PROSE": [
-      "The Pugin Room always puts you in mind of a Victorian chapel that's collided head-on with the headquarters of a Zurich bank. Your ministers are waiting for you, along with their army of scrubbed and fresh-faced civil servants. There's Dennis Dent, the Secretary of State for Exiting the EU, looking more than ever like a recently shampooed pug. On either side of him sit Leslie Barkwell, the perpetually astonished International Trade Minister, and the human teddy bear that is Peter Strewel, the Foreign Secretary.",
-      "There's a discreet cough behind you. It's the Chancellor, Alan Stollard. One glance at his lugubrious face tells you he's not relishing this meeting any more than you are. Although come to think of it he always looks like that.",
-      "'It's time to bite the bullet,' pipes up Dent. 'There's no point in remaining within the single market in any form whatsoever. We can all see that. It'd be just the same situation as we have now, but with no say in how things are run. The people voted overwhelmingly for a good hard Brexit and they won't stand for it.'",
-      "For a moment it looks as though he's going to bang his fist on the table, but instead he takes a decisive gulp of coffee.",
-      "'The <em>à la carte</em> option,' says Stollard, taking his seat. 'It raises a lot of questions. What sort of model are we aiming for? Something like Singapore? Canada? A completely bespoke free trade agreement of our own?'",
-      "'If you ask me,' says Barkwell, 'we could do a lot worse than just walk away. Tell the EU we don't have time to get tangled up in their blasted bureaucratic bunting. We just go straight to World Trade Organization rules and get down to business.'",
-      "In the middle of the long table are bowls of fruit, trays of sandwiches, and pots of hot coffee. Thank goodness for the coffee. The prospect of spending several hours in one room with this lot is already making you yawn."
+      "Pugin Room zawsze przywodzi ci na myśl wiktoriańską kaplicę, która zderzyła się czołowo z siedzibą zuryskiego banku. Twoi ministrowie już czekają, wraz z armią wypucowanych, świeżo upieczonych urzędników. Jest Dennis Dent, Sekretarz Stanu ds. Wyjścia z UE, wyglądający bardziej niż kiedykolwiek jak świeżo umyty mops. Po obu jego stronach siedzą Leslie Barkwell, wiecznie zdumiony minister handlu międzynarodowego, i ludzki pluszowy miś, czyli Peter Strewel, minister spraw zagranicznych.",
+      "Za tobą rozlega się dyskretne chrząknięcie. To kanclerz skarbu, Alan Stollard. Jedno spojrzenie na jego posępną twarz mówi ci, że nie cieszy się na to spotkanie bardziej niż ty. Choć, prawdę mówiąc, on zawsze tak wygląda.",
+      "'Pora wziąć byka za rogi', odzywa się Dent. 'Nie ma sensu pozostawać na jednolitym rynku w jakiejkolwiek formie. Wszyscy to widzimy. To byłaby taka sama sytuacja jak teraz, tylko bez prawa głosu w sprawie zasad. Ludzie zagłosowali zdecydowanie za twardym Brexitem i nie będą tego tolerować.'",
+      "Przez chwilę wygląda, jakby miał walnąć pięścią w stół, ale zamiast tego bierze zdecydowany łyk kawy.",
+      "'Opcja <em>à la carte</em>', mówi Stollard, zajmując miejsce. 'Rodzi mnóstwo pytań. Do jakiego modelu dążymy? Coś jak Singapur? Kanada? Zupełnie nowe, szyte na miarę porozumienie o wolnym handlu?'",
+      "'Jak mnie pytacie', mówi Barkwell, 'moglibyśmy znacznie gorzej niż po prostu odejść. Powiedzieć UE, że nie mamy czasu wikłać się w ich przeklęte biurokratyczne girlandy. Po prostu przechodzimy na zasady Światowej Organizacji Handlu i bierzemy się do roboty.'",
+      "Na środku długiego stołu stoją miski z owocami, tace z kanapkami i dzbanki gorącej kawy. Dzięki Bogu za kawę. Sama perspektywa spędzenia kilku godzin w jednym pokoju z tą ekipą już cię usypia."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Let's talk about the WTO.'\" ►826",
-      "[OPTION] \"'Some sort of free trade agreement with the EU sounds like the way forward.'\" ►56"
+      "[OPTION] \"'Porozmawiajmy o WTO.'\" ►826",
+      "[OPTION] \"'Jakieś porozumienie o wolnym handlu z UE wydaje się właściwą drogą.'\" ►56"
     ]
   },
   "260": {
     "PROSE": [
-      "'Here's a big opportunity. A lot of the obstacles to a trade deal with the United States have been down to inconvenient EU regulations on things like food safety, genetically modified crops, and the cost-effectiveness of pharmaceuticals. If we can loosen up in those areas it should be possible to do a deal across the Pond.'",
-      "'Not bad. Obviously we'll need to pass all that through the spin doctors. Make it more about cutting red tape, abolishing European bureaucracy, that kind of thing.'",
-      "'Perception is reality, that's what our Media Studies teacher says. Still, it all looked a bit rosier before…'",
-      "'Before what?'",
-      "'Before President Windrip stole the election.'",
-      "'I'm sure he's not as bad as he's been painted. He likes cats, I'm told.'",
-      "Her mouth twitches. A nervous tic? It looked more like a smirk. 'The hitch is, we need a free trade deal – and ideally one including financial services – but he's protectionist, isn't he. Which makes it a bit iffy, unless we apply to join the USA.'",
-      "'You mean become the fifty-first state? You must be joking, young lady. Why would regain our sovereign status only to bind ourselves in thrall to another union?'",
-      "'Hey. I'm fifteen. I'm studying to go to university. What do I care about the Suez crisis and Britain's imperial past? Was up to me, we wouldn't be leaving the EU in the first place.'"
+      "'Oto wielka szansa. Wiele przeszkód na drodze do umowy handlowej ze Stanami Zjednoczonymi wynikało z niewygodnych przepisów UE dotyczących takich rzeczy jak bezpieczeństwo żywności, uprawy genetycznie modyfikowane i opłacalność leków. Jeśli poluzujemy te obszary, powinno być możliwe zawarcie umowy za Atlantykiem.'",
+      "'Nieźle. Oczywiście będziemy musieli to przepuścić przez spin doktorów. Bardziej w klimacie cięcia biurokracji, likwidacji europejskich przepisów, tego typu rzeczy.'",
+      "'Percepcja jest rzeczywistością – tak mówi nasz wykładowca od medioznawstwa. No ale to wszystko wyglądało trochę różowiej, zanim…'",
+      "'Zanim co?'",
+      "'Zanim prezydent Windrip ukradł wybory.'",
+      "'Jestem pewien, że nie jest taki zły, jak go malują. Podobno lubi koty.'",
+      "Kącik jej ust drga. Tik nerwowy? Wyglądało bardziej jak uśmieszek. 'Problem w tym, że potrzebujemy umowy o wolnym handlu – a najlepiej obejmującej usługi finansowe – ale on jest protekcjonistą. Co trochę komplikuje sprawę, chyba że złożymy wniosek o przystąpienie do USA.'",
+      "'To znaczy stać się pięćdziesiątym pierwszym stanem? Chyba pani żartuje, młoda damo. Po co mielibyśmy odzyskiwać suwerenny status tylko po to, żeby podporządkować się innej unii?'",
+      "'Hej. Mam piętnaście lat. Uczę się, żeby iść na studia. Co mnie obchodzi kryzys sueski i imperialna przeszłość Wielkiej Brytanii? Jakby to ode mnie zależało, w ogóle nie wychodzilibyśmy z UE.'"
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►700"
+      "[OPTION] \"Dalej\" ►700"
     ]
   }
 }
