@@ -1,10 +1,10 @@
 {
   "141": {
     "PROSE": [
-      "„Może to plamy słoneczne? Coś w wodociągach? Imperium Rzymskie upadło przez ołowiane rury, tak słyszałem."",
-      "„Czy to jest scenka do <em>Have I Got News For You</em>, panie premierze?" pyta Wilkins.",
-      "„Po prostu zastanawiam się, dlaczego świat kompletnie oszalał. Stany Zjednoczone mają prezydenta, przy którym Punisher wygląda jak lewicowy pacyfista. Turcja i Rosja adorują swoich dyktatorów jak gwiazdy rocka. Prawdziwi naziści dostają się do niektórych europejskich parlamentów. A teraz ludzie łykają budyń Fungale'a."",
-      "„Wydaje mi się, że w lepszych restauracjach mówi się na to <em>crème Anglaise</em>."",
+      "„Może to plamy słoneczne? Coś w wodociągach? Imperium Rzymskie upadło przez ołowiane rury, tak słyszałem.”",
+      "„Czy to jest scenka do <em>Have I Got News For You</em>, panie premierze?” pyta Wilkins.",
+      "„Po prostu zastanawiam się, dlaczego świat kompletnie oszalał. Stany Zjednoczone mają prezydenta, przy którym Punisher wygląda jak lewicowy pacyfista. Turcja i Rosja adorują swoich dyktatorów jak gwiazdy rocka. Prawdziwi naziści dostają się do niektórych europejskich parlamentów. A teraz ludzie łykają budyń Fungale’a.”",
+      "„Wydaje mi się, że w lepszych restauracjach mówi się na to <em>crème Anglaise</em>.”",
       "Szczęście odgrywa w polityce prawdziwą rolę i zawsze tak było."
     ],
     "TOSS_TWO": [
@@ -15,9 +15,9 @@
   },
   "142": {
     "PROSE": [
-      "„Tyle że nie wiem, czy tak będzie. Nie zrozum mnie źle. Głęboko wierzę w brytyjską zaradność i pomysłowość. Ale to nie jest jak odbudowa Niemiec po wojnie. Ludziom nie sprzedano Brexitu jako trudnej drogi. Wręcz przeciwnie. Tacy jak Strewel i Fungale obiecywali im łatwą uliczkę — wizję rosnącej prosperity, ogromną premię fiskalną. Mamy teraz powiedzieć: przepraszamy, pomyliliśmy się, przez najbliższe dziesięć lat będziecie musieli pracować dłużej i ciężej, podczas gdy my będziemy walczyć o nowe miejsce na świecie?"",
-      "„Rozumiem, dlaczego został pan księgowym, a nie trenerem piłkarskim."",
-      "„Wiem, to wszystko brzmi jak »projekt strach«. Ale kiedy wysyłasz armię do strefy działań wojennych, nie ma sensu mówić, że wszystko będzie dobrze. Musimy przynajmniej rozważyć najgorszy scenariusz, żeby być na niego gotowi.""
+      "„Tyle że nie wiem, czy tak będzie. Nie zrozum mnie źle. Głęboko wierzę w brytyjską zaradność i pomysłowość. Ale to nie jest jak odbudowa Niemiec po wojnie. Ludziom nie sprzedano Brexitu jako trudnej drogi. Wręcz przeciwnie. Tacy jak Strewel i Fungale obiecywali im łatwą uliczkę — wizję rosnącej prosperity, ogromną premię fiskalną. Mamy teraz powiedzieć: przepraszamy, pomyliliśmy się, przez najbliższe dziesięć lat będziecie musieli pracować dłużej i ciężej, podczas gdy my będziemy walczyć o nowe miejsce na świecie?”",
+      "„Rozumiem, dlaczego został pan księgowym, a nie trenerem piłkarskim.”",
+      "„Wiem, to wszystko brzmi jak »projekt strach«. Ale kiedy wysyłasz armię do strefy działań wojennych, nie ma sensu mówić, że wszystko będzie dobrze. Musimy przynajmniej rozważyć najgorszy scenariusz, żeby być na niego gotowi.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'W porządku. Coś jeszcze?'\" ►188",
@@ -30,12 +30,12 @@
       "[EFFECT Popularity-5]"
     ],
     "PROSE": [
-      "„Wotum nieufności, panie premierze?" mówi główny whip, wyglądając, jakbyś zaoferował mu wybór między cykutą a arszenikiem.",
-      "„Potrzebujemy wyborów, a przez ustawę o kadencyjności parlamentu…"",
-      "„Rozumiem. Ale media będą to roztrząsać jak pitbull zabawkę. Ludzie powiedzą, że traktujemy politykę jak grę."",
-      "„Nieważne, co powiedzą. Ja się będę martwił o to, co powiedzą. Pan po prostu niech zapędzi te zombie do właściwego lobby."",
-      "Głosowanie przechodzi. „Izba wyraża wotum nieufności wobec rządu Jej Królewskiej Mości." Po namyśle niepotrzebnie poruszałeś tę kwestię ze Scraggle'em. Można było to zrobić bez Partii Pracy, a widok ich uśmieszków, gdy wmaszerowują z powrotem do Izby Gmin, jest wyjątkowo bolesny.",
-      "Co gorsza, następnego dnia nagłówki: „PREMIER STRZELA SOBIE SAMOBÓJA" i karykatury przedstawiające cię jako akrobatę, szulera i szyderczego lalkarza. Ale przynajmniej dostałeś to, czego chciałeś. Wybory powszechne odbędą się za sześć tygodni."
+      "„Wotum nieufności, panie premierze?” mówi główny whip, wyglądając, jakbyś zaoferował mu wybór między cykutą a arszenikiem.",
+      "„Potrzebujemy wyborów, a przez ustawę o kadencyjności parlamentu…”",
+      "„Rozumiem. Ale media będą to roztrząsać jak pitbull zabawkę. Ludzie powiedzą, że traktujemy politykę jak grę.”",
+      "„Nieważne, co powiedzą. Ja się będę martwił o to, co powiedzą. Pan po prostu niech zapędzi te zombie do właściwego lobby.”",
+      "Głosowanie przechodzi. „Izba wyraża wotum nieufności wobec rządu Jej Królewskiej Mości.” Po namyśle niepotrzebnie poruszałeś tę kwestię ze Scraggle’em. Można było to zrobić bez Partii Pracy, a widok ich uśmieszków, gdy wmaszerowują z powrotem do Izby Gmin, jest wyjątkowo bolesny.",
+      "Co gorsza, następnego dnia nagłówki: „PREMIER STRZELA SOBIE SAMOBÓJA” i karykatury przedstawiające cię jako akrobatę, szulera i szyderczego lalkarza. Ale przynajmniej dostałeś to, czego chciałeś. Wybory powszechne odbędą się za sześć tygodni."
     ],
     "REPORT": [
       "<strong>-5% Authority</strong>: nawet pozorowane wotum nieufności ośmieliło niektórych twoich krytyków.",
@@ -71,7 +71,7 @@
       "[EFFECT getItem:Exit Fee]"
     ],
     "PROSE": [
-      "Jak można się było spodziewać, sąd wymiguje się od odpowiedzialności za podanie dokładnej kwoty i orzeka, że Wielka Brytania powinna zapłacić „nie więcej niż 40 miliardów euro". To cios, ale sposób sformułowania daje ci możliwość jeszcze trochę pociągnąć sprawy. Każdy dzień nad ziemią to dobry dzień, jak to mówią."
+      "Jak można się było spodziewać, sąd wymiguje się od odpowiedzialności za podanie dokładnej kwoty i orzeka, że Wielka Brytania powinna zapłacić „nie więcej niż 40 miliardów euro”. To cios, ale sposób sformułowania daje ci możliwość jeszcze trochę pociągnąć sprawy. Każdy dzień nad ziemią to dobry dzień, jak to mówią."
     ],
     "REPORT": [
       "<strong>-6% Economy</strong>: to zrobi poważną wyrwę w brytyjskich finansach, ale nie od razu."
@@ -82,15 +82,15 @@
   },
   "147": {
     "PROSE": [
-      "„Właśnie słyszał pan Monsieur Terlamena. Artykuł wyraźnie przewiduje sytuację, w której państwo członkowskie doświadcza trudności społecznych."",
-      "„Och, a gdzie tu trudności społeczne?" pyta prezydent Francji.",
-      "„Nie uważa pan Brexitu za sytuację nadzwyczajną?"",
-      "To wywołuje śmiech — z tobą, nie z ciebie. Ale prezydent Francji nie zamierza na tym poprzestać. „Hamulec bezpieczeństwa został zaprojektowany jako środek tymczasowy," nalega, „aby umożliwić członkowi EOG odzyskanie stabilności. Jeśli życzy pan sobie, by Wielka Brytania swobodnie handlowała na jednolitym rynku, czy możemy wiedzieć, jak długo zamierzacie pozostawać <em>déranger</em>?"",
-      "Jest absolwentem École Nationale d'Administration, więc jesteś całkiem pewien, że doskonale wie, jak <em>déranger</em> brzmi po angielsku. Jak odpowiesz na jego pytanie?"
+      "„Właśnie słyszał pan Monsieur Terlamena. Artykuł wyraźnie przewiduje sytuację, w której państwo członkowskie doświadcza trudności społecznych.”",
+      "„Och, a gdzie tu trudności społeczne?” pyta prezydent Francji.",
+      "„Nie uważa pan Brexitu za sytuację nadzwyczajną?”",
+      "To wywołuje śmiech — z tobą, nie z ciebie. Ale prezydent Francji nie zamierza na tym poprzestać. „Hamulec bezpieczeństwa został zaprojektowany jako środek tymczasowy,” nalega, „aby umożliwić członkowi EOG odzyskanie stabilności. Jeśli życzy pan sobie, by Wielka Brytania swobodnie handlowała na jednolitym rynku, czy możemy wiedzieć, jak długo zamierzacie pozostawać <em>dérangés</em>?”",
+      "Jest absolwentem École Nationale d’Administration, więc jesteś całkiem pewien, że doskonale wie, jak <em>déranger</em> brzmi po angielsku. Jak odpowiesz na jego pytanie?"
     ],
     "OPTIONS": [
       "[OPTION] \"'Powiedzmy, że zastosujemy hamulec na pięć lat, a potem dokonamy przeglądu sytuacji.'\" ►336",
-      "[OPTION] \"'Fakty są takie, że hamulec musi być stosowany bezterminowo. Złożyłem obietnicę obywatelom brytyjskim, że ograniczę roczną imigrację do pięciu cyfr.'\" ►497"
+      "[OPTION] \"'Fakty są takie, że hamulec musi być stosowany bezterminowo. Złożyłem obietnicę obywatelom brytyjskim, że ograniczyę roczną imigrację do pięciu cyfr.'\" ►497"
     ]
   },
   "148": {
@@ -98,7 +98,7 @@
       "[EFFECT Popularity+2]"
     ],
     "PROSE": [
-      "„Trucizna, która się jątrzyła, została wyssana z rany. Teraz czuję, że kraj jednoczy się, by z całego serca poprzeć wszystko, co robimy, aby uczynić Wielką Brytanię znów wielką.""
+      "„Trucizna, która się jątrzyła, została wyssana z rany. Teraz czuję, że kraj jednoczy się, by z całego serca poprzeć wszystko, co robimy, aby uczynić Wielką Brytanię znów wielką.”"
     ],
     "REPORT": [
       "<strong>+2% Popularity</strong>: ludzie zawsze chętnie słuchają, że nie ma się czym martwić."
@@ -135,14 +135,14 @@
   },
   "151": {
     "PROSE": [
-      "„Zgódźmy się szybko na opłatę za wyjście, a zyskamy czas i trochę dobrej woli," mówi Stollard.",
-      "Dent prycha ze złością. „Przewrócić się na plecy i dać się podrapać po brzuszku, tak? Jak to pana zdaniem zostanie przyjęte?"",
-      "Kanclerz nie należy do tych, którzy dają się sprowokować tanim zagrywkom. „Wymieniam opcje. Odmówić płacenia i sprawa trafi do sądu. Możemy nawet wygrać — ale tylko jak Pyrrus."",
-      "Rozpoznając przytyk do swojego braku wykształcenia akademickiego, Dent obdarza Stollarda swoim firmowym szyderczym grymasem. „Może się nie znam na starożytnym Rzymie, ale znam się na Texas Hold'em i mówię, że jeśli sprawdzimy ich blef, spasują."",
-      "Stollard pozwala tym słowom zawisnąć w powietrzu na kilka sekund, po czym zwraca się do ciebie i kontynuuje, jakby Dent się nie odzywał. „Albo jest złoty środek. Kontynuować negocjowanie opłaty za wyjście równolegle z innymi rozmowami albo szybko uzgodnić podstawowe zasady, według których kwota zostanie obliczona, i wrócić do tego później."",
-      "„Przeciąganie tego jest problemem, biorąc pod uwagę nasz brak negocjatorów," przypominasz mu.",
-      "„To prawda. Choć daje nam też czas na zatrudnienie specjalistów, a Bóg wie, jak bardzo ich potrzebujemy."",
-      "„To wszystko na dziś, panowie.""
+      "„Zgodźmy się szybko na opłatę za wyjście, a zyskamy czas i trochę dobrej woli,” mówi Stollard.",
+      "Dent prycha ze złością. „Przewrócić się na plecy i dać się podrapać po brzuszku, tak? Jak to pana zdaniem zostanie przyjęte?”",
+      "Kanclerz nie należy do tych, którzy dają się sprowokować tanim zagrywkom. „Wymieniam opcje. Odmówić płacenia i sprawa trafi do sądu. Możemy nawet wygrać — ale tylko jak Pyrrus.”",
+      "Rozpoznając przytyk do swojego braku wykształcenia akademickiego, Dent obdarza Stollarda swoim firmowym szyderczym grymasem. „Może się nie znam na starożytnym Rzymie, ale znam się na Texas Hold’em i mówię, że jeśli sprawdzimy ich blef, spasują.”",
+      "Stollard pozwala tym słowom zawisnąć w powietrzu na kilka sekund, po czym zwraca się do ciebie i kontynuuje, jakby Dent się nie odzywał. „Albo jest złoty środek. Kontynuować negocjowanie opłaty za wyjście równolegle z innymi rozmowami albo szybko uzgodnić podstawowe zasady, według których kwota zostanie obliczona, i wrócić do tego później.”",
+      "„Przeciąganie tego jest problemem, biorąc pod uwagę nasz brak negocjatorów,” przypominasz mu.",
+      "„To prawda. Choć daje nam też czas na zatrudnienie specjalistów, a Bóg wie, jak bardzo ich potrzebujemy.”",
+      "„To wszystko na dziś, panowie.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►125"
@@ -150,13 +150,13 @@
   },
   "152": {
     "PROSE": [
-      "„Co <em>on</em> robi w wiadomościach? Niech ktoś doda głośność."",
+      "„Co <em>on</em> robi w wiadomościach? Niech ktoś doda głośność.”",
       "Twoi współpracownicy rzucają się, tratując się nawzajem, żeby znaleźć pilota. Nagle telewizor ryczy.",
-      "„Ściszcie. Nie jestem głuchy."",
-      "„ – to właściwy moment, żebym wrócił do Partii Konserwatywnej, tak," mówi Colin Fungale. „UKIP spełnił swoje zadanie. Teraz cieszę się na możliwość wniesienia swojego wkładu jako część –"",
-      "Chwytasz pilota i wbijasz palec w przycisk wyciszenia. Gdybyś tak mógł wymazać Fungale'a z istnienia jednym naciśnięciem guzika.",
-      "„Wpuścić tę ohydną plamę do Partii Konserwatywnej?" kipiszujesz. „Po moim trupie."",
-      "„Cóż…" odważa się jeden ze współpracowników. „Jest bardzo popularny wśród pewnej grupy wyborców.""
+      "„Ściszcie. Nie jestem głuchy.”",
+      "„– to właściwy moment, żebym wrócił do Partii Konserwatywnej, tak,” mówi Colin Fungale. „UKIP spełnił swoje zadanie. Teraz cieszę się na możliwość wniesienia swojego wkładu jako część –”",
+      "Chwytasz pilota i wbijasz palec w przycisk wyciszenia. Gdybyś tak mógł wymazać Fungale’a z istnienia jednym naciśnięciem guzika.",
+      "„Wpuścić tę ohydą plamkę do Partii Konserwatywnej?” kipiszujesz. „Po moim trupie.”",
+      "„Cóż…” odważa się jeden ze współpracowników. „Jest bardzo popularny wśród pewnej grupy wyborców.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Niezależnie od tego, musisz za wszelką cenę zablokować mu powrót do partii\" ►90",
@@ -169,13 +169,13 @@
       "[EFFECT getKW:PEDAL]"
     ],
     "PROSE": [
-      "„Katastrofa? Jakiego rodzaju katastrofa?"",
-      "„Musimy prezentować odważny i pozytywny front. Proszę pamiętać, że nie chodzi tylko o relacje z UE. Mamy podzielony naród. Prawie połowa chciała pozostać w UE. Z reszty — ilu spodziewało się miękkiego Brexitu, na wzór umowy, jaką ma Norwegia?"",
-      "„Co? Nikt. Prawie nikt…"",
-      "Kręcisz głową. „W tej chwili może dwie trzecie wyborców chce albo pozostać w UE, albo oczekuje bliskich relacji będących w praktyce stowarzyszonym członkostwem. Nie możemy też ignorować faktu, że wiele głosów za Brexitem było reprymendą dla naszego poprzedniego lidera i jego polityki oszczędności."",
-      "„Nie myśli pan chyba o odwróceniu polityki oszczędnościowej?"",
-      "„Nadal rozpaczliwie potrzebujemy oszczędności. Teraz bardziej niż kiedykolwiek, żebyśmy mieli pewien margines manewru, gdy zaczniemy negocjować nowe umowy handlowe na całym świecie. Ale muszę panu powiedzieć, Sir Harvey, mam dość wewnętrznych walk. Ta partia musi się zjednoczyć i dać narodowi świecący przykład, gdy będziemy kształtować nową rolę Wielkiej Brytanii na świecie."",
-      "„Rozumiem," mówi powoli, rozważając twoje słowa. „Cóż, widzę pańskiego asystenta, więc pewnie zaraz mnie przegoni. Dziękuję za poświęcony czas, panie premierze.""
+      "„Katastrofa? Jakiego rodzaju katastrofa?”",
+      "„Musimy prezentować odważny i pozytywny front. Proszę pamiętać, że nie chodzi tylko o relacje z UE. Mamy podzielony naród. Prawie połowa chciała pozostać w UE. Z reszty — ilu spodziewało się miękkiego Brexitu, na wzór umowy, jaką ma Norwegia?”",
+      "„Co? Nikt. Prawie nikt…”",
+      "Kręcisz głową. „W tej chwili może dwie trzecie wyborców chce albo pozostać w UE, albo oczekuje bliskich relacji będących w praktyce stowarzyszonym członkostwem. Nie możemy też ignorować faktu, że wiele głosów za Brexitem było reprymendą dla naszego poprzedniego lidera i jego polityki oszczędności.”",
+      "„Nie myśli pan chyba o odwróceniu polityki oszczędnościowej?”",
+      "„Nadal rozpaczliwie potrzebujemy oszczędności. Teraz bardziej niż kiedykolwiek, żebyśmy mieli pewien margines manewru, gdy zaczniemy negocjować nowe umowy handlowe na całym świecie. Ale muszę panu powiedzieć, Sir Harvey, mam dość wewnętrznych walk. Ta partia musi się zjednoczyć i dać narodowi świecący przykład, gdy będziemy kształtować nową rolę Wielkiej Brytanii na świecie.”",
+      "„Rozumiem,” mówi powoli, rozważając twoje słowa. „Cóż, widzę pańskiego asystenta, więc pewnie zaraz mnie przegoni. Dziękuję za poświęcony czas, panie premierze.”"
     ],
     "REPORT": [
       "<strong>+1% Authority</strong>: jest pod wrażeniem twojej stanowczej postawy."
@@ -186,9 +186,9 @@
   },
   "154": {
     "PROSE": [
-      "„I to dość zdecydowanie. Pięćdziesiąt siedem procent przy frekwencji wyższej niż przeciętna. Ale wygląda na to, że wielu z nich nie zdawało sobie sprawy, że Brexit będzie oznaczał utratę unijnego finansowania."",
-      "„Naprawdę? To było dla nich zaskoczeniem?"",
-      "„Trzeba pamiętać, panie premierze, że kampania za wyjściem obiecywała premię gotówkową po opuszczeniu UE.""
+      "„I to dość zdecydowanie. Pięćdziesiąt siedem procent przy frekwencji wyższej niż przeciętna. Ale wygląda na to, że wielu z nich nie zdawało sobie sprawy, że Brexit będzie oznaczał utratę unijnego finansowania.”",
+      "„Naprawdę? To było dla nich zaskoczeniem?”",
+      "„Trzeba pamiętać, panie premierze, że kampania za wyjściem obiecywała premię gotówkową po opuszczeniu UE.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Nie mogę tego poruszać. Wymyśl coś pozytywnego, co mógłbym powiedzieć.'\" ►258",
@@ -198,15 +198,15 @@
   },
   "155": {
     "PROSE": [
-      "Zanim zdążysz uzyskać dogłębny briefing na temat obronności, zostajesz porwany na kolejną regionalną wycieczkę. Tym razem to przejażdżka na środek bagien Kent, żeby sfotografować cię obok starej twierdzy przybrzeżnej — zapewne po to, by wywołać wrażenie Wielkiej Brytanii stojącej w godnej izolacji naprzeciw zawiści mniej szczęśliwych krain. Wygląda na to, że każdego dnia musisz gdzieś jechać i uspokajać przerażonych ludzi, że Brexit nie zmieni ich życia. Choć właśnie to zamierza zrobić.",
-      "„Fort Slough," mówisz, spoglądając na ruinę z niechęcią. „Spodziewałem się czegoś lepszego. To nawet nie jest w Slough, chyba że mieli na myśli bagno rozpaczy z Bunyana."",
+      "Zanim zdążysz uzyskać dogłębny briefing na temat obronności, zostajesz porwany na kolejną regionalną wycieczćę. Tym razem to przejażdżka na środek bagien Kent, żeby sfotografować cię obok starej twierdzy przybrzenej — zapewne po to, by wywołać wrażenie Wielkiej Brytanii stojącej w godnej izolacji naprzeciw zawidroci mniej szczęśliwych krain. Wygląda na to, że każdego dnia musisz gdzieś jechać i uspokajać przerażonych ludzi, że Brexit nie zmieni ich życia. Choć właśnie to zamierza zrobić.",
+      "„Fort Slough,” mówisz, spoglądając na ruinę z niechęcią. „Spodziewałem się czegoś lepszego. To nawet nie jest w Slough, chyba że mieli na myśli bagno rozpaczy z Bunyana.”",
       "Odwracasz wzrok ku ponurej przestrzeni piasku i przygniecionej wiatrem trawy, gdzie niebo, ląd i morze zlewają się w bezbarwny, przyprawiający o migrenę blask. Chmury grożą deszczem, co zapewne tłumaczy, dlaczego twoi doradcy zbili się w gromadkę z ekipą kamerową. Przyjechać tak daleko i nawet nie dostać ujęcia do telewizji. Jedyne, co lekko rozgrzewa ci serce, to myśl, że po powrocie na Downing Street 10 będziesz mógł zwolnić kilka osób.",
       "Twój oficer ochrony stoi nieco dalej. Jak on się nazywa? Wszyscy wyglądają tak samo. Masywni, ogorzali mężczyźni ubrani z profesjonalną starannością grabarzy. Nie, lepiej powiedzieć — agentów nieruchomości. Mniej złowieszcze skojarzenie.",
-      "Kiwasz mu głową. „Damy temu jeszcze dziesięć minut, zobaczymy, czy deszcz się powstrzyma."",
-      "Lustruje niebo z nieprzeniknioną twarzą posągu z Wyspy Wielkanocnej. „Myślę, że się rozpogodzi. Przykro mi, że fort nie przypadł panu do gustu, panie premierze."",
-      "Rzucasz na niego jeszcze jedno spojrzenie. Trudno dostrzec, na co przydałby się w czasie wojny. Równie dobrze mógłby to być wykop wiktoriańskiej publicznej toalety. „Po co on tu jest? Wie pan, McKay?"",
+      "Kiwasz mu głową. „Damy temu jeszcze dziesięć minut, zobaczymy, czy deszcz się powstrzyma.”",
+      "Lustruje niebo z nieprzeniknioną twarzą posągu z Wyspy Wielkanocnej. „Myślę, że się rozpogodzi. Przykro mi, że fort nie przypadł panu do gustu, panie premierze.”",
+      "Rzucasz na niego jeszcze jedno spojrzenie. Trudno dostrzec, na co przydaby się w czasie wojny. Równie dobrze mógłby to być wykop wiktoriańskiej publicznej toalety. „Po co on tu jest? Wie pan, McKay?”",
       "Strzał w ciemno. Błysk rozpoznania w tych wytrawnych oczach mówi ci, że trafiłeś.",
-      "„Zbudowany, żeby powstrzymać Francuzów, panie premierze. Pod koniec XIX wieku, kiedy się zaczęli rządzić, i ktoś zorientował się, że niewiele powstrzymuje ich przed wpłynięciem Tamizą i atakiem na Londyn."",
+      "„Zbudowany, żeby powstrzymać Francuzów, panie premierze. Pod koniec XIX wieku, kiedy się zaczęli rządzić, i ktoś zorientował się, że niewiele powstrzymuje ich przed wpłynięciem Tamizą i atakiem na Londyn.”",
       "To daje ci pewien pomysł. Jesteś tu, żeby rozmawiać o bezpieczeństwie Wielkiej Brytanii po Brexicie, a w tej chwili twój doradca z Ministerstwa Obrony jest zajęty ustalaniem oświetlenia z fotografami. Jako człowiek z prawdziwym doświadczeniem wojskowym, może McKay mógłby podsunąć ci kilka wskazówek."
     ],
     "OPTIONS": [
@@ -222,7 +222,7 @@
     "PROSE": [
       "Doskonale wiedzą, że nie możesz zamknąć drzwi przed niewykwalifikowanymi pracownikami od razu, bo twój własny sekretarz ds. Brexitu powiedział to już na szczycie na Łotwie. Choć to głównie niskowykwalifikowani imigranci w ubogich regionach wzbudzili gniew brytyjskiego elektoratu, przetrenowanie brytyjskich pracowników do brudnych robót w rolnictwie, opiece społecznej i usługach publicznych — które obecnie chcą wykonywać tylko obywatele UE z Europy Wschodniej — potrwa jakiś czas.",
       "Prywatnie wątpisz, czy rdzenni Brytyjczycy kiedykolwiek będą chcieli wykonywać te prace. Każdy bladoskóry, pijący piwo, z pitbullem u nogi wyborca za wyjściem z UE jest w swoim mniemaniu królem świata. Za dziesięć lat Afrykanie i Hindusi będą wykonywać te prace zamiast Łotyszy i poza tym nic się nie zmieni.",
-      "Mimo to to wykwalifikowani pracownicy naprawdę mają znaczenie dla gospodarki. Zarówno Wielka Brytania, jak i UE mają interes w utrzymywaniu niskich barier przepływu w sektorze usług — zwłaszcza usług finansowych. Więc chociaż nie są zadowoleni z wprowadzenia systemu wizowego, pogodzą się z tym."
+      "Mimo to wykwalifikowani pracownicy naprawdę mają znaczenie dla gospodarki. Zarówno Wielka Brytania, jak i UE mają interes w utrzymywaniu niskich barier przepływu w sektorze usług — zwłaszcza usług finansowych. Więc chociaż nie są zadowoleni z wprowadzenia systemu wizowego, pogodzą się z tym."
     ],
     "REPORT": [
       "<strong>-5% Goodwill</strong>: UE nie jest zachwycona, ale mogło być znacznie gorzej.",
@@ -235,12 +235,12 @@
   "157": {
     "PROSE": [
       "Wynik drugiej i ostatniej rundy głosowania to większość za miękkim Brexitem.",
-      "„To niewiele nam mówi," zauważa twój szef sztabu. „Czy mają na myśli pozostanie w Europejskim Obszarze Gospodarczym, jak Norwegia, czy poza nim, ale wciąż na jednolitym rynku, jak Szwajcaria?"",
-      "„Czy sam pan nie mówił, Ron, że piękno wyniku pierwszego referendum polega na tym, że można go dowolnie interpretować? Musimy zostawiać sobie pole manewru w takich sprawach."",
-      "Nie słucha. Panika wywołana nieprzewidywalnymi wydarzeniami wpędziła go w mentalny korkociąg. „A może mają na myśli jak Turcja? W unii celnej, ale poza rynkiem? Czy to nadal liczy się jako miękki Brexit?"",
-      "„Może mają na myśli dostęp do jednolitego rynku bez bycia w nim."",
-      "Wpatruje się w ciebie. „Ale co to znaczy? Dostęp do rynku, ale nie <em>na</em> rynku?"",
-      "„Ron, Ron. To nie ma znaczenia. To tylko głos doradczy, pamiętasz? Twoje zadanie to ustalić, czego chcą ludzie, i potem im to wytłumaczyć.""
+      "„To niewiele nam mówi,” zauważa twój szef sztabu. „Czy mają na myśli pozostanie w Europejskim Obszarze Gospodarczym, jak Norwegia, czy poza nim, ale wciąż na jednolitym rynku, jak Szwajcaria?”",
+      "„Czy sam pan nie mówił, Ron, że piękno wyniku pierwszego referendum polega na tym, że można go dowolnie interpretować? Musimy zostawiać sobie pole manewru w takich sprawach.”",
+      "Nie słucha. Panika wywołana nieprzewidywalnymi wydarzeniami wpędziła go w mentalny korkociąg. „A może mają na myśli jak Turcja? W unii celnej, ale poza rynkiem? Czy to nadal liczy się jako miękki Brexit?”",
+      "„Może mają na myśli dostęp do jednolitego rynku bez bycia w nim.”",
+      "Wpatruje się w ciebie. „Ale co to znaczy? Dostęp do rynku, ale nie <em>na</em> rynku?”",
+      "„Ron, Ron. To nie ma znaczenia. To tylko głos doradczy, pamiętasz? Twoje zadanie to ustalić, czego chcą ludzie, i potem im to wytłumaczyć.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►446"
@@ -256,12 +256,12 @@
   },
   "159": {
     "PROSE": [
-      "Barkwell nagle ożywia się, jakby ktoś wrzucił mu monetę do automatu. „Jest Mifid," mówi z entuzjazmem. „Równie dobry jak stary system paszportowy, tylko bez unijnego bagażu."",
-      "Spoglądasz na kanclerza, czekając na drugą stronę medalu. „Jest w tym coś," przyznaje. „Mifid — skrót od Market in Financial Instruments Directive, czyli dyrektywa w sprawie rynków instrumentów finansowych — pozwala stronom trzecim korzystać z tych samych praw, z jakich cieszą się firmy posiadające paszporty finansowe UE i EOG. A nowe regulacje Mifid mają wejść w życie jeszcze przed Brexitem, więc w tym momencie brytyjskie firmy powinny zostać uznane za równoważne swoim unijnym odpowiednikom.""
+      "Barkwell nagle ożywia się, jakby ktoś wrzucił mu monetę do automatu. „Jest Mifid,” mówi z entuzjazmem. „Równie dobry jak stary system paszportowy, tylko bez unijnego bagażu.”",
+      "Spoglądasz na kanclerza, czekając na drugą stronę medalu. „Jest w tym coś,” przyznaje. „Mifid — skrót od Market in Financial Instruments Directive, czyli dyrektywa w sprawie rynków instrumentów finansowych — pozwala stronom trzecim korzystać z tych samych praw, z jakich cieszą się firmy posiadające paszporty finansowe UE i EOG. A nowe regulacje Mifid mają wejść w życie jeszcze przed Brexitem, więc w tym momencie brytyjskie firmy powinny zostać uznane za równoważne swoim unijnym odpowiednikom.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Wyczuwam jakieś ale.'\" ►299",
-      "[OPTION] \"'Grozi nam nokaut od natłoku skrótów. Podsumujmy wpływ na usługi, gdybyśmy poszli modelem norweskim.'\" ►66"
+      "[OPTION] \"'Grozi nam nokaut od natłoku skrótów. Podsumyżmy wpływ na usługi, gdybyśmy poszli modelem norweskim.'\" ►66"
     ]
   },
   "160": {
