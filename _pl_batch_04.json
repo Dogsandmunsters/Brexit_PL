@@ -1,40 +1,40 @@
 {
   "61": {
     "PROSE": [
-      "„No cóż, kontyngenty – to oczywiście określa, ile czegoś można sprowadzić, zanim zacznie obowiązywać inna stawka celna. Więc jeśli chodzi o tysiąc kontenerów nadmuchiwanych lalek erotycznych…"",
-      "„Och, proszę!" – wykrzykuje Dent, czerwieniejąc jeszcze bardziej niż zwykle, choć i tak na co dzień ma cerę koloru rzodkiewki.",
-      "„Mogłoby chodzić o cokolwiek. Niech będą ogórki. Pierwszy tysiąc kontenerów – 1% cła. Następny tysiąc – 2%, i tak dalej. Rzecz w tym, że to towar sprzedawany w całej UE. Kiedy z niej wyjdziemy, jaka część kontyngentu przypada nam? Trzeba to uzgodnić. A tak przy okazji, ile kalorii twoim zdaniem miał ten eklerek?"",
-      "„A co z harmonogramami?" – pyta Kanclerz, wyraźnie zdumiony.",
-      "„O rany, to jeszcze bardziej skomplikowane. Mogą być różne stawki celne na towary, których reszta UE potrzebuje bardziej niż my, albo odwrotnie. No i są regulacje, na przykład jaka część krajowej instytucji finansowej może należeć do zagranicznych inwestorów. Ale nikt w Rosji nie chce greckiego banku, za to wszyscy chętnie wzięliby brytyjski, więc kiedy wyodrębnimy nasze harmonogramy z unijnych, co gdzie trafi? Więc widzisz, jaka to koszmarnie zawiła sprawa.""
+      "„No cóż, kontyngenty – to oczywiście określa, ile czegoś można sprowadzić, zanim zacznie obowiązywać inna stawka celna. Więc jeśli chodzi o tysiąc kontenerów nadmuchiwanych lalek erotycznych…”",
+      "„Och, proszę!” – wykrzykuje Dent, czerwieniejąc jeszcze bardziej niż zwykle, choć i tak na co dzień ma cerę koloru rzodkiewki.",
+      "„Mogłoby chodzić o cokolwiek. Niech będą ogórki. Pierwszy tysiąc kontenerów – 1% cła. Następny tysiąc – 2%, i tak dalej. Rzecz w tym, że to towar sprzedawany w całej UE. Kiedy z niej wyjdziemy, jaka część kontyngentu przypada nam? Trzeba to uzgodnić. A tak przy okazji, ile kalorii twoim zdaniem miał ten eklerek?”",
+      "„A co z harmonogramami?” – pyta Kanclerz, wyraźnie zdumiony.",
+      "„O rany, to jeszcze bardziej skomplikowane. Mogą być różne stawki celne na towary, których reszta UE potrzebuje bardziej niż my, albo odwrotnie. No i są regulacje, na przykład jaka część krajowej instytucji finansowej może należeć do zagranicznych inwestorów. Ale nikt w Rosji nie chce greckiego banku, za to wszyscy chętnie wzięliby brytyjski, więc kiedy wyodrębnimy nasze harmonogramy z unijnych, co gdzie trafi? Więc widzisz, jaka to koszmarnie zawiła sprawa.”"
     ],
     "OPTIONS": [
-      "[OPTION] \"'A co z klauzulą najwyższego uprzywilejowania?'\" ►38",
-      "[OPTION] \"'Wspomniałeś o barierach pozataryfowych.'\" ►383",
-      "[OPTION] \"'To szczegóły, którymi możemy się zająć innym razem.'\" ►454"
+      "[OPTION] \"‘A co z klauzulą najwyższego uprzywilejowania?’\" ►38",
+      "[OPTION] \"‘Wspomniałeś o barierach pozataryfowych.’\" ►383",
+      "[OPTION] \"‘To szczegóły, którymi możemy się zająć innym razem.’\" ►454"
     ]
   },
   "62": {
     "PROSE": [
       "Dennis Dent odpada. Zostajecie ty, Colin Fungale i Tiffany Rufus w walce o zwycięstwo. Po jeszcze jednej rundzie głosowania frakcji parlamentarnej, pozostała dwójka kandydatów zostanie poddana pod głosowanie szeregowych członków partii.",
-      "„Jeśli wygrasz z Fungale'em" – mówi Ron Beardsley – „to z Rufus będziesz miał łatwiznę. Członkowie uważają ją za nienawidzącą Anglii technokratkę i euroniańkę."",
-      "„Nie chcę się mierzyć z Fungale'em, to pewne. Większość naszych członków to w głębi duszy kiperowcy."",
-      "„Właśnie. Więc w tej rundzie musisz wyeliminować Fungale'a. Sporo naszych posłów prędzej dałoby naładowany pistolet maluchowi niż jemu kontrolę nad partią. Po prostu trzymaj się pozycji Brexitu-dla-dorosłych."",
-      "„Może. Jest też inny argument – ani ja, ani Fungale nie przyciągniemy wielu głosów z miękkiego skrzydła partii, więc tak naprawdę muszę rywalizować z nim o koronę szalonego proroka <em>Brexit impavidus</em>."",
-      "„Tylko na litość boską, nie używaj łaciny" – mówi Ron, mrużąc oczy z niepokojem. „Jedyne, czego członkowie nienawidzą bardziej niż umiarkowanego, to intelektualista."",
+      "„Jeśli wygrasz z Fungale’em” – mówi Ron Beardsley – „to z Rufus będziesz miał łatwiznę. Członkowie uważają ją za nienawidzącą Anglii technokratkę i euroniańkę.”",
+      "„Nie chcę się mierzyć z Fungale’em, to pewne. Większość naszych członków to w głębi duszy kiperowcy.”",
+      "„Właśnie. Więc w tej rundzie musisz wyeliminować Fungale’a. Sporo naszych posłów prędzej dałoby naładowany pistolet maluchowi niż jemu kontrolę nad partią. Po prostu trzymaj się pozycji Brexitu-dla-dorosłych.”",
+      "„Może. Jest też inny argument – ani ja, ani Fungale nie przyciągniemy wielu głosów z miękkiego skrzydła partii, więc tak naprawdę muszę rywalizować z nim o koronę szalonego proroka <em>Brexit impavidus</em>.”",
+      "„Tylko na litość boską, nie używaj łaciny” – mówi Ron, mrużąc oczy z niepokojem. „Jedyne, czego członkowie nienawidzą bardziej niż umiarkowanego, to intelektualista.”",
       "Co wybierasz?"
     ],
     "OPTIONS": [
       "[OPTION] \"Utrzymać politykę racjonalnego Brexitu z gotowością do dialogu i kompromisu\" ►353",
-      "[OPTION] \"Pełna para naprzód – pokazać, że twój brexitowy zapał jest jeszcze żarliwszy niż Fungale'a\" ►552"
+      "[OPTION] \"Pełna para naprzód – pokazać, że twój brexitowy zapał jest jeszcze żarliwszy niż Fungale’a\" ►552"
     ]
   },
   "63": {
     "PROSE": [
-      "„Weźmy na przykład Indie. Chcą dostępu w trybie IV do rynków brytyjskich dla swoich dostawców usług."",
-      "„Czyli?"",
-      "„To porozumienie Światowej Organizacji Handlu pozwalające pracownikom z jednego kraju przenosić się do innego kraju WTO w celu świadczenia usług. Więc nie mówimy tu o call centre w Delhi. To ludzie na miejscu – buty na ziemi, a raczej sandały. Chodzi o to, że będą musieli przysyłać tu ludzi. I chcą, żebyśmy złagodzili ograniczenia wizowe dla studentów i personelu biznesowego. A twoim wyborcom Leave się to nie spodoba. Nie owijając w bawełnę – nie chcą widzieć więcej brązowych twarzy w drodze do bukmachera, prawda?"",
-      "„To dość obraźliwe, muszę przyznać."",
-      "„Cała kampania referendalna była obraźliwa. A skoro przy tym jesteśmy, z Turcją będzie to samo. Pamiętasz ten plakat Leave – 'tureckia horda zaraz przybędzie do Brytanii, ratunku'? No więc nie przybywała, ale teraz owszem.""
+      "„Weźmy na przykład Indie. Chcą dostępu w trybie IV do rynków brytyjskich dla swoich dostawców usług.”",
+      "„Czyli?”",
+      "„To porozumienie Światowej Organizacji Handlu pozwalające pracownikom z jednego kraju przenosić się do innego kraju WTO w celu świadczenia usług. Więc nie mówimy tu o call centre w Delhi. To ludzie na miejscu – buty na ziemi, a raczej sandały. Chodzi o to, że będą musieli przysyłać tu ludzi. I chcą, żebyśmy złagodzili ograniczenia wizowe dla studentów i personelu biznesowego. A twoim wyborcom Leave się to nie spodoba. Nie owijając w bawełnę – nie chcą widzieć więcej brązowych twarzy w drodze do bukmachera, prawda?”",
+      "„To dość obraźliwe, muszę przyznać.”",
+      "„Cała kampania referendalna była obraźliwa. A skoro przy tym jesteśmy, z Turcją będzie to samo. Pamiętasz ten plakat Leave – ‘turecka horda zaraz przybędzie do Brytanii, ratunku’? No więc nie przybywała, ale teraz owszem.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►700"
@@ -46,13 +46,13 @@
     ],
     "PROSE": [
       "Kilka dni później pracujesz z Kanclerzem do późnego wieczora.",
-      "„Ryzykujesz" – mówi, ogarniając go rzadki nastrój zwierzeń, kiedy wciskasz mu w dłoń szklankę whisky.",
-      "„Dziwię się, że to mówisz, Alanie. Czyż ryzykiem nie jest raczej to, że Brytania spadnie z klifu katastrofalnie wynegocjowanego Brexitu?"",
-      "„Spędziliśmy dwa lata, omawiając krwawe szczegóły. A teraz odwracasz się i mówisz wszystkim, że to była pomyłka. Na pewno powiedzą, że włożyliśmy zbyt wiele w negocjowanie Brexitu, żeby się teraz wycofywać."",
-      "„To nie ma sensu. To argumentacja oparta na kosztach utopionych."",
-      "Wpatruje się w szklankę, zamyślony, obracając w niej kostki lodu. „Nie lubię tego przyznawać, ale ludzie nie są racjonalni. Co gorsza, kiedy rzeczywistość Brexitu do nich dociera, zaczynają panikować. A to sprawia, że jeszcze trudniej się z nimi porozumieć."",
-      "„Jesteś prawdziwym promykiem słońca."",
-      "„Patrząc z jasnej strony, jeśli to spieprzysz, ja dostanę szansę na najwyższe stanowisko, co?" To wywołuje na jego ustach krótki, zimny uśmiech. Jednym haustem wypija whisky i życzy dobrej nocy.",
+      "„Ryzykujesz” – mówi, ogarniając go rzadki nastrój zwierzeń, kiedy wciskasz mu w dłoń szklankę whisky.",
+      "„Dziwię się, że to mówisz, Alanie. Czyż ryzykiem nie jest raczej to, że Brytania spadnie z klifu katastrofalnie wynegocjowanego Brexitu?”",
+      "„Spędziliśmy dwa lata, omawiając krwawe szczegóły. A teraz odwracasz się i mówisz wszystkim, że to była pomyłka. Na pewno powiedzą, że włożyliśmy zbyt wiele w negocjowanie Brexitu, żeby się teraz wycofywać.”",
+      "„To nie ma sensu. To argumentacja oparta na kosztach utopionych.”",
+      "Wpatruje się w szklankę, zamyślony, obracając w niej kostki lodu. „Nie lubię tego przyznawać, ale ludzie nie są racjonalni. Co gorsza, kiedy rzeczywistość Brexitu do nich dociera, zaczynają panikować. A to sprawia, że jeszcze trudniej się z nimi porozumieć.”",
+      "„Jesteś prawdziwym promykiem słońca.”",
+      "„Patrząc z jasnej strony, jeśli to spieprzysz, ja dostanę szansę na najwyższe stanowisko, co?” To wywołuje na jego ustach krótki, zimny uśmiech. Jednym haustem wypija whisky i życzy dobrej nocy.",
       "Jak twoje stanowisko wpłynie na opinię publiczną? To zależy…"
     ],
     "GOTO": [
@@ -68,15 +68,15 @@
   },
   "66": {
     "PROSE": [
-      "„Usługi są dla Brytanii ważniejsze niż towary" – mówi Strewel, szukając długopisu, żeby zanotować to na mankiecie koszuli. „Nie wolno o tym zapominać. Dziś wieczorem jestem w <em>News Talk</em> i ten cholerny jakżemubyło może spróbować mnie podpuścić.""
+      "„Usługi są dla Brytanii ważniejsze niż towary” – mówi Strewel, szukając długopisu, żeby zanotować to na mankiecie koszuli. „Nie wolno o tym zapominać. Dziś wieczorem jestem w <em>News Talk</em> i ten cholerny jakżemubyło może spróbować mnie podpuścić.”"
     ],
     "OPTIONS": [
-      "[OPTION] \"'Czy umowy Europejskiego Obszaru Gospodarczego w zakresie usług finansowych są tak dobre jak pełne członkostwo w UE?'\" ►72",
-      "[OPTION] \"'Możemy liczyć na to, że UE pójdzie nam na rękę w kwestii usług finansowych, prawda?'\" ►327",
-      "[OPTION] \"'Przypomnij mi, czym są paszporty finansowe?'\" ►318",
-      "[OPTION] \"'Zapewne usługi finansowe dotyczą tylko Londynu, a nie reszty kraju.'\" ►807",
-      "[OPTION] \"'Porozmawiajmy o innych branżach usługowych.'\" ►418",
-      "[OPTION] \"'Odłóżmy tę dyskusję na inny dzień.'\" ►17"
+      "[OPTION] \"‘Czy umowy Europejskiego Obszaru Gospodarczego w zakresie usług finansowych są tak dobre jak pełne członkostwo w UE?’\" ►72",
+      "[OPTION] \"‘Możemy liczyć na to, że UE pójdzie nam na rękę w kwestii usług finansowych, prawda?’\" ►327",
+      "[OPTION] \"‘Przypomnij mi, czym są paszporty finansowe?’\" ►318",
+      "[OPTION] \"‘Zapewne usługi finansowe dotyczą tylko Londynu, a nie reszty kraju.’\" ►807",
+      "[OPTION] \"‘Porozmawiajmy o innych branżach usługowych.’\" ►418",
+      "[OPTION] \"‘Odłóżmy tę dyskusję na inny dzień.’\" ►17"
     ]
   },
   "67": {
@@ -91,20 +91,20 @@
   },
   "68": {
     "PROSE": [
-      "„Wizyta umówiona tylko na pół godziny, niestety."",
-      "„Spróbuj się zmieścić. Nie dosłownie" – dodajesz, zauważając lśniące stalowe narzędzie w jego dłoni.",
-      "„Po pierwsze, referenda w najlepszym wypadku dotyczą po prostu celu. Nie określają wagi pożądanych rezultatów ani nie dają podstaw do kompromisu."",
-      "„Dobre rządzenie nie polega na kompromisach. Polega na robieniu tego, co słuszne."",
-      "Za te słowa opuszcza twój fotel o kilka centymetrów. „Czasem kompromis jest tym, co słuszne, nieprawdaż. Załóżmy, że referendum faktycznie precyzowało, jakiego Brexitu ludzie chcą. 'Zostać w UE czy przejść na model norweski?' I wygrał model norweski. Ale pierwszego dnia okazuje się, że model norweski ma swoją cenę. Może UE27 chce, żeby Brytania płaciła dwukrotność norweskiej składki per capita. Albo może ten model to po prostu za dużo zachodu dla wszystkich i nikt go nie oferuje."",
-      "„Wtedy odeszlibyśmy. Brak porozumienia jest lepszy niż…"",
-      "„Wyszedłbyś pan dzisiaj z gabinetu z otwartą dziurą w zębie, gdybym powiedział, że mam tylko złoty amalgamat na plombę? Czasem brak porozumienia to najgorsze, co może się zdarzyć. Co więcej, w tym przykładzie społeczeństwo nie dało ci mandatu do odejścia. Dali ci mandat na przejście do norweskiego modelu handlowego. Bez pola manewru."",
-      "„To absurdalne."",
-      "„Oczywiście, że tak. Referendum daje ci jedynie cel, do którego masz dążyć, a nie…" Przerywa. „Ale może nie ma pan na to czasu?""
+      "„To tylko półgodzinna wizyta, niestety.”",
+      "„Spróbuj się zmieścić. Nie dosłownie” – dodajesz, zauważając lśniące stalowe narzędzie w jego dłoni.",
+      "„Po pierwsze, referenda w najlepszym wypadku dotyczą po prostu celu. Nie określają wagi pożądanych rezultatów ani nie dają podstaw do kompromisu.”",
+      "„Dobre rządzenie nie polega na kompromisach. Polega na robieniu tego, co słuszne.”",
+      "Za te słowa opuszcza twój fotel o kilka centymetrów. „Czasem kompromis jest tym, co słuszne, nieprawdaż. Załóżmy, że referendum faktycznie precyzowało, jakiego Brexitu ludzie chcą. ‘Zostać w UE czy przejść na model norweski?’ I wygrał model norweski. Ale pierwszego dnia okazuje się, że model norweski ma swoją cenę. Może UE27 chce, żeby Brytania płaciła dwukrotność norweskiej składki per capita. Albo może ten model to po prostu za dużo zachodu dla wszystkich i nikt go nie oferuje.”",
+      "„Wtedy odeszlibyśmy. Brak porozumienia jest lepszy niż…”",
+      "„Wyszedłby pan dzisiaj z gabinetu z otwartą dziurą w zębie, gdybym powiedział, że mam tylko złoty amalgamat na plombę? Czasem brak porozumienia to najgorsze, co może się zdarzyć. Co więcej, w tym przykładzie społeczeństwo nie dało ci mandatu do odejścia. Dali ci mandat na przejście do norweskiego modelu handlowego. Bez pola manewru.”",
+      "„To absurdalne.”",
+      "„Oczywiście, że tak. Referendum daje ci jedynie cel, do którego masz dążyć, a nie…” Przerywa. „Ale może nie ma pan na to czasu?”"
     ],
     "OPTIONS": [
-      "[OPTION] \"'Proszę kontynuować.'\" ►356",
-      "[OPTION] \"'Nieważne, dlaczego pan twierdzi, że drugie referendum jest dopuszczalne, skoro nie uważa pan, że referenda zapewniają dobre rządy?'\" ►571",
-      "[OPTION] \"'Ma pan rację, nie mam. Proszę mi po prostu założyć tymczasową plombę, a ja umówię się do innego dentysty.'\" ►425"
+      "[OPTION] \"‘Proszę kontynuować.’\" ►356",
+      "[OPTION] \"‘Nieważne, dlaczego pan twierdzi, że drugie referendum jest dopuszczalne, skoro nie uważa pan, że referenda zapewniają dobre rządy?’\" ►571",
+      "[OPTION] \"‘Ma pan rację, nie mam. Proszę mi po prostu założyć tymczasową plombę, a ja umówię się do innego dentysty.’\" ►425"
     ]
   },
   "69": {
@@ -115,11 +115,11 @@
   },
   "70": {
     "PROSE": [
-      "Twoi przeciwnicy szybko wytykają, że wahałeś się między Leave a Remain. „Premier kręcił się szybciej niż chorągiewka na wiejskiej dzwonnicy" – mówi Noysom-Reek, który z niewyjaśnionych przyczyn udziela wywiadu w czerwonych spodniach przed gastropubem. Odwraca się do niewłaściwej kamery. „Natomiast ja dokładnie wiem, dokąd zmierzam."",
-      "„Tak – na śmietnik historii, ty śmieszny papużniku!" – wrzeszczysz na ekran.",
-      "W swoim spocie telewizyjnym Stollard wybiera biurko ustawione przed półką z nieskazitelnymi skórzanymi grzbietami książek. „Zawsze jasno określałem swoje stanowisko" – mówi. „Chcę tego, co najlepsze dla kraju, i nie boję się mówić trudnych prawd, żeby to osiągnąć. Nigdy nie mówiłem ludziom tego, co chcą usłyszeć."",
-      "„Gdyby to była rozmowa kwalifikacyjna na stanowisko osoby od rocznych rozliczeń, zatrudniłbym go" – zauważasz do Wilkinsa.",
-      "„Nie byłem pewien, czy życzy sobie pan herbaty czy kawy, panie premierze, więc przyniosłem dzbanek jednego i drugiego.""
+      "Twoi przeciwnicy szybko wytykają, że wahałeś się między Leave a Remain. „Premier kręcił się szybciej niż chorągiewka na wiejskiej dzwonnicy” – mówi Noysom-Reek, który z niewyjaśnionych przyczyn udziela wywiadu w czerwonych spodniach przed gastropubem. Odwraca się do niewłaściwej kamery. „Natomiast ja dokładnie wiem, dokąd zmierzam.”",
+      "„Tak – na śmietnik historii, ty śmieszny papużniku!” – wrzeszczysz na ekran.",
+      "W swoim spocie telewizyjnym Stollard wybiera biurko ustawione przed półką z nieskazitelnymi skórzanymi grzbietami książek. „Zawsze jasno określałem swoje stanowisko” – mówi. „Chcę tego, co najlepsze dla kraju, i nie boję się mówić trudnych prawd, żeby to osiągnąć. Nigdy nie mówiłem ludziom tego, co chcą usłyszeć.”",
+      "„Gdyby to była rozmowa kwalifikacyjna na stanowisko osoby od rocznych rozliczeń, zatrudniłbym go” – zauważasz do Wilkinsa.",
+      "„Nie byłem pewien, czy życzy sobie pan herbaty czy kawy, panie premierze, więc przyniosłem dzbanek jednego i drugiego.”"
     ],
     "GOTO": [
       "[IF keyword:UNCTION] \"Napij się\" ►251",
@@ -129,40 +129,40 @@
   "71": {
     "PROSE": [
       "Główny whip zrzuca ci na biurko naręcze teczek. Zabawne, jak ci ludzie wciąż wolą papierowe dokumenty, ale biorąc pod uwagę wszystkie włamania do systemów podczas wyborów, może to i lepiej.",
-      "„Czy to wszystko dotyczy Petera Strewela?"",
-      "„Ależ skąd." Unosi brew. „Na jego miłosne wybryki potrzebowałbym wózka, a i tak jedyne, co by osiągnęły, to wzmocnienie jego wizerunku lowelasa. Więc przyniosłem tylko te eskapady, które mogłyby faktycznie, no wie pan, nadszarpnąć mu reputację."",
-      "Przeglądasz akta. „Nie wiedziałem, że to się da zrobić z indykiem… Przypomnij mi, żebym nigdy u niego nie jadł świątecznego obiadu. Palenie banknotów pięćdziesięciofuntowych przed żebrakami. No cóż, kto tego nie robił? A, a co to?"",
-      "Zerka na ziarniste zdjęcie, na którym Strewel szczerzy się do kamery, a za nim w tle przebiegasz nagi mężczyzna.",
-      "„To było po kolacji Bollinger Club. Rozebrali bezdomnego i wrzucili do fontanny Mercury."",
-      "„Nie brzmi aż tak źle."",
-      "„Była środek zimy. Minus dziewięć. Facet dostał zapalenia płuc i prawie umarł." Czeka. „Co pan myśli, panie premierze? Mam to podrzucić zaprzyjaźnionej gazecie, niech to rozwinie?""
+      "„Czy to wszystko dotyczy Petera Strewela?”",
+      "„Ależ skąd.” Unosi brew. „Na jego miłosne wybryki potrzebowałbym wózka, a i tak jedyne, co by osiągnęły, to wzmocnienie jego wizerunku lowelasa. Więc przyniosłem tylko te eskapady, które mogłyby faktycznie, no wie pan, nadszarpnąć mu reputację.”",
+      "Przeglądasz akta. „Nie wiedziałem, że to się da zrobić z indykiem… Przypomnij mi, żebym nigdy u niego nie jadł świątecznego obiadu. Palenie banknotów pięćdziesięciofuntowych przed żebrakami. No cóż, kto tego nie robił? A, a co to?”",
+      "Zerka na ziarniste zdjęcie, na którym Strewel szczerzy się do kamery, a za nim w tle przebiega nagi mężczyzna.",
+      "„To było po kolacji Bollinger Club. Rozebrali bezdomnego i wrzucili do fontanny Mercury.”",
+      "„Nie brzmi aż tak źle.”",
+      "„Był środek zimy. Minus dziewięć. Facet dostał zapalenia płuc i prawie umarł.” Czeka. „Co pan myśli, panie premierze? Mam to podrzucić zaprzyjaźnionej gazecie, niech to rozwinie?”"
     ],
     "OPTIONS": [
-      "[OPTION] \"'Tak. Czas, żeby ludzie zobaczyli, jakim bezdusznym draniem naprawdę jest Strewel.'\" ►89",
-      "[OPTION] \"'Nie, pomawianie nic nie da. Ten człowiek jest teflonowy. Potrzebuję lepszego planu.'\" ►51"
+      "[OPTION] \"‘Tak. Czas, żeby ludzie zobaczyli, jakim bezdusznym draniem naprawdę jest Strewel.’\" ►89",
+      "[OPTION] \"‘Nie, pomawianie nic nie da. Ten człowiek jest teflonowy. Potrzebuję lepszego planu.’\" ►51"
     ]
   },
   "72": {
     "PROSE": [
-      "Stollard rozgląda się po zebranych, ale wszyscy gorliwie zajmują się notatkami albo telefonami. „To też na mnie? No dobrze, paszport w wersji EOG ma trzy wady. Pierwsza to regulacje. To poważna kwestia dla wszystkich naszych branż usługowych. Żeby handlować usługami, trzeba wykazać, że spełniają one wymogi i standardy rynkowe. W ramach UE dzieje się to automatycznie. Po wyjściu z UE nasze instytucje muszą podlegać odpowiednim organom nadzorczym."",
-      "„To tylko papierkowa robota, prawda?" – mówi Barkwell.",
-      "„Byłaby, gdyby było do kogo tę papierową robotę wysłać. Unijne agencje nadzorcze zajmujące się bankowością i ubezpieczeniami nie są objęte obecną umową EOG."",
-      "„Więc musielibyśmy od razu ruszyć z kopyta, włączyć te agencje do nowego, ulepszonego EOG. W interesie wszystkich jest, żeby to szybko załatwić."",
+      "Stollard rozgląda się po zebranych, ale wszyscy gorliwie zajmują się notatkami albo telefonami. „To też na mnie? No dobrze, paszport w wersji EOG ma trzy wady. Pierwsza to regulacje. To poważna kwestia dla wszystkich naszych branż usługowych. Żeby handlować usługami, trzeba wykazać, że spełniają one wymogi i standardy rynkowe. W ramach UE dzieje się to automatycznie. Po wyjściu z UE nasze instytucje muszą podlegać odpowiednim organom nadzorczym.”",
+      "„To tylko papierkowa robota, prawda?” – mówi Barkwell.",
+      "„Byłaby, gdyby było do kogo tę papierową robotę wysłać. Unijne agencje nadzorcze zajmujące się bankowością i ubezpieczeniami nie są objęte obecną umową EOG.”",
+      "„Więc musielibyśmy od razu ruszyć z kopyta, włączyć te agencje do nowego, ulepszonego EOG. W interesie wszystkich jest, żeby to szybko załatwić.”",
       "Przeciągająca się cisza sugeruje, że nawet sam Barkwell nie wierzy, iż będzie to aż takie proste."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Wspomniałeś o dwóch innych problemach, Alanie?'\" ►466",
-      "[OPTION] \"'Dobrze, nie grzęźnijmy w szczegółach.'\" ►66"
+      "[OPTION] \"‘Wspomniałeś o dwóch innych problemach, Alanie?’\" ►466",
+      "[OPTION] \"‘Dobrze, nie grzęźnijmy w szczegółach.’\" ►66"
     ]
   },
   "73": {
     "PROSE": [
       "W następnej rundzie stajesz naprzeciw Dennisa Denta, sekretarza ds. Brexitu, Tiffany Rufus, minister spraw wewnętrznych, i Gervaisa Noysoma-Reeka, nadziei tylnych ław.",
       "Ku twojej uldze Noysom-Reek odpada. Był faworytem wśród szeregowych członków partii i byłby trudnym przeciwnikiem, gdyby głosowanie otworzyło się na członków.",
-      "„Podwójne nazwisko, które okazało się ślepym nabojem – tak go zapamiętam na zawsze" – mówisz do Rona Beardsleya. „Myślę, że wielu członków lubi go, bo wyobrażają sobie, że jest arystokratą. Tacy z nich służalcy. Tymczasem ty i ja, Ronie, wiemy, że wywodzi się z długiej linii zamożnych farmerów."",
-      "„Nie skupiajmy się na wczorajszej walce" – ostrzega Ron. „Mamy nowy problem. Kanclerz przystąpił do rywalizacji."",
-      "„Co? Może? To znaczy…"",
-      "Ron wzrusza ramionami. „Ma poparcie sporej części frakcji parlamentarnej. Może 40% posłów to w głębi duszy zwolennicy Remain, a on jedyny wstaje i używa określeń typu ograniczanie szkód w odniesieniu do Brexitu.""
+      "„Podwójne nazwisko, które okazało się ślepym nabojem – tak go zapamiętam na zawsze” – mówisz do Rona Beardsleya. „Myślę, że wielu członków lubi go, bo wyobrażają sobie, że jest arystokratą. Tacy z nich służalcy. Tymczasem ty i ja, Ronie, wiemy, że wywodzi się z długiej linii zamożnych farmerów.”",
+      "„Nie skupiajmy się na wczorajszej walce” – ostrzega Ron. „Mamy nowy problem. Kanclerz przystąpił do rywalizacji.”",
+      "„Co? Może? To znaczy…”",
+      "Ron wzrusza ramionami. „Ma poparcie sporej części frakcji parlamentarnej. Może 40% posłów to w głębi duszy zwolennicy Remain, a on jedyny wstaje i używa określeń typu ograniczanie szkód w odniesieniu do Brexitu.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►339"
@@ -171,8 +171,8 @@
   "74": {
     "PROSE": [
       "Minister ds. biznesu Chloe Stoat wspomina w wywiadzie, że zawsze miałeś rozsądne podejście do Brexitu. Na szczęście nie mówi nic więcej, biorąc pod uwagę, że powiedziałeś jej kiedyś, iż Brexit to katastrofalna pomyłka.",
-      "„No, to ulga" – zwierzasz się rzeczniczce prasowej. „Nie często zdarza się, że szkielet wyskakuje z szafy, tańczy stepowanie z cylindrem i laską, a potem wręcza ci złoty bilet do fabryki czekolady."",
-      "„Proszę się nie martwić, panie premierze" – mówi, marszcząc brwi. „To niedługo minie."",
+      "„No, to ulga” – zwierzasz się rzeczniczce prasowej. „Nie często zdarza się, że szkielet wyskakuje z szafy, tańczy stepowanie z cylindrem i laską, a potem wręcza ci złoty bilet do fabryki czekolady.”",
+      "„Proszę się nie martwić, panie premierze” – mówi, marszcząc brwi. „To niedługo minie.”",
       "Rewelacje Chloe Stoat mają wagę dla umiarkowanego skrzydła partii, które widzi w tobie teraz ostatnią nadzieję na racjonalny wynik."
     ],
     "OPTIONS": [
@@ -181,14 +181,14 @@
   },
   "75": {
     "PROSE": [
-      "„Twardy Brexit to jest to, czego ten kraj potrzebuje" – mówi Tode. „Czy czekają nas trudne czasy? Tak. Czy będzie ciężko to znieść? O tak. Oszczędności będą musiały wejść na wyższy bieg. Niektóre z ukochanych instytucji Brytanii mogą nie przetrwać. Ale będzie to warte zachodu, ponieważ z tych trudności wykujemy nową, silniejszą Brytanię, podobnie jak Mao wziął rozklekotany feudalny gmach Chin i zamienił go w rozgrzany do białości naród-potęgę, który kroczy po świecie niczym kolos."",
+      "„Twardy Brexit to jest to, czego ten kraj potrzebuje” – mówi Tode. „Czy czekają nas trudne czasy? Tak. Czy będzie ciężko to znieść? O tak. Oszczędności będą musiały wejść na wyższy bieg. Niektóre z ukochanych instytucji Brytanii mogą nie przetrwać. Ale będzie to warte zachodu, ponieważ z tych trudności wykujemy nową, silniejszą Brytanię, podobnie jak Mao wziął rozklekotany feudalny gmach Chin i zamienił go w rozgrzany do białości naród-potęgę, który kroczy po świecie niczym kolos.”",
       "Prostuje się na pełną wysokość swoich metra siedemdziesięciu ośmiu. Nadal uparcie ignorujesz odrobinę śliny, która gnieździ się w kąciku jego ust przez całą tyradę.",
       "A potem dociera do ciebie, że czeka na twoją odpowiedź."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Może nie posunąłbym się aż tak daleko.'\" ►308",
-      "[OPTION] \"'Daj spokój, Thomasie. Górnolotne przemówienia mogą zdobywać głosy, ale ty i ja musimy rozważyć kwestie praktyczne.'\" ►423",
-      "[OPTION] \"'Wyjąłeś mi to z ust.'\" ►633"
+      "[OPTION] \"‘Może nie posunąłbym się aż tak daleko.’\" ►308",
+      "[OPTION] \"‘Daj spokój, Thomasie. Górnolotne przemówienia mogą zdobywać głosy, ale ty i ja musimy rozważyć kwestie praktyczne.’\" ►423",
+      "[OPTION] \"‘Wyjąłeś mi to z ust.’\" ►633"
     ]
   },
   "76": {
@@ -205,24 +205,24 @@
   },
   "77": {
     "PROSE": [
-      "Wycofujesz się z rywalizacji i udzielasz poparcia Peterowi Strewelowi, umożliwiając mu miażdżące zwycięstwo. To jak wybranie Scaramouche'a. Ale to nie twój problem. Możesz położyć nogi na biurku w Ministerstwie Skarbu.",
-      "A przynajmniej tak myślałeś. Strewel dzwoni z potokiem kwiecistych samogratulacji, po czym zrzuca bombę. „Jest pewien szkopuł, obawiam się. Lepiej jednak zamów tę ciężarówkę przeprowadzkową na prowincję."",
-      "„Co? Obiecałeś."",
-      "„Długo się nad tym zastanawiałem przy talerzu linguine. Przepraszam i tak dalej, ale to chyba nie pierwsza obietnica, która wymknęła się z powrotem na wolność, co? Pamiętasz ten czerwony autobus? No to wyobraź go sobie z napisem 'Będziesz Kanclerzem' na boku."",
+      "Wycofujesz się z rywalizacji i udzielasz poparcia Peterowi Strewelowi, umożliwiając mu miażdżące zwycięstwo. To jak wybranie Scaramouche’a. Ale to nie twój problem. Możesz położyć nogi na biurku w Ministerstwie Skarbu.",
+      "A przynajmniej tak myślałeś. Strewel dzwoni z potokiem kwiecistych samogratulacji, po czym zrzuca bombę. „Jest pewien szkopuł, obawiam się. Lepiej jednak zamów tę ciężarówkę przeprowadzkową na prowincję.”",
+      "„Co? Obiecałeś.”",
+      "„Długo się nad tym zastanawiałem przy talerzu linguine. Przepraszam i tak dalej, ale to chyba nie pierwsza obietnica, która wymknęła się z powrotem na wolność, co? Pamiętasz ten czerwony autobus? No to wyobraź go sobie z napisem ‘Będziesz Kanclerzem’ na boku.”",
       "<p class=\"centered\">KONIEC</p>"
     ]
   },
   "78": {
     "PROSE": [
-      "„Brexit powinien był być gładką drogą" – mówi Peter Strewel w wywiadzie – „ale UE tego nie chciała. Są jak ten skorpion, który żądli psa, który przewozi ich obu przez rzekę. Szczerze mówiąc, za każdym razem, kiedy siadam naprzeciw tych ludzi, czekam, aż mój fotel odchyli się w stylu SPECTRE i wrzuci mnie do kadzi z kwasem."",
-      "„Dobry pomysł na następny remont Sali Gabinetowej" – zauważasz do Rona Beardsleya.",
-      "„W bajce to żaba, nie pies" – wytyka, zawsze podrażniony nieścisłością.",
-      "„Strewel wie, co mówi. Dla narodu brytyjskiego to lepszy obraz, prawda? Wierny buldog."",
+      "„Brexit powinien był być gładką drogą” – mówi Peter Strewel w wywiadzie – „ale UE tego nie chciała. Są jak ten skorpion, który żądli psa, który przewozi ich obu przez rzekę. Szczerze mówiąc, za każdym razem, kiedy siadam naprzeciw tych ludzi, czekam, aż mój fotel odchyli się w stylu SPECTRE i wrzuci mnie do kadzi z kwasem.”",
+      "„Dobry pomysł na następny remont Sali Gabinetowej” – zauważasz do Rona Beardsleya.",
+      "„W bajce to żaba, nie pies” – wytyka, zawsze podrażniony nieścisłością.",
+      "„Strewel wie, co mówi. Dla narodu brytyjskiego to lepszy obraz, prawda? Wierny buldog.”",
       "Kiedy reporterzy proszą cię o komentarz do wypowiedzi Strewela, jak odpowiesz?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'To nie jest tak czarno-białe, jak przedstawia to pan Strewel. Negocjacje to nie gra o sumie zerowej. My i UE możemy znaleźć porozumienie, z którego obie strony będą zadowolone.'\" ►243",
-      "[OPTION] \"'Nie potrzebuję pana Strewela, żeby mi mówił, że UE to ci źli. To ja muszę z nimi na co dzień wynegocjować porozumienie.'\" ►496"
+      "[OPTION] \"‘To nie jest tak czarno-białe, jak przedstawia to pan Strewel. Negocjacje to nie gra o sumie zerowej. My i UE możemy znaleźć porozumienie, z którego obie strony będą zadowolone.’\" ►243",
+      "[OPTION] \"‘Nie potrzebuję pana Strewela, żeby mi mówił, że UE to ci źli. To ja muszę z nimi na co dzień wykuwać porozumienie.’\" ►496"
     ]
   },
   "79": {
@@ -238,11 +238,11 @@
   },
   "80": {
     "PROSE": [
-      "„Jakie mam szanse na pokonanie Colina Fungale'a?" – pytasz swoich najbliższych doradców.",
+      "„Jakie mam szanse na pokonanie Colina Fungale’a?” – pytasz swoich najbliższych doradców.",
       "Ron Beardsley obraca fajkę w dłoniach, jakby spodziewał się znaleźć odpowiedź wypisaną na jej boku. Nie mówi, że nie masz szans. Nie musi.",
-      "„Dla większości członków to sympatyczny urwis" – mówi Terri Trough. „Wyobrażają sobie, że poprowadzi ich z powrotem do magicznych czasów, kiedy Morecambe i Wise są w telewizji, a rzeźnik odmierza mięso w funtach i uncjach."",
-      "„Poetycko. Powinnaś napisać powieść, Terri."",
-      "„Może będę musiała.""
+      "„Dla większości członków to sympatyczny urwis” – mówi Terri Trough. „Wyobrażają sobie, że poprowadzi ich z powrotem do magicznych czasów, kiedy Morecambe i Wise są w telewizji, a rzeźnik odmierza mięso w funtach i uncjach.”",
+      "„Poetycko. Powinnaś napisać powieść, Terri.”",
+      "„Może będę musiała.”"
     ],
     "GOTO": [
       "[IF keyword:HEMLOCK AND keyword:BLEAK] \"Dalej\" ►713",

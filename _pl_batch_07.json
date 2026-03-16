@@ -2,11 +2,11 @@
   "121": {
     "PROSE": [
       "Kilka dni przed ostatecznym głosowaniem zgadzasz się na wywiad dla jednej z niedzielnych gazet. W restauracji Ivy spotykasz dziewczynę tak starannie umalowaną, że mogłaby być prototypem rasy doskonałych androidów. Nie dosłyszałeś jej imienia, ale po kilku pytaniach przygotowanych przez Rona Beardsleya, mających ukazać twoją troskliwą, domową stronę, przechodzisz do głównego przekazu.",
-      "„Polityka stała się polem konfliktów. Pasja w wyrażaniu poglądów jest ważna, ale nie możemy pozwolić, by przerodziła się w pogardę dla odmiennych opinii. Demokracja to nie mecz piłkarski, w którym jedna strona wraca do domu ze śpiewem, a druga pogrąża się w rozpaczy. Nie możemy do tego dopuścić."",
-      "Stalowy błysk w jej oku sugeruje, że test Voighta-Kampffa miałby z nią nie lada wyzwanie. „Czy chce pan powiedzieć, że powinniśmy próbować wycofać się z Brexitu?"",
-      "„Absolutnie nie. Zagłosowaliśmy za wyjściem z EU. Wychodzimy. Ale prawie połowa kraju lubi być obywatelami EU i nie możemy ich zostawić w tyle. My, Brytyjczycy, mamy opinię ludzi, którzy potrafią przegrywać z godnością — teraz musimy pokazać, że potrafimy też godnie wygrywać. Musimy znaleźć sposób, by odzwierciedlić wolę <em>wszystkich</em> obywateli."",
-      "„Miękki Brexit?" Lekkie drżenie w jej głosie oznacza, że wyczuła, iż to może być sensacja, która wyrwie ją ze stron lifestylowych.",
-      "„Kompromis. Nie możemy mieć takiego Brexitu, który zrazi połowę kraju i zagrozi przyszłości Zjednoczonego Królestwa. Partia Konserwatywna, którą znam, stoi za tolerancją i wielkodusznością. Nie jesteśmy tą paskudną partią. Nie wycieramy ludziom nosa w błocie, jak to lubi robić lewica. Dlatego jestem przekonany, że teraz zjednoczymy się za kandydatem, który potrafi zjednoczyć kraj."",
+      "„Polityka stała się polem konfliktów. Pasja w wyrażaniu poglądów jest ważna, ale nie możemy pozwolić, by przerodziła się w pogardę dla odmiennych opinii. Demokracja to nie mecz piłkarski, w którym jedna strona wraca do domu ze śpiewem, a druga pogrąża się w rozpaczy. Nie możemy do tego dopuścić.”",
+      "Stalowy błysk w jej oku sugeruje, że test Voighta-Kampffa miałby z nią nie lada wyzwanie. „Czy chce pan powiedzieć, że powinniśmy próbować wycofać się z Brexitu?”",
+      "„Absolutnie nie. Zagłosowaliśmy za wyjściem z EU. Wychodzimy. Ale prawie połowa kraju lubi być obywatelami EU i nie możemy ich zostawić w tyle. My, Brytyjczycy, mamy opinię ludzi, którzy potrafią przegrywać z godnością — teraz musimy pokazać, że potrafimy też godnie wygrywać. Musimy znaleźć sposób, by odzwierciedlić wolę <em>wszystkich</em> obywateli.”",
+      "„Miękki Brexit?” Lekkie drżenie w jej głosie oznacza, że wyczuła, iż to może być sensacja, która wyrwie ją ze stron lifestylowych.",
+      "„Kompromis. Nie możemy mieć takiego Brexitu, który zrazi połowę kraju i zagrozi przyszłości Zjednoczonego Królestwa. Partia Konserwatywna, którą znam, stoi za tolerancją i wielkodusznością. Nie jesteśmy tą paskudną partią. Nie wycieramy ludziom nosa w błocie, jak to lubi robić lewica. Dlatego jestem przekonany, że teraz zjednoczymy się za kandydatem, który potrafi zjednoczyć kraj.”",
       "To niezła bomba dla czytelników, którzy znajdą ją między tostami a marmoladą. To hazard. Czas się przekonać, czy się opłaci."
     ],
     "GOTO": [
@@ -19,9 +19,9 @@
   },
   "122": {
     "PROSE": [
-      "„Umowa jest mieszana, gdy obejmuje kwestie, których Komisja nie jest upoważniona samodzielnie zatwierdzić. Na przykład umowa z Kanadą była mieszana, ponieważ wykraczała poza sam handel towarami, co oznaczało, że zatwierdzenie warunków nie leżało wyłącznie w kompetencjach Komisji Europejskiej. W przypadku takiej umowy mieszanej każde państwo ma prawo głosu, a w tym wypadku Walonowie…"",
-      "„Absurd, brzmią jak coś z Podróży Guliwera!" prycha Barkwell.",
-      "„…Walonowie o mało nie zatopili całej umowy z Kanadą, ponieważ sprzeciwiali się uprawnieniom, jakie dawała prywatnym korporacjom do pozywania rządów krajowych. Sytuacja z umową singapurską wygląda na podobną. Europejski Trybunał Sprawiedliwości orzekł, że EUSFTA — umowa o wolnym handlu między EU a Singapurem — jest umową mieszaną i musi zatem zostać zatwierdzona przez wszystkie państwa członkowskie.""
+      "„Umowa jest mieszana, gdy obejmuje kwestie, których Komisja nie jest upoważniona samodzielnie zatwierdzić. Na przykład umowa z Kanadą była mieszana, ponieważ wykraczała poza sam handel towarami, co oznaczało, że zatwierdzenie warunków nie leżało wyłącznie w kompetencjach Komisji Europejskiej. W przypadku takiej umowy mieszanej każde państwo ma prawo głosu, a w tym wypadku Walonowie…”",
+      "„Absurd, brzmią jak coś z Podróży Guliwera!” — prycha Barkwell.",
+      "„…Walonowie o mało nie zatopili całej umowy z Kanadą, ponieważ sprzeciwiali się uprawnieniom, jakie dawała prywatnym korporacjom do pozywania rządów krajowych. Sytuacja z umową singapurską wygląda na podobną. Europejski Trybunał Sprawiedliwości orzekł, że EUSFTA — umowa o wolnym handlu między EU a Singapurem — jest umową mieszaną i musi zatem zostać zatwierdzona przez wszystkie państwa członkowskie.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'W naszym przypadku to jednak nie będzie miało zastosowania.'\" ►550",
@@ -57,13 +57,13 @@
     "PROSE": [
       "Przynajmniej powinno to być w miarę proste, myślisz. W końcu Wielka Brytania już handluje z Koreą Południową, leży to w interesie obu stron, biznes kwitnie, a Koreańczycy nie będą chcieli stracić tego rynku, gdy Wielka Brytania i EU się rozstaną.",
       "W praktyce to nie takie proste. Duża część południowokoreańskiego eksportu trafia przez Wielką Brytanię na jednolity rynek. Teraz, gdy ta droga jest odcięta, możemy nie wyglądać na tak atrakcyjnego partnera handlowego — a w każdym razie daje im to pretekst do podkręcenia warunków umowy.",
-      "„Niech pani premier spojrzy na to z jasnej strony" — mówi twój szef gabinetu. „Prawnie nie możemy podpisać nowej umowy handlowej z Koreą aż do zakończenia Brexitu."",
-      "„Jak to jest jasna strona?"",
-      "„To znaczy, że jakiekolwiek dodatkowe ustępstwa uda im się z nas wycisnąć, nie są jeszcze częścią narracji. Musimy tylko ogłosić, że Korea jest otwarta na potwierdzenie istniejącego porozumienia. To historia sukcesu, jeśli pominie się drobiazgowe szczegóły."",
+      "„Niech pani premier spojrzy na to z jasnej strony” — mówi twój szef gabinetu. „Prawnie nie możemy podpisać nowej umowy handlowej z Koreą aż do zakończenia Brexitu.”",
+      "„Jak to jest jasna strona?”",
+      "„To znaczy, że jakiekolwiek dodatkowe ustępstwa uda im się z nas wycisnąć, nie są jeszcze częścią narracji. Musimy tylko ogłosić, że Korea jest otwarta na potwierdzenie istniejącego porozumienia. To historia sukcesu, jeśli pominie się drobiazgowe szczegóły.”",
       "Jak się okazuje, sukces jest tak mierny, że EU nawet nie protestuje."
     ],
     "REPORT": [
-      "<strong>+5% Popularity</strong>: wyborcy kupują wizję Wielkiej Brytanii kujacej ekscytujące nowe umowy na całym świecie, nawet jeśli te umowy są w rzeczywistości starymi.",
+      "<strong>+5% Popularity</strong>: wyborcy kupują wizję Wielkiej Brytanii kującej ekscytujące nowe umowy na całym świecie, nawet jeśli te umowy są w rzeczywistości starymi.",
       "International Trade Deals zostały uzgodnione."
     ],
     "OPTIONS": [
@@ -92,9 +92,9 @@
   },
   "127": {
     "PROSE": [
-      "„WIELKA BRYTANIA ODZYSKUJE ROZUM" — czyta Wilkins z porannych nagłówków po głosowaniu.",
-      "„Tak, ale to jest…"",
-      "„<em>Daily Heil</em>." Kładzie gazetę na stole śniadaniowym. Reszta pierwszej strony jest zajęta wezwaniem: „A TERAZ WYNOSIMY SIĘ Z EUROPY!"",
+      "„WIELKA BRYTANIA ODZYSKUJE ROZUM” — czyta Wilkins z porannych nagłówków po głosowaniu.",
+      "„Tak, ale to jest…”",
+      "„<em>Daily Heil</em>.” Kładzie gazetę na stole śniadaniowym. Reszta pierwszej strony jest zajęta wezwaniem: „A TERAZ WYNOSIMY SIĘ Z EUROPY!”",
       "A co z twoją własną karierą polityczną?"
     ],
     "GOTO": [
@@ -136,11 +136,11 @@
       "[EFFECT getItem:Security & Defence]"
     ],
     "PROSE": [
-      "„Góry przeniosłem" — to pierwsza uwaga Willy'ego Franjebooma, gdy się ponownie spotykacie.",
-      "Uśmiecha się, więc puszczasz samochwalstwo mimo uszu. „I?"",
-      "„Zgodziliśmy się, że Wielka Brytania powinna mieć specjalny status w Europejskich Siłach Obronnych. Nazwiemy to Najbardziej Uprzywilejowany Sojusznik, coś w tym rodzaju. Szczegóły do dopracowania."",
-      "„Ale będzie rada bezpieczeństwa EDA i Wielka Brytania będzie w niej miała miejsce?" Rzucasz mu swoje spojrzenie nie-ustąpię — zresztą jedyne, jakie znasz. Niektórzy porównywali je do Winstona Churchilla na metamfetaminie.",
-      "Kiwa głową. „Będziecie mieli równy głos we wspólnych przedsięwzięciach wojskowych.""
+      "„Góry przeniosłem” — to pierwsza uwaga Willy'ego Franjebooma, gdy się ponownie spotykacie.",
+      "Uśmiecha się, więc puszczasz samochwalstwo mimo uszu. „I?”",
+      "„Zgodziliśmy się, że Wielka Brytania powinna mieć specjalny status w Europejskich Siłach Obronnych. Nazwiemy to Najbardziej Uprzywilejowany Sojusznik, coś w tym rodzaju. Szczegóły do dopracowania.”",
+      "„Ale będzie rada bezpieczeństwa EDA i Wielka Brytania będzie w niej miała miejsce?” Rzucasz mu swoje spojrzenie nie-ustąpię — zresztą jedyne, jakie znasz. Niektórzy porównywali je do Winstona Churchilla na metamfetaminie.",
+      "Kiwa głową. „Będziecie mieli równy głos we wspólnych przedsięwzięciach wojskowych.”"
     ],
     "REPORT": [
       "<strong>+5% Authority</strong>: stanowczo potwierdziłeś status Wielkiej Brytanii jako poważnej niezależnej siły wojskowej.",
@@ -152,11 +152,11 @@
   },
   "131": {
     "PROSE": [
-      "Stollard składa ręce i rozgląda się, jakby za chwilę miał urządzić wam wszystkim kontrolę skarbową. „Nie wiem, czy pamiętacie historię, która krążyła w <em>Heilu</em> i <em>Outrage</em> kilka lat temu. «EU zakazuje flagi brytyjskiej na brytyjskiej wołowinie»."",
-      "„Jak szybko zapominają" — warczy Barkwell. „A niewielu z nich narzekało, gdy czołgi i samoloty oznaczone tą samą flagą wyzwalały ich spod jarzma nazistowskiej tyranii."",
-      "„Na pierwszy rzut oka to wyraźny przypadek bezsensownego nękania nas przez EU. Ale tak naprawdę nic z tych rzeczy. Dyrektywa po prostu stanowiła, że opakowania mięsa powinny pokazywać prawdziwy kraj pochodzenia. Więc firma nie mogła importować wołowiny z Francji, nakleić na nią flagę brytyjską i twierdzić, że jest brytyjska."",
-      "„EU może nie była złoczyńcą w tej historii" — wtrąca Barkwell — „ale to dość typowe dla ich zamiłowania do biurokracji."",
-      "„Ach" — mówi Stollard. „O to mi właśnie chodzi. Biurokracja w tym przypadku pochodziła nie od EU, ale z zasad pochodzenia towarów Światowej Organizacji Handlu. Ustawodawstwo EU po prostu dostosowywało nas do standardów międzynarodowych. A oto kolejny przykład…""
+      "Stollard składa ręce i rozgląda się, jakby za chwilę miał urządzić wam wszystkim kontrolę skarbową. „Nie wiem, czy pamiętacie historię, która krążyła w <em>Heilu</em> i <em>Outrage</em> kilka lat temu. «EU zakazuje flagi brytyjskiej na brytyjskiej wołowinie».”",
+      "„Jak szybko zapominają” — warczy Barkwell. „A niewielu z nich narzekało, gdy czołgi i samoloty oznaczone tą samą flagą wyzwalały ich spod jarzma nazistowskiej tyranii.”",
+      "„Na pierwszy rzut oka to wyraźny przypadek bezsensownego nękania nas przez EU. Ale tak naprawdę nic z tych rzeczy. Dyrektywa po prostu stanowiła, że opakowania mięsa powinny pokazywać prawdziwy kraj pochodzenia. Więc firma nie mogła importować wołowiny z Francji, nakleić na nią flagę brytyjską i twierdzić, że jest brytyjska.”",
+      "„EU może nie była złoczyńcą w tej historii” — wtrąca Barkwell — „ale to dość typowe dla ich zamiłowania do biurokracji.”",
+      "„Ach” — mówi Stollard. „O to mi właśnie chodzi. Biurokracja w tym przypadku pochodziła nie od EU, ale z zasad pochodzenia towarów Światowej Organizacji Handlu. Ustawodawstwo EU po prostu dostosowywało nas do standardów międzynarodowych. A oto kolejny przykład…”"
     ],
     "OPTIONS": [
       "[OPTION] \"'W porządku, Alan, opowiedz nam ten drugi przykład.'\" ►537",
@@ -166,20 +166,20 @@
   },
   "132": {
     "PROSE": [
-      "Ron przeszukuje swój plik notatek i wyciąga znacznie mniejszą karteczkę z kilkoma punktami. „Komisja zaczyna od zawrotnej kwoty 60 miliardów euro. Nawet niektóre inne kraje członkowskie są tym nieco zaskoczone. Jeśli uda nam się ją znacząco zbić…"",
-      "„Musi być połowa. 30 miliardów euro to magiczna liczba. Wtedy będę miał co opowiedzieć eurosceptykom."",
-      "„To najlepszy scenariusz. Oczywiście zależy to od innych czynników — i od tego, czy negocjacje pójdą dobrze."",
-      "„<em>Czy</em> negocjacje pójdą dobrze. No właśnie. Zawsze masz pod ręką kubeł zimnej wody, co, Ron?"",
-      "„Mamy pewne podstawy prawne, by kwestionować szacunki Komisji. Na przykład EU istnieje jako odrębny podmiot. Można argumentować, że dopóki płacimy nasze składki do momentu odejścia, nie ponosimy odpowiedzialności za nadmierne wydatki i zobowiązania rozwojowe po tej dacie."",
-      "„Wreszcie dobre wieści."",
-      "„Niestety EU mogłaby powołać się na precedens, który sami ustanowiliśmy przed referendum szkockim. Ministerstwo Skarbu jasno dało do zrozumienia, że w przypadku rozpadu Zjednoczonego Królestwa Szkocja nadal byłaby finansowo odpowiedzialna za «uczciwy i proporcjonalny» udział w długach i zobowiązaniach."",
-      "„Cholera."",
-      "„A jeśli teraz to podrzemy, co się stanie, jeśli Zjednoczone Królestwo rozpadnie się za kilka lat? Szkocja mogłaby powiedzieć: patrzcie, wymigaliście się od płacenia EU za wydatki, na które się zgodziliście, więc dlaczego my mielibyśmy teraz bulić?"",
-      "„Przejdziemy przez ten most, jak do niego dojdziemy. Najpierw wyciągnijmy się z tego w jednym kawałku. Coś jeszcze na naszą korzyść?"",
-      "„Nie wszystko płynie w jedną stronę. Część budżetu spójności była przeznaczona dla ubogich regionów Wielkiej Brytanii, czyli właściwie wszędzie tam, gdzie głosowano za wyjściem. Jeśli zapłacimy swoją działkę, mamy też prawo do udziału w tych środkach."",
-      "„Ale nie za dużo, jak sądzę."",
-      "„Łącznie z udziałem Wielkiej Brytanii w aktywach EU, może nawet 10 miliardów euro. Nie wszystko z tego jest na regionalne projekty infrastrukturalne, ale…"",
-      "„Rozumiem. Jak te 350 milionów funtów tygodniowo — musi po prostu dobrze wyglądać w nagłówku.""
+      "Ron przeszukuje swój plik notatek i wyciąga znacznie mniejszą karteczkę z kilkoma punktami. „Komisja zaczyna od zawrotnej kwoty 60 miliardów euro. Nawet niektóre inne kraje członkowskie są tym nieco zaskoczone. Jeśli uda nam się ją znacząco zbić…”",
+      "„Musi być połowa. 30 miliardów euro to magiczna liczba. Wtedy będę miał co opowiedzieć eurosceptykom.”",
+      "„To najlepszy scenariusz. Oczywiście zależy to od innych czynników — i od tego, czy negocjacje pójdą dobrze.”",
+      "„<em>Czy</em> negocjacje pójdą dobrze. No właśnie. Zawsze masz pod ręką kubeł zimnej wody, co, Ron?”",
+      "„Mamy pewne podstawy prawne, by kwestionować szacunki Komisji. Na przykład EU istnieje jako odrębny podmiot. Można argumentować, że dopóki płacimy nasze składki do momentu odejścia, nie ponosimy odpowiedzialności za nadmierne wydatki i zobowiązania rozwojowe po tej dacie.”",
+      "„Wreszcie dobre wieści.”",
+      "„Niestety EU mogłaby powołać się na precedens, który sami ustanowiliśmy przed referendum szkockim. Ministerstwo Skarbu jasno dało do zrozumienia, że w przypadku rozpadu Zjednoczonego Królestwa Szkocja nadal byłaby finansowo odpowiedzialna za «uczciwy i proporcjonalny» udział w długach i zobowiązaniach.”",
+      "„Cholera.”",
+      "„A jeśli teraz to podrzemy, co się stanie, jeśli Zjednoczone Królestwo rozpadnie się za kilka lat? Szkocja mogłaby powiedzieć: patrzcie, wymigaliście się od płacenia EU za wydatki, na które się zgodziliście, więc dlaczego my mielibyśmy teraz bulić?”",
+      "„Przejdziemy przez ten most, jak do niego dojdziemy. Najpierw wyciągnijmy się z tego w jednym kawałku. Coś jeszcze na naszą korzyść?”",
+      "„Nie wszystko płynie w jedną stronę. Część budżetu spójności była przeznaczona dla ubogich regionów Wielkiej Brytanii, czyli właściwie wszędzie tam, gdzie głosowano za wyjściem. Jeśli zapłacimy swoją działkę, mamy też prawo do udziału w tych środkach.”",
+      "„Ale nie za dużo, jak sądzę.”",
+      "„Łącznie z udziałem Wielkiej Brytanii w aktywach EU, może nawet 10 miliardów euro. Nie wszystko z tego jest na regionalne projekty infrastrukturalne, ale…”",
+      "„Rozumiem. Jak te 350 milionów funtów tygodniowo — musi po prostu dobrze wyglądać w nagłówku.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►374"
@@ -188,12 +188,12 @@
   "133": {
     "PROSE": [
       "Panele w podłodze zapalają się, prowadząc cię do stanowiska parkingowego z tyłu budynku. Pacjenci wchodzą o własnych siłach lub są wnoszeni na pokład dużego czerwonego pojazdu, który wygląda jak unosząca się plastikowa larwa.",
-      "„Przypadek terminalny?" — pyta dyżurna. Zakładasz, że to dyżurna, choć jest ubrana w szokująco różowy strój z rave'u i lśniące lustrzane okulary.",
-      "Spoglądasz na Abednego. „Nie wiem, czy terminalny. Nie został jeszcze zdiagnozowany."",
-      "„Na moje oko beznadziejny" — mówi, znudzonym wzrokiem wpatrując się w pustą czerń nocnego nieba. „Tylko przypadki terminalne i beznadziejne."",
-      "„Wpuśćcie mnie" — woła mężczyzna podłączony do kroplówki z solą fizjologiczną, którą toczy obok siebie. „Potrzebuję cudownego leku."",
-      "„Cudowny lek brzmi dobrze" — mówisz do dyżurnej. „Ile to kosztuje?"",
-      "„Specjalny autobus leczniczy, nie? Płacone z zysków Brexitu. Bez kosztów dla klienta."",
+      "„Przypadek terminalny?” — pyta dyżurna. Zakładasz, że to dyżurna, choć jest ubrana w szokująco różowy strój z rave'u i lśniące lustrzane okulary.",
+      "Spoglądasz na Abednego. „Nie wiem, czy terminalny. Nie został jeszcze zdiagnozowany.”",
+      "„Na moje oko beznadziejny” — mówi, znudzonym wzrokiem wpatrując się w pustą czerń nocnego nieba. „Tylko przypadki terminalne i beznadziejne.”",
+      "„Wpuśćcie mnie” — woła mężczyzna podłączony do kroplówki z solą fizjologiczną, którą toczy obok siebie. „Potrzebuję cudownego leku.”",
+      "„Cudowny lek brzmi dobrze” — mówisz do dyżurnej. „Ile to kosztuje?”",
+      "„Specjalny autobus leczniczy, nie? Płacone z zysków Brexitu. Bez kosztów dla klienta.”",
       "Brzmi dobrze. Ale czy nie <em>za</em> dobrze?"
     ],
     "OPTIONS": [
@@ -211,9 +211,9 @@
   },
   "135": {
     "PROSE": [
-      "„Skoro wszyscy płacą tyle podatków" — dopytuje pytający — „to dlaczego nasze pociągi i szpitale są przepełnione?"",
+      "„Skoro wszyscy płacą tyle podatków” — dopytuje pytający — „to dlaczego nasze pociągi i szpitale są przepełnione?”",
       "Ach, publiczność. W swoich tandetnych ciuchach z George'a w ASDA, ze świńskimi oczkami latającymi na boki w obawie, że ktoś ich wykiwa. Dzięki Bogu, że nie są dość bystrzy, żeby rozgryźć, kto ten ktoś jest.",
-      "Owlbear nachylił się do przodu jak Budda w tandetnym garniturze. „Po pierwsze, trzeba pamiętać, że imigranci pomagają utrzymać te szpitale przy życiu. A jeśli chodzi o to, dlaczego korzyści podatkowe z imigracji nie zostały przekazane społeczeństwu w formie nowych budynków i infrastruktury — cóż, za to możecie winić torysowskie oszczędności. To właśnie wściekało połowę głosujących za wyjściem. Głosowanie za Brexitem było głosem przeciwko dzielącym ludzi torysowskim politykom."",
+      "Owlbear nachylił się do przodu jak Budda w tandetnym garniturze. „Po pierwsze, trzeba pamiętać, że imigranci pomagają utrzymać te szpitale przy życiu. A jeśli chodzi o to, dlaczego korzyści podatkowe z imigracji nie zostały przekazane społeczeństwu w formie nowych budynków i infrastruktury — cóż, za to możecie winić torysowskie oszczędności. To właśnie wściekało połowę głosujących za wyjściem. Głosowanie za Brexitem było głosem przeciwko dzielącym ludzi torysowskim politykom.”",
       "Wstrzymany oddech na sali. Ha, ty gruby głupcze. Elektorat nie lubi, gdy mu się mówi, że dał się nabrać na przynętę z podmianką. Zwłaszcza gdy to prawda."
     ],
     "OPTIONS": [
@@ -232,8 +232,8 @@
   },
   "137": {
     "PROSE": [
-      "Notatnik przed tobą jest pokryty podkreślonymi słowami, nabazgranymi wykresami i przypadkowymi rysunkami. Wygląda jak tablica Einsteina bez momentu eureki. „Więc zależy nam na umowie o wolnym handlu, która daje nam wszystko, co lubimy w członkostwie w EU, bez żadnych części, których nie lubimy."",
-      "„Dokładnie tak" — mówi Dent, kiwając energicznie głową jak nadpobudliwy wiewiór."
+      "Notatnik przed tobą jest pokryty podkreślonymi słowami, nabazgranymi wykresami i przypadkowymi rysunkami. Wygląda jak tablica Einsteina bez momentu eureki. „Więc zależy nam na umowie o wolnym handlu, która daje nam wszystko, co lubimy w członkostwie w EU, bez żadnych części, których nie lubimy.”",
+      "„Dokładnie tak” — mówi Dent, kiwając energicznie głową jak nadpobudliwy wiewiór."
     ],
     "OPTIONS": [
       "[OPTION] \"'Czego możemy się nauczyć z podobnych umów, które EU zawierała w przeszłości?'\" ►22",
@@ -245,17 +245,17 @@
   },
   "138": {
     "PROSE": [
-      "„Nasze członkostwo w Sojuszu Pięciorga Oczu daje nam przewagę. Jesteśmy jedynym europejskim krajem w tym konkretnym klubie, więc EU nas potrzebuje. Chyba że…"",
-      "„Chyba że co?"",
-      "„Pozostali — Ameryka, Kanada, Nowozelandczycy i Australijczycy — mogą uznać, że trzeba mieć Sześcioro Oczu. Dać EU miejsce przy stole. Oby nie, bo potrzebujemy tego asa w rękawie. Proszę zobaczyć — będziemy poza Europejskim Trybunałem Sprawiedliwości, prawda?"",
-      "„Oczywiście. O to właśnie chodzi."",
-      "„No właśnie. Ale to oznacza, że tak naprawdę nie podlegamy unijnym przepisom o ochronie danych. Pamięta pani, jak ETS unieważnił porozumienie Safe Harbour z USA, bo dawało krajowi trzeciemu dostęp do informacji chronionych unijnymi przepisami o prywatności? Będzie tak samo."",
-      "„A dlaczego przepisy o danych mają znaczenie?"",
-      "„Tropienie terrorystów, pozyskiwanie danych wywiadowczych od naszych agentów monitorujących radykalizację i tak dalej. A EU nie pozwoli nam uzyskać informacji, które mogłyby trafić do USA — nie teraz, gdy Windrip mamrocze o torturowaniu podejrzanych i zabijaniu rodzin terrorystów."",
-      "„Tak, EU niewygodnie uznałaby te działania za przestępcze."",
-      "„Nie tylko EU. Europejski Trybunał Praw Człowieka też."",
-      "Kiwasz głową tak energicznie, że McKay cofa się o krok. „Właśnie dlatego też z tego wychodzimy. Wszystkie te zasady. Uniemożliwiają nam obronę."",
-      "„Coś jeszcze, pani premier?" — pyta nerwowo."
+      "„Nasze członkostwo w Sojuszu Pięciorga Oczu daje nam przewagę. Jesteśmy jedynym europejskim krajem w tym konkretnym klubie, więc EU nas potrzebuje. Chyba że…”",
+      "„Chyba że co?”",
+      "„Pozostali — Ameryka, Kanada, Nowozelandczycy i Australijczycy — mogą uznać, że trzeba mieć Sześcioro Oczu. Dać EU miejsce przy stole. Oby nie, bo potrzebujemy tego asa w rękawie. Proszę zobaczyć — będziemy poza Europejskim Trybunałem Sprawiedliwości, prawda?”",
+      "„Oczywiście. O to właśnie chodzi.”",
+      "„No właśnie. Ale to oznacza, że tak naprawdę nie podlegamy unijnym przepisom o ochronie danych. Pamięta pani, jak ETS unieważnił porozumienie Safe Harbour z USA, bo dawało krajowi trzeciemu dostęp do informacji chronionych unijnymi przepisami o prywatności? Będzie tak samo.”",
+      "„A dlaczego przepisy o danych mają znaczenie?”",
+      "„Tropienie terrorystów, pozyskiwanie danych wywiadowczych od naszych agentów monitorujących radykalizację i tak dalej. A EU nie pozwoli nam uzyskać informacji, które mogłyby trafić do USA — nie teraz, gdy Windrip mamrocze o torturowaniu podejrzanych i zabijaniu rodzin terrorystów.”",
+      "„Tak, EU niewygodnie uznałaby te działania za przestępcze.”",
+      "„Nie tylko EU. Europejski Trybunał Praw Człowieka też.”",
+      "Kiwasz głową tak energicznie, że McKay cofa się o krok. „Właśnie dlatego też z tego wychodzimy. Wszystkie te zasady. Uniemożliwiają nam obronę.”",
+      "„Coś jeszcze, pani premier?” — pyta nerwowo."
     ],
     "OPTIONS": [
       "[OPTION] \"'A co z ekstradycją?'\" ►773",
@@ -269,11 +269,11 @@
       "[EFFECT getKW:TIGHTROPE]"
     ],
     "PROSE": [
-      "Następnego dnia ogłaszasz: „Obywatele EU obecnie mieszkający w Wielkiej Brytanii będą mogli zostać."",
-      "Prasa szaleje. Nic nowego. Artykuł wstępny <em>Hypsterionu</em> nazywa to „właściwym postępowaniem", jednocześnie wywierając presję na EU, by odwzajemniła gest.",
-      "Nagłówek <em>Daily Heil</em>? Naturalnie nie są zadowoleni. „Sprzedani za bezcen!" — krzyczy nagłówek.",
-      "<em>Klaxon</em>? „To brukselski poker, a premier pasuje!"",
-      "I tak dalej. Pocieszające, że <em>Tomahawk</em> uważa to za ryzykowne, ale mogące się opłacić. „Pod prąd" — tak to nazywają.",
+      "Następnego dnia ogłaszasz: „Obywatele EU obecnie mieszkający w Wielkiej Brytanii będą mogli zostać.”",
+      "Prasa szaleje. Nic nowego. Artykuł wstępny <em>Hypsterionu</em> nazywa to „właściwym postępowaniem”, jednocześnie wywierając presję na EU, by odwzajemniła gest.",
+      "Nagłówek <em>Daily Heil</em>? Naturalnie nie są zadowoleni. „Sprzedani za bezcen!” — krzyczy nagłówek.",
+      "<em>Klaxon</em>? „To brukselski poker, a premier pasuje!”",
+      "I tak dalej. Pocieszające, że <em>Tomahawk</em> uważa to za ryzykowne, ale mogące się opłacić. „Pod prąd” — tak to nazywają.",
       "EU jest bardzo zadowolona. Główny negocjator EU mówi ci, że zrobi co w jego mocy, żeby odwzajemnić gest, ale musi uzyskać zgodę Rady Unii Europejskiej."
     ],
     "REPORT": [
@@ -288,7 +288,7 @@
       "[EFFECT Authority-1]"
     ],
     "PROSE": [
-      "Kilka dni później dowiadujesz się, że prasa odkryła, dokąd jedziesz na wakacje. No dobrze, nie masz nic do ukrycia. Ale wygląda na to, że ktoś wychwycił coś, co powiedziałeś, gdy jeden z twoich asystentów rezerwował wakacje. „PREMIER DRWI: «ZNIŻAM SIĘ DO SUSSEX»!" — głosi nagłówek <em>Klaxona</em>. Nawet <em>Daily Heil</em> podchwycił: „«WOLAŁBYM BYĆ WE FRANCJI» — PREMIER DO WSPÓŁPRACOWNIKÓW."",
+      "Kilka dni później dowiadujesz się, że prasa odkryła, dokąd jedziesz na wakacje. No dobrze, nie masz nic do ukrycia. Ale wygląda na to, że ktoś wychwycił coś, co powiedziałeś, gdy jeden z twoich asystentów rezerwował wakacje. „PREMIER DRWI: «ZNIŻAM SIĘ DO SUSSEX»!” — głosi nagłówek <em>Klaxona</em>. Nawet <em>Daily Heil</em> podchwycił: „«WOLAŁBYM BYĆ WE FRANCJI» — PREMIER DO WSPÓŁPRACOWNIKÓW.”",
       "Kiedy to powiedziałeś? Nie pamiętasz, choć brzmi to całkowicie wiarygodnie. Naprawdę musisz być ostrożniejszy w przyszłości. To jak sito, ten urząd.",
       "Reszta artykułu rozwodzi się nad tym, jak zlekceważyłeś ciężko pracujących winiarzy z południowej Anglii, i że może jesteś potajemnym zwolennikiem Remain, a jeśli tak lubisz dobre wina, to powinieneś był po prostu to powiedzieć wprost.",
       "To niesprawiedliwe, ale czego się można spodziewać? To brytyjska prasa tabloidowa. Gazety poważne wydają się mówić, że lubienie dobrego wina i jeżdżenie na wakacje do Europy jest w porządku — w końcu jesteś szanownym torysowskim premierem — ale powinieneś mieć odwagę przekonań i po prostu jechać, gdzie chcesz."
