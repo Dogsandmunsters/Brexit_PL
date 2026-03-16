@@ -1,0 +1,257 @@
+{
+  "441": {
+    "PROSE": [
+      "That was positively brain numbing. Still, you reckon you've got your head around the single market. You turn off your laptop and pull up the duvet cover, thoughts of the single market whirling around inside your brain. If you let yourself agonize over that you'll be awake all night. You need to think about something else – holidays for instance. Ah yes, much more soothing. You start to doze off, thoughts of wine and roses in your head.",
+      "What's it to be? Wine tasting in France? Or wine tasting in Sussex and Kent?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Choose\" ►619"
+    ]
+  },
+  "442": {
+    "ROUTES": [
+      "[IF keyword:UNCTION] ►833",
+      "[ELSE] ►634"
+    ]
+  },
+  "443": {
+    "PROSE": [
+      "Stollard scoops some fruit out of the bowl in the middle of the table. 'Let's say this grapefruit is the EU. The other grapefruit is the US, roughly the same size economy. China is the orange. Japan is about a quarter as big as the EU economy, so it's this apple. A nice juicy plum will do for Germany – I love these mirabelles; they're prohibited by US import laws, you know. And then Russia, Brazil and Britain are half a tangerine each.'",
+      "'Ooh, I'll have that other half tangerine if it's going spare.'",
+      "'That was France,' says the Chancellor as Strewel pops it into his mouth.",
+      "'So you're making out we're just half a tangerine, alongside a grapefruit!' protests Dent. 'That's a pretty unpatriotic picture to paint.'",
+      "No doubt the sight of the fruit bowl has put him in mind of a Cézanne still life. You all sit looking at it in contemplative silence for a few moments while Stollard pulls up a chart on his iPad. 'The EU's economy is about $18 trillion. Ours, given the pound now, is here – a pip or two over $2 trillion, just ahead of France before Peter scoffed it.'",
+      "'If only we had a melon,' says Barkwell. You turn to look at him. 'I mean… the sky's the limit now we don't have the EU holding us back, eh? We don't have to settle for a grapefruit, we can have the whole bowl.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►454"
+    ]
+  },
+  "444": {
+    "ONENTER": [
+      "[EFFECT Authority+10]",
+      "[EFFECT Goodwill-15]",
+      "[EFFECT Popularity+5]",
+      "[EFFECT getKW:BLEAK]"
+    ],
+    "PROSE": [
+      "You manage to get the Commission to accept a stopgap solution. Britain will pay its membership fees up until the point of Brexit, along with ongoing payments for British EU officials' pensions and limited contributions to the EU budget for investments that will benefit the UK. Those comprise the bare minimum you'd have to pay anyway while still an EU member, with none of the threatened exit fee payments. On the principle of a bird in the hand, the general mood of the 27 is to go along with it for now and get to the meat of negotiations.",
+      "That's the part of the deal you let the press get excited about. A couple of weeks later the news leaks out that Britain will also continue to pay into the EU budget to secure a transitional arrangement after 2019. Some of the more extreme Europhobes get in a fury about that, but their fulminations are drowned out by the general euphoria of having apparently stuck it to the EU.",
+      "'We might end up having to pay the full bill anyway,' your chief of staff points out back at Downing Street. 'They'll take the exit fee as far as the International Court, which is hardly likely to decide that a country can break commitments willy-nilly.'",
+      "'Oh, Ron, try to see the glass half-full for once. If the court does rule against us, we can argue that the transitional payments should be counted as down payments against the full fee. And that will all come home to roost after the next election, when I should have a pretty unassailable majority as long as Labour don't wake up.'",
+      "He sticks his unlit pipe in his mouth and chews the stem fretfully. 'Maybe. But we'll need to ride out the reduced value of Britain's word internationally, along with a probable drop in credit rating. The storm's not rattling the teacups at home just yet, but out there it's raising Cain.'"
+    ],
+    "REPORT": [
+      "<strong>+10% Authority</strong>: nobody is going to challenge your leadership of the party for a while now.",
+      "<strong>-15% Goodwill</strong>: your confrontational approach has lost friends among the other EU states.",
+      "<strong>+5% Popularity</strong>: the voters perceive this as a strong move."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"You can weather it\" ►150"
+    ]
+  },
+  "445": {
+    "PROSE": [
+      "You throw yourself into a heated TV debate in which you argue the case for a soft Brexit.",
+      "The ubiquitous Martin Mugglemore is chairing the debate. 'So, Prime Minister,' he asks, 'you're saying we can have our cake and eat it.'",
+      "'Only if you think that Norway is, or Switzerland. Look, Martin, no club can have a one-size-fits-all. Britain's circumstances are different from Lithuania's or Poland's. We have one foot on the world stage, one foot in Europe. It makes sense for all concerned to find a deal that helps us to remain close to the EU while being free to pursue our global interests too.'",
+      "'But staying in the single market, that means remaining subservient to the rulings of the European Court of Justice, doesn't it? What's the point of leaving at all if we're still having to sacrifice our sovereignty?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Every market has to have laws. When a trader wheels his barrow into the town square and stacks up his loaves of bread, he's agreeing to abide by the laws of the street market. It doesn't mean he isn't in charge of his own business.'\" ►689",
+      "[OPTION] \"'There's no loss of sovereignty if we voluntarily accept the European Court's rulings.'\" ►723"
+    ]
+  },
+  "446": {
+    "ROUTES": [
+      "[IF keyword:FOG] ►91",
+      "[ELSEIF keyword:GAZELLE] ►434",
+      "[ELSE] ►10"
+    ]
+  },
+  "447": {
+    "PROSE": [
+      "Time to give him a lesson in the new politics of Britain. You wave a dismissive hand at the chamber behind you. 'What do you think happens if they reject the deal we have?'",
+      "'I suppose we have to go back and ask the EU for an extension. Hammer out a new deal?'",
+      "'Not a bit of it. We're quitting the EU on 29 March. Nothing can stop that. They already voted to trigger Article 50, bless their cotton socks, and that date is on the front page of the bill. So the only power they have now is to say no to the trade arrangement we've negotiated, in which case that blows up and we crash out to WTO rules instead.'",
+      "'And that means…'",
+      "'No deal is worse than the worst negotiated deal, as any fule kno. So this vote they're going to get, it's just rubber-stamping the inevitable.'",
+      "You're right. The Commons votes almost unanimously for the deal you have struck with the EU, and although there is some criticism in the Lords you can safely ignore that."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►806"
+    ]
+  },
+  "448": {
+    "ROUTES": [
+      "[IF keyword:CLARION] ►794",
+      "[ELSE] ►321"
+    ]
+  },
+  "449": {
+    "ROUTES": [
+      "[IF !keyword:BLEAK AND !keyword:HEMLOCK] ►778",
+      "[ELSE] CONTINUE"
+    ],
+    "PROSE": [
+      "Your track record speaks for you."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Quite right\" ►645"
+    ]
+  },
+  "450": {
+    "ROUTES": [
+      "[IF box:450.box1] ►385",
+      "[ELSE] CONTINUE"
+    ],
+    "PROSE": [
+      "Perhaps you need a break? Pressure of the job starting to take its toll? This is the final phase of talks, so it's a good time to take a breather if you need one. On the other hand, if you have the energy to make that final push towards a successful Brexit, read on.",
+      "Time is running out, and you can't be everywhere at once. Still, don't they say that a good leader learns to delegate? With only a few months left before Brexit, you can see to just a single major issue in person."
+    ],
+    "OPTIONS": [
+      "[IF !item:the NHS AND !box:450.box2] [OPTION] \"Deal with the NHS\" [EFFECT tick:450.box1] [EFFECT tick:450.box2] ►803",
+      "[IF !item:Second EU Referendum AND !box:450.box3] [OPTION] \"Decide whether to hold a second referendum on Brexit\" [EFFECT tick:450.box1] [EFFECT tick:450.box3] ►192",
+      "[IF !item:Residency Rights AND !box:450.box4] [OPTION] \"Tackle the issue of the residency rights of UK and EU citizens\" [EFFECT tick:450.box1] [EFFECT tick:450.box4] ►638",
+      "[IF !item:Security & Defence AND !box:450.box5] [OPTION] \"Deal with the question of UK/EU security and defence cooperation\" [EFFECT tick:450.box1] [EFFECT tick:450.box5] ►420",
+      "[IF !item:General Election AND !box:450.box6] [OPTION] \"Attempt to call a general election\" [EFFECT tick:450.box1] [EFFECT tick:450.box6] ►416",
+      "[IF keyword:APRICITY AND !item:Exit Fee AND !box:450.box7] [OPTION] \"Agree the exit fee Britain must pay to the EU\" [EFFECT tick:450.box1] [EFFECT tick:450.box7] ►611",
+      "[IF !item:EU Trade Talks AND !box:450.box8] [OPTION] \"Deal with EU Trade Talks\" [EFFECT tick:450.box1] [EFFECT tick:450.box8] ►688",
+      "[IF !item:International Trade Deals AND !box:450.box9] [OPTION] \"Start talks on international trade deals\" [EFFECT tick:450.box1] [EFFECT tick:450.box9] ►335"
+    ]
+  },
+  "451": {
+    "ONENTER": [
+      "[EFFECT Authority+2]"
+    ],
+    "PROSE": [
+      "'There's been enough bickering. What we need to do now, what the people are telling us to do, what I've always been very keen to do – is get on with the job.'"
+    ],
+    "REPORT": [
+      "<strong>+2% Authority</strong>: your rivals get the message."
+    ],
+    "GOTO": [
+      "[IF keyword:YELLOW] \"Onwards\" ►670",
+      "[ELSE] \"Onwards\" ►163"
+    ]
+  },
+  "452": {
+    "PROSE": [
+      "You throw yourself into a heated TV debate in which you argue the case for a soft Brexit.",
+      "The ubiquitous Martin Mugglemore is chairing the debate. 'So, Prime Minister,' he asks, 'you're saying we can have our cake and eat it.'",
+      "'Only if you think that Norway is, or Switzerland. Look, Martin, no club can have a one-size-fits-all. Britain's circumstances are different from Lithuania's or Poland's. We have one foot on the world stage, one foot in Europe. It makes sense for all concerned to find a deal that helps us to remain close to the EU while being free to pursue our global interests too.'",
+      "'But staying in the single market, that means remaining subservient to the rulings of the European Court of Justice, doesn't it? What's the point of leaving at all if we're still having to sacrifice our sovereignty?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Every market has to have laws. When a trader wheels his barrow into the town square and stacks up his loaves of bread, he's agreeing to abide by the laws of the street market. It doesn't mean he isn't in charge of his own business.'\" ►614",
+      "[OPTION] \"'There's no loss of sovereignty if we choose to accept the European Court's rulings.'\" ►757"
+    ]
+  },
+  "453": {
+    "PROSE": [
+      "After some more exchanges, many of them heated, the President of the Council asks you what you would propose.",
+      "'One option is to invoke the emergency brake. Article 112 of the European Economic Area agreement allows for restrictions to be placed on freedom of movement. If Britain were to apply that same principle, we could get our immigration under control while still remaining eligible for access to the single market.'",
+      "'I have the relevant article from the EEA agreement here,' says the President of the Commission. 'I will read it for the benefit of the ministers. \"If serious economic, societal or environmental difficulties of a sectorial or regional nature liable to persist are arising, a contracting nation may unilaterally take appropriate measures.\"'",
+      "'I don't understand,' says the French President. 'Those EU citizens aren't a drain on your social services. In fact, they create wealth for Britain. And you have fewer EU citizens living in Britain than we do, or Germany, or Spain.'",
+      "'We have a million Britons living in our country,' puts in the Spanish prime minister. 'Should I call a state of emergency?'",
+      "'The British don't call their own people immigrants,' the Greek prime minister tells him. 'When they're living in your country they're ex-pats.'",
+      "'There you have it,' says the French President. 'How can you justify using the emergency brake? In what way is this an emergency?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'It's a social emergency.'\" ►147",
+      "[OPTION] \"'Well then, what do you suggest?'\" ►223",
+      "[OPTION] \"'If we can't use the brake then it'll have to be a visa system.'\" ►839"
+    ]
+  },
+  "454": {
+    "PROSE": [
+      "Apparently World Trade Organization rules aren't the smooth, regulation-free trading nirvana you'd been led to expect. Better drill down and find out where the snares are."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'What kind of trade disputes might we need to watch out for?'\" ►741",
+      "[OPTION] \"'Britain has the fifth or sixth biggest economy in the world. Surely that gives us some leverage?'\" ►443",
+      "[OPTION] \"'Presumably the big advantage of WTO rules is that they are truly international.'\" ►590",
+      "[OPTION] \"'If we fall back on WTO rules, what are the benefits and disadvantages of that?'\" ►813",
+      "[OPTION] \"'Let's look at the alternatives.'\" ►56"
+    ]
+  },
+  "455": {
+    "PROSE": [
+      "For reasons of their own, Labour go along with the motion. Perhaps it's true that Scraggle's faction actively welcomes the decimation of the party as a means to rebuild it in a more Marxist form. Who cares? Now that their support has granted you the snap election you sought, they will never be in power again."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►428"
+    ]
+  },
+  "456": {
+    "PROSE": [
+      "Fungale leans back in his chair. 'I just wanted to point out that Bob is answering a completely different question.'",
+      "That gets a big laugh. Fungale milks it by looking around with a smirk. Bob Owlbear blinks behind his glasses, baffled as a panda that's been poked awake with a stick.",
+      "'Does immigration have an effect on wages?' Mugglemore reminds him. 'I think that was the question. Was it? Yes.'",
+      "'All right,' says Owlbear. 'Well the simple answer is that in skilled professions immigration doesn't make any difference to wages. There's a shortage of people to do those jobs anyway. In lower-skilled areas, all right, the projections I've seen are that shutting off immigration altogether might raise wages, but only by a tiny amount. Just half a percent. Negligible compared to the economic benefits to the country.'",
+      "'That's what the experts say, is it?' says Fungale. 'I wonder if any of them ever carried a hod full of bricks on a freezing cold day.'",
+      "'Unskilled workers aren't coming here,' puts in Lucy Tooth. 'They go to countries where there's lots of unskilled work. Duh.'",
+      "'Stupid woman!' you yell at the screen. 'You could have scored a point there if you'd asked Fungale the last time he worked on a building site.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Listen to what else she has to say\" ►771",
+      "[OPTION] \"Find another question\" ►405",
+      "[OPTION] \"Give up and get a good night's sleep\" ►125"
+    ]
+  },
+  "457": {
+    "PROSE": [
+      "'Free movement is one of the bits of the agreement that keeps threatening to push everything else over,' says the Chancellor. 'Switzerland has a free movement treaty with the EU, but their referendums keep sticking a spoke in the bicycle wheels. A few years ago they voted to give employment priority to Swiss citizens. The Swiss government watered it down, but not enough for the EU's liking. Now there's a ninety-day limit on Swiss nationals offering services in the EU, and Swiss universities lost out on £1.5 billion in scientific research funding they had been due to receive from the EU.'",
+      "'It's outrageous, really, and another clear case of EU bullying,' snorts Barkwell. 'Immigration to Switzerland is out of control. It's twice what it is here in Britain. They try to apply some sanity and the EU start shaking the stick.'",
+      "Strewel is nodding vehemently. 'Some EU chimp named Popocatapetowski or something had the cheek to tell the Swiss they needed to rethink their logic. He more or less told them to hold another referendum and get it right this time.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'What about financial services?'\" ►394",
+      "[OPTION] \"'I think the takeaway here is the Swiss do have sovereignty. They can stand up against EU laws if they want to.'\" ►509"
+    ]
+  },
+  "458": {
+    "ONENTER": [
+      "[EFFECT Economy+5]",
+      "[EFFECT Goodwill+10]",
+      "[EFFECT Popularity+5]",
+      "[EFFECT getItem:Residency Rights]"
+    ],
+    "PROSE": [
+      "As you've agreed to a modified form of free movement, the issue of EU and UK nationals living in each other's countries is now superfluous. You announce a mutual agreement permitting those citizens to keep their residency status following Brexit."
+    ],
+    "REPORT": [
+      "<strong>+5% Economy</strong>: that's three million taxpayers you don't have to say goodbye to.",
+      "<strong>+10% Goodwill</strong>: your reasonable approach is making you friends in Europe.",
+      "<strong>+5% Popularity</strong>: to your surprise, the decision is welcomed at home too."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"You're on a roll\" ►200"
+    ]
+  },
+  "459": {
+    "PROSE": [
+      "'I'm not sure if that will quite wash, Prime Minister. Not so long ago you were campaigning for us to stay in the EU. Do you deny it?'",
+      "'Yes. Well, no, but… Um. There were different… er… The circumstances, Bill. That was then, and now is – well, now.'",
+      "The rest of the interview goes like a dream. A fever dream. The sort of dream where your toys leer at you from rough  pillow canyons and your own limbs feel like beached whales. When you come out of the studio, Terri Trough greets you with a face like her cat just died.",
+      "'Apart from that one tricky question, how did the rest of it sound?' you ask her.",
+      "She looks at you with shell-shocked eyes. 'The rest of it? That's all they'll remember.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►377"
+    ]
+  },
+  "460": {
+    "PROSE": [
+      "Strong conviction is so often the cause of bad governance. Who in their right mind would choose to be led by a Robespierre or a Franco? And yet it's the pragmatists of history who get a bad press. Machiavelli, Talleyrand – 'shit in silk stockings,' Napoleon called him. Why? Because he wasn't dogmatic enough to get half a million men killed in a pointless invasion of Russia?",
+      "'It's not fair!'",
+      "Everyone's looking at you. Sir Harvey Doggerbank still has the results of the last round of Parliamentary voting in his hand.",
+      "'Did I say that out loud? Sorry.'",
+      "You lost. And so Noysom-Reek and Stollard go through to the membership vote. Whichever of them is picked, surely Labour will be the eventual winners. But that's no longer your problem.",
+      "'Where do you think you will go, Prime Minister?' asks Wilkins later as he packs your things.",
+      "You gaze out of the windows of Number 10 at the driving rain, the sullen streetlight, the grey streets, the huddled umbrellas.",
+      "'Anywhere but Britain, Wilkins.'",
+      "<p class=\"centered\">THE END</p>"
+    ]
+  }
+}

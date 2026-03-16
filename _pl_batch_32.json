@@ -1,0 +1,281 @@
+{
+  "621": {
+    "PROSE": [
+      "The Chancellor sighs at the very thought of explaining it. 'I'm not sure if you want to know.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'You're right. Forget it.'\" ►378",
+      "[OPTION] \"'Tell me anyway.'\" ►832"
+    ]
+  },
+  "622": {
+    "PROSE": [
+      "Along with the other EU heads of state, you attend a summit of the European Council in Rome. The hope is you can hammer out preliminary terms for a deal on free movement. On the way to the first meeting you're still going over the options with your press secretary.",
+      "'Lizzie, you know, I'm wondering – if even Denis Dent now admits we will need to keep EU labour coming into Britain for \"years and years\", why don't we trade that off against a transitional acceptance of free movement. That way we can do a Norway-type deal rather than leaving the single market outright.'",
+      "'The trouble is, Prime Minister, that the steaming mad Brexit contingent would see any interim plan like that as a threat to actually going ahead and leaving. In fact, Fungale said exactly that yesterday in a speech. We can't lift that rock even a crack or there's no telling what will come out from under it.'",
+      "You gaze out of the car window at the shattered façade of the Colosseum. 'Is it possible that human beings can produce such a sound?'",
+      "'Pardon me, Prime Minister?'",
+      "'Nero. In the Peter Ustinov film. It didn't end well for him or the empire.'",
+      "At the meeting you're greeted first by Chancellor Käsen of Germany. 'So, free movement.'",
+      "What is she, a sphinx? 'Yes, free movement,' you echo back.",
+      "'You will need it too. Yours is a service economy, and that often means workers must live abroad, not true?'",
+      "'That's what we're here to discuss.'",
+      "The other ministers take their places and wait for you to state your case. After some preamble you get to the point. 'The British people have voted largely on the basis of immigration.'",
+      "'And why does Britain need special treatment?' asks the Austrian chancellor. 'You don't have so many more EU citizens relocating compared to others.'",
+      "'We're a rich country, so people want to live in Britain. But we're an island nation, so our culture is precious to us and it's hard to integrate people from the continent.'",
+      "'Even so, are the British people so insular, then?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"You won't stand for that kind of talk!\" ►712",
+      "[OPTION] \"Count to ten. Be conciliatory\" ►15"
+    ]
+  },
+  "623": {
+    "PROSE": [
+      "Before presenting your proposals to the EU negotiator, you hold a final consultation with the Home Secretary, Tiffany Rufus, and the Secretary of State for Exiting the European Union, Dennis Dent.",
+      "'As I see it I have three options,' you begin. 'The first is to unilaterally guarantee the rights of EU citizens to remain here, irrespective of the EU's stance to our own ex-pats.'",
+      "'That'll earn us some goodwill,' says Dent, with as much enthusiasm as he might show for the benefits of chemotherapy. 'We'd expect the EU to do the same for our citizens in return, of course.'",
+      "'Which is not a foregone conclusion,' says Rufus. 'The Spanish might kick up a stink, for one. The Gibraltar question, I mean.'",
+      "You wave her point aside. 'That's a risk in any case.<strong> </strong>Another option is to simply fail to guarantee residency rights. I don't mean we should come out and say we're going to repatriate them. We just say nothing. Kick the can down the road a bit. Hold out for some concessions.'",
+      "'The risk there is we end up with no deal,' says Rufus.",
+      "Dent shakes his head. 'They'll give in. They've got more to lose than us. Loads more EU citizens over here than we've got over there.'",
+      "'The problem is that many EU citizens over here hold vital jobs in the NHS, care homes, agriculture and so on,' points out Rufus. 'The Spanish aren't quite so dependent on all the British pensioners pushing Zimmer frames up and down their seafront.'",
+      "'The third option is to simply start negotiations right away.  I could call Alprèves, tell him we want to thrash out a deal giving reciprocal rights to our citizens on both sides.'",
+      "'There's a fourth option,' says Dent.",
+      "'Which is?'",
+      "'Boot them out. So what if the EU retaliate by sending ours home? We get to announce that three million immigrants are being sent home.'",
+      "'There'll be champagne toasts in every chip shop and bingo hall throughout the land,' says Rufus drily.",
+      "Decision time. What's it going to be?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Unilaterally guarantee EU citizens' right to remain in Britain\" ►139",
+      "[OPTION] \"Start negotiating with the EU to agree reciprocal rights for UK and EU nationals currently residing aboard\" ►319",
+      "[OPTION] \"Announce that EU citizens in the UK will be told to leave after Brexit\" ►554",
+      "[OPTION] \"Ignore it and see what the EU Commission decides to do\" ►150"
+    ]
+  },
+  "624": {
+    "PROSE": [
+      "With your chief of staff and some other Downing Street staff, you settle down to watch the votes come in. Exit polls hint that the public mood is for moderating or even reversing Brexit altogether. At least, having kept out of the fray, you should escape any fallout whatever the result may be."
+    ],
+    "TOSS_TWO": [
+      "[BOTH HEADS] \"Continue\" ►173",
+      "[BOTH TAILS] \"Continue\" ►403",
+      "[HEAD AND TAIL] \"Continue\" ►313"
+    ]
+  },
+  "625": {
+    "PROSE": [
+      "That's music to Barkwell's ears. He visibly puffs up with thoughts of soaring patriotism. 'That's the ticket. Make them squirm. They need us more than we need them, after all.'",
+      "'Maybe,' says the Chancellor drily. 'You've seen <em>Blazing Saddles</em>, haven't you? \"The next man that makes a move…\"? Hopefully the EU27 will fall for it.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►666"
+    ]
+  },
+  "626": {
+    "PROSE": [
+      "Luckily Labour doesn't know where to turn. Its young, educated, metropolitan voters are for Remain, but to avoid losing the dependable old working class vote the party has had to get behind Brexit. As long as Labour let you take the lead there, surely they're going to keep dropping in the polls faster than Icarus on a sunny day. Or perhaps you should say Lucifer after his rebellion.",
+      "The Almighty puts a thought in your head. Scraggle will try to turn the debate to issues where Labour is on stronger ground. The NHS, schools, public services, and other Trotskyite notions. No chance – the next election will be about one thing only. Brexit.",
+      "'Citizens of nowhere!' you cry aloud. 'Bring me my chariot of fire.'",
+      "Wilkins looks around the door. 'Prime Minister?'",
+      "'Get out. Can't you see I'm praying?'",
+      "Wilkins tiptoes out and quietly pulls the door to, in much the same way as you foresee Barry Scraggle departing after the next election. Gone without a trace. Not even a ripple on the political consciousness. Or perhaps that's unfair. You will remember him kindly for one thing, at least – consigning his party to a couple of decades in limbo. And you have that assurance on the very highest authority."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"But what about the Liberal Democrats?\" ►784",
+      "[OPTION] \"What's the procedure for calling an early election?\" ►35",
+      "[OPTION] \"Presumably you'd pick up no seats north of the border\" ►3",
+      "[OPTION] \"Say amen and get on with the business of government\" ►666"
+    ]
+  },
+  "627": {
+    "PROSE": [
+      "Your backbenchers are reluctant to blackball a man with the grassroots support of Colin Fungale. But Sir Harvey Doggerbank, the head of the 1922 Committee, has been your staunch ally since you impressed him at that meeting in your office shortly after triggering Article 50. Over drinks in the Commons bar and golf games out in Berkshire he drums up support for your view, and Fungale's application is duly rejected."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►375"
+    ]
+  },
+  "628": {
+    "ROUTES": [
+      "[IF item:Security & Defence] ►468",
+      "[ELSE] ►705"
+    ]
+  },
+  "629": {
+    "PROSE": [
+      "'We're going to have a shortage of labour after Brexit,' the Chancellor reminds you.",
+      "'Doctors, nurses… Yes, I suppose we'll have to step up immigration from India and the Caribbean, even though the Brexit voters are going to hate that.'",
+      "'Actually I was thinking of unskilled and semi-skilled workers. The sort of menial job that no coddled British school-leaver would dream of doing.'",
+      "'Alan, I've told you before about this. Don't bring me problems, bring me – '",
+      "'I have the solution right here, Prime Minister. A special visa deal with Turkey. President Yalayip Kulübe will go along with anything that makes it look as if his country is getting more acceptance by the West.'",
+      "'If only to cock a snook at the EU.'",
+      "Will you agree to the deal making it easier for Turkish workers to get a visa to the UK?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Yes\" ►555",
+      "[OPTION] \"No\" ►175"
+    ]
+  },
+  "630": {
+    "PROSE": [
+      "'Might as well get this show on the road, eh?' says Strewel.",
+      "The hush of an angel passing. No one seems in a particular hurry to get the ball rolling.",
+      "'Prime Minister, why don't you start by telling us your thinking?' asks Barkwell after a few moments. Dent and Stollard look at you expectantly. What will you say?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Clearly our highest priority should be remain within the single market.'\" ►247",
+      "[OPTION] \"'Our interests are best served by forging a new bespoke trade arrangement.'\" ►836",
+      "[OPTION] \"'While we obviously cannot accept the terms the EU would impose for staying in the single market, we could opt for membership of the European Customs Union.'\" ►367"
+    ]
+  },
+  "631": {
+    "ONENTER": [
+      "[EFFECT Economy-5]",
+      "[EFFECT Goodwill+5]",
+      "[EFFECT Popularity-5]",
+      "[EFFECT getItem:Exit Fee]"
+    ],
+    "PROSE": [
+      "'But not so much, monsieur.' He looks across the table, his smile now more quizzical than amused. You hold up your fingers, just as far apart as a sugar cube, then narrow them to half that. 'In Britain we have an expression: \"What's the discount for cash?\"'",
+      "'Prime Minister, really, we are not horse trading now.'",
+      "'Come. You asked for this to be resolved quickly. We're accommodating you. But you can't expect us to simply agree to the sum you stuck a pin in. Where's the goodwill?'",
+      "'I don't see how you can dispute the fairness of the calculation.'",
+      "It would be a good line if he didn't immediately start pulling out spreadsheets. You've got him on the defensive. And <em>that</em><em>'</em><em>s</em> how you move a mountain.",
+      "Negotiation of the next few days is hard, but it is in everyone's interest to reach an amicable solution. You manage to restrict Britain's payments to the seven-year budget, not the extra three years that Alprèves started out by demanding. You manage to get contingent liabilities excluded – that is, payments for which EU members are liable in the event of unexpected circumstances like Greece defaulting on its loans. Then there are deductions that reflect Britain's share of EU assets such as the European Investment Bank. Best of all, you succeed in getting Britain's 2018 rebate factored against the total.",
+      "The final sum is just over €30 billion, and with some massaging you're able to sell that as having halved the bill. The more extreme right-wing press are annoyed that you agreed to any payment at all, but in general it's about as good an outcome as you could have hoped for.",
+      "'If only the rest of the talks go that well,' the Chancellor remarks to you back at Downing Street. He shows you the morning papers. 'The <em>Heil</em> led with \"DAYLIGHT ROBBERY\", but the broadsheets generally took a measured view. \"BRITAIN SHOWS STRENGTH IN EARLY TALKS,\" as the <em>Mimeograph</em> put it.'"
+    ],
+    "REPORT": [
+      "<strong>-5% Economy</strong>: the payments must be made somehow.",
+      "<strong>+5% Goodwill</strong>: the EU are encouraged by your cooperative approach.",
+      "<strong>-5% Popularity</strong>: the right-wing press are not happy that any concessions are being made.",
+      "The exit fee has been agreed."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Carry on\" ►150"
+    ]
+  },
+  "632": {
+    "PROSE": [
+      "'You've got the humanitarian stuff. Making sure medical supplies get through, sorting out clean water, and so on. Trouble starts with shooting and moves on to the other horsemen, you know.  Then there's peacekeeping, like Operation Artemis in the Congo where the job was to de-escalate a sticky situation. That one was the first EU mission without NATO involvement. France was what they call the \"framework\" force there. Another one of those is monitoring the ceasefire in Georgia. And thirdly you've got your military advice and assistance, e.g. – ' he actually says that – 'to a lawful government that's facing rebels, or buffing up border patrols in Ukraine to watch out for smugglers and Russian troublemakers.'",
+      "'You mentioned France taking part in these operations, but I imagine Britain plays her part?'",
+      "He sucks his teeth. 'We're ranked fifth in terms of our commitment to joint military operations. As far as civilian-type missions – well, you wouldn't expect us to get so involved there, would you? Don't put an attack dog at the garden gate, do you? So there we're seventh.'",
+      "You both stand contemplating how to spin this. Naturally it comes to you first: 'But we're constantly pulling our weight in NATO, aren't we? So overall we're doing far more than all the others.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Ask him how such EU missions are authorized\" ►343",
+      "[OPTION] \"Talk about something else\" ►432"
+    ]
+  },
+  "633": {
+    "PROSE": [
+      "Tode agrees to throw his support behind you. It's not that he commands a large following in the party so much as that a stiletto in his hand, slid between Strewel's amply gristle-padded ribs, carries extra poison.",
+      "Strewel's campaign is duly scuppered. He struggles on, but he's a dead man walking."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►519"
+    ]
+  },
+  "634": {
+    "PROSE": [
+      "It's going to be hard to pull off a switch to the soft-Brexit side of Tiffany Rufus. Do you have the credentials to back up your strategy?"
+    ],
+    "GOTO": [
+      "[IF keyword:OPAL] \"Carry on\" ►74",
+      "[ELSEIF keyword:CLARION] \"Carry on\" ►652",
+      "[ELSEIF keyword:SANCTION AND Popularity>=54] \"Carry on\" ►489",
+      "[ELSE] \"Carry on\" ►19"
+    ]
+  },
+  "635": {
+    "PROSE": [
+      "Dent backs out of the contest in return for your promise to appoint him to the Treasury. With his open support, you are seen as the most statesmanlike candidate between the extremes of lashed-to-the-mast nationalism on one hand and the backroom deals and backsliding of a diluted Brexit on the other."
+    ],
+    "GOTO": [
+      "[IF keyword:UNCTION AND Popularity>=46] \"Continue\" ►728",
+      "[ELSE] \"Continue\" ►818"
+    ]
+  },
+  "636": {
+    "PROSE": [
+      "Chancellor Käsen just doesn't get it. Even though five years might be long enough for the Remain vote to overtake Leave, the Europhobic mindset is firmly entrenched in British political thought. Having once ruled three-quarters of the globe, we can never sit among the rest as mere equals. Throughout the UK's four decades as part of the European Union we were never able to commit to membership, never willing to participate in the shared project, and that's why this day was always inevitable."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Maybe it's not too late to propose a form of associate membership, with reduced involvement by Britain in EU funding and government in return for a partial opt-out of freedom of movement\" ►842",
+      "[OPTION] \"The simplest solution is just to introduce visas. EU citizens will be able to apply to move to Britain and, if eligible, will be granted a work permit\" ►839"
+    ]
+  },
+  "637": {
+    "PROSE": [
+      "The second and final heat results in a solid majority in favour of hard Brexit.",
+      "'We've been down this road before, haven't we?' says the Chancellor.",
+      "'But it wasn't clear then, was it? Did the public want a mere tweak to the status quo, or did they want us to crash them through to a whole new reality? Now we know.'",
+      "He frowns. 'I wonder if they would have voted for hard Brexit if it had been an option in the original referendum? Probably not. The last two years have moved the goalposts.'",
+      "'Get used to the new normal.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►446"
+    ]
+  },
+  "638": {
+    "PROSE": [
+      "Before presenting your proposals to the EU negotiator, you hold a final consultation with the Home Secretary, Tiffany Rufus, and the Secretary of State for Exiting the European Union, Dennis Dent.",
+      "'As I see it I have two options,' you begin. 'The first is to unilaterally guarantee the rights of EU citizens to remain here, irrespective of the EU's stance to our own ex-pats.'",
+      "'That'll earn us some goodwill,' says Dent, with as much enthusiasm as he might show for the benefits of chemotherapy. 'We'd expect the EU to do the same for our citizens in return, of course.'",
+      "'Hardly a foregone conclusion,' says Rufus. 'The Spanish for one might kick up a stink. The Gibraltar question, I mean.'",
+      "You wave her point aside. 'That's a risk in any case.<strong> </strong>The other option is for us to throw the EU nationals out. Following Brexit they'll just be regarded like any other foreigners applying to live here.'",
+      "'The EU won't like that,' says Dent. 'It'll go down a storm in the Conservative heartlands, of course, which should put paid to what's left of UKIP.'",
+      "'But what if the EU respond by allowing our citizens to stay over there?' says Tiffany Rufus. 'We'll look like the nasty party.'",
+      "'There's another option,' says Dent.",
+      "'Which is?'",
+      "'Do nothing. Let Europe take the lead.'",
+      "Decision time. What's it going to be?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Unilaterally guarantee EU citizens' right to remain in Britain\" ►589",
+      "[OPTION] \"Announce that EU citizens in the UK will be told to leave after Brexit\" ►422",
+      "[OPTION] \"See if you can negotiate a joint announcement by Britain and the EU\" ►359",
+      "[OPTION] \"Ignore it and see what the EU Commission decides to do\" ►666"
+    ]
+  },
+  "639": {
+    "PROSE": [
+      "Before you can get around to arranging a formal briefing on EU citizens living in Britain, you get an unexpectedly personal insight into their concerns.",
+      "'We're here, Prime Minister.'",
+      "You look up from the pile of papers strewn across the back seat in time to see the quaint gateposts and beautifully trimmed hedge of your new holiday home. Beyond you catch a tantalizing glimpse of the sea.",
+      "'It's a shame the place in the Algarve had to go, Wilkins. But this doesn't look too bad.'",
+      "The house itself is an 18th century stone rectory, currently half-hidden by scaffolding. The limousine crunches to a halt on the gravel drive and as you get out the sounds of hammering, sawing and multilingual swearing can be heard from inside.",
+      "'Prime Minister!' cries a booming voice. 'Come see your new home. No, wait there. You need hard hat.'",
+      "A burly man in scuffed overalls comes out to greet you. This is Jan Dobrinski, the Polish owner of the building firm. He shows you around, introducing you to his team of about fifteen, several of whom are British.",
+      "A little later you're having a cup of tea on the lawn with Jan and his foreman, a wiry Yorkshireman called Bob, as you look over the architects' plans together. You mention future improvements you'd like to see. Perhaps a guest chalet. 'Not for this year, of course.'",
+      "'I hope I can do all this for you,' says Jan.",
+      "'Why shouldn't you?'",
+      "'I don't yet know what will happen to me and my company after Brexit.' Jan dunks a digestive into his tea like a true Brit. 'I mean my remain right.'",
+      "'I'm sorry about your vote, but democracy is democracy. The other side won.'",
+      "You glance at your watch. A few more minutes and you can claim pressing matters of state and get back to London.",
+      "'No, no – I didn't get a vote,' Jan reminds you, 'though I would have voted Remain, of course. But I mean my right to remain in the UK, along with all the other EU people.'",
+      "As Jan says this, you're looking at Bob. His eyes flick shiftily to one side. He voted Leave, then. Interesting. Maybe he wants get his boss out of the way so he can take over the business. A lot of the Cabinet probably feel the same way about you.",
+      "'There is a way to stay here,' you say, turning back to Jan. 'How long have you been in Britain?'",
+      "'Seven years now, with my wife and kids. They're at the local primary.'",
+      "'Then why not apply for permanent residence?",
+      "'Yes, I can do that after five years working, here, but actually it's my wife.'",
+      "'What about her?'",
+      "'It's her CSI.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"CSI? Does he mean the cop show?\" ►541",
+      "[OPTION] \"You won't learn anything talking to builders. You need to find an expert\" ►686"
+    ]
+  },
+  "640": {
+    "PROSE": [
+      "'It's typical of the sort of glitz EU funds are spent on. There have been three major innovation centres set up in Cornwall in the last decade catering to business and tech research, providing support to both established companies and start-ups.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Toys for the elite, then?'\" ►609",
+      "[OPTION] \"'Apart from innovation centres, what else?'\" ►86"
+    ]
+  }
+}
