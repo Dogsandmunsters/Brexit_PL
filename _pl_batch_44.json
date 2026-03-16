@@ -1,0 +1,65 @@
+{
+  "861": {
+    "PROSE": [
+      "He gazes back at you through the thick glasses that make his face look permanently surprised. Not for the first time he strikes you as a strange little meerkat, always scrutinizing people for signs of ideological impurity.",
+      "And if that's the case, what's his judgement of you?"
+    ],
+    "GOTO": [
+      "[IF keyword:BLEAK OR keyword:HEMLOCK OR keyword:KOALA OR keyword:LEAF] \"Carry on\" ►436",
+      "[ELSEIF keyword:GAZELLE OR keyword:OPAL] \"Carry on\" ►770",
+      "[ELSE] \"Carry on\" ►75"
+    ]
+  },
+  "862": {
+    "PROSE": [
+      "Your guidance in the matter comes from an ineffably knowledgeable source."
+    ],
+    "GOTO": [
+      "[IF box:862.box1] \"Amen to that\" ►170",
+      "[ELSE] [EFFECT tick:862.box1] \"Hallelujah\" ►33"
+    ]
+  },
+  "863": {
+    "PROSE": [
+      "Word comes back from the EU negotiators that it's not going to be easy. Although it's in everyone's interests to keep the close cooperation between UK and EU police forces, after Brexit that would mean EU states being liable in principle to have to extradite their own nationals to a foreign country.",
+      "'Some EU states will have to amend their constitutions to allow this,' the EU Chief Negotiator, Willy Franjeboom, remarks to you in a late-night Skype call.",
+      "'So?'",
+      "'So they may ask why, if you want a divorce, you still expect to come and sleep on the couch. I'll do what I can.'"
+    ],
+    "GOTO": [
+      "[IF Goodwill>=61] \"Continue\" ►448",
+      "[ELSE] \"Continue\" ►476"
+    ]
+  },
+  "864": {
+    "PROSE": [
+      "The final polls have support for Leave just in front. It's going to be a tight race. So much depends on whether younger voters bother to turn out. With their future riding on the outcome, you might think they would crawl over broken glass to vote. But it's politics, which has always been a dark and unknowable art."
+    ],
+    "TOSS_TWO": [
+      "[BOTH HEADS] \"Continue\" ►221",
+      "[BOTH TAILS] \"Continue\" ►429",
+      "[HEAD AND TAIL] \"Continue\" ►429"
+    ]
+  },
+  "865": {
+    "PROSE": [
+      "The two-year fuse lit by declaring Article 50 has nearly burnt out. In less than a week Brexit will be a reality. You glance out of the back window of Number 10 at the ochre-grey dusk. Just days after Brexit the clocks are due to change.",
+      "'And now we spring forward into a new era…' you rehearse. Needs work. Better give it to the speech writers.",
+      "If Labour had won the last election their ridiculous monolith of graven promises would now stand in the back garden like something out of <em>Carry On Space Odysseying</em>. Although, ironically, there's a metaphorical stone tablet whose commandments every politician is now beholden to follow. 'Thou shalt not deny that Brexit means Brexit,' and so on.",
+      "A whiff of tobacco wafts up through the open window. Craning your neck, you see the red glimmer of Ron Beardsley's pipe as he paces the darkened terrace. In a Proustian rush of memory you're taken back to your father's study one Christmas. You must have been seven or eight. Your father was writing his sermon and disliked interruption, but this was important.",
+      "'I wish to lodge a complaint about this present, Daddy,' you told him.",
+      "He set aside his pen and studied the object you were holding. 'It appears to be the unicorn you asked for.'",
+      "'I did ask for a unicorn. This is a stuffed toy.'",
+      "'Well, after all, there are no real unicorns.'",
+      "'I was promised a unicorn.'",
+      "'You can't have what doesn't exist.'",
+      "Was it at that moment you decided on a career in politics? You sensed a world of people who wanted things that didn't exist and that couldn't be delivered. People who would reject your father's stuffy logic with the sheer force of belief. With denial, if need be.",
+      "Those are the people who have put you here. And you mean to keep making them promises just as long as they keep electing you. Each new promise coming so fast that it washes out the failure of the last. A new era of wishing, when facts and opinions and delusions will merge in a rainbow of infinite possibility.",
+      "<p class=\"centered\">THE END</p>",
+      "Or – hang on, <em>is</em> it the end? Maybe you'd like to find out what kind of shape the country is in after two years with you as Prime Minister?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Get your score\" ►736"
+    ]
+  }
+}

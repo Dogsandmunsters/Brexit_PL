@@ -1,0 +1,222 @@
+{
+  "821": {
+    "ROUTES": [
+      "[IF item:Security & Defence] ►742",
+      "[ELSE] ►855"
+    ]
+  },
+  "822": {
+    "PROSE": [
+      "At least there's no need to discuss Britain's continued involvement with Europol. There's already a precedent for close cooperation between EU police forces and other countries. You quickly agree a relationship along the same lines that the US and Australia currently enjoy, with British liaison officers at Europol and EU officers based at key UK police departments.",
+      "You meet with Chief Negotiator Franjeboom. 'Now we have our ducks in a row,' he says, 'it is time to consider the drake.'",
+      "'That probably loses something in translation.'",
+      "His smile doesn't waver. 'I refer to military cooperation in the aftermath of Brexit.'",
+      "'My government has repeatedly assured the EU that we will continue to cooperate proactively. As Britain is the most significant military power in Europe, I'm sure that's in everyone's interests.'",
+      "'You have the largest military budget, at any rate,' he says. 'The way the pound is now, that doesn't go as far as it used to. In any case, you should be aware that Britain's departure removes one of the main obstacles to much greater integration of European armed forces. Will you be willing to engage with the \"EU army\" your Leave politicians fulminated over?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'I'm afraid Britain can't possibly subordinate her forces to missions over which we have little strategic or tactical control.'\" ►301",
+      "[OPTION] \"'We're willing to pull our weight, but we must insist on a special arrangement that gives us equal influence over the planning of joint military ventures.'\" ►279"
+    ]
+  },
+  "823": {
+    "PROSE": [
+      "'You're the least popular Prime Minister since Eden bungled the Suez crisis.'",
+      "Lord Elmstead is going over the results you commissioned from his polling company. It doesn't make comforting reading.",
+      "'But sometimes the most unpopular leaders also get the highest scores in popularity,' you remind him. 'Think of President Windrip. The deplorables absolutely love him.'",
+      "'True, and there's the silver lining. As long as you have high approval ratings among your core supporters, and as long as the opposition is divided and your grip on the party is strong, overall unpopularity can't hurt you.'",
+      "The key is to continue the erosion of Parliamentary sovereignty that has been going on for at least a hundred years. Concentrate power in the executive, who are answerable to party members rather than the electorate as a whole, and you should be able to hang on.",
+      "And if not, and you're ousted before the next election, so what? You'll easily nab a few directorships. You'll coin it in with after-dinner speeches. And then there are the memoirs. If history looks back on you unkindly for your handling of Brexit – well, at least nobody's calling you a war criminal. And anyway, you only did what the people told you.",
+      "<p class=\"centered\">THE END</p>"
+    ]
+  },
+  "824": {
+    "ONENTER": [
+      "[EFFECT Economy+1]"
+    ],
+    "PROSE": [
+      "The Health Secretary goes on <em>News Talk</em> to discuss the visa initiative. 'The NHS is the envy of the world,' he says. 'And our message today is that we want the best doctors, the best nurses. Brexit isn't about pulling up the drawbridge, it's about deciding who gets to come here. No more floods of half-qualified quacks taking out the wrong kidney. From now on, our health care is on the gold standard.'",
+      "He's a blithering idiot, obviously. And his quip about the drawbridge will lose some of the madder hard Brexit voters. But all in all you can bask in the satisfaction of a job spun to look as if it's being done well."
+    ],
+    "REPORT": [
+      "<strong>+1% Economy</strong>: any message of welcome sent out to qualified immigrants helps reassure the world that Britain hasn't entirely shut up shop."
+    ],
+    "GOTO": [
+      "[IF keyword:DODO] \"Continue\" ►431",
+      "[ELSE] [EFFECT getItem:the NHS] \"Continue\" ►450"
+    ]
+  },
+  "825": {
+    "PROSE": [
+      "As the results start coming in, you stare at the television in growing disbelief. By the small hours you can no longer escape the truth.",
+      "'We've lost…'",
+      "Your team, bone-weary and despondent, look at you with drawn faces. Finally one of the special advisers speaks up. 'Labour had a very strong manifesto, Prime Minister. Curbing the power of corporations, investing in the NHS, moderating Brexit. All popular policies.'",
+      "You shake your head. 'The explanation is very simple. The party failed me. In my hour of greatest need, I stood alone.'",
+      "Barry Scraggle will now be hustling to form a government, swallowing his principles to do deals with the Liberal Democrats and the SNP. Small wonder if the strain of the next five years doesn't kill him. You smile sourly as you unscrew one of the bolts in your office chair. That can be his welcoming present.",
+      "But for you, it is all over.",
+      "<p class=\"centered\">THE END</p>"
+    ]
+  },
+  "826": {
+    "PROSE": [
+      "'I'm not going quite so far as to advocate boilerplate World Trade Organization rules,' says Dent, throwing Barkwell an apologetic glance. 'It's potentially more of a bureaucratic nightmare than the EU, if we're honest. Every WTO member – '",
+      "'How many are we talking about?'",
+      "'A hundred and sixty plus, prime minister. And every single one of them can trigger a trade dispute if they're unhappy with arrangements.'",
+      "'But they're not going to do that, are they? I mean, they'll want to trade with us.'",
+      "'I'm sure they will trade with us,' puts in Stollard. 'But in the short term some of our competitors will use the opportunity to reset trade relations. It could get nasty.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Give me an example.'\" ►741",
+      "[OPTION] \"'Surely they won't mess with us given the size of our economy?'\" ►443",
+      "[OPTION] \"'What actually is the WTO?'\" ►646"
+    ]
+  },
+  "827": {
+    "PROSE": [
+      "It's the moment of truth. Have you done enough to see off the threat of Fungale? And, if so, did you do it without crossing a moral line that you can't come back from?"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"No use crying over spilt milk\" ►349",
+      "[OPTION] \"The ends justify the means\" ►377"
+    ]
+  },
+  "828": {
+    "PROSE": [
+      "Immigration was undoubtedly one of the major factors in the Leave vote. There was a very informative television debate about it that you remember watching. You cast your mind back…"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►746"
+    ]
+  },
+  "829": {
+    "ONENTER": [
+      "[EFFECT Authority+1]",
+      "[EFFECT Economy-2]",
+      "[EFFECT Popularity+1]"
+    ],
+    "PROSE": [
+      "The <em>Outrage</em> and the <em>Daily Heil</em> dutifully run the story with just the spin you want, but the <em>Tomahawk</em> is a little more restrained. No great surprise there; many of its readers work in the financial sector."
+    ],
+    "REPORT": [
+      "<strong>+1% Authority</strong>: seeing the media toeing your line serves as a warning to your opponents in the party.",
+      "<strong>-2% Economy</strong>: the haemorrhaging of financial services from the City is going to impact everyone's standard of living.",
+      "<strong>+1% Popularity</strong>: you've given the public their favourite villain: bankers."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Triumph is built on small victories\" ►400"
+    ]
+  },
+  "830": {
+    "PROSE": [
+      "Terri's summary is a lot politer than the actual question, which is more along the lines of: 'Why do we keep letting these people come over here taking jobs that could go to British workers?'",
+      "Mugglemore throws it to the Lib Dem woman. 'Immigrants don't subtract from our way of life,' she says. 'They add value, both in the taxes they pay and in terms of social value.' So she's both contradicting and avoiding the question. Double waffle points there: a rookie mistake.",
+      "Fungale is straight in like a rash on a hot day. 'What are you talking about, \"social value\"? National costume? Henna tattoos? Zither music? That isn't much consolation when an immigrant jumps the queue at the job centre, is it?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"How's she going to answer that?\" ►358",
+      "[OPTION] \"See if Bob Owlbear can string a non-soporific thought together for once\" ►135",
+      "[OPTION] \"Find another question\" ►405",
+      "[OPTION] \"Give up and get a good night's sleep\" ►125"
+    ]
+  },
+  "831": {
+    "PROSE": [
+      "You were told that it might be possible to secure continued membership of the single market once the question of security and defence was resolved."
+    ],
+    "OPTIONS": [
+      "[IF Goodwill>=16] [OPTION] \"Reopen those discussions\" ►257",
+      "[IF Goodwill>=16] [OPTION] \"Forget about single market access\" ►385",
+      "[IF Goodwill<=15] [OPTION] \"That ship has sailed\" ►385"
+    ]
+  },
+  "832": {
+    "PROSE": [
+      "'OK. Back in 1999, Switzerland and the EU signed a bunch of sectoral deals known collectively as the Bilateral Agreements I. There are seven of them, covering agriculture, free movement, non-tariff barriers, public procurement, research, aviation, and transport. Those are all linked by a guillotine clause, meaning that if one agreement is broken, they all go. That's why the Swiss continue to tolerate free movement in spite of all the nationalist agitation about it.'",
+      "'So the Bilateral Agreements I are in effect a bolt-on emulator of the single market rules,' puts in Strewel helpfully. 'Sort of like that free Open Office program you used to be able to get that did the same as Microsoft Word.'",
+      "The Chancellor laughs. 'The difference being that Open Office was simpler than the original, whereas the Swiss agreements are much, much more complicated.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'And do they cover services?'\" ►673",
+      "[OPTION] \"'Not to be masochistic, but I assume there's a Bilateral Agreements II?'\" ►690",
+      "[OPTION] \"'What does the EU think of all this palaver?'\" ►559"
+    ]
+  },
+  "833": {
+    "PROSE": [
+      "'You're coming across as a little soft on Brexit,' says Ron Beardsley as you go over your campaign strategy. 'Also, the Party members regard you as having a reputation for Machiavellian scheming coupled with no moral compass whatsoever.'",
+      "'Oh dear. But – '",
+      "'No, that's a good thing. Perfect leadership material.'"
+    ],
+    "GOTO": [
+      "[IF keyword:NYLON] \"Continue\" ►193",
+      "[ELSE] \"Continue\" ►726"
+    ]
+  },
+  "834": {
+    "ROUTES": [
+      "[IF keyword:TIGHTROPE OR keyword:WELTER] ►661",
+      "[ELSE] ►724"
+    ]
+  },
+  "835": {
+    "PROSE": [
+      "All of the hopes, fears and uncertainties concerning the National Health Service are revealed to you in a dark, unbidden vision of things to come..."
+    ],
+    "GOTO": [
+      "[IF box:835.box1] \"Continue\" ►711",
+      "[ELSE] [EFFECT tick:835.box1] \"Continue\" ►730"
+    ]
+  },
+  "836": {
+    "PROSE": [
+      "The Chancellor throws you a warning look. 'That's a lot to get into in a morning meeting, Prime Minister.'",
+      "For once Barkwell and he are on the same page. 'The Department for International Trade has a number of proposals to make about our future outside the single market. I'd like more time to present those properly.'",
+      "'Very well. We'll resume this discussion at a later date. Thank you, gentlemen.'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Ask the Chancellor to stay behind for a chat\" ►348",
+      "[OPTION] \"There's other urgent business to take care of\" ►666"
+    ]
+  },
+  "837": {
+    "PROSE": [
+      "You hold your own against your opponents in the debate. Towards the close, thinking you're ahead, you even start to relax. That could be a big mistake.",
+      "'Prime Minister,' says the show's compère, Martin Mugglemore, 'isn't it true that Brexit is like proposing radical surgery for an ingrown toenail? It might cure the problem, but equally well you might lose the foot. Is it, in short, a risk worth taking?'"
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Maybe it isn't just an ingrown toenail, though. What if the foot is in danger of going septic? Sometimes the biggest risk is to do nothing.'\" ►572",
+      "[OPTION] \"'Don't you ever do the pools, Martin? Buy a lottery ticket? A scratch card? Maybe you don't, but millions who do know that sometimes it's worth having a flutter. Risks can pay off, you know.'\" ►8"
+    ]
+  },
+  "838": {
+    "PROSE": [
+      "'Of course not,' says the scientist. 'Don't you realize that even prior to leaving the EU, Britain was ranked twenty-fourth out of the twenty-eight states for the number of doctors per person? The NHS was always a political football, and Brexit was the tack that finally deflated it.'",
+      "'Surely with all the fabulous new trade deals we did there was more money to spend on research?' It's all you can do to resist asking him what year this is.",
+      "'Medical research is bloody expensive,' he says. 'And it calls for a long-range vision. When Britain pooled money with the rest of the EU we were making some real strides. After all, cancer doesn't care what nationality you are. But when everybody goes it alone it's hard to get anywhere.'",
+      "'Surely some research is still going on?'",
+      "'Of course. Each village practice is funding its own research program as part of the last prime minister's Plucky Little England initiative. I'm hoping the summer fete will raise nearly £500 for my own research into Alzheimer's.'",
+      "Abednego meets your gaze, but cannot bring himself to express the disapproval you know he must be feeling. As a child you swore to protect him, but here he is adrift in a privatized cyberpunk future that has no place for old teddy bears. Your tears leave dark patches on his scraggy fur."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►368"
+    ]
+  },
+  "839": {
+    "PROSE": [
+      "Naturally the other ministers want to know who will get the visas. Whatever deal you reach is going to be reciprocal. Service industries often need employees to relocate to another country, even if only temporarily while a new office is being set up. And that applies as much to British workers supplying services to the continent as EU workers moving to the UK.",
+      "'What restrictions are you intending to place on visa applications?' asks the President of the Council."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"'Anyone can come to Britain as long as they have a job or a university place lined up.'\" ►136",
+      "[OPTION] \"'Highly qualified workers will have no trouble getting visas, but the goal is to stop the influx of low-skilled immigrants over the next few years.'\" ►156"
+    ]
+  },
+  "840": {
+    "PROSE": [
+      "A nicely anodyne statement that commits you to nothing at all."
+    ],
+    "OPTIONS": [
+      "[OPTION] \"Continue\" ►125"
+    ]
+  }
+}
