@@ -2,10 +2,10 @@
   "261": {
     "PROSE": [
       "Kolejna runda głosowania eliminuje Amelię Dimple. Pogrąża się z powrotem w niebycie z tym samym zdezorientowanym wyrazem twarzy, z jakim ogłosiła swój start w wyborach. Jej przemówienie koncesyjne wygląda jak Stan Laurel w damskich ciuchach.",
-      "Twój sekretarz prasowy przynosi złe wieści. „Alan Stollard udzielił poparcia Tiffany Rufus. Czyli umiarkowane skrzydło jest praktycznie pozamykane na cztery spusty."",
-      "„Umiarkowani? Tak teraz nazywamy zdrajców?"",
-      "„Doskonale. Niech pan tak mówi dalej, panie premierze. Dokładnie w tym tonie. Teraz musi pan przebić Colina Fungale'a w kipperowaniu."",
-      "Ron Beardsley jest innego zdania. „Spora część frakcji parlamentarnej uważa Fungale'a za kogoś niewiele lepszego od nazisty. Nie potrafi się powstrzymać od wycieczek pod adresem «żydowskiego lobby» i całej tej rasistowskiej paplaniny. Moim zdaniem najlepiej byłoby mocno opowiedzieć się za Brexitem, ale jednocześnie wydać wystarczająco dużo proeuropejskich pomruków, żeby nie wyglądać na wariata."",
+      "Twój sekretarz prasowy przynosi złe wieści. „Alan Stollard udzielił poparcia Tiffany Rufus. Czyli umiarkowane skrzydło jest praktycznie pozamykane na cztery spusty.”",
+      "„Umiarkowani? Tak teraz nazywamy zdrajców?”",
+      "„Doskonale. Niech pan tak mówi dalej, panie premierze. Dokładnie w tym tonie. Teraz musi pan przebić Colina Fungale'a w kipperowaniu.”",
+      "Ron Beardsley jest innego zdania. „Spora część frakcji parlamentarnej uważa Fungale'a za kogoś niewiele lepszego od nazisty. Nie potrafi się powstrzymać od wycieczek pod adresem «żydowskiego lobby» i całej tej rasistowskiej paplaniny. Moim zdaniem najlepiej byłoby mocno opowiedzieć się za Brexitem, ale jednocześnie wydać wystarczająco dużo proeuropejskich pomruków, żeby nie wyglądać na wariata.”",
       "Co wybierasz?"
     ],
     "OPTIONS": [
@@ -20,7 +20,7 @@
       "[EFFECT getItem:International Trade Deals]"
     ],
     "PROSE": [
-      "Prasa kupuje tę narrację. Skupia się na upartości UE, która próbuje uniemożliwić Wielkiej Brytanii prowadzenie rozmów handlowych z państwami trzecimi aż do samego Brexitu. Nagłówki, które postanawiasz zachować w swoim albumie z wycinkami, to między innymi „MAŁE KROKI KU KWITNĄCEJ GOSPODARCE" oraz „POWOLNY, ALE PEWNY KURS NA ŚWIETLANĄ PRZYSZŁOŚĆ BREXITU"."
+      "Prasa kupuje tę narrację. Skupia się na upartości UE, która próbuje uniemożliwić Wielkiej Brytanii prowadzenie rozmów handlowych z państwami trzecimi aż do samego Brexitu. Nagłówki, które postanawiasz zachować w swoim albumie z wycinkami, to między innymi „MAŁE KROKI KU KWITNĄCEJ GOSPODARCE” oraz „POWOLNY, ALE PEWNY KURS NA ŚWIETLANĄ PRZYSZŁOŚĆ BREXITU”."
     ],
     "REPORT": [
       "<strong>-5% Goodwill</strong>: UE nie pochwala zachwalania umów handlowych przez państwo wciąż będące członkiem Unii.",
@@ -34,16 +34,16 @@
     "PROSE": [
       "Godzinę później, ożywiony prysznicem, popijasz mocną czarną kawę w głównej sali konferencyjnej, gdy wpada Ron Beardsley.",
       "Ledwo udaje mu się dotrzeć do stołu z przepełnionymi tekturowymi teczkami i miękką skórzaną aktówką wciśniętą pod pachę. Dokumenty fruwają po polerowanym orzechowym blacie. Ron zgarnia je w w miarę schludny stos i rozgląda się po sali.",
-      "„Przyszedłem za wcześnie?"",
-      "„Chciałem, żebyśmy porozmawiali przed spotkaniem. Trochę kontekstu w sprawie tego rachunku, który UE chce nam wystawić. Naszego rozliczenia rozwodowego."",
+      "„Przyszedłem za wcześnie?”",
+      "„Chciałem, żebyśmy porozmawiali przed spotkaniem. Trochę kontekstu w sprawie tego rachunku, który UE chce nam wystawić. Naszego rozliczenia rozwodowego.”",
       "Wyciąga gruby dokument ze stosu. Zawsze dokładnie ten, który jest potrzebny. To niezły magiczny sztuczka, jak wyciągnięcie właściwej karty z potasowanej talii. Chyba że blefuje i tak naprawdę wszystkie te informacje ma w głowie. I tak ledwo zerka do dokumentu.",
-      "„Kwota, której UE oczekuje od Wielkiej Brytanii, składa się z trzech elementów, panie premierze…"",
-      "„Chwileczkę. O jakiej kwocie mówimy?"",
-      "„To zależy, kogo pan zapyta. Prawdopodobnie w okolicach sześćdziesięciu miliardów euro."",
-      "„To dość wygórowane."",
-      "„Państwa członkowskie w dużej mierze podzielają pański pogląd. Inne obliczenia dają znacznie niższą kwotę, ale Komisja zagrała twardo. Może być pewne pole manewru."",
-      "„Dobrze. Rozłóż mi to na części."",
-      "„Cóż, te trzy elementy to nadwyżka budżetowa UE, bieżące projekty i emerytury.""
+      "„Kwota, której UE oczekuje od Wielkiej Brytanii, składa się z trzech elementów, panie premierze…”",
+      "„Chwileczkę. O jakiej kwocie mówimy?”",
+      "„To zależy, kogo pan zapyta. Prawdopodobnie w okolicach sześćdziesięciu miliardów euro.”",
+      "„To dość wygórowane.”",
+      "„Państwa członkowskie w dużej mierze podzielają pański pogląd. Inne obliczenia dają znacznie niższą kwotę, ale Komisja zagrała twardo. Może być pewne pole manewru.”",
+      "„Dobrze. Rozłóż mi to na części.”",
+      "„Cóż, te trzy elementy to nadwyżka budżetowa UE, bieżące projekty i emerytury.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Nadwyżka budżetowa – co to takiego?'\" ►6",
@@ -54,9 +54,9 @@
   "264": {
     "PROSE": [
       "Udaje się uzgodnić ramy prawne, zgodnie z którymi przepisy o ochronie danych ustanowione przez Europejski Trybunał Sprawiedliwości automatycznie aktualizują prawo brytyjskie.",
-      "„Oczywiście prawo brytyjskie pozostaje suwerenne," mówisz innym szefom państw na kolejnym posiedzeniu Rady Europejskiej. „Zastrzegamy sobie prawo do odstąpienia od orzeczeń ETS w dowolnym momencie."",
-      "„Tak jak my zastrzegamy sobie prawo," odpowiada kanclerz Käsen z Niemiec z krzywym uśmiechem, „by w takim wypadku wykluczyć Wielką Brytanię z Systemu Informacyjnego Schengen."",
-      "„Ale dopóki do tego nie dojdzie," wtrąca pośpiesznie prezydent Mac, „wszystko może funkcjonować jak dotychczas.""
+      "„Oczywiście prawo brytyjskie pozostaje suwerenne,” mówisz innym szefom państw na kolejnym posiedzeniu Rady Europejskiej. „Zastrzegamy sobie prawo do odstąpienia od orzeczeń ETS w dowolnym momencie.”",
+      "„Tak jak my zastrzegamy sobie prawo,” odpowiada kanclerz Käsen z Niemiec z krzywym uśmiechem, „by w takim wypadku wykluczyć Wielką Brytanię z Systemu Informacyjnego Schengen.”",
+      "„Ale dopóki do tego nie dojdzie,” wtrąca pośpiesznie prezydent Mac, „wszystko może funkcjonować jak dotychczas.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►822"
@@ -79,7 +79,7 @@
       "To oczywiście najbardziej absurdalne pobrzękiwanie szabelką, ale opinia publiczna łyka to jak młody pelikan. A to przydatna dywersja w tych trudnych czasach."
     ],
     "REPORT": [
-      "<strong>+2% Popularity</strong>: powstrzymujesz się w ostatniej chwili od zakończenia przemówienia porywającym refrenem „Land of Hope & Glory"."
+      "<strong>+2% Popularity</strong>: powstrzymujesz się w ostatniej chwili od zakończenia przemówienia porywającym refrenem „Land of Hope & Glory”."
     ],
     "OPTIONS": [
       "[OPTION] \"Naprzód\" ►175"
@@ -87,14 +87,14 @@
   },
   "267": {
     "PROSE": [
-      "„Woli pan zjeść pieróg kornwalijski, panie premierze, czy scone z kremem clotted?"",
-      "„Czy to jeden z tych internetowych quizów, które mówią ci, jakim człowiekiem jesteś w głębi duszy?"",
-      "„Nie, chodziło mi o to, co po otwarciu centrum innowacji. Trzeba będzie sfotografować pana przy czymś typowo kornwalijskim."",
+      "„Woli pan zjeść pieróg kornwalijski, panie premierze, czy scone z kremem clotted?”",
+      "„Czy to jeden z tych internetowych quizów, które mówią ci, jakim człowiekiem jesteś w głębi duszy?”",
+      "„Nie, chodziło mi o to, co po otwarciu centrum innowacji. Trzeba będzie sfotografować pana przy czymś typowo kornwalijskim.”",
       "Wpatrujesz się przez okno pociągu. Zaledwie sto metrów dalej fale toczą się z Atlantyku, rozbijają o wysokie skalne występy i rozpraszają się w pianę, która opada z powrotem na szarą wodę. To poruszający odcinek trasy. Szkoda, że na jego końcu jest Penzance.",
-      "„Coś typowo kornwalijskiego…" rozważasz w myślach. „Wydobycie cyny? Przemyt? Surfing?"",
-      "„Umie pan surfować?" pyta asystentka z nagłym zainteresowaniem.",
-      "„Nie. Będzie musiał być ten cholerny pieróg. Tylko nie przynoście mi takiego cieknącego. Nie chcę trafić na pierwsze strony z sosem na całej brodzie."",
-      "Asystentka robi notatkę w telefonie. „Najważniejsze to wygłosić pozytywne oświadczenie o przyszłości Kornwalii. Międzynarodowe, technologiczne, zorientowane na biznes, coś w tym stylu. I uważać na pytania o fundusze rozwojowe.""
+      "„Coś typowo kornwalijskiego…” rozważasz w myślach. „Wydobycie cyny? Przemyt? Surfing?”",
+      "„Umie pan surfować?” pyta asystentka z nagłym zainteresowaniem.",
+      "„Nie. Będzie musiał być ten cholerny pieróg. Tylko nie przynoście mi takiego cieknącego. Nie chcę trafić na pierwsze strony z sosem na całej brodzie.”",
+      "Asystentka robi notatkę w telefonie. „Najważniejsze to wygłosić pozytywne oświadczenie o przyszłości Kornwalii. Międzynarodowe, technologiczne, zorientowane na biznes, coś w tym stylu. I uważać na pytania o fundusze rozwojowe.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Jakie pytania?'\" ►191",
@@ -121,9 +121,9 @@
       "[EFFECT Authority+1]"
     ],
     "PROSE": [
-      "Patrzy na ciebie ponuro. „Hm. Cóż, doceniam przynajmniej pańską szczerość. Wciąż pan kurczowo trzyma się złamanego masztu dobrego okrętu Remain, tak?"",
-      "„Niekoniecznie. Ale musimy być realistami. Jest znacznie więcej sposobów, żeby spartaczyć Brexit, niż żeby wyczarować z niego sukces. Moim zadaniem jest wynegocjować najlepszą umowę dla Wielkiej Brytanii i nikomu nie pomoże, jeśli będę udawać, że to będzie łatwe."",
-      "„Rozumiem. Cóż, ma pan swoje spotkanie, więc nie będę dłużej zabierać panu czasu.""
+      "Patrzy na ciebie ponuro. „Hm. Cóż, doceniam przynajmniej pańską szczerość. Wciąż pan kurczowo trzyma się złamanego masztu dobrego okrętu Remain, tak?”",
+      "„Niekoniecznie. Ale musimy być realistami. Jest znacznie więcej sposobów, żeby spartaczyć Brexit, niż żeby wyczarować z niego sukces. Moim zadaniem jest wynegocjować najlepszą umowę dla Wielkiej Brytanii i nikomu nie pomoże, jeśli będę udawać, że to będzie łatwe.”",
+      "„Rozumiem. Cóż, ma pan swoje spotkanie, więc nie będę dłużej zabierać panu czasu.”"
     ],
     "REPORT": [
       "<strong>+1% Authority</strong>: może się z tobą nie zgadza, ale jest pod wrażeniem."
@@ -135,11 +135,11 @@
   "271": {
     "PROSE": [
       "Whipowie nie mają dobrych wieści. Wielu backbencherów jest niezadowolonych, że traktujesz UE w aksamitnych rękawiczkach. Czy jesteś mięczakiem? Ukrytym Remainerem? Tak czy inaczej, jest frakcja dysydentów, którzy nie palą się do wzmacniania twojego przywództwa.",
-      "„Trzylinijkowy whip," mówisz. To pół pytanie.",
-      "„To wszystko, co możemy zrobić," ryzykuje jeden z Whipów.",
-      "„Będą posłuszni, jeśli wiedzą, co dla nich dobre," warczy inny.",
-      "Kolejny kiwa głową. „Pudding się okaże…"",
-      "„Pudingi! Nie bądź miękki, człowieku." Mierzysz go wzrokiem. „Jeśli już musisz używać porównań, szykuj się do bitwy. Nikt nie wie, czy tarcza jest mocna czy krucha, dopóki nie zostanie uderzona.""
+      "„Trzylinijkowy whip,” mówisz. To pół pytanie.",
+      "„To wszystko, co możemy zrobić,” ryzykuje jeden z Whipów.",
+      "„Będą posłuszni, jeśli wiedzą, co dla nich dobre,” warczy inny.",
+      "Kolejny kiwa głową. „Pudding się okaże…”",
+      "„Pudingi! Nie bądź miękki, człowieku.” Mierzysz go wzrokiem. „Jeśli już musisz używać porównań, szykuj się do bitwy. Nikt nie wie, czy tarcza jest mocna czy krucha, dopóki nie zostanie uderzona.”"
     ],
     "GOTO": [
       "[IF Authority>=61] \"Naprzód\" ►543",
@@ -148,10 +148,10 @@
   },
   "272": {
     "PROSE": [
-      "„Nawet wtedy nie możemy tego robić. Jesteśmy w unii celnej z UE, więc obowiązują nas umowy handlowe wynegocjowane przez Komisję Europejską."",
-      "„Eee…"",
+      "„Nawet wtedy nie możemy tego robić. Jesteśmy w unii celnej z UE, więc obowiązują nas umowy handlowe wynegocjowane przez Komisję Europejską.”",
+      "„Eee…”",
       "Cholera, ma rację.",
-      "„Pozytywna strona oczywiście," ciągnie, rozkręcając się na dobre, „jest taka, że korzystamy z zespołu negocjacyjnego UE. Więc może pan usiąść z piña coladą, panie premierze. Hodować pszczoły, jeśli pan chce. Komisja Europejska wykona za nas całą robotę."",
+      "„Pozytywna strona oczywiście,” ciągnie, rozkręcając się na dobre, „jest taka, że korzystamy z zespołu negocjacyjnego UE. Więc może pan usiąść z piña coladą, panie premierze. Hodować pszczoły, jeśli pan chce. Komisja Europejska wykona za nas całą robotę.”",
       "Wychodząc ze studia, pytasz swoją sekretarz prasową, jak poszło, ale nie jest w stanie nawet spojrzeć ci w oczy."
     ],
     "OPTIONS": [
@@ -162,12 +162,12 @@
     "PROSE": [
       "Prowadzą cię do odległego skrzydła budynku, gdzie działa tylko połowa oświetlenia. Idąc długim korytarzem, mijasz laboratoria i sale pełne najnowocześniejszego sprzętu, który pokrywa się kurzem. Abednego nie mówi nic, ale jego milczenie jest wymowne.",
       "W najdalszym laboratorium napotykasz starego naukowca w białym fartuchu. Wkrapla płyn do szalek Petriego i je etykietuje.",
-      "„Czy gdzieś źle skręciłem?"",
-      "Podnosi wzrok. „To zależy, czego pan szukał. Tu jest Inicjatywa Leków Innowacyjnych. To, co z niej zostało."",
-      "„Co to jest – albo było?"",
-      "„To stary program UE finansujący badania nad najnowszymi osiągnięciami medycznymi. Mamy oddziały terapii komórkowych, nowych antybiotyków, leczenia raka i badań nad chorobami autoimmunologicznymi."",
-      "„Cóż, nie wiem, co dolega mojemu przyjacielowi," mówisz, podnosząc Abednego, „ale wygląda na to, że trafiliśmy we właściwe miejsce."",
-      "Kręci głową. „Wszystko zostało zamknięte po Brexicie. Brak funduszy unijnych, wie pan.""
+      "„Czy gdzieś źle skręciłem?”",
+      "Podnosi wzrok. „To zależy, czego pan szukał. Tu jest Inicjatywa Leków Innowacyjnych. To, co z niej zostało.”",
+      "„Co to jest – albo było?”",
+      "„To stary program UE finansujący badania nad najnowszymi osiągnięciami medycznymi. Mamy oddziały terapii komórkowych, nowych antybiotyków, leczenia raka i badań nad chorobami autoimmunologicznymi.”",
+      "„Cóż, nie wiem, co dolega mojemu przyjacielowi,” mówisz, podnosząc Abednego, „ale wygląda na to, że trafiliśmy we właściwe miejsce.”",
+      "Kręci głową. „Wszystko zostało zamknięte po Brexicie. Brak funduszy unijnych, wie pan.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'To absurd. Prywatne przedsiębiorstwa na pewno by to sfinansowały?'\" ►95",
@@ -176,10 +176,10 @@
   },
   "274": {
     "PROSE": [
-      "Ponieważ pierwsze referendum było głosowaniem otwartym, naturalnie musisz zaoferować swoim ministrom taką samą swobodę. Ku twojemu zaskoczeniu Peter Strewel trzyma się z dala od kampanii. „Myślę, że opinia publiczna doceniłaby chwilę odpoczynku od mojego głosu," mówi z zadowolonym uśmieszkiem do kamer. Prawda jest zapewne taka, że tym razem nic na tym nie zyska. Miejsce w gabinecie na wyciągnięcie ręki od Number 10 było przez cały czas jego celem i teraz je ma.",
+      "Ponieważ pierwsze referendum było głosowaniem otwartym, naturalnie musisz zaoferować swoim ministrom taką samą swobodę. Ku twojemu zaskoczeniu Peter Strewel trzyma się z dala od kampanii. „Myślę, że opinia publiczna doceniłaby chwilę odpoczynku od mojego głosu,” mówi z zadowolonym uśmieszkiem do kamer. Prawda jest zapewne taka, że tym razem nic na tym nie zyska. Miejsce w gabinecie na wyciągnięcie ręki od Number 10 było przez cały czas jego celem i teraz je ma.",
       "Ciężkie działa Remain albo już nie zasiadają w Parlamencie, albo niechętnie wyrażają swoje poglądy na wypadek, gdyby kolejna wygrana Leave pogrzebała ich kariery na dobre. Godnymi uwagi wyjątkami są Bill Strait, który w swoich siedemdziesięciu latach jako Ojciec Izby ma w nosie opinię publiczną, oraz Lord Leonine, który jest jeszcze starszy i bardziej uparty.",
-      "„Problem z zasłużonymi politykami," zauważasz do Wilkinsa, gdy wnosi twoje nocne kakao, „jest taki, że nie ma nic, co można by im obiecać. Nic, czym można by im zagrozić."",
-      "„A jakie jest zdanie pana premiera? Dołączy pan do kampanii?""
+      "„Problem z zasłużonymi politykami,” zauważasz do Wilkinsa, gdy wnosi twoje nocne kakao, „jest taki, że nie ma nic, co można by im obiecać. Nic, czym można by im zagrozić.”",
+      "„A jakie jest zdanie pana premiera? Dołączy pan do kampanii?”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Oczywiście, będę prowadził walkę o Remain.'\" ►64",
@@ -197,15 +197,15 @@
   },
   "276": {
     "PROSE": [
-      "„Kanadyjczycy zaczęli negocjować swoją umowę w 2007 roku i zakończyła się ona w 2016," mówi Strewel tonem, jakby przypominał daty wojen punickich.",
-      "„Ale…" wtrąca Stollard.",
-      "Odwracasz się do niego. „Ale moglibyśmy przyspieszyć procedurę, tak?"",
-      "„Hm… Niezupełnie, panie premierze. Chciałem powiedzieć, że umowa nie została jeszcze podpisana. Większość jej postanowień wejdzie w życie później w tym roku."",
-      "„Mimo to jesteśmy większą gospodarką i bliżej Europy. Nie mogę uwierzyć, że jakakolwiek nasza umowa będzie się ciągnąć dziesięć lat."",
-      "Kiwa głową. „Zaczynamy z przewagą, bo już mamy te same regulacje co reszta UE, co pomaga, ale uzgadnianie tych ogromnych umów wymaga dużych, wykwalifikowanych i bardzo zaangażowanych zespołów negocjacyjnych."",
-      "„Naprawdę mam dość tego defetystycznego gadania," protestuje Barkwell. „Zatrudnimy mnóstwo genialnych negocjatorów."",
-      "„Na pewno, ale to wymaga czasu. Co ważniejsze, muszą być dwa zespoły negocjacyjne, a UE nie będzie się spieszyć z rekrutacją swojego."",
-      "„Dobrze, że tak," chichocze Strewel, „bo pewnie będą chcieli zatrudnić tych samych ludzi. Ci Nowozelandczycy są podobno cholernie dobrzy w tym całym negocjacyjnym fachu.""
+      "„Kanadyjczycy zaczęli negocjować swoją umowę w 2007 roku i zakończyła się ona w 2016,” mówi Strewel tonem, jakby przypominał daty wojen punickich.",
+      "„Ale…” wtrąca Stollard.",
+      "Odwracasz się do niego. „Ale moglibyśmy przyspieszyć procedurę, tak?”",
+      "„Hm… Niezupełnie, panie premierze. Chciałem powiedzieć, że umowa nie została jeszcze podpisana. Większość jej postanowień wejdzie w życie później w tym roku.”",
+      "„Mimo to jesteśmy większą gospodarką i bliżej Europy. Nie mogę uwierzyć, że jakakolwiek nasza umowa będzie się ciągnąć dziesięć lat.”",
+      "Kiwa głową. „Zaczynamy z przewagą, bo już mamy te same regulacje co reszta UE, co pomaga, ale uzgadnianie tych ogromnych umów wymaga dużych, wykwalifikowanych i bardzo zaangażowanych zespołów negocjacyjnych.”",
+      "„Naprawdę mam dość tego defetystycznego gadania,” protestuje Barkwell. „Zatrudnimy mnóstwo genialnych negocjatorów.”",
+      "„Na pewno, ale to wymaga czasu. Co ważniejsze, muszą być dwa zespoły negocjacyjne, a UE nie będzie się spieszyć z rekrutacją swojego.”",
+      "„Dobrze, że tak,” chichocze Strewel, „bo pewnie będą chcieli zatrudnić tych samych ludzi. Ci Nowozelandczycy są podobno cholernie dobrzy w tym całym negocjacyjnym fachu.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Jeśli to zajmie lata, będziemy potrzebować jakiejś umowy przejściowej.'\" ►790",
@@ -221,10 +221,10 @@
       "[EFFECT getKW:CLARION]"
     ],
     "PROSE": [
-      "„To nie najgorsza umowa, jaką mogliśmy zawrzeć," mówi kanclerz, gdy przedstawiasz mu zarys porozumienia. „Będziemy mieli minimalny wpływ na regulacje, których musimy przestrzegać, oczywiście."",
-      "„Kluczowa różnica, Alan, polega na tym, że nie <em>musimy</em> ich przestrzegać. Prawo brytyjskie będzie podążać za orzeczeniami Europejskiego Trybunału, ale z opcją pójścia własną drogą."",
-      "„Jeśli kiedykolwiek skorzystamy z tej opcji, może to odciąć nam resztki dostępu do wspólnego rynku."",
-      "„Chodzi o to, że możemy to sprzedać wyborcom jako odzyskaną suwerenność. Lepiej rządzić w czyśćcu EFTA, niż zostać wyrzuconym z urzędu przez wyborców, których nigdy nie zadowoli ani gospodarcze piekło twardego Brexitu, ani bydlęcy kompromis modelu norweskiego.""
+      "„To nie najgorsza umowa, jaką mogliśmy zawrzeć,” mówi kanclerz, gdy przedstawiasz mu zarys porozumienia. „Będziemy mieli minimalny wpływ na regulacje, których musimy przestrzegać, oczywiście.”",
+      "„Kluczowa różnica, Alan, polega na tym, że nie <em>musimy</em> ich przestrzegać. Prawo brytyjskie będzie podążać za orzeczeniami Europejskiego Trybunału, ale z opcją pójścia własną drogą.”",
+      "„Jeśli kiedykolwiek skorzystamy z tej opcji, może to odciąć nam resztki dostępu do wspólnego rynku.”",
+      "„Chodzi o to, że możemy to sprzedać wyborcom jako odzyskaną suwerenność. Lepiej rządzić w czyśćcu EFTA, niż zostać wyrzuconym z urzędu przez wyborców, których nigdy nie zadowoli ani gospodarcze piekło twardego Brexitu, ani bydlęcy kompromis modelu norweskiego.”"
     ],
     "REPORT": [
       "<strong>-5% Economy</strong>: brytyjskie branże usługowe będą miały trudniej w handlu z Europą.",
@@ -239,12 +239,12 @@
   "278": {
     "PROSE": [
       "Zapomniałeś o bratanku Terri, który jest tu z łaski, bo ona i Ron uznali, że dzień dziecka w pracy uczłowieczy twój publiczny wizerunek. Wzdycha i wychodzi na korytarz, nie odrywając wzroku od telefonu.",
-      "„Przepraszam za to," mówi Terri. „Zapomniałam, że nie lubisz dzieci."",
-      "„Cóż, całego bym nie zjadł. Noysom-Reek ma pewnie ich tuziny, jako katolik."",
-      "„Kolejny punkt na jego korzyść," mówi Ron przygnębionym tonem. „Wartości rodzinne."",
-      "„Może uda się odkopać jakiś skandal," proponuje Terri.",
-      "Ron kręci głową. „Myślę, że musimy grać na jego braku doświadczenia."",
-      "„Ewentualnie mógłbym go pokonać na jego własnym boisku. Pokazać członkom partii, że potrafię być równie wściekłym brexitowcem jak najgorsi z nich."",
+      "„Przepraszam za to,” mówi Terri. „Zapomniałam, że nie lubisz dzieci.”",
+      "„Cóż, całego bym nie zjadł. Noysom-Reek ma pewnie ich tuziny, jako katolik.”",
+      "„Kolejny punkt na jego korzyść,” mówi Ron przygnębionym tonem. „Wartości rodzinne.”",
+      "„Może uda się odkopać jakiś skandal,” proponuje Terri.",
+      "Ron kręci głową. „Myślę, że musimy grać na jego braku doświadczenia.”",
+      "„Ewentualnie mógłbym go pokonać na jego własnym boisku. Pokazać członkom partii, że potrafię być równie wściekłym brexitowcem jak najgorsi z nich.”",
       "Na jakiej strategii się skupisz?"
     ],
     "OPTIONS": [
@@ -255,13 +255,13 @@
   },
   "279": {
     "PROSE": [
-      "„Jak pan wie," mówi Franjeboom, „istnieją już ramy prawne pozwalające krajom takim jak Islandia i Norwegia uczestniczyć w naszej Wspólnej Polityce Bezpieczeństwa i Obrony."",
-      "Kręcisz głową, gdy mówi. „Gotowe porozumienia z półki? To nie wystarczy dla Wielkiej Brytanii. Bylibyśmy związani misjami, nad którymi mielibyśmy mniejszy wpływ niż państwa członkowskie UE."",
-      "„Chyba właśnie dlatego to się nazywa Brexit."",
-      "„Wielka Brytania zasiada w Radzie Bezpieczeństwa ONZ. Posiadamy potencjał nuklearny…"",
-      "„Nie niezależny od USA, jednakże. W przeciwieństwie do Francji."",
-      "Zbywasz to machnięciem ręki. „A wciąż mamy najlepiej wyszkolone siły zbrojne w Europie. Więc myślę, że inne państwa UE będą bardzo chętne do zawarcia specjalnego porozumienia."",
-      "„Cóż, zobaczymy."",
+      "„Jak pan wie,” mówi Franjeboom, „istnieją już ramy prawne pozwalające krajom takim jak Islandia i Norwegia uczestniczyć w naszej Wspólnej Polityce Bezpieczeństwa i Obrony.”",
+      "Kręcisz głową, gdy mówi. „Gotowe porozumienia z półki? To nie wystarczy dla Wielkiej Brytanii. Bylibyśmy związani misjami, nad którymi mielibyśmy mniejszy wpływ niż państwa członkowskie UE.”",
+      "„Chyba właśnie dlatego to się nazywa Brexit.”",
+      "„Wielka Brytania zasiada w Radzie Bezpieczeństwa ONZ. Posiadamy potencjał nuklearny…”",
+      "„Nie niezależny od USA, jednakże. W przeciwieństwie do Francji.”",
+      "Zbywasz to machnięciem ręki. „A wciąż mamy najlepiej wyszkolone siły zbrojne w Europie. Więc myślę, że inne państwa UE będą bardzo chętne do zawarcia specjalnego porozumienia.”",
+      "„Cóż, zobaczymy.”",
       "Nie po raz pierwszy zastanawiasz się, czy gra w pokera."
     ],
     "GOTO": [

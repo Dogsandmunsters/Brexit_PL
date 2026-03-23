@@ -5,12 +5,12 @@
       "[EFFECT Popularity+1]"
     ],
     "PROSE": [
-      "„Jest jeszcze kwestia obywateli UE, którzy już tu mieszkają" – przypomina ci minister spraw wewnętrznych.",
-      "„I naszych obywateli mieszkających tam. Wiem, ale to w zasadzie załatwione na mocy porozumienia, które zawarliśmy w sprawie swobodnego przepływu osób."",
-      "Wykonuje zamyślony gest, jakby zmiatała z powietrza niewidzialne pajęczyny. „Poniekąd. W ramach «emulatora» swobodnego przepływu, który uruchamiamy po Brexicie, owszem, większość tych obywateli UE kwalifikuje się do pozostania. Ale wciąż jest jakieś sto tysięcy osób, które ani nie pracują, ani nie studiują, ani nie utrzymują się samodzielnie. Ściśle rzecz biorąc, moglibyśmy ich zgarnąć i zawieźć na lotnisko już jutro."",
-      "„Zachowaj ich na czarną godzinę" – mówisz jej. „Następnym razem, kiedy UKIP zacznie krzyczeć o imigracji, ogłosimy zaostrzenie przepisów i wyrzucimy garść darmozjadów. Prasa to pokocha."",
-      "„W ten sposób wypadamy na twardych, a UE nie może protestować, bo to mieści się w warunkach, na które się zgodzili. Mistrzowskie zagranie, pani premier."",
-      "„Nie podlizuj się, Tiffany. Nie znoszę lizusów.""
+      "„Jest jeszcze kwestia obywateli UE, którzy już tu mieszkają” – przypomina ci minister spraw wewnętrznych.",
+      "„I naszych obywateli mieszkających tam. Wiem, ale to w zasadzie załatwione na mocy porozumienia, które zawarliśmy w sprawie swobodnego przepływu osób.”",
+      "Wykonuje zamyślony gest, jakby zmiatała z powietrza niewidzialne pajęczyny. „Poniekąd. W ramach «emulatora» swobodnego przepływu, który uruchamiamy po Brexicie, owszem, większość tych obywateli UE kwalifikuje się do pozostania. Ale wciąż jest jakieś sto tysięcy osób, które ani nie pracują, ani nie studiują, ani nie utrzymują się samodzielnie. Ściśle rzecz biorąc, moglibyśmy ich zgarnąć i zawieźć na lotnisko już jutro.”",
+      "„Zachowaj ich na czarną godzinę” – mówisz jej. „Następnym razem, kiedy UKIP zacznie krzyczeć o imigracji, ogłosimy zaostrzenie przepisów i wyrzucimy garść darmozjadów. Prasa to pokocha.”",
+      "„W ten sposób wypadamy na twardych, a UE nie może protestować, bo to mieści się w warunkach, na które się zgodzili. Mistrzowskie zagranie, pani premier.”",
+      "„Nie podlizuj się, Tiffany. Nie znoszę lizusów.”"
     ],
     "REPORT": [
       "<strong>+1% Authority</strong>: możesz liczyć na to, że minister spraw wewnętrznych szepnie pochlebne słówko w szeregach partii.",
@@ -33,9 +33,9 @@
   "283": {
     "PROSE": [
       "Coraz trudniej ci zebrać potrzebne poparcie. Nawet niektórzy posłowie popierający opcję Remain widziani byli pochyleni nad gin tonikami z Colinem Fungalem i jego świtą. Pewnie ciężko im się zadawać z kimś takim jak on, ale wiedzą, jak silne jest jego poparcie u szeregowych członków partii.",
-      "„Przejmuje władzę, Wilkins. To jak <em>Inwazja porywaczy ciał</em>. UKIP przejmuje kontrolę nad Partią Konserwatywną."",
-      "„Gdyby mnie zapytano o preferencje, pani premier, wybrałbym czarno-białą wersję z lat pięćdziesiątych."",
-      "„Myślisz, że mówisz o filmach, Wilkins, ale równie dobrze mógłbyś opisywać wizję Wielkiej Brytanii według Fungale'a.""
+      "„Przejmuje władzę, Wilkins. To jak <em>Inwazja porywaczy ciał</em>. UKIP przejmuje kontrolę nad Partią Konserwatywną.”",
+      "„Gdyby mnie zapytano o preferencje, pani premier, wybrałbym czarno-białą wersję z lat pięćdziesiątych.”",
+      "„Myślisz, że mówisz o filmach, Wilkins, ale równie dobrze mógłbyś opisywać wizję Wielkiej Brytanii według Fungale'a.”"
     ],
     "TOSS_ONE": [
       "[HEAD] \"Dalej\" ►377",
@@ -44,7 +44,7 @@
   },
   "284": {
     "PROSE": [
-      "„Obecnie wszyscy obywatele UE są w praktyce stałymi rezydentami. Mogą zostać, jak długo chcą, i nie muszą wypełniać żadnych formularzy. Możemy ekstradować poszczególne osoby, jeśli zechcemy, albo odmówić komuś wjazdu. Mówię o przestępcach i terrorystach, ale tak naprawdę dotyczy to praktycznie każdego, kogo minister spraw wewnętrznych tu nie chce, pod warunkiem, że znajdzie wystarczająco przekonujący powód.""
+      "„Obecnie wszyscy obywatele UE są w praktyce stałymi rezydentami. Mogą zostać, jak długo chcą, i nie muszą wypełniać żadnych formularzy. Możemy ekstradować poszczególne osoby, jeśli zechcemy, albo odmówić komuś wjazdu. Mówię o przestępcach i terrorystach, ale tak naprawdę dotyczy to praktycznie każdego, kogo minister spraw wewnętrznych tu nie chce, pod warunkiem, że znajdzie wystarczająco przekonujący powód.”"
     ],
     "OPTIONS": [
       "[OPTION] \"«Czy obywatel UE może ubiegać się o pobyt stały w Wielkiej Brytanii?»\" ►295",
@@ -62,10 +62,10 @@
   "286": {
     "PROSE": [
       "Kolejną kolką w twoim boku jest kwestia dalszego dostępu do unijnych baz danych dotyczących bezpieczeństwa, w szczególności do Systemu Informacyjnego Schengen drugiej generacji.",
-      "„To chyba oczywiste?" – mówisz Willy'emu Franjeboomowi podczas jednej z wielu rozmów telefonicznych. „Policja i służby bezpieczeństwa po obu stronach muszą otwarcie i terminowo wymieniać się danymi o przestępcach, podejrzanych o terroryzm i zbiegach."",
-      "„Rzeczywiście" – zgadza się – „ale żeby mieć dostęp do baz danych UE, będziecie musieli przestrzegać naszych przepisów o ochronie danych osobowych. Przypomni pan sobie, że Trybunał Sprawiedliwości UE unieważnił porozumienie «Safe Harbour» między USA a Europą."",
-      "„Chyba nie sugeruje pan poważnie, że brytyjskie przepisy o ochronie danych nie są co najmniej tak dobre jak gdziekolwiek w UE."",
-      "„A gdyby uzyskali państwo dostęp do poufnych informacji i przekazali je prezydentowi Windripowi? A potem on wygadałby je rosyjskim dyplomatom albo wykorzystał do namierzania rodzin podejrzanych o terroryzm? Nie, jeśli chcą państwo zachować SIS II, musicie się poddać orzecznictwu TSUE."",
+      "„To chyba oczywiste?” – mówisz Willy'emu Franjeboomowi podczas jednej z wielu rozmów telefonicznych. „Policja i służby bezpieczeństwa po obu stronach muszą otwarcie i terminowo wymieniać się danymi o przestępcach, podejrzanych o terroryzm i zbiegach.”",
+      "„Rzeczywiście” – zgadza się – „ale żeby mieć dostęp do baz danych UE, będziecie musieli przestrzegać naszych przepisów o ochronie danych osobowych. Przypomni pan sobie, że Trybunał Sprawiedliwości UE unieważnił porozumienie «Safe Harbour» między USA a Europą.”",
+      "„Chyba nie sugeruje pan poważnie, że brytyjskie przepisy o ochronie danych nie są co najmniej tak dobre jak gdziekolwiek w UE.”",
+      "„A gdyby uzyskali państwo dostęp do poufnych informacji i przekazali je prezydentowi Windripowi? A potem on wygadałby je rosyjskim dyplomatom albo wykorzystał do namierzania rodzin podejrzanych o terroryzm? Nie, jeśli chcą państwo zachować SIS II, musicie się poddać orzecznictwu TSUE.”",
       "O Boże, znów widmo suwerenności. Oczywiście w rzeczywistości wszystkie państwa ciągle dokonują kompromisów ze swoją suwerennością. Ale referendum ustanowiło nowy poziom odruchowego zaangażowania opinii publicznej, a uwaga wyborców jest zbyt krótka, żeby tłumaczyć zawiłości skomplikowanego świata."
     ],
     "OPTIONS": [
@@ -87,10 +87,10 @@
       "[EFFECT getKW:APRICITY]"
     ],
     "PROSE": [
-      "„Nie opisujmy tych rozmów jako porozumienia separacyjnego, monsieur. Nie chcemy rozwodu, po prostu bardziej otwartej relacji. Otóż, jak stanowi sam Artykuł 50, wszelkie negocjacje dotyczące pozostałych zobowiązań finansowych muszą uwzględniać ramy przyszłych stosunków Wielkiej Brytanii z Unią Europejską. Wiele czynników może tu wchodzić w grę – współpraca w dziedzinie obronności, ostateczna struktura nowej relacji, brytyjskie inwestycje w poszczególnych państwach…"",
+      "„Nie opisujmy tych rozmów jako porozumienia separacyjnego, monsieur. Nie chcemy rozwodu, po prostu bardziej otwartej relacji. Otóż, jak stanowi sam Artykuł 50, wszelkie negocjacje dotyczące pozostałych zobowiązań finansowych muszą uwzględniać ramy przyszłych stosunków Wielkiej Brytanii z Unią Europejską. Wiele czynników może tu wchodzić w grę – współpraca w dziedzinie obronności, ostateczna struktura nowej relacji, brytyjskie inwestycje w poszczególnych państwach…”",
       "Ta ostatnia uwaga to niedwuznaczna sugestia, że możesz przeciągnąć na swoją stronę niektóre biedniejsze kraje, obiecując im datki. Wielka Brytania ma w tym doświadczenie, a on o tym wie.",
-      "„A więc proponuje pani…?"",
-      "„Żeby opłata za wyjście była negocjowana równolegle z innymi rozmowami, tak abyśmy mogli dojść do kwoty odzwierciedlającej nasz stopień dostępu do jednolitego rynku po 2019 roku."",
+      "„A więc proponuje pani…?”",
+      "„Żeby opłata za wyjście była negocjowana równolegle z innymi rozmowami, tak abyśmy mogli dojść do kwoty odzwierciedlającej nasz stopień dostępu do jednolitego rynku po 2019 roku.”",
       "Niemal słyszysz, jak zgrzyta zębami. Przez kilka godzin to rozważa, niewątpliwie prowadząc burzliwe dyskusje ze swoim zespołem doradców, ale następnego dnia wraca do stołu i ustępuje – rozmowy o opłacie za wyjście będą toczyć się równolegle z innymi negocjacjami."
     ],
     "REPORT": [
@@ -135,15 +135,15 @@
   "292": {
     "PROSE": [
       "Razem z lordem Elmsteadem przeglądacie wyniki, które zleciliście jego firmie sondażowej.",
-      "„Spójrz na te liczby. Prezydent Specnaz oddałby za takie notowania wszystko. Dosłownie, zresztą."",
-      "„Jest pani obiektem zazdrości przywódców całego świata" – zgadza się Elmstead. „Łącznie z dyktatorami, którzy ustalają swoją popularność pod groźbą broni. I to wszystko bez konta na Twitterze."",
+      "„Spójrz na te liczby. Prezydent Specnaz oddałby za takie notowania wszystko. Dosłownie, zresztą.”",
+      "„Jest pani obiektem zazdrości przywódców całego świata” – zgadza się Elmstead. „Łącznie z dyktatorami, którzy ustalają swoją popularność pod groźbą broni. I to wszystko bez konta na Twitterze.”",
       "Trzeba przyznać, że te notowania czasem kupowałaś kosztem robienia tego, co słuszne – schlebiając tabloidom i celowo antagonizując UE dla efektu populistycznego. Ale dzięki temu masz pozycję nie do ruszenia. Niech partia tylko spróbuje się ciebie pozbyć – jesteś ich najlepszą szansą na wygranie następnych wyborów. I osiągnęłaś to w najbardziej burzliwych czasach, jakie Wielka Brytania przeżyła w ostatnich pięćdziesięciu latach.",
       "Wszystko może się zdarzyć. Gospodarka może się zawalić. Wiatr populizmu, który zasiałaś, może stać się wichurą zmiatającą cały stary porządek. Wielka Brytania może przez dekady krążyć wokół odpływu, powoli zsuwając się w nieistotność. Ale na razie przynajmniej możesz wygrzewać się w blasku sondaży."
     ]
   },
   "293": {
     "PROSE": [
-      "Nowe referendum będzie testem twojej polityki wobec UE. Czy naród okopał się w mentalności „my kontra oni", gotowy podnieść most zwodzony? A może ludzie zaczynają żałować, że odwrócili się od największego partnera handlowego i sojusznika Wielkiej Brytanii?",
+      "Nowe referendum będzie testem twojej polityki wobec UE. Czy naród okopał się w mentalności „my kontra oni”, gotowy podnieść most zwodzony? A może ludzie zaczynają żałować, że odwrócili się od największego partnera handlowego i sojusznika Wielkiej Brytanii?",
       "Jak to widzisz?"
     ],
     "OPTIONS": [
@@ -160,10 +160,10 @@
     ],
     "PROSE": [
       "Nie możesz liczyć na to, że wynegocjujesz każdą klauzulę nowej umowy o wolnym handlu na jednej konferencji. Negocjacje mogą trwać latami. Dlatego skupiasz się na nakreśleniu ogólnych ram.",
-      "„Dlaczego taka smutna, taka poważna mina?" – pytasz kanclerza skarbu, gdy udaje ci się usiąść z nim nad wstępnym projektem porozumienia.",
-      "„Obawiam się, że to oznacza pożegnanie z wybornym winem i składnikami egzotycznych potraw. Wkrótce wrócimy do gotowanej kapusty i ciepłego piwa."",
-      "„Nonsens. UE chce tej umowy tak samo jak my."",
-      "Spogląda na ciebie posępnie znad okularów. „UE może i chce, ale co to za byt? Jest dwadzieścia siedem osobnych państw i każde z nich ma prawo weta wobec każdego punktu. To – " macha papierami „ – może nie zostać rozstrzygnięte za naszego życia.""
+      "„Dlaczego taka smutna, taka poważna mina?” – pytasz kanclerza skarbu, gdy udaje ci się usiąść z nim nad wstępnym projektem porozumienia.",
+      "„Obawiam się, że to oznacza pożegnanie z wybornym winem i składnikami egzotycznych potraw. Wkrótce wrócimy do gotowanej kapusty i ciepłego piwa.”",
+      "„Nonsens. UE chce tej umowy tak samo jak my.”",
+      "Spogląda na ciebie posępnie znad okularów. „UE może i chce, ale co to za byt? Jest dwadzieścia siedem osobnych państw i każde z nich ma prawo weta wobec każdego punktu. To – ” macha papierami „ – może nie zostać rozstrzygnięte za naszego życia.”"
     ],
     "REPORT": [
       "<strong>+5% Authority</strong>: reszta partii nie jest tak sceptyczna jak kanclerz skarbu.",
@@ -177,9 +177,9 @@
   },
   "295": {
     "PROSE": [
-      "„Oczywiście, że mogą. Niewielu się tym wcześniej kłopotało, bo nie było takiej potrzeby. Jako obywatele UE nie byli technicznie imigrantami – tak samo jak Kalifornijczyk przeprowadzający się do Utah nie jest imigrantem."",
-      "„Właściwie przepaść kulturowa między tymi stanami brzmi na znacznie głębszą niż między Polakiem a Anglikiem."",
-      "„Właśnie. W każdym razie, od referendum nastąpił gwałtowny wzrost wniosków od obywateli UE, czego można było się spodziewać."",
+      "„Oczywiście, że mogą. Niewielu się tym wcześniej kłopotało, bo nie było takiej potrzeby. Jako obywatele UE nie byli technicznie imigrantami – tak samo jak Kalifornijczyk przeprowadzający się do Utah nie jest imigrantem.”",
+      "„Właściwie przepaść kulturowa między tymi stanami brzmi na znacznie głębszą niż między Polakiem a Anglikiem.”",
+      "„Właśnie. W każdym razie, od referendum nastąpił gwałtowny wzrost wniosków od obywateli UE, czego można było się spodziewać.”",
       "Zastanawiasz się nad kolejnym pytaniem."
     ],
     "OPTIONS": [
@@ -190,11 +190,11 @@
   },
   "296": {
     "PROSE": [
-      "„EDA składa się ze wszystkich państw UE z wyjątkiem Danii."",
-      "„Dlaczego?"",
-      "„Mieli tam coś w rodzaju minireferendum na ten temat" – mówi McKay. „Chyba nawet nie jedno. Nie poszli na całego jak przy Brexicie, ale wyłączyli się z kilku rzeczy. Obronność, policja, prawa obywatelskie, euro. Co tylko chcesz. Odrzucili pełne reguły UE stosunkiem 53% do 47%, o ile dobrze pamiętam."",
-      "„A mimo to wciąż są w UE. Może takie referendum powinniśmy byli u nas przeprowadzić."",
-      "„Rozlane mleko" – mówi McKay z godnym podziwu rzeczowym spokojem. „W każdym razie Wielka Brytania zawetowała propozycję utworzenia jednej ogólnoeuropejskiej kwatery głównej w Brukseli. To było w 2001 roku. Więc EDA działa jako taka naklejka, którą można nakleić na barwy narodowe przy rozmieszczaniu wojsk. Jak ONZ, tyle że jeszcze mniej przydatna.""
+      "„EDA składa się ze wszystkich państw UE z wyjątkiem Danii.”",
+      "„Dlaczego?”",
+      "„Mieli tam coś w rodzaju minireferendum na ten temat” – mówi McKay. „Chyba nawet nie jedno. Nie poszli na całego jak przy Brexicie, ale wyłączyli się z kilku rzeczy. Obronność, policja, prawa obywatelskie, euro. Co tylko chcesz. Odrzucili pełne reguły UE stosunkiem 53% do 47%, o ile dobrze pamiętam.”",
+      "„A mimo to wciąż są w UE. Może takie referendum powinniśmy byli u nas przeprowadzić.”",
+      "„Rozlane mleko” – mówi McKay z godnym podziwu rzeczowym spokojem. „W każdym razie Wielka Brytania zawetowała propozycję utworzenia jednej ogólnoeuropejskiej kwatery głównej w Brukseli. To było w 2001 roku. Więc EDA działa jako taka naklejka, którą można nakleić na barwy narodowe przy rozmieszczaniu wojsk. Jak ONZ, tyle że jeszcze mniej przydatna.”"
     ],
     "OPTIONS": [
       "[OPTION] \"«A kto za to płaci?»\" ►113",
@@ -237,11 +237,11 @@
   },
   "299": {
     "PROSE": [
-      "Kanclerz skarbu wzdycha. „Znów chodzi o zgodność z przepisami. Żeby zachować równoważność Mifid, Wielka Brytania musi wykazać, że stosuje się do regulacji UE. Ale nie mielibyśmy żadnego wpływu na te regulacje – absolutnie żadnego, bo są ustalane na poziomie unijnym, nie międzynarodowym."",
-      "„Więc konieczne byłyby regularne przeglądy, żeby upewnić się, że pozostajemy w zgodzie z prawem UE?"",
-      "„I nieuniknione opóźnienia w ich zatwierdzaniu. Ale to nie najgorsze. Mifid nie został zaprojektowany jako idealna alternatywa dla paszportów finansowych, pamiętaj. Ma po prostu ułatwiać współpracę z państwami trzecimi. Obejmuje więc bankowość inwestycyjną, ale kompletnie pomija całe obszary o kluczowym znaczeniu dla City – ubezpieczenia, zarządzanie aktywami, pożyczki i tak dalej."",
-      "„Jestem pewien, że sytuacja nie jest tak ponura, jak ją malujesz, Alanie" – mamrocze Dent.",
-      "„Jak by to ująć? Wiesz, kiedy lecisz do swojego domku w Prowansji i jest długi weekend, i wygląda na to, że wszyscy wpadli na ten sam pomysł? Jest uporządkowana kolejka z napisem «Posiadacze paszportów UE». No cóż, już w niej nie stoimy. Mifid oznacza: «Przykro mi, proszę pana, musi pan wrzucić się w ten tłum podróżnych z całego świata i powodzenia w przepychaniu się do przodu». Więc czas naostrzyć łokcie.""
+      "Kanclerz skarbu wzdycha. „Znów chodzi o zgodność z przepisami. Żeby zachować równoważność Mifid, Wielka Brytania musi wykazać, że stosuje się do regulacji UE. Ale nie mielibyśmy żadnego wpływu na te regulacje – absolutnie żadnego, bo są ustalane na poziomie unijnym, nie międzynarodowym.”",
+      "„Więc konieczne byłyby regularne przeglądy, żeby upewnić się, że pozostajemy w zgodzie z prawem UE?”",
+      "„I nieuniknione opóźnienia w ich zatwierdzaniu. Ale to nie najgorsze. Mifid nie został zaprojektowany jako idealna alternatywa dla paszportów finansowych, pamiętaj. Ma po prostu ułatwiać współpracę z państwami trzecimi. Obejmuje więc bankowość inwestycyjną, ale kompletnie pomija całe obszary o kluczowym znaczeniu dla City – ubezpieczenia, zarządzanie aktywami, pożyczki i tak dalej.”",
+      "„Jestem pewien, że sytuacja nie jest tak ponura, jak ją malujesz, Alanie” – mamrocze Dent.",
+      "„Jak by to ująć? Wiesz, kiedy lecisz do swojego domku w Prowansji i jest długi weekend, i wygląda na to, że wszyscy wpadli na ten sam pomysł? Jest uporządkowana kolejka z napisem «Posiadacze paszportów UE». No cóż, już w niej nie stoimy. Mifid oznacza: «Przykro mi, proszę pana, musi pan wrzucić się w ten tłum podróżnych z całego świata i powodzenia w przepychaniu się do przodu». Więc czas naostrzyć łokcie.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►66"
