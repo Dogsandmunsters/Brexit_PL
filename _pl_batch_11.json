@@ -1,7 +1,7 @@
 {
   "201": {
     "PROSE": [
-      "„Olej to, to nam na rękę" — mówi Terri. „Stollard i Rufus podzielą między siebie głosy zwolenników miękkiego Brexitu. A część z nich przejdzie na naszą stronę, żeby poprzeć nas przeciwko Noysom-Reekowi."",
+      "„Olej to, to nam na rękę” — mówi Terri. „Stollard i Rufus podzielą między siebie głosy zwolenników miękkiego Brexitu. A część z nich przejdzie na naszą stronę, żeby poprzeć nas przeciwko Noysom-Reekowi.”",
       "Pozostaje ci tylko mieć nadzieję."
     ],
     "OPTIONS": [
@@ -12,11 +12,11 @@
     "PROSE": [
       "Natychmiast odsuwa się matowa szklana ściana i maszeruje stamtąd armia lekarzy i pielęgniarek. Porywają Abednego do prywatnego apartamentu na ostatnim piętrze szpitala. Podczas gdy on jest poddawany badaniom krwi (a raczej badaniom wypchania), prześwietleniom i tomografii, tobie serwują kolację z homara z całkiem znośną butelką Pouilly-Fumé.",
       "W końcu wzywają starszego konsultanta. Przegląda wyniki Abednego, podczas gdy ty korzystasz z manicure.",
-      "Odkłada swoje notatki. „Hm. Ehm. Tak. Jak podejrzewałem."",
-      "„Co mu jest, panie doktorze?"",
-      "„Ten pluszowy miś jest w doskonałym zdrowiu."",
-      "„Ale co z tym bandażem?"",
-      "Zdejmuje go jednym ruchem. Na czole Abednego widnieje plama z czerwonego atramentu. Lekarz pstryka palcami i pielęgniarka podaje mu buteleczkę z odplamiaczem. „Dwie krople, nie częściej niż trzy razy dziennie."",
+      "Odkłada swoje notatki. „Hm. Ehm. Tak. Jak podejrzewałem.”",
+      "„Co mu jest, panie doktorze?”",
+      "„Ten pluszowy miś jest w doskonałym zdrowiu.”",
+      "„Ale co z tym bandażem?”",
+      "Zdejmuje go jednym ruchem. Na czole Abednego widnieje plama z czerwonego atramentu. Lekarz pstryka palcami i pielęgniarka podaje mu buteleczkę z odplamiaczem. „Dwie krople, nie częściej niż trzy razy dziennie.”",
       "Wychodzi z impetem, a asystent wręcza ci rachunek za leczenie Abednego. I kiedy widzisz sumę, to właśnie wtedy naprawdę potrzebujesz izby przyjęć."
     ],
     "OPTIONS": [
@@ -32,7 +32,7 @@
   "204": {
     "PROSE": [
       "W miarę zbliżania się dnia głosowania kampania zostaje zawieszona. Ostatnie sondaże dają minimalne prowadzenie opcji Remain. Kto wie, ile wiary można w to pokładać?",
-      "„To dzień sądu ostatecznego, Wilkins" — mówisz. „Lepiej zmieszaj mi porządne gin z tonikiem.""
+      "„To dzień sądu ostatecznego, Wilkins” — mówisz. „Lepiej zmieszaj mi porządne gin z tonikiem.”"
     ],
     "TOSS_TWO": [
       "[BOTH HEADS] \"Dalej\" ►221",
@@ -42,7 +42,7 @@
   },
   "205": {
     "PROSE": [
-      "„Bill, bądźmy dorośli. Policjant nie musi kogoś nie lubić, żeby go aresztować za popełnienie przestępstwa. Nie musimy płonąć żarliwością, żeby dobrze wykonywać swoją pracę. W tym kraju wierzymy w takie wartości jak obowiązek i profesjonalizm. Nie pozwólmy więc, żeby sprawa Brexitu zamieniła nas w wyjący tłum, domagający się, by politycy klękali przed dogmatem. Wie pan, dokąd to prowadzi? Niech pan popatrzy na sekty na całym świecie, którymi rządzą hipokryci bogacący się na oszukiwaniu swoich wyznawców. Nie, ja jestem tu po to, żeby wykonać zadanie. Powierzono mi przeprowadzenie Brexitu i to właśnie zrobię. I zrobię to, bo mam swoje credo. Owszem. Ale to credo to nie Brexit — to demokracja.""
+      "„Bill, bądźmy dorośli. Policjant nie musi kogoś nie lubić, żeby go aresztować za popełnienie przestępstwa. Nie musimy płonąć żarliwością, żeby dobrze wykonywać swoją pracę. W tym kraju wierzymy w takie wartości jak obowiązek i profesjonalizm. Nie pozwólmy więc, żeby sprawa Brexitu zamieniła nas w wyjący tłum, domagający się, by politycy klękali przed dogmatem. Wie pan, dokąd to prowadzi? Niech pan popatrzy na sekty na całym świecie, którymi rządzą hipokryci bogacący się na oszukiwaniu swoich wyznawców. Nie, ja jestem tu po to, żeby wykonać zadanie. Powierzono mi przeprowadzenie Brexitu i to właśnie zrobię. I zrobię to, bo mam swoje credo. Owszem. Ale to credo to nie Brexit — to demokracja.”"
     ],
     "GOTO": [
       "[IF keyword:UNCTION] \"Dalej\" ►28",
@@ -51,10 +51,10 @@
   },
   "206": {
     "PROSE": [
-      "„I co teraz, panie premierze?" — pyta Wilkins, nakrywając do popołudniowej herbaty. „Kontynuujemy Brexit czy nie? Aha, przy okazji — dżem czy clotted cream?"",
-      "„Jedno i drugie, oczywiście, Wilkins. To jest scone. A co do Brexitu… naród się wypowiedział."",
-      "„Już drugi raz. Wola narodu wydaje się nieco kapryśna, jeśli wolno mi zauważyć. Moja babcia nie jest aż tak zagubiona, a przez połowę czasu myśli, że pilot od telewizora to jej telefon komórkowy."",
-      "„Nie nam to oceniać. Obywatele czekają, aż ktoś im powie, na co właściwie zagłosowali, i jutro im to oznajmię.""
+      "„I co teraz, panie premierze?” — pyta Wilkins, nakrywając do popołudniowej herbaty. „Kontynuujemy Brexit czy nie? Aha, przy okazji — dżem czy clotted cream?”",
+      "„Jedno i drugie, oczywiście, Wilkins. To jest scone. A co do Brexitu… naród się wypowiedział.”",
+      "„Już drugi raz. Wola narodu wydaje się nieco kapryśna, jeśli wolno mi zauważyć. Moja babcia nie jest aż tak zagubiona, a przez połowę czasu myśli, że pilot od telewizora to jej telefon komórkowy.”",
+      "„Nie nam to oceniać. Obywatele czekają, aż ktoś im powie, na co właściwie zagłosowali, i jutro im to oznajmię.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Kontynuować Brexit\" ►763",
@@ -64,8 +64,8 @@
   "207": {
     "PROSE": [
       "W ostatnim tygodniu Leave rusza do przodu i obejmuje zdecydowane prowadzenie w sondażach. Funt zaczyna spadać wobec euro, ale nie na tyle, by odwrócić szalę. Prawicowa prasa uderza w triumfalne tony i wygląda na to, że wyborcy dali się przekonać.",
-      "„Przynajmniej koniec z niepewnością" — mówisz do Kanclerza, razem oglądając nadchodzące wyniki.",
-      "„Chyba tak." Klepie się po kieszeniach, zapominając, że rzucił palenie dwanaście lat temu. „Trochę jak usłyszeć, że ten ból w boku to na pewno guz.""
+      "„Przynajmniej koniec z niepewnością” — mówisz do Kanclerza, razem oglądając nadchodzące wyniki.",
+      "„Chyba tak.” Klepie się po kieszeniach, zapominając, że rzucił palenie dwanaście lat temu. „Trochę jak usłyszeć, że ten ból w boku to na pewno guz.”"
     ],
     "GOTO": [
       "[IF keyword:EIGER] \"Dalej\" ►92",
@@ -74,9 +74,9 @@
   },
   "208": {
     "PROSE": [
-      "„No cóż, oczywiście mówię o tym od lat" — odpowiada Colin Fungale tonem balansującym między zdrowym rozsądkiem a samozadowoleniem. „Dzięki systemowi punktowemu możemy mieć sprawiedliwszy nabór imigrantów, których naprawdę potrzebujemy, i będziemy mogli odkręcać i zakręcać ten kran w zależności od okoliczności."",
-      "Bob Owlbear kręci głową. „Jak to się dzieje, że kraje takie jak Kanada i Australia, które były pionierami systemów punktowych, musiały przyznać, że one nie działają? W Australii wystarczy spojrzeć na ludzi, którzy przeprowadzili się tam, bo faktycznie dostali ofertę pracy — dokładnie tak jak w ramach naszego obecnego systemu EU. Po pięciu latach tylko jeden na stu z tych imigrantów jest bez pracy. A teraz popatrzmy na ludzi przyjętych w australijskim systemie punktowym. Piętnaście procent z nich kończy jako bezrobotni. Niespecjalnie to efektywne, prawda?"",
-      "„Zresztą, czy hasłem Brexitu nie było pozbycie się biurokracji?" — wtrąca Lucy Tooth. „W momencie, gdy wprowadzasz system punktowy, musisz rozbudować biurokrację, żeby go obsługiwać. W tej chwili obywatele EU mogą tu przyjechać, jeśli mają pracę. Proces selekcji jest więc zlecony prywatnemu sektorowi. Pański system punktowy będzie wymagał armii urzędników — a jak właśnie powiedział Bob, systemy punktowe nawet nie okazały się sprawne. Wielka Brytania ma już lepszą proporcję wykwalifikowanych imigrantów niż Australia, Francja czy USA. Nasz system działa, po co go naprawiać?"",
+      "„No cóż, oczywiście mówię o tym od lat” — odpowiada Colin Fungale tonem balansującym między zdrowym rozsądkiem a samozadowoleniem. „Dzięki systemowi punktowemu możemy mieć sprawiedliwszy nabór imigrantów, których naprawdę potrzebujemy, i będziemy mogli odkręcać i zakręcać ten kran w zależności od okoliczności.”",
+      "Bob Owlbear kręci głową. „Jak to się dzieje, że kraje takie jak Kanada i Australia, które były pionierami systemów punktowych, musiały przyznać, że one nie działają? W Australii wystarczy spojrzeć na ludzi, którzy przeprowadzili się tam, bo faktycznie dostali ofertę pracy — dokładnie tak jak w ramach naszego obecnego systemu EU. Po pięciu latach tylko jeden na stu z tych imigrantów jest bez pracy. A teraz popatrzmy na ludzi przyjętych w australijskim systemie punktowym. Piętnaście procent z nich kończy jako bezrobotni. Niespecjalnie to efektywne, prawda?”",
+      "„Zresztą, czy hasłem Brexitu nie było pozbycie się biurokracji?” — wtrąca Lucy Tooth. „W momencie, gdy wprowadzasz system punktowy, musisz rozbudować biurokrację, żeby go obsługiwać. W tej chwili obywatele EU mogą tu przyjechać, jeśli mają pracę. Proces selekcji jest więc zlecony prywatnemu sektorowi. Pański system punktowy będzie wymagał armii urzędników — a jak właśnie powiedział Bob, systemy punktowe nawet nie okazały się sprawne. Wielka Brytania ma już lepszą proporcję wykwalifikowanych imigrantów niż Australia, Francja czy USA. Nasz system działa, po co go naprawiać?”",
       "Próba potocznego języka była nieco chybiona, biorąc pod uwagę jej uprzejmy, mieszczański akcent, ale reszta nie była taka zła. Lepiej miej na nią oko na wypadek, gdyby kolejne wybory przyniosły kolejną koalicję. Nie żebyś sobie wyobrażał, że Liberalni Demokraci kiedykolwiek znów popełnią ten sam błąd.",
       "Przewijasz resztę odpowiedzi. Thomas Tode wspomina o tym, jak systemy punktowe są podatne na lobbing, choć nawet on sam chyba nie jest pewien, do czego zmierza. Mężczyzna na widowni z szyją pokrytą pajęczymi tatuażami martwi się, czy jego drużyna piłkarska zdoła zatrzymać kluczowych zawodników, których nazwiska brzmią jak stacje na linii kolejowej do Stambułu. Zwykła mieszanina dezinformacji, partykularnych interesów i na wpół zrozumianych koncepcji. Nie żebyś narzekał. To właśnie umiejętność mieszania tej zupy utrzymuje cię u władzy."
     ],
@@ -88,7 +88,7 @@
   "209": {
     "PROSE": [
       "Jesteś w radiu BBC, gdzie przeprowadza z tobą wywiad Bill Appleby. Wywiad? Raczej grillowanie. Ba, smażenie na wolnym ogniu.",
-      "„A więc, panie premierze" — mówi Appleby. „Colin Fungale twierdzi, że pan kieruje się tam, skąd wieje wiatr. Zero przekonań — takie padają zarzuty. Jak pan zamierza przeprowadzić Brexit, skoro pan w niego nie wierzy?""
+      "„A więc, panie premierze” — mówi Appleby. „Colin Fungale twierdzi, że pan kieruje się tam, skąd wieje wiatr. Zero przekonań — takie padają zarzuty. Jak pan zamierza przeprowadzić Brexit, skoro pan w niego nie wierzy?”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Ależ ja w niego wierzę.'\" ►816",
@@ -98,7 +98,7 @@
   },
   "210": {
     "PROSE": [
-      "Przyjrzyjmy się teraz stanowi relacji Wielkiej Brytanii z Unią Europejską. Czy po nieraz gorzkim sporze o warunki rozwodu da się pozostać przyjaciółmi?"
+      "Przyjrzyjmy się teraz stanowi relacji Wielkiej Brytanii z Unią Europejską. Czy po nieras gorzkim sporze o warunki rozwodu da się pozostać przyjaciółmi?"
     ],
     "GOTO": [
       "[IF Goodwill<=25] \"Nikłe szanse\" ►702",
@@ -108,11 +108,11 @@
   },
   "211": {
     "PROSE": [
-      "„Wielka Brytania tak naprawdę nie może zawierać żadnych nowych umów przed Brexitem, prawda? Pamięta pan, jak mój tata beztrosko ogłosił, że tuzin umów handlowych będzie gotowy do podpisania nazajutrz po wyjściu z EU, a dwa dni później musieli go wyciągnąć przed kamery, żeby przyznał, że nie możemy nawet zacząć negocjować? Tragedia. Ale mnie za to wyśmiewali w szkole."",
-      "„Jest mnóstwo miejsca na nieformalne rozmowy. Możemy przygotować grunt pod przyszłe umowy."",
-      "„Mogą państwo? To dość szara strefa, nieprawdaż? Gdzie przebiega granica między formalnymi negocjacjami handlowymi a wstępną pogawędką?"",
-      "„Gdziekolwiek przebiega ta granica, jestem przekonany, że zdołamy omówić szczegóły traktatów, nie przekraczając jej."",
-      "„To pewność siebie czy efekt Dunninga-Krugera? Bo wie pan, pan może uważać, że jest w granicach prawa, ale jak pan sądzi, co poczują pozostałe 27 państw? Dobrej woli jest tam już niewiele, a wystarczy jeden niezadowolony, żeby wysadzić całą sprawę w powietrze."",
+      "„Wielka Brytania tak naprawdę nie może zawierać żadnych nowych umów przed Brexitem, prawda? Pamięta pan, jak mój tata beztrosko ogłosił, że tuzin umów handlowych będzie gotowy do podpisania nazajutrz po wyjściu z EU, a dwa dni później musieli go wyciągnąć przed kamery, żeby przyznał, że nie możemy nawet zacząć negocjować? Tragedia. Ale mnie za to wyśmiewali w szkole.”",
+      "„Jest mnóstwo miejsca na nieformalne rozmowy. Możemy przygotować grunt pod przyszłe umowy.”",
+      "„Mogą państwo? To dość szara strefa, nieprawdaż? Gdzie przebiega granica między formalnymi negocjacjami handlowymi a wstępną pogawędką?”",
+      "„Gdziekolwiek przebiega ta granica, jestem przekonany, że zdołamy omówić szczegóły traktatów, nie przekraczając jej.”",
+      "„To pewność siebie czy efekt Dunninga-Krugera? Bo wie pan, pan może uważać, że jest w granicach prawa, ale jak pan sądzi, co poczują pozostałe 27 państw? Dobrej woli jest tam już niewiele, a wystarczy jeden niezadowolony, żeby wysadzić całą sprawę w powietrze.”",
       "Dunning-Kruger? Czy to jakiś niemiecki zespół thrash metalowy? Lepiej nie pytać, bo jeszcze pomyśli, że jesteś ramol."
     ],
     "OPTIONS": [
@@ -121,9 +121,9 @@
   },
   "212": {
     "PROSE": [
-      "Walczysz, żeby zebrać energię na ostatni zryw, ale droga była długa i nikt nie jest teraz w nastroju, żeby słuchać twoich rad. Przeciwnicy obracają twoje własne argumenty przeciwko tobie. „Serce pana premiera nigdy nie biło dla Brexitu" — mówi Thomas Tode, prowadząc kampanię za Leave niczym osobliwy mały leming pokręconej logiki. „Dlatego właśnie jesteśmy w tym bagnie. Bo nie przyjęliśmy w pełni wyniku pierwszego referendum."",
-      "Siadasz z Ronem Beardsleyem, swoim szefem sztabu, żeby oglądać napływające wyniki. „Problem w tym, że wyborcom sprzedano wehikuł czasu, który ma ich zabrać do obiecanej krainy ich młodości" — mówi.",
-      "„A w rzeczywistości to maszyna do eutanazji." Kiwasz głową. „Chyba widziałem kiedyś sztukę science fiction na ten temat.""
+      "Walczysz, żeby zebrać energię na ostatni zryw, ale droga była długa i nikt nie jest teraz w nastroju, żeby słuchać twoich rad. Przeciwnicy obracają twoje własne argumenty przeciwko tobie. „Serce pana premiera nigdy nie biło dla Brexitu” — mówi Thomas Tode, prowadząc kampanię za Leave niczym osobliwy mały leming pokręconej logiki. „Dlatego właśnie jesteśmy w tym bagnie. Bo nie przyjęliśmy w pełni wyniku pierwszego referendum.”",
+      "Siadasz z Ronem Beardsleyem, swoim szefem sztabu, żeby oglądać napływające wyniki. „Problem w tym, że wyborcom sprzedano wehikuł czasu, który ma ich zabrać do obiecanej krainy ich młodości” — mówi.",
+      "„A w rzeczywistości to maszyna do eutanazji.” Kiwasz głową. „Chyba widziałem kiedyś sztukę science fiction na ten temat.”"
     ],
     "TOSS_TWO": [
       "[BOTH HEADS] \"Dalej\" ►173",
@@ -137,7 +137,7 @@
       "[EFFECT Popularity+2]"
     ],
     "PROSE": [
-      "Ogłoszone przez ciebie finansowanie jest w większości kosmetyczne, ale twoim oponentom trudno krytykować jakiekolwiek plany zwiększenia wydatków na NHS. Zostaje im tylko mówienie, że to za mało, co twoi ministrowie z łatwością kontrują, opisując to jako „fazę pierwszą". Ogólnie rzecz biorąc, chyba ci się upiekło."
+      "Ogłoszone przez ciebie finansowanie jest w większości kosmetyczne, ale twoim oponentom trudno krytykować jakiekolwiek plany zwiększenia wydatków na NHS. Zostaje im tylko mówienie, że to za mało, co twoi ministrowie z łatwością kontrują, opisując to jako „fazę pierwszą”. Ogólnie rzecz biorąc, chyba ci się upiekło."
     ],
     "REPORT": [
       "<strong>-1% Economy</strong>: musisz wydawać pieniądze, których Skarb Państwa nie ma.",
@@ -161,9 +161,9 @@
       "[EFFECT getItem:Residency Rights]"
     ],
     "PROSE": [
-      "„Nie, nie pozwolimy się przycisnąć do muru."",
-      "„Słucham?" — mówi Alprèves. „Do muru?"",
-      "„Najdyplomatyczniej jak się da, proszę przekazać Hiszpanom, żeby sobie pograli w kastaniety. Nie poddam się szantażowi — nie tam, gdzie chodzi o niewinnych emerytów."",
+      "„Nie, nie pozwolimy się przycisnąć do muru.”",
+      "„Słucham?” — mówi Alprèves. „Do muru?”",
+      "„Najdyplomatyczniej jak się da, proszę przekazać Hiszpanom, żeby sobie pograli w kastaniety. Nie poddam się szantażowi — nie tam, gdzie chodzi o niewinnych emerytów.”",
       "Widzi, że masz mocne argumenty, a przynajmniej tak to odczytają media. Dzień lub dwa później wraca z nowymi warunkami. Okazuje się, że Hiszpanie ustąpili i zgodzili się na umowę."
     ],
     "REPORT": [
@@ -185,12 +185,12 @@
     ],
     "PROSE": [
       "Twoi doradcy czekają na ciebie, gdy drzwi się otwierają i ministrowie wysypują się na słońce na lunch w formie bufetu.",
-      "„Jaki werdykt, panie premierze?" — pyta twoja rzeczniczka prasowa.",
-      "„Stawiamy barykady, Lizzie. Wychodzimy z wolnego przepływu osób. Zamiast tego będziemy mieli australijski system punktowy, o który tak ujadali Kippersi."",
-      "„Ale…"",
-      "„Ale co?"",
-      "„Kippersi to idioci. Systemy punktowe powodują biurokratyczny zator i nawet nie działają."",
-      "„A komu to mówisz. Jestem jak prezes firmy, której akcjonariuszami są same szympansy. Oczywiście nikomu tego nie powtarzaj.""
+      "„Jaki werdykt, panie premierze?” — pyta twoja rzeczniczka prasowa.",
+      "„Stawiamy barykady, Lizzie. Wychodzimy z wolnego przepływu osób. Zamiast tego będziemy mieli australijski system punktowy, o który tak ujadali Kippersi.”",
+      "„Ale…”",
+      "„Ale co?”",
+      "„Kippersi to idioci. Systemy punktowe powodują biurokratyczny zator i nawet nie działają.”",
+      "„A komu to mówisz. Jestem jak prezes firmy, której akcjonariuszami są same szympansy. Oczywiście nikomu tego nie powtarzaj.”"
     ],
     "REPORT": [
       "<strong>+10% Authority</strong>: bezkompromisowe podejście umacnia twoją władzę.",
@@ -204,9 +204,9 @@
   },
   "217": {
     "PROSE": [
-      "„Niewielu ludzi o tym wie" — mówi McKay — „ale Wspólna Polityka Bezpieczeństwa i Obrony została tak naprawdę zainicjowana przez nas i Francuzów. W 1998 roku." Rzuca ironiczne spojrzenie na ruiny wiktoriańskiego fortu morskiego.",
-      "„A od tamtej pory EU próbuje przekręcić to w coś, czym to nigdy nie miało być. Taki jest sposób myślenia Komisji w pigułce."",
-      "„Na szczęście wetowaliśmy to" — mówi McKay z miną człowieka kontemplującego ledwie unikniętą katastrofę. „Potrafi pan sobie wyobrazić, jaki byłby bałagan, gdyby nasi chłopcy służyli w pułkach ramię w ramię, powiedzmy, z Belgami?""
+      "„Niewielu ludzi o tym wie” — mówi McKay — „ale Wspólna Polityka Bezpieczeństwa i Obrony została tak naprawdę zainicjowana przez nas i Francuzów. W 1998 roku.” Rzuca ironiczne spojrzenie na ruiny wiktoriańskiego fortu morskiego.",
+      "„A od tamtej pory EU próbuje przekręcić to w coś, czym to nigdy nie miało być. Taki jest sposób myślenia Komisji w pigułce.”",
+      "„Na szczęście wetowaliśmy to” — mówi McKay z miną człowieka kontemplującego ledwie unikniętą katastrofę. „Potrafi pan sobie wyobrazić, jaki byłby bałagan, gdyby nasi chłopcy służyli w pułkach ramię w ramię, powiedzmy, z Belgami?”"
     ],
     "OPTIONS": [
       "[OPTION] \"Zapytaj, jak autoryzowane są misje wojskowe EU\" ►343",
@@ -216,14 +216,14 @@
   },
   "218": {
     "PROSE": [
-      "Abednego wychował się na plebanii i wiesz, że nie pochwaliłby wydawania pieniędzy na omijanie kolejki. Siadając na śliskim plastikowym krześle, czekasz przez bliżej nieokreślony czas, podczas gdy na ekranie lecą te same reklamy, te same dżingle powtarzają się godzina po godzinie, aż prawie masz ochotę nucić razem z nimi.",
-      "„Jaki mamy problem? Mów do Dr Happy'ego."",
+      "Abednego wychował się na plebanii i wiesz, że nie pochwałiłby wydawania pieniędzy na omijanie kolejki. Siadając na śliskim plastikowym krześle, czekasz przez bliżej nieokreślony czas, podczas gdy na ekranie lecą te same reklamy, te same dżingle powtarzają się godzina po godzinie, aż prawie masz ochotę nucić razem z nimi.",
+      "„Jaki mamy problem? Mów do Dr Happy’ego.”",
       "Robisz wielkie oczy. To robot-automat. W środku widzisz batony czekoladowe, napoje gazowane, opakowania aspiryny i rolki bandaża.",
-      "„Chciałbym zobaczyć się z prawdziwą osobą."",
-      "Podbiega dziecko w mundurku pielęgniarskim. „Oto osoba" — mówi Dr Happy. „Ta osoba ze mną pracuje."",
+      "„Chciałbym zobaczyć się z prawdziwą osobą.”",
+      "Podbiega dziecko w mundurku pielęgniarskim. „Oto osoba” — mówi Dr Happy. „Ta osoba ze mną pracuje.”",
       "Dziecko kiwa głową i podnosi strzykawkę. Nie wydaje się mówić po angielsku.",
-      "„Jaki mamy problem?" — powtarza robot.",
-      "Abednego patrzy na dziecko, potem jego głowa obraca się o sto osiemdziesiąt stopni w twoją stronę. „Wiesz, co ona zrobiła?" — mówi upiornym głosem.",
+      "„Jaki mamy problem?” — powtarza robot.",
+      "Abednego patrzy na dziecko, potem jego głowa obraca się o sto osiemdziesiąt stopni w twoją stronę. „Wiesz, co ona zrobiła?” — mówi upiornym głosem.",
       "Coś tu nie gra. Abednego chyba nigdy nie oglądał <em>Egzorcysty</em>."
     ],
     "OPTIONS": [
@@ -232,11 +232,11 @@
   },
   "219": {
     "PROSE": [
-      "„Logicznymi rynkami docelowymi są tu miejsca takie jak Indie i Chiny. Mają rosnącą klasę średnią, rosnącą zamożność, ale ich sektory usług są słabe."",
-      "„Jakie usługi?"",
-      "„Bankowość, księgowość, ubezpieczenia. Wystarczy spojrzeć na Indie. Mają jedną piątą światowej populacji, ale ich udział w składkach ubezpieczeniowych to zaledwie jakieś 2%. Wejdź tam, a świat stoi przed tobą otworem."",
-      "„Otworem?"",
-      "Obdarza cię powolnym, płomiennym spojrzeniem. „Nie lubię ostryg.""
+      "„Logicznymi rynkami docelowymi są tu miejsca takie jak Indie i Chiny. Mają rosnącą klasę średnią, rosnącą zamożność, ale ich sektory usług są słabe.”",
+      "„Jakie usługi?”",
+      "„Bankowość, księgowość, ubezpieczenia. Wystarczy spojrzeć na Indie. Mają jedną piątą światowej populacji, ale ich udział w składkach ubezpieczeniowych to zaledwie jakieś 2%. Wejdź tam, a świat stoi przed tobą otworem.”",
+      "„Otworem?”",
+      "Obdarza cię powolnym, płomiennym spojrzeniem. „Nie lubię ostryg.”"
     ],
     "OPTIONS": [
       "[OPTION] \"Dalej\" ►700"
@@ -244,11 +244,11 @@
   },
   "220": {
     "PROSE": [
-      "„Musimy mieć nadzieję, że coś się da wypracować" — mówi Dent. „Finanse były jedną z kluczowych mocnych stron Wielkiej Brytanii od ponad stu lat."",
-      "„To kolejny obszar, w którym EU była nieco powolna w osiąganiu pełnej integracji" — mówi Stollard. „Ze względu na te głębokie korzenie, o których właśnie wspomniał Dennis, to my tak naprawdę do niej pchalśmy."",
-      "„Miło słyszeć, że obaj się w czymś zgadzacie."",
-      "Patrzą na siebie jak dwaj wrodzy żołnierze, którzy przez przypadek zabłądzili na ziemię niczyją. „Cóż, różnimy się pewnie w tym, jak widzimy przyszłość" — mówi Dent. „Uważam, że nasze instytucje finansowe rozkwitną, gdy zostaną uwolnione od duszących regulacji europejskich biurokratów."",
-      "„A ja się obawiam, że bez paszportów finansowych pozwalających na swobodny handel na jednolitym rynku stracimy mnóstwo biznesu. Szwajcarskie banki w Londynie na pewno zaczną się pakować na pierwszy ogień.""
+      "„Musimy mieć nadzieję, że coś się da wypracować” — mówi Dent. „Finanse były jedną z kluczowych mocnych stron Wielkiej Brytanii od ponad stu lat.”",
+      "„To kolejny obszar, w którym EU była nieco powolna w osiąganiu pełnej integracji” — mówi Stollard. „Ze względu na te głębokie korzenie, o których właśnie wspomniał Dennis, to my tak naprawdę do niej pchaliśmy.”",
+      "„Miło słyszeć, że obaj się w czymś zgadzacie.”",
+      "Patrzą na siebie jak dwaj wrodzy żołnierze, którzy przez przypadek zabłądzili na ziemię niczyją. „Cóż, różnimy się pewnie w tym, jak widzimy przyszłość” — mówi Dent. „Uważam, że nasze instytucje finansowe rozkwitną, gdy zostaną uwolnione od duszących regulacji europejskich biurokratów.”",
+      "„A ja się obawiam, że bez paszportów finansowych pozwalających na swobodny handel na jednolitym rynku stracimy mnóstwo biznesu. Szwajcarskie banki w Londynie na pewno zaczną się pakować na pierwszy ogień.”"
     ],
     "OPTIONS": [
       "[OPTION] \"'Nie mogę uwierzyć, że EU chciałaby stracić finansową siłę i doświadczenie Wielkiej Brytanii.'\" ►118",
