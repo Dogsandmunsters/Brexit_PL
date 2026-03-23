@@ -1,65 +1,65 @@
 {
   "861": {
     "PROSE": [
-      "He gazes back at you through the thick glasses that make his face look permanently surprised. Not for the first time he strikes you as a strange little meerkat, always scrutinizing people for signs of ideological impurity.",
-      "And if that's the case, what's his judgement of you?"
+      "Patrzy na ciebie przez grube okulary, które sprawiają, że jego twarz wygląda na wiecznie zaskoczoną. Nie po raz pierwszy przychodzi ci na myśl, że przypomina dziwną małą surykatę, nieustannie badającą ludzi w poszukiwaniu oznak ideologicznej nieczystości.",
+      "A jeśli tak jest, jaki wydał o tobie osąd?"
     ],
     "GOTO": [
-      "[IF keyword:BLEAK OR keyword:HEMLOCK OR keyword:KOALA OR keyword:LEAF] \"Carry on\" ►436",
-      "[ELSEIF keyword:GAZELLE OR keyword:OPAL] \"Carry on\" ►770",
-      "[ELSE] \"Carry on\" ►75"
+      "[IF keyword:BLEAK OR keyword:HEMLOCK OR keyword:KOALA OR keyword:LEAF] \"Dalej\" ►436",
+      "[ELSEIF keyword:GAZELLE OR keyword:OPAL] \"Dalej\" ►770",
+      "[ELSE] \"Dalej\" ►75"
     ]
   },
   "862": {
     "PROSE": [
-      "Your guidance in the matter comes from an ineffably knowledgeable source."
+      "Twoje wskazówki w tej sprawie pochodzą z niewymownie kompetentnego źródła."
     ],
     "GOTO": [
-      "[IF box:862.box1] \"Amen to that\" ►170",
-      "[ELSE] [EFFECT tick:862.box1] \"Hallelujah\" ►33"
+      "[IF box:862.box1] \"Amen\" ►170",
+      "[ELSE] [EFFECT tick:862.box1] \"Alleluja\" ►33"
     ]
   },
   "863": {
     "PROSE": [
-      "Word comes back from the EU negotiators that it's not going to be easy. Although it's in everyone's interests to keep the close cooperation between UK and EU police forces, after Brexit that would mean EU states being liable in principle to have to extradite their own nationals to a foreign country.",
-      "'Some EU states will have to amend their constitutions to allow this,' the EU Chief Negotiator, Willy Franjeboom, remarks to you in a late-night Skype call.",
-      "'So?'",
-      "'So they may ask why, if you want a divorce, you still expect to come and sleep on the couch. I'll do what I can.'"
+      "Od negocjatorów UE przychodzi wiadomość, że nie będzie łatwo. Choć w interesie wszystkich leży utrzymanie bliskiej współpracy między policją Wielkiej Brytanii a UE, po Brexicie oznaczałoby to, że państwa UE byłyby w zasadzie zobowiązane do ekstradycji własnych obywateli do obcego kraju.",
+      "— Niektóre państwa UE będą musiały zmienić swoje konstytucje, żeby na to pozwolić — zauważa Główny Negocjator UE, Willy Franjeboom, podczas nocnej rozmowy z tobą przez Skype'a.",
+      "— I co z tego?",
+      "— A to, że mogą zapytać, dlaczego po rozwodzie wciąż oczekujesz, że będziesz mógł przychodzić spać na kanapie. Zrobię, co w mojej mocy."
     ],
     "GOTO": [
-      "[IF Goodwill>=61] \"Continue\" ►448",
-      "[ELSE] \"Continue\" ►476"
+      "[IF Goodwill>=61] \"Dalej\" ►448",
+      "[ELSE] \"Dalej\" ►476"
     ]
   },
   "864": {
     "PROSE": [
-      "The final polls have support for Leave just in front. It's going to be a tight race. So much depends on whether younger voters bother to turn out. With their future riding on the outcome, you might think they would crawl over broken glass to vote. But it's politics, which has always been a dark and unknowable art."
+      "Ostatnie sondaże dają minimalne prowadzenie zwolennikom wyjścia. Zapowiada się wyrównany wyścig. Tak wiele zależy od tego, czy młodsi wyborcy raczą się pojawić. Skoro ich przyszłość zależy od wyniku, można by pomyśleć, że czołgaliby się po potłuczonym szkle, żeby zagłosować. Ale to polityka, która od zawsze była mroczną i nieodgadnioną sztuką."
     ],
     "TOSS_TWO": [
-      "[BOTH HEADS] \"Continue\" ►221",
-      "[BOTH TAILS] \"Continue\" ►429",
-      "[HEAD AND TAIL] \"Continue\" ►429"
+      "[BOTH HEADS] \"Dalej\" ►221",
+      "[BOTH TAILS] \"Dalej\" ►429",
+      "[HEAD AND TAIL] \"Dalej\" ►429"
     ]
   },
   "865": {
     "PROSE": [
-      "The two-year fuse lit by declaring Article 50 has nearly burnt out. In less than a week Brexit will be a reality. You glance out of the back window of Number 10 at the ochre-grey dusk. Just days after Brexit the clocks are due to change.",
-      "'And now we spring forward into a new era…' you rehearse. Needs work. Better give it to the speech writers.",
-      "If Labour had won the last election their ridiculous monolith of graven promises would now stand in the back garden like something out of <em>Carry On Space Odysseying</em>. Although, ironically, there's a metaphorical stone tablet whose commandments every politician is now beholden to follow. 'Thou shalt not deny that Brexit means Brexit,' and so on.",
-      "A whiff of tobacco wafts up through the open window. Craning your neck, you see the red glimmer of Ron Beardsley's pipe as he paces the darkened terrace. In a Proustian rush of memory you're taken back to your father's study one Christmas. You must have been seven or eight. Your father was writing his sermon and disliked interruption, but this was important.",
-      "'I wish to lodge a complaint about this present, Daddy,' you told him.",
-      "He set aside his pen and studied the object you were holding. 'It appears to be the unicorn you asked for.'",
-      "'I did ask for a unicorn. This is a stuffed toy.'",
-      "'Well, after all, there are no real unicorns.'",
-      "'I was promised a unicorn.'",
-      "'You can't have what doesn't exist.'",
-      "Was it at that moment you decided on a career in politics? You sensed a world of people who wanted things that didn't exist and that couldn't be delivered. People who would reject your father's stuffy logic with the sheer force of belief. With denial, if need be.",
-      "Those are the people who have put you here. And you mean to keep making them promises just as long as they keep electing you. Each new promise coming so fast that it washes out the failure of the last. A new era of wishing, when facts and opinions and delusions will merge in a rainbow of infinite possibility.",
-      "<p class=\"centered\">THE END</p>",
-      "Or – hang on, <em>is</em> it the end? Maybe you'd like to find out what kind of shape the country is in after two years with you as Prime Minister?"
+      "Dwuletni lont odpalony ogłoszeniem Artykułu 50 prawie się wypalił. Za niecały tydzień Brexit stanie się rzeczywistością. Zerkasz przez tylne okno na Downing Street 10 na ochrowo-szary zmierzch. Zaledwie kilka dni po Brexicie zmieniony zostanie czas.",
+      "— A teraz wskakujemy w nową erę… — ćwiczysz. Wymaga dopracowania. Lepiej oddać to autorom przemówień.",
+      "Gdyby Partia Pracy wygrała ostatnie wybory, ich absurdalny monolit rytych obietnic stałby teraz w ogrodzie jak coś rodem z <em>Kosmicznej Odysei w wydaniu kabaretowym</em>. Choć, o ironio, istnieje metaforyczna kamienna tablica, której przykazań każdy polityk jest teraz zobowiązany przestrzegać. „Nie będziesz zaprzeczał, że Brexit znaczy Brexit\u201d i tak dalej.",
+      "Przez otwarte okno unosi się zapach tytoniu. Wychylając szyję, dostrzegasz czerwoną poświatę fajki Rona Beardsleya, gdy ten przechadza się po pogrążonym w mroku tarasie. W proustowskim przypływie wspomnień przenosisz się do gabinetu ojca w pewne Boże Narodzenie. Musiałeś mieć siedem albo osiem lat. Ojciec pisał kazanie i nie lubił, gdy mu przeszkadzano, ale to było ważne.",
+      "— Chciałbym złożyć reklamację dotyczącą tego prezentu, tatusiu — powiedziałeś mu.",
+      "Odłożył pióro i przyjrzał się przedmiotowi, który trzymałeś. — Wygląda na jednorożca, o którego prosiłeś.",
+      "— Rzeczywiście prosiłem o jednorożca. To jest pluszowa zabawka.",
+      "— Cóż, w końcu prawdziwe jednorożce nie istnieją.",
+      "— Obiecano mi jednorożca.",
+      "— Nie możesz dostać czegoś, co nie istnieje.",
+      "Czy to właśnie w tamtej chwili zdecydowałeś się na karierę w polityce? Wyczułeś świat ludzi, którzy chcieli rzeczy nieistniejących i niemożliwych do dostarczenia. Ludzi, którzy odrzuciliby sztywną logikę twojego ojca samą siłą wiary. W razie potrzeby — zaprzeczeniem.",
+      "To ci ludzie cię tu posadzili. I zamierzasz dalej składać im obietnice tak długo, jak długo będą cię wybierać. Każda nowa obietnica nadchodzi tak szybko, że zmywa porażkę poprzedniej. Nowa era życzeniowego myślenia, gdy fakty, opinie i złudzenia zleją się w tęczę nieskończonych możliwości.",
+      "<p class=\"centered\">KONIEC</p>",
+      "Albo — chwileczkę, czy to <em>naprawdę</em> koniec? Może chciałbyś się dowiedzieć, w jakim stanie jest kraj po dwóch latach z tobą jako premierem?"
     ],
     "OPTIONS": [
-      "[OPTION] \"Get your score\" ►736"
+      "[OPTION] \"Sprawdź swój wynik\" ►736"
     ]
   }
 }
