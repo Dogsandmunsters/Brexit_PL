@@ -1,104 +1,104 @@
 {
   "381": {
     "PROSE": [
-      "No one could accuse you of currying favour among the EU27, and your grip on the party machinery is stronger than ever. So, even though Dent has been railing against the EU for most of his political career, you're seen as the one who can deliver the outcome the diehard Brexiters want.",
-      "With Dent knocked out, it's now between you, Rufus and Stollard. Two of you will go forward to the membership vote, but first there's one more round in the Parliamentary contest."
+      "Nikt nie mógłby cię oskarżyć o podlizywanie się krajom EU27, a twoja kontrola nad partyjnym aparatem jest silniejsza niż kiedykolwiek. Więc mimo że Dent przez większość swojej kariery politycznej grzmiał przeciwko UE, to właśnie ty jesteś postrzegany jako ten, kto zdoła dostarczyć wynik, jakiego pragną zatwardziali zwolennicy Brexitu.",
+      "Po wyeliminowaniu Denta pozostajecie ty, Rufus i Stollard. Dwoje z was przejdzie do głosowania członków partii, ale najpierw czeka jeszcze jedna runda w rywalizacji parlamentarnej."
     ],
     "GOTO": [
-      "[IF keyword:YELLOW] \"Continue\" ►791",
-      "[ELSE] \"Continue\" ►501"
+      "[IF keyword:YELLOW] \"Dalej\" ►791",
+      "[ELSE] \"Dalej\" ►501"
     ]
   },
   "382": {
     "PROSE": [
-      "'Always assuming we get the chance,' says Stollard. 'Staying in the single market would be marvellous, but even so much as whisper it and in pretty short order there'd be three different people sitting round this table.'",
-      "'Speak for yourself.'",
-      "'All right, Dennis – two other people,' says Stollard laughing. 'But even you must admit there are some swivel-eyed nutcases on the right of the party who'd slap the Inquisition on us if they sense we're straying anywhere near rational negotiation.'",
-      "Dent frowns, perhaps unsure where his loyalties really lie. 'I've a bit more confidence in the British electorate than you, Alan. They're not stupid. If the country's best interests are at stake they can take that on board. They just don't want us toadying to the Brussels bullies.'",
-      "'All right,' you say, summing up. 'We won't be the first government that's had to do a bit of spin doctoring. The key thing is don't burn any bridges. Britain and the EU both want an outcome in which each side prospers. We'll be firm, we'll find areas of common ground, we'll accept the deals that we need to, and we'll find ways to explain those deals to the voters as and when. Good day, gentlemen.'"
+      "– Zakładając oczywiście, że w ogóle dostaniemy taką szansę – mówi Stollard. – Pozostanie na jednolitym rynku byłoby wspaniałe, ale wystarczy o tym szepnąć, a w bardzo krótkim czasie przy tym stole siedziałyby trzy zupełnie inne osoby.",
+      "– Mów za siebie.",
+      "– No dobrze, Dennis – dwie inne osoby – mówi Stollard ze śmiechem. – Ale nawet ty musisz przyznać, że na prawym skrzydle partii siedzą jacyś świry o szklanych oczach, którzy urządziliby nam inkwizycję, gdyby zwęszyli, że choćby zbliżamy się do racjonalnych negocjacji.",
+      "Dent marszczy brwi, najwyraźniej niepewny, gdzie naprawdę leżą jego lojalności. – Mam nieco więcej zaufania do brytyjskiego elektoratu niż ty, Alan. Nie są głupi. Jeśli na szali stoją najżywotniejsze interesy kraju, potrafią to przyjąć do wiadomości. Po prostu nie chcą, żebyśmy płaszczyli się przed brukselskimi zabijakami.",
+      "– W porządku – mówisz, podsumowując. – Nie będziemy pierwszym rządem, który musiał trochę pokręcić przekazem. Najważniejsze to nie palić za sobą mostów. Zarówno Wielka Brytania, jak i UE chcą wyniku, przy którym obie strony będą prosperować. Będziemy stanowczy, znajdziemy obszary wspólnych interesów, zaakceptujemy porozumienia, które są nam potrzebne, i znajdziemy sposoby, by je wytłumaczyć wyborcom w odpowiednim czasie. Dobrego dnia, panowie."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►125"
+      "[OPTION] \"Dalej\" ►125"
     ]
   },
   "383": {
     "PROSE": [
-      "'Ah, now hang on. I know this. Saw it on <em>News Talk</em> the other night. The thing is, you'd imagine the big thing in trade is tariffs, right? Sell us a crate of curry powder and we slap 5% on that. But it turns out that's a bit old hat. Guess the average import tariff on goods into the EU. Go on, guess.'",
-      "'One percent,' says Stollard.",
-      "'It is one percent. It is. Of course, you're the Chancellor, so no cigar for knowing that. Thing is, the much bigger drag on trade comes from these non-tariff issues. How straight is your banana – well, I made that one up, actually. But regulations about how much alcohol is in your <em>cassis</em>, whether your kiddie's toy is going to poison him or your car battery is going to blow up, all those things. And most important of all for Blighty, what about qualifications and standards for services? Although that's not so relevant when we're talking about the WTO.'",
-      "'Why not? Services are more than three-quarters of our economy.'",
-      "'We're out of luck, then. The WTO is more focussed on goods. They've made a little progress with services, but the vanilla WTO deal wouldn't really work for us. If we want to keep selling our services to Europe, we need to conform to EU regs.'"
+      "– O, chwileczkę. To ja wiem. Widziałem w <em>News Talk</em> któregoś wieczoru. Otóż wyobrażałbyś sobie, że w handlu najważniejsze są cła, prawda? Sprzedaj nam skrzynkę przyprawy curry, a my przylepimy pięć procent. Ale okazuje się, że to trochę passé. Zgadnijcie, jakie jest średnie cło importowe na towary wwożone do UE. No dalej, zgadnijcie.",
+      "– Jeden procent – mówi Stollard.",
+      "– Właśnie, jeden procent. Oczywiście jesteś kanclerzem skarbu, więc za wiedzę o tym nie należy ci się żadne cygaro. Rzecz w tym, że znacznie większe hamulce w handlu wynikają z barier pozataryfowych. Jak prosty musi być twój banan – no dobra, to akurat wymyśliłem. Ale przepisy o tym, ile alkoholu jest w twoim <em>cassis</em>, czy zabawka twojego dzieciaka go nie otruje, czy akumulator w twoim samochodzie nie wybuchnie – to wszystko. A co najważniejsze dla Wielkiej Brytanii – co z kwalifikacjami i standardami w usługach? Choć to akurat nie jest tak istotne, kiedy mówimy o WTO.",
+      "– Dlaczego nie? Usługi to ponad trzy czwarte naszej gospodarki.",
+      "– Cóż, nie mamy szczęścia. WTO bardziej skupia się na towarach. Poczynili pewne postępy z usługami, ale zwykła umowa na zasadach WTO nie do końca by u nas zadziałała. Jeśli chcemy dalej sprzedawać nasze usługi Europie, musimy spełniać unijne regulacje."
     ],
     "OPTIONS": [
-      "[OPTION] \"'And what about quotas and schedules?'\" ►61",
-      "[OPTION] \"'What's this about most favoured nations?'\" ►38",
-      "[OPTION] \"'Those are all details we can cover in due course.'\" ►454"
+      "[OPTION] \"„A co z kontyngentami i harmonogramami?”\" ►61",
+      "[OPTION] \"„Co to za sprawa z klauzulą najwyższego uprzywilejowania?”\" ►38",
+      "[OPTION] \"„To wszystko szczegóły, którymi zajmiemy się w swoim czasie.”\" ►454"
     ]
   },
   "384": {
     "PROSE": [
-      "One of the wonks at Campaign HQ has prepared a video presentation of the key points. You can't put off watching it any longer. TED Talks it's not.",
-      "'Three quarters of Leave voters favour a hard Brexit,' a hired-in marketing strategist is saying. 'We can expect that to entrench as nobody likes to be proved wrong, so the optimum strategy is to polarize Leave versus Remain so that pro-soft Brexit blocs can't get traction. The majority of Conservative and UKIP voters want a hard Brexit, of course. That's even more the case if we only look at paid-up members of the parties. Our recommendation is this: forget about the centre, tack to the right and pursue a hard Brexit. Few of your voters will even consider Labour at the moment. Even its own voters are giving up on it having any clear stance on Brexit. So hoover up UKIP's vote with promises of grammar schools and a return to the 1960s.'",
-      "You hit pause and fiddle with the remote, trying to get the figures on the whiteboard behind him into focus. In the foreground, his frozen trust-me smile and studio tan threaten to pixellate into a blur of light.",
-      "It's not the TV screen, it's you. Seventeen hours without a break. Even lunch was on the hoof, a sandwich wolfed down in the back of the car before you were whisked around a wind farm in Rutland. Or somewhere.",
-      "It's gone midnight. Maybe you should get a cocoa and a book to take to bed. You punch off the briefing video – time enough to watch that over breakfast – and head through to the kitchen.",
-      "The cleaner is in there talking to one of your security people who's filling himself up with coffee for the night shift. You wave them both away. 'I can make my own cocoa.' It annoys you when people fuss.",
-      "Waiting for the milk to heat up, you realize you're almost asleep on your feet. The cleaner's half-whispered conversation seems almost surreal:",
-      "'My son and his friends, they get together for their game, right, that's their gaming evening. Online I mean, but before they start playing they Facetime or Skype or whatever it is. And they have a vote to decide what they're going to play, which game I mean. I don't know the latest ones. Not <em>Donkey Kong</em> anymore, is it? Huh. Anyway, he's voting and I hear him say this game, and he turns to me with a sour look, like this. Look, like this.'",
-      "The security man looks up wearily as she turns to gurn at him. 'Is that right?' he says in a voice freighted with boredom.",
-      "'It's not a game he liked, you see.' She clears away his mug and puts it in the sink. 'But there was another one he didn't want to play either, and he knew that one was going to get plenty of votes, and the first one wasn't, so he voted for that to stop them both getting into the second round. Then he'd got more chance of the game he wanted to play getting picked, you see? He's a clever lad, our Melvin. Could end up going to university one day.'",
-      "The security officer is going to need a lot more caffeine, by the looks of it. You're listening so intently that you end up putting salt in your cocoa. Still, it's reminded you of an important truth. Sometimes you have to seem to be going after something you don't want in order to get what you do want."
+      "Jeden z analityków w sztabie kampanii przygotował prezentację wideo z kluczowymi tezami. Nie możesz dłużej odkładać jej obejrzenia. Do wykładów TED temu materiałowi daleko.",
+      "– Trzy czwarte wyborców Leave opowiada się za twardym Brexitem – mówi wynajęty strateg marketingowy. – Możemy oczekiwać, że to stanowisko się utrwali, bo nikt nie lubi przyznawać się do błędu, więc optymalna strategia to polaryzacja Leave kontra Remain, tak aby frakcje za miękkim Brexitem nie mogły zyskać przyczepności. Większość wyborców Konserwatystów i UKIP chce twardego Brexitu, oczywiście. Tym bardziej, jeśli weźmiemy pod uwagę wyłącznie opłacających składki członków partii. Nasza rekomendacja jest taka: zapomnijcie o centrum, skręćcie w prawo i dążcie do twardego Brexitu. Niewielu waszych wyborców w ogóle weźmie pod uwagę Partię Pracy. Nawet jej własni wyborcy tracą nadzieję, że zajmie jakiekolwiek wyraźne stanowisko wobec Brexitu. Więc przejmijcie elektorat UKIP obietnicami szkół selektywnych i powrotu do lat sześćdziesiątych.",
+      "Wciskasz pauzę i bawisz się pilotem, próbując wyostrzyć dane na tablicy za jego plecami. Na pierwszym planie jego zamrożony uśmiech „zaufaj mi” i solariowy opalenizna grożą rozpikselowaniem w smugę światła.",
+      "To nie ekran telewizora, to ty. Siedemnaście godzin bez przerwy. Nawet obiad był w biegu – kanapka pochłonięta na tylnym siedzeniu samochodu, zanim obwieziono cię po farmie wiatrowej w Rutland. Albo gdzieś tam.",
+      "Jest po północy. Może powinieneś zrobić sobie kakao i wziąć książkę do łóżka. Wyłączasz odprawę wideo – zdążysz ją obejrzeć przy śniadaniu – i idziesz do kuchni.",
+      "W kuchni sprzątaczka rozmawia z jednym z twoich ludzi z ochrony, który dolewa sobie kawy na nocną zmianę. Odprawiasz ich oboje machnięciem ręki. – Sam sobie zrobię kakao. – Denerwuje cię, kiedy ludzie się nad tobą trzęsą.",
+      "Czekając, aż mleko się zagrzeje, uświadamiasz sobie, że niemal zasypiasz na stojąco. Szeptana rozmowa sprzątaczki brzmi niemal surrealistycznie:",
+      "– Mój syn i jego kumple, zbierają się na swoją grę, wie pan, to ich wieczór z grami. Online znaczy, ale zanim zaczną grać, łączą się przez FaceTime albo Skype, czy co tam teraz jest. I głosują, w co będą grać, na którą grę. Ja tam nie znam tych najnowszych. Już chyba nie <em>Donkey Kong</em>, co? No. W każdym razie on głosuje i słyszę, jak wymienia tę grę, a potem odwraca się do mnie z taką skwaszoną miną. O, taką. Patrz, taką.",
+      "Ochroniarz podnosi wzrok ze znużeniem, kiedy ta odwraca się, żeby zrobić grymas. – Aha, tak? – mówi głosem ociekającym nudą.",
+      "– Bo to nie była gra, którą lubił, rozumie pan. – Zabiera jego kubek i wstawia do zlewu. – Ale była jeszcze inna, w którą też nie chciał grać, i wiedział, że ta druga dostanie dużo głosów, a ta pierwsza nie, więc zagłosował na tę pierwszą, żeby obie nie przeszły do drugiej rundy. Wtedy miał większą szansę, że gra, w którą naprawdę chciał grać, zostanie wybrana, rozumie pan? Zdolny chłopak, nasz Melvin. Może kiedyś nawet pójdzie na studia.",
+      "Ochroniarz będzie potrzebował znacznie więcej kofeiny, sądząc po wyglądzie. Ty słuchasz tak uważnie, że wkładasz sól do kakao. Niemniej przypomniało ci to o ważnej prawdzie. Czasem musisz udawać, że dążysz do czegoś, czego nie chcesz, żeby dostać to, czego naprawdę chcesz."
     ],
     "OPTIONS": [
-      "[OPTION] \"Tomorrow is a new day\" ►500"
+      "[OPTION] \"Jutro jest nowy dzień\" ►500"
     ]
   },
   "385": {
     "PROSE": [
-      "Oh, for more hours in the day so that you could personally oversee all aspects of the Brexit negotiations. Unfortunately you've had to delegate a number of topics to your ministers – in particular the Secretary of State for Exiting the EU. Now to see how much harm he and his cronies have done…"
+      "Och, gdyby tylko doba miała więcej godzin, żebyś mógł osobiście nadzorować wszystkie aspekty negocjacji brexitowych. Niestety musiałeś delegować szereg tematów swoim ministrom – w szczególności Sekretarzowi Stanu ds. Wyjścia z UE. Teraz pora zobaczyć, ile szkód on i jego poplecznicy narobili…"
     ],
     "GOTO": [
-      "[IF !item:the NHS] \"Who was in charge of the NHS?\" ►682",
-      "[ELSEIF !item:Second EU Referendum] \"There's that question of another referendum\" ►165",
-      "[ELSEIF !item:Exit Fee] \"How was the exit fee handled?\" ►560",
-      "[ELSEIF !item:Residency Rights] \"That issue of residency rights...\" ►812",
-      "[ELSEIF !item:Security & Defence] \"What about security and defence?\" ►765",
-      "[ELSEIF !item:EU Trade Talks] \"Maybe you should have handled EU trade talks in person\" ►662",
-      "[ELSEIF !item:International Trade Deals] \"What kind of a muddle are international trade deals in?\" ►297",
-      "[ELSEIF !item:General Election] \"Now what about calling a general election?\" ►181",
-      "[ELSE] \"Everything is in hand\" ►424"
+      "[IF !item:the NHS] \"Kto odpowiadał za NHS?\" ►682",
+      "[ELSEIF !item:Second EU Referendum] \"Jest jeszcze kwestia kolejnego referendum\" ►165",
+      "[ELSEIF !item:Exit Fee] \"Jak załatwiono sprawę Exit Fee?\" ►560",
+      "[ELSEIF !item:Residency Rights] \"Ta kwestia Residency Rights...\" ►812",
+      "[ELSEIF !item:Security & Defence] \"A co z bezpieczeństwem i obroną?\" ►765",
+      "[ELSEIF !item:EU Trade Talks] \"Może trzeba było osobiście poprowadzić rozmowy handlowe z UE\" ►662",
+      "[ELSEIF !item:International Trade Deals] \"W jakim bałaganie są międzynarodowe umowy handlowe?\" ►297",
+      "[ELSEIF !item:General Election] \"A co z rozpisaniem wyborów powszechnych?\" ►181",
+      "[ELSE] \"Wszystko pod kontrolą\" ►424"
     ]
   },
   "386": {
     "PROSE": [
-      "And after three years with you as Prime Minister, what's the outlook for Britain's economy?"
+      "– A jak po trzech latach z panem na stanowisku premiera wyglądają perspektywy brytyjskiej gospodarki?"
     ],
     "GOTO": [
-      "[IF Economy<=37] \"In a word: glum\" ►108",
-      "[ELSEIF Economy>=56] \"Let's find out\" ►328",
-      "[ELSE] \"Let's find out\" ►46"
+      "[IF Economy<=37] \"Jednym słowem: ponuro\" ►108",
+      "[ELSEIF Economy>=56] \"Przekonajmy się\" ►328",
+      "[ELSE] \"Przekonajmy się\" ►46"
     ]
   },
   "387": {
     "PROSE": [
-      "'Not frightened of Alprèves and his mob, are you?'",
-      "Armand Alprèves is the negotiator on behalf of the EU Commission.",
-      "'Not at all. It's a negotiation, not a punch-up. Hopefully we'll find a solution that both sides can live with.'",
-      "'I'll be frank with you, Prime Minister. After the referendum result I expected a little more enthusiasm, a little more zip. You're not arguing over an insurance claim, you're steering the country out of the entangling coils of a bureaucratic octopus.'"
+      "– Chyba się pan nie boi Alprèvesa i jego bandy?",
+      "Armand Alprèves jest negocjatorem z ramienia Komisji Europejskiej.",
+      "– Skądże. To negocjacje, nie bijatyka. Mam nadzieję, że znajdziemy rozwiązanie, z którym obie strony będą mogły żyć.",
+      "– Będę z panem szczery, panie premierze. Po wyniku referendum spodziewałem się nieco więcej entuzjazmu, nieco więcej wigoru. Nie targuje się pan o odszkodowanie z ubezpieczalni – pan wyprowadza kraj z oplatających go macek biurokratycznej ośmiornicy."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Of course, you're quite right, Sir Harvey.'\" ►567",
-      "[OPTION] \"'It's what we're steering into that worries me.'\" ►270"
+      "[OPTION] \"„Oczywiście, ma pan całkowitą rację, sir Harvey.”\" ►567",
+      "[OPTION] \"„To, w co zmierzamy – oto co mnie niepokoi.”\" ►270"
     ]
   },
   "388": {
     "PROSE": [
-      "So far the polls suggest the Remain side is in the lead. But it's early days.",
-      "'Voters are led by their pay packets,' your grandfather used to say. There's a lot of truth in that. Your ability to steer the economy through the rocky shoals leading to Brexit will make a big difference."
+      "Na razie sondaże wskazują, że strona Remain prowadzi. Ale to dopiero początek.",
+      "– Wyborcy kierują się portfelem – mawiał twój dziadek. Wiele w tym prawdy. Twoja zdolność do przeprowadzenia gospodarki przez burzliwe wody prowadzące do Brexitu będzie miała ogromne znaczenie."
     ],
     "GOTO": [
-      "[IF Economy>=51] \"Carry on\" ►649",
-      "[ELSE] \"Carry on\" ►128"
+      "[IF Economy>=51] \"Dalej\" ►649",
+      "[ELSE] \"Dalej\" ►128"
     ]
   },
   "389": {
@@ -106,32 +106,32 @@
       "[EFFECT getItem:International Trade Deals]"
     ],
     "PROSE": [
-      "'We need to announce a range of exciting new free trade deals,' you tell the Cabinet. 'Let's show those doubters and nay-sayers that Britain has its arms open to the world.'",
-      "You look around at the downcast faces. Several ministers shuffle papers. Somebody coughs.",
-      "'What?'",
-      "'Prime Minister,' says Leslie Barkwell, 'we've agreed to remain in the customs union.'",
-      "'Yes. So? You're the International Trade Minister. Get out there and close some sweet deals.'",
-      "'That's just it. I can't. The agreement with the EU is that we share tariffs with them.'",
-      "'It's what a customs union means,' says the Chancellor.",
-      "'There are sectors that aren't covered, surely? What about agricultural goods?'",
-      "They look at each other. Nobody wants to meet your eye.",
-      "'A bit of a nightmare, that,' says the Foreign Secretary at last. 'Hellaciously complex, those sector by sector deals. Turkey had a stab at it but have pretty much given it up as a bad job.'",
-      "'Services, then. That's nearly 90% of our economy. Get to work on services deals.'",
-      "The Chancellor sucks his teeth. 'Not really worth it. The Trade in Services Agreement is already being negotiated by over twenty members of the World Trade Organization, including the EU. Those countries account for over two-thirds of international trade in services, so we might as well wait and implement those terms.'",
-      "You cast a dark scowl around the table. 'This is hardly the triumphant repatriation of sovereignty that the public were promised.'",
-      "The Chancellor shrugs. 'Few political promises survive contact with reality.'"
+      "– Musimy ogłosić szereg ekscytujących nowych umów o wolnym handlu – mówisz do gabinetu. – Pokażmy tym sceptykom i malkontentom, że Wielka Brytania otwiera ramiona na świat.",
+      "Rozglądasz się po przygnębionych twarzach. Kilku ministrów przerzuca dokumenty. Ktoś chrząka.",
+      "– Co takiego?",
+      "– Panie premierze – odzywa się Leslie Barkwell – zgodziliśmy się pozostać w unii celnej.",
+      "– No i? Jest pan ministrem handlu międzynarodowego. Niech pan tam jedzie i domknie jakieś świetne umowy.",
+      "– O to właśnie chodzi. Nie mogę. Porozumienie z UE stanowi, że dzielimy z nimi taryfy celne.",
+      "– Taka jest istota unii celnej – mówi kanclerz skarbu.",
+      "– Na pewno są sektory, których to nie obejmuje? A co z towarami rolnymi?",
+      "Spoglądają po sobie. Nikt nie chce spojrzeć ci w oczy.",
+      "– To dość kłopotliwa sprawa – odzywa się wreszcie minister spraw zagranicznych. – Piekielnie skomplikowane, te umowy sektorowe. Turcja próbowała, ale w zasadzie dała sobie spokój.",
+      "– W takim razie usługi. To prawie dziewięćdziesiąt procent naszej gospodarki. Bierzcie się do pracy nad umowami dotyczącymi usług.",
+      "Kanclerz skarbu cmoka z namysłem. – Nie ma to większego sensu. Porozumienie w sprawie handlu usługami jest już negocjowane przez ponad dwudziestu członków Światowej Organizacji Handlu, w tym UE. Te kraje odpowiadają za ponad dwie trzecie międzynarodowego handlu usługami, więc równie dobrze możemy poczekać i wdrożyć te warunki.",
+      "Posyłasz ponure spojrzenie dookoła stołu. – To raczej nie jest triumfalny odzysk suwerenności, który obiecano społeczeństwu.",
+      "Kanclerz skarbu wzrusza ramionami. – Niewiele obietnic politycznych przeżywa zderzenie z rzeczywistością."
     ],
     "OPTIONS": [
-      "[OPTION] \"Forward\" ►666"
+      "[OPTION] \"Dalej\" ►666"
     ]
   },
   "390": {
     "PROSE": [
-      "Bill Appleby deploys all his usual rhetorical thumbscrews, but you were careful to rehearse a number of nebulous platitudes beforehand and he can't pin you down. As you leave the studio you're still shaking from the encounter, but you think you got away with it. For now."
+      "Bill Appleby stosuje wszystkie swoje zwykłe retoryczne śruby kciukowe, ale starannie przećwiczyłeś wcześniej zestaw mglistych frazesów i nie udaje mu się cię przycisnąć. Wychodząc ze studia, wciąż drżysz po tym starciu, ale wydaje ci się, że udało ci się wyjść z tego obronną ręką. Na razie."
     ],
     "GOTO": [
-      "[IF keyword:NYLON ] \"Continue\" ►193",
-      "[ELSE] \"Continue\" ►726"
+      "[IF keyword:NYLON ] \"Dalej\" ►193",
+      "[ELSE] \"Dalej\" ►726"
     ]
   },
   "391": {
