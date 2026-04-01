@@ -1,12 +1,12 @@
 {
   "501": {
     "PROSE": [
-      "'It's turning into a circus. Just when we thought it was nearly over, now Pooh Bear has joined in.'",
-      "Your press secretary is referring to the fact that Peter Strewel, following the Home Secretary's lead, has chosen this moment to throw his hat into the ring.",
-      "It is a worrying development. Although widely regarded as an unprincipled clown, Strewel's combination of over-simplification, facetiousness and posh bonhomie make him a favourite of the grassroots supporters. If you and he were to go through to the final vote by the membership, you wouldn't stand a chance."
+      "– To się zamienia w cyrk. Akurat kiedy myśleliśmy, że to już prawie koniec, teraz dołączył Kubuś Puchatek.",
+      "Twój rzecznik prasowy ma na myśli fakt, że Peter Strewel, idąc w ślady ministra spraw wewnętrznych, wybrał właśnie ten moment, żeby zgłosić swoją kandydaturę.",
+      "To niepokojący rozwój wypadków. Choć powszechnie uważany za pozbawionego zasad błazna, Strewel swoją mieszanką uproszczeń, żartobliwości i dystyngowanej serdeczności zaskarbił sobie sympatię szeregowych członków partii. Gdybyście ty i on przeszli do ostatecznego głosowania członków partii, nie miałbyś żadnych szans."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►105"
+      "[OPTION] \"Dalej\" ►105"
     ]
   },
   "502": {
@@ -14,75 +14,75 @@
       "[EFFECT Popularity-5]"
     ],
     "PROSE": [
-      "'Don't say: \"the pound in your pocket will not be devalued\",' is all the advice you get from the Chancellor."
+      "– Tylko nie mów: „funt w twojej kieszeni nie straci na wartości” – to jedyna rada, jaką dostajesz od kanclerza skarbu."
     ],
     "REPORT": [
-      "<strong>-5% Popularity</strong>: your policies are getting the blame for the decline of choice in the shops."
+      "<strong>-5% Popularity</strong>: twoja polityka jest obwiniana za malejący wybór w sklepach."
     ],
     "OPTIONS": [
-      "[OPTION] \"Chin up\" ►200"
+      "[OPTION] \"Głowa do góry\" ►200"
     ]
   },
   "503": {
     "PROSE": [
-      "'It's quicker, isn't it?' says McKay. 'By the time you've chewed your way through some of these department names, the red button's pushed and we're all on top of a mushroom cloud.'",
-      "'Run me through some of them.'",
-      "'Well, there's CSDP. That's the Common Security and Defence Policy of the EU. On the basis of that you've got SDIP, which is the Security and Defence Implementation Plan that's being developed to decide how the EDA – European Defence Agency, obviously – should operate. They'd like there to be an OHQ, Operational Headquarters that is, to coordinate EU military missions, but we've always opposed that, and Poland, Lithuania and Latvia aren't too keen on it either.'",
-      "'Why?'",
-      "'Well, just doing what NATO already does, isn't it? Assuming President Windrip doesn't put up a wall across the Atlantic too. On the policing side you've got SIS II – the Schengen Information System, second gen – that handles data about terrorist suspects, international criminals and so forth. The European Arrest Warrant – EAW to any man who types with one finger – is the protocol that allows quick extradition between member states.'",
-      "He pauses and looks off into the dazzling haze out to sea.",
-      "'What is it, McKay?'",
-      "'Just wondering if 5 Eyes counts as an acronym. No, I suppose not. Still, there's enough there to keep those Brussels bureaucrats bending over the photocopier for years to come.'"
+      "– Tak jest szybciej, nie? – mówi McKay. – Zanim się przegryziesz przez niektóre z tych nazw departamentów, ktoś już nacisnął czerwony guzik i wszyscy siedzimy na szczycie atomowego grzyba.",
+      "– Wymień mi kilka.",
+      "– No więc, jest WPBiO. To Wspólna Polityka Bezpieczeństwa i Obrony UE. Na jej podstawie mamy SDIP, czyli Plan Wdrożenia Bezpieczeństwa i Obrony, który jest opracowywany, żeby ustalić, jak powinna działać EDA – Europejska Agencja Obrony, oczywiście. Chcieliby, żeby istniała OHQ, czyli Kwatera Główna Operacji, koordynująca misje wojskowe UE, ale my zawsze się temu sprzeciwialiśmy, a Polska, Litwa i Łotwa też nie są tym zachwycone.",
+      "– Dlaczego?",
+      "– No bo to robienie tego, co NATO już robi, prawda? Zakładając, że prezydent Windrip nie postawi muru w poprzek Atlantyku. Jeśli chodzi o policję, jest SIS II – System Informacyjny Schengen drugiej generacji – który obsługuje dane o podejrzanych o terroryzm, międzynarodowych przestępcach i tak dalej. Europejski Nakaz Aresztowania – ENA dla każdego, kto pisze jednym palcem – to protokół umożliwiający szybką ekstradycję między państwami członkowskimi.",
+      "Przerywa i spogląda w oślepiającą mgłę nad morzem.",
+      "– O co chodzi, McKay?",
+      "– Zastanawiam się, czy Pięcioro Oczu liczy się jako akronim. Nie, chyba nie. Ale i tak jest tego dość, żeby ci brukselscy biurokraci pochylali się nad kserokopiarką jeszcze przez lata."
     ],
     "OPTIONS": [
-      "[OPTION] \"'What's your view of the military implications of Brexit?'\" ►168",
-      "[OPTION] \"'How do you think it might impact policing and counter-terrorism?'\" ►314",
-      "[OPTION] \"'Let's get back to London. This photoshoot's a washout.'\" ►666"
+      "[OPTION] \"„Jakie jest twoje zdanie na temat militarnych konsekwencji Brexitu?”\" ►168",
+      "[OPTION] \"„Jak twoim zdaniem może to wpłynąć na policję i walkę z terroryzmem?”\" ►314",
+      "[OPTION] \"„Wracajmy do Londynu. Ta sesja zdjęciowa to klapa.”\" ►666"
     ]
   },
   "504": {
     "PROSE": [
-      "'Well, you know my dad went off to Indonesia a few months back to tell them the UK was opening for business. Fanfare, tickertape, his suitcase full of samples. Very Willy Loman. And do you know what the head of their investment board said? He was talking about the trade deal that Indonesia is thrashing out with the EU, and he said they could copy and paste it to do a similar deal with Britain.'",
-      "'Well, there you go. Perfect.'",
-      "'Not the <em>same</em> deal. See, what he then went on to say was: \"Of course, the UK's going to be in a much weaker bargaining position once it leaves the European Union, so Indonesia will expect much more favourable terms of trade with the UK compared to the EU.\"'"
+      "– No wiesz, mój tata pojechał kilka miesięcy temu do Indonezji, żeby powiedzieć im, że Wielka Brytania jest otwarta na biznes. Fanfary, konfetti, walizka pełna próbek. Zupełny Willy Loman. I wiesz, co powiedział szef ich rady inwestycyjnej? Mówił o umowie handlowej, którą Indonezja właśnie wykuwa z UE, i powiedział, że mogą ją skopiować i wkleić, żeby zawrzeć podobną umowę z Brytanią.",
+      "– No i proszę. Idealnie.",
+      "– Nie <em>taką samą</em> umowę. Bo potem dodał: „Oczywiście Wielka Brytania będzie w znacznie słabszej pozycji negocjacyjnej, kiedy opuści Unię Europejską, więc Indonezja będzie oczekiwać znacznie korzystniejszych warunków handlowych z Wielką Brytanią w porównaniu z UE”."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►700"
+      "[OPTION] \"Dalej\" ►700"
     ]
   },
   "505": {
     "PROSE": [
-      "The party must feel you're a better person to deliver a strong but not utterly crazed Brexit, as Dent is knocked out in the next round of voting."
+      "Partia musi uznać, że jesteś lepszą osobą do przeprowadzenia stanowczego, choć nie całkowicie szalonego Brexitu – Dent odpada w kolejnej rundzie głosowania."
     ],
     "GOTO": [
-      "[IF keyword:NYLON] \"So far so good\" ►193",
-      "[ELSE] \"So far so good\" ►726"
+      "[IF keyword:NYLON] \"Na razie dobrze\" ►193",
+      "[ELSE] \"Na razie dobrze\" ►726"
     ]
   },
   "506": {
     "PROSE": [
-      "A majority for Leave leads to the obvious question for the second heat: do the British people want to quit the single market in a hard Brexit, or are they in favour of something more like the so-called Norway model?",
-      "'Given that the previous referendum came out 48% for Remain and 52% for Leave, I think we could have spared ourselves all this bother,' says the Chancellor. 'It's pretty obvious that the overall public mood will be for a soft Brexit.'",
-      "'It's politics, Alan. Nothing's obvious till long after it's happened.'"
+      "Większość za Leave prowadzi do oczywistego pytania w drugiej turze: czy Brytyjczycy chcą opuścić jednolity rynek w twardym Brexicie, czy raczej opowiadają się za czymś bardziej zbliżonym do tak zwanego modelu norweskiego?",
+      "– Biorąc pod uwagę, że poprzednie referendum dało 48% dla Remain i 52% dla Leave, myślę, że mogliśmy sobie oszczędzić tego całego zamieszania – mówi kanclerz skarbu. – To dość oczywiste, że ogólny nastrój społeczny będzie za miękkim Brexitem.",
+      "– To polityka, Alan. Nic nie jest oczywiste, dopóki nie minie sporo czasu."
     ],
     "TOSS_TWO": [
-      "[BOTH HEADS] \"Continue\" ►157",
-      "[BOTH TAILS] \"Continue\" ►637",
-      "[HEAD AND TAIL] \"Continue\" ►157"
+      "[BOTH HEADS] \"Dalej\" ►157",
+      "[BOTH TAILS] \"Dalej\" ►637",
+      "[HEAD AND TAIL] \"Dalej\" ►157"
     ]
   },
   "507": {
     "PROSE": [
-      "The others sweep in. First is the Chancellor, Alan Stollard. The threat of the Treasury having to find an extra €60 billion has had him pacing his bedroom all night. You know because you heard him through the wall.",
-      "Behind him is the compact, strutting figure of Dennis Dent, the Secretary of State for Exiting the EU, beaming like a two hundred watt bulb. Dear God, how can he be so perky this early in the morning? The answer is pretty obvious, though. Ever since the referendum he feels like he's had a letter from Hogwarts.",
-      "A gaggle of assistants sweep in behind the two ministers like a bridal train styled by Moss Bros. You could swear one of them is actually speaking into his watch – until he catches your hooded stare and taps it off. If only these junior civil servants would spend a little more on clothing and less on their ubiquitous gadgetry.",
-      "'Sixty billion, they're asking. That's – ' The Chancellor glances at an iPad hastily held out in front of him by a lackey. 'That's a quarter as much as trade with the EU is worth to us in a year. Half as much again as our defence budget.'",
-      "'Outrageous,' splutters Dent. 'Sheer extortion. It's the sort of punishment beating the Foreign Secretary was talking about. Where do they think we'll find it, down the back of the sofa?'",
-      "'It's a tidy sum,' concedes the Chancellor. 'Especially with spending already cut to the bone.'"
+      "Reszta wchodzi z impetem. Pierwszy jest kanclerz skarbu, Alan Stollard. Groźba, że ministerstwo finansów będzie musiało znaleźć dodatkowe 60 miliardów euro, nie dawała mu spać całą noc. Wiesz, bo słyszałeś go przez ścianę.",
+      "Za nim kroczy zwarta, dumna sylwetka Dennisa Denta, ministra ds. wyjścia z UE, promieniejącego jak dwustuwatowa żarówka. Wielki Boże, jak on może być taki rześki o tak wczesnej porze? Odpowiedź jest dość oczywista. Od czasu referendum czuje się, jakby dostał list z Hogwartu.",
+      "Gromada asystentów wpada za oboma ministrami jak weselny tren uszyty przez Moss Bros. Mógłbyś przysiąc, że jeden z nich naprawdę mówi do zegarka – dopóki nie łapie twojego groźnego spojrzenia i nie wyłącza go. Gdyby tylko ci młodsi urzędnicy państwowi wydawali trochę więcej na ubrania, a mniej na swoją wszechobecną elektronikę.",
+      "– Sześćdziesiąt miliardów żądają. To… – Kanclerz skarbu zerka na iPada pospiesznie podstawionego mu przed nos przez pachołka. – To ćwierć rocznej wartości naszego handlu z UE. Półtora raza nasz budżet obronny.",
+      "– Skandal – prycha Dent. – Czyste wymuszenie. To właśnie ten rodzaj kary, o której mówił minister spraw zagranicznych. Gdzie ich zdaniem to znajdziemy, za kanapą?",
+      "– To pokaźna sumka – przyznaje kanclerz skarbu. – Zwłaszcza że wydatki już ścięto do kości."
     ],
     "OPTIONS": [
-      "[OPTION] \"'I already know the problems. Give me some solutions.'\" ►750",
-      "[OPTION] \"'Let's go over the options.'\" ►151"
+      "[OPTION] \"„Problemy już znam. Dajcie mi jakieś rozwiązania.”\" ►750",
+      "[OPTION] \"„Przejdźmy do opcji.”\" ►151"
     ]
   },
   "508": {
@@ -90,23 +90,23 @@
       "[EFFECT getKW:NYLON]"
     ],
     "PROSE": [
-      "Your backbenchers make it clear in no uncertain terms that they are not going to let you blackball Fungale.",
-      "'We need him,' says Sir Harvey Doggerbank, chairman of the 1922 Committee. 'All of this is happening because of him. He's the architect of Brexit, and his flavour of politics is what a lot of people want.'",
-      "'Oh, I know what you're driving at. Honest bloke, likes a pint, always guffawing away like the kind of unrepentant rapscallion who knows he'll get a pass from an indulgent granny. Not a remote, middle-aged, over-educated career dinosaur like me, eh? I suppose you'd like to hand him the keys to Number 10 while you're at it?'",
-      "You mean it as a bitter joke, but what's most disturbing is the look of wild surmise that flashes across Doggerbank's face."
+      "Twoi backbencherzy dają ci jasno do zrozumienia, że nie pozwolą ci zablokować Fungale'a.",
+      "– Potrzebujemy go – mówi sir Harvey Doggerbank, przewodniczący Komitetu 1922. – To wszystko dzieje się dzięki niemu. Jest architektem Brexitu, a jego styl polityki jest tym, czego wielu ludzi chce.",
+      "– Ach, wiem, do czego zmierzasz. Szczery facet, lubi piwo, wiecznie rechocze jak niepoprawny łobuziak, który wie, że pobłażliwa babcia mu wybaczy. Nie taki daleki, w średnim wieku, zbyt wykształcony dinozaur polityczny jak ja, co? Może chciałbyś mu od razu wręczyć klucze do Downing Street?",
+      "Mówisz to jako gorzki żart, ale najbardziej niepokojący jest błysk dzikiego olśnienia, który przemyka po twarzy Doggerbanka."
     ],
     "OPTIONS": [
-      "[OPTION] \"You've given him an idea\" ►375"
+      "[OPTION] \"Podsunąłeś mu pomysł\" ►375"
     ]
   },
   "509": {
     "PROSE": [
-      "'We can sell it that way, certainly,' says Dent. 'Broadly speaking, the Swiss have opted into the single market through a framework of their own – well, a framework that's been mutually agreed with EU, but still they can break it at any time.'",
-      "'Which means that for once the boot isn't on the EU foot,' adds Barkwell. 'They have to deal with the Swiss as a sovereign nation. How they must hate that.'",
-      "'Might be a bit of a snag, actually,' says Strewel. 'After all, if the Swiss deal is such a headache for all concerned, we might find it's put the EU right off doing any new bespoke deals.'"
+      "– Możemy to tak przedstawić, oczywiście – mówi Dent. – Ogólnie rzecz biorąc, Szwajcarzy zdecydowali się na uczestnictwo w jednolitym rynku poprzez własne ramy – cóż, ramy wzajemnie uzgodnione z UE, ale wciąż mogą je zerwać w dowolnym momencie.",
+      "– Co oznacza, że tym razem to nie UE dyktuje warunki – dodaje Barkwell. – Muszą traktować Szwajcarów jako suwerenne państwo. Jak oni tego muszą nienawidzić.",
+      "– Może być pewien haczyk – mówi Strewel. – W końcu, skoro umowa ze Szwajcarią to taki ból głowy dla wszystkich zainteresowanych, może się okazać, że UE całkowicie zniechęciła się do zawierania nowych umów szytych na miarę."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►378"
+      "[OPTION] \"Dalej\" ►378"
     ]
   },
   "510": {
@@ -119,34 +119,34 @@
       "[EFFECT getKW:CLARION]"
     ],
     "PROSE": [
-      "'So it's a case of the only way is Norway,' says the Chancellor when you discuss the outline of the deal in Cabinet.",
-      "'It's a damnable compromise,' fumes Barkwell. 'Our courts will be obliged to track standards laid down by European courts, we'll have hardly any influence over regulations, and – worst of all – the fangs of the EU will still be sucking money out of us year on year.'",
-      "'Parasites,' chimes in a little voice from the far end of the room, reminding you that Thomas Tode is here.",
-      "'But compromise is the very soul of politics,' you point out.",
-      "At that Peter Strewel produces a meaty laugh. 'Yesterday's politics, that! We're on the other side of history now. People have lost patience with negotiation and compromise. They're demanding simple answers.'",
-      "'Politics is complex,' says the Chancellor. 'There are no easy answers.'",
-      "'Really?' chortles Strewel. 'Religion has been riding the high hog on exactly that promise for four thousand years.'",
-      "You look at the febrile light in the eyes of Barkwell and Dent and the other hardline Brexiters and you know he is right. This isn't politics any more; it's blind faith."
+      "– Więc jedyna droga to Norwegia – mówi kanclerz skarbu, kiedy omawiasz zarys umowy na posiedzeniu gabinetu.",
+      "– To przeklęty kompromis – złości się Barkwell. – Nasze sądy będą musiały stosować standardy ustalone przez sądy europejskie, nie będziemy mieli prawie żadnego wpływu na regulacje i – co najgorsze – kły UE dalej będą wysysać z nas pieniądze rok po roku.",
+      "– Pasożyty – wtóruje mu cieniutki głosik z końca sali, przypominając ci, że Thomas Tode tu jest.",
+      "– Ale kompromis to sama istota polityki – zauważasz.",
+      "Na to Peter Strewel wybucha soczystym śmiechem. – To polityka z wczoraj! Jesteśmy po drugiej stronie historii. Ludzie stracili cierpliwość do negocjacji i kompromisów. Domagają się prostych odpowiedzi.",
+      "– Polityka jest skomplikowana – mówi kanclerz skarbu. – Nie ma łatwych odpowiedzi.",
+      "– Naprawdę? – rechocze Strewel. – Religia świetnie sobie radzi na dokładnie takiej obietnicy od czterech tysięcy lat.",
+      "Patrzysz na gorączkowy błysk w oczach Barkwella i Denta i pozostałych zatwardziałych brexitowców i wiesz, że ma rację. To już nie jest polityka – to ślepa wiara."
     ],
     "REPORT": [
-      "<strong>-5% Authority</strong>: many of the hardcore Brexiters in the party are furious that you're keeping such close links with the EU.",
-      "<strong>-3% Economy</strong>: even with EEA-level access to the single market, there will be some degree of disruption to trade in services on which the UK depends.",
-      "<strong>+5% Goodwill</strong>: the EU27 may be hoping that in time Britain will return to the fold.",
-      "<strong>-10% Popularity</strong>: after the high drama<em> </em>of negotiation, the voters resent such an unexciting conclusion.",
-      "EU Trade Talks are now complete."
+      "<strong>-5% Authority</strong>: wielu zatwardziałych brexitowców w partii jest wściekłych, że utrzymujesz tak bliskie więzi z UE.",
+      "<strong>-3% Economy</strong>: nawet z dostępem do jednolitego rynku na poziomie EOG nastąpi pewne zakłócenie handlu usługami, od którego zależy Wielka Brytania.",
+      "<strong>+5% Goodwill</strong>: UE-27 może żywić nadzieję, że z czasem Wielka Brytania wróci na łono Unii.",
+      "<strong>-10% Popularity</strong>: po wielkim dramacie<em> </em>negocjacji wyborcy mają żal o tak mało ekscytujące zakończenie.",
+      "EU Trade Talks zostały zakończone."
     ],
     "OPTIONS": [
-      "[OPTION] \"Steady the Buffs\" ►666"
+      "[OPTION] \"Spokojnie\" ►666"
     ]
   },
   "511": {
     "PROSE": [
-      "'We could announce special visas for doctors and nurses. Tie it to an amped-up points scale to measure the level of training. That way we sell it as inviting the brightest and best physicians to come to Britain.'",
-      "'It's still risky, assuming what you're most concerned about is getting immigration down. Some demented old biddy is going to pop up on a phone-in grumbling that her GP has a Jamaican accent or took a few days off over Ramadan.'"
+      "– Moglibyśmy ogłosić specjalne wizy dla lekarzy i pielęgniarek. Powiązać je z rozbudowaną skalą punktową, która mierzy poziom wykształcenia. W ten sposób sprzedamy to jako zaproszenie najzdolniejszych i najlepszych medyków do przyjazdu do Wielkiej Brytanii.",
+      "– To wciąż ryzykowne, zakładając, że najbardziej zależy ci na obniżeniu imigracji. Jakaś obłąkana staruszka zadzwoni na antenę i zacznie narzekać, że jej lekarz pierwszego kontaktu ma jamajski akcent albo wziął kilka dni wolnego na ramadan."
     ],
     "OPTIONS": [
-      "[OPTION] \"'All right. Let's do nothing. It's not like the staffing levels will collapse overnight.'\" ►854",
-      "[OPTION] \"'We'll issue special medical visas. A few hardcore xenophobes might grumble about it, but getting waiting lists down wins more votes.'\" ►824"
+      "[OPTION] \"– Dobra. Nie róbmy nic. Nie jest tak, że poziom zatrudnienia zawali się z dnia na dzień.\" ►854",
+      "[OPTION] \"– Wydamy specjalne wizy medyczne. Garść zatwardziałych ksenofobów może ponarzekać, ale skrócenie kolejek do lekarzy przyniesie więcej głosów.\" ►824"
     ]
   },
   "512": {
@@ -154,18 +154,18 @@
       "[EFFECT getKW:FOG]"
     ],
     "PROSE": [
-      "As your strategy so far has pointed towards a hard Brexit, you can hardly switch around now. Nor is there any chance to avoid campaigning without opening yourself up to charges of hypocrisy."
+      "Skoro twoja dotychczasowa strategia zmierzała ku twardemu brexitowi, trudno teraz zmienić kurs. Nie ma też szans na unikanie kampanii bez narażenia się na zarzuty hipokryzji."
     ],
     "OPTIONS": [
-      "[OPTION] \"Plug on regardless\" ►302"
+      "[OPTION] \"Brnij dalej mimo wszystko\" ►302"
     ]
   },
   "513": {
     "PROSE": [
-      "Tiffany Rufus is knocked out in the final Parliamentary round of voting. Now it's just you and Peter Strewel."
+      "Tiffany Rufus odpada w ostatniej rundzie głosowania parlamentarnego. Zostaliście już tylko ty i Peter Strewel."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►67"
+      "[OPTION] \"Dalej\" ►67"
     ]
   },
   "514": {
@@ -176,11 +176,11 @@
   },
   "515": {
     "PROSE": [
-      "While the majority of Tory MPs are behind you, there remain pockets of dissent. The naysayers, the cavillers, the mutineers who refuse to sacrifice their self-indulgent scruples to the common good. You can picture them huddled around in their clubs or back-slapping in their locker rooms, scheming and plotting and sharpening the knives. And when your back is turned…",
-      "But now that you've steered Brexit in for a landing, you can focus your attention on taking care of those traitors. The tumbrils will be coming for them soon enough."
+      "Choć większość posłów torysów stoi za tobą, wciąż tlą się ogniska sprzeciwu. Malkontenci, krytykanci, buntownicy odmawiający poświęcenia swoich rozpieszczonych skrupułów dla wspólnego dobra. Widzisz ich oczyma wyobraźni – skupionych w swoich klubach albo klepią się po plecach w szatniach, spiskują, knują i ostrzą noże. A kiedy się odwrócisz…",
+      "Ale teraz, gdy doprowadziłeś brexit do lądowania, możesz skupić uwagę na rozprawieniu się ze zdrajcami. Taczki po nich przyjadą wystarczająco szybko."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►386"
+      "[OPTION] \"Dalej\" ►386"
     ]
   },
   "516": {
@@ -191,16 +191,16 @@
       "[EFFECT getItem:International Trade Deals]"
     ],
     "PROSE": [
-      "The media aren't buying the spin this time. They mock your steady-as-she-goes strategy with caricatures of you as captain of a foundering ship, a toddler trying to build a sandcastle as the tide comes in, and – worst of all – a scruffy weirdo making crappy models out of matchsticks."
+      "Tym razem media nie kupują propagandowej narracji. Wyśmiewają twoją strategię „trzymamy kurs” karykaturami – jako kapitan tonącego statku, maluch próbujący budować zamek z piasku, gdy nadchodzi przypływ, i – co najgorsze – niechlujny dziwak klejący marne modele z zapałek."
     ],
     "REPORT": [
-      "<strong>-5% Authority</strong>: even backbenchers are smirking at you from behind their newspapers.",
-      "<strong>-5%</strong> <strong>Goodwill</strong>: the EU disapprove of the UK talking up trade deals while still a member, even when those deals are going nowhere.",
-      "<strong>-5% Popularity</strong>: voters are starting to see you as out of your depth.",
-      "For better or worse, international trade deals are now complete."
+      "<strong>-5% Authority</strong>: nawet szeregowi posłowie chichoczą na twój widok zza swoich gazet.",
+      "<strong>-5%</strong> <strong>Goodwill</strong>: UE nie pochwala tego, że Wielka Brytania trąbi o umowach handlowych, będąc wciąż członkiem, nawet jeśli te umowy i tak donikąd nie prowadzą.",
+      "<strong>-5% Popularity</strong>: wyborcy zaczynają postrzegać cię jako osobę, która nie dorasta do zadania.",
+      "Na dobre i na złe, międzynarodowe umowy handlowe zostały zakończone."
     ],
     "OPTIONS": [
-      "[OPTION] \"You'll show them\" ►666"
+      "[OPTION] \"Jeszcze im pokażesz\" ►666"
     ]
   },
   "517": {
@@ -208,60 +208,60 @@
       "[EFFECT Popularity-2]"
     ],
     "PROSE": [
-      "When you get the chance to look at the staffing figures for NHS trusts throughout the UK, you're even more convinced that you made the right decision. The regions with the highest concentration of EU doctors and nurses are London, the South-East, and urban areas up through the country.",
-      "'It's almost exactly a map of Remain voting,' you say to your chief of staff. 'I don't give two hoots if they suffer from a drop-off of NHS staff. They didn't think Brexit was a good idea in the first place.'",
-      "'Traitors,' says Ron, morosely sucking on his unlit pipe. 'Now they'll get their just deserts.'"
+      "Gdy udaje ci się zerknąć na dane kadrowe poszczególnych trustów NHS w całej Wielkiej Brytanii, jeszcze bardziej utwierdzasz się w przekonaniu, że podjąłeś słuszną decyzję. Regiony z najwyższym odsetkiem lekarzy i pielęgniarek z UE to Londyn, południowo-wschodnia Anglia i ośrodki miejskie w głębi kraju.",
+      "– To niemal dokładna mapa głosowania za Remain – mówisz do swojego szefa gabinetu. – Nie obchodzi mnie, czy ucierpią przez spadek personelu NHS. Od początku uważali, że brexit to zły pomysł.",
+      "– Zdrajcy – mówi ponuro Ron, ssąc niezapaloną fajkę. – Teraz dostaną to, na co zasłużyli."
     ],
     "REPORT": [
-      "<strong>-2% Popularity</strong>: a few of the more disloyal media say you're allowing the NHS to die, but not enough to worry you."
+      "<strong>-2% Popularity</strong>: kilka bardziej nielojalnych mediów twierdzi, że pozwalasz NHS umrzeć, ale za mało, żeby cię to niepokoiło."
     ],
     "GOTO": [
-      "[IF keyword:DODO] \"Carry on\" ►431",
-      "[ELSE] [EFFECT getItem:the NHS] \"Carry on\" ►450"
+      "[IF keyword:DODO] \"Dalej\" ►431",
+      "[ELSE] [EFFECT getItem:the NHS] \"Dalej\" ►450"
     ]
   },
   "518": {
     "PROSE": [
-      "You put a Skype call through to the President of the European Commission.",
-      "'Are you going to tell me it was all an April fish?' he says.",
-      "'What?'",
-      "'You know. \"Surprise! We never meant to leave. When I declared Article 50 I had my fingers crossed.\" That sort of thing.'",
-      "'No. Look, Jean-Jacques, what I'm hoping is the EU could grant Britain equivalence status under – what's it called? MILF?'",
-      "He looks puzzled for a moment. 'Oh, you mean the directive on Markets in Financial Instruments. Hardly something we can decide overnight.'",
-      "'But you could say that Britain is being fast-tracked for equivalence. If we can announce that now, it might stop some of the overseas investment banks from pulling up sticks.'"
+      "Łączysz się przez Skype'a z przewodniczącym Komisji Europejskiej.",
+      "– Zamierza mi pan powiedzieć, że to był primaaprilisowy żart? – pyta.",
+      "– Słucham?",
+      "– No wie pan. „Niespodzianka! Nigdy nie zamierzaliśmy wychodzić. Kiedy ogłaszałem Artykuł 50, trzymałem kciuki za plecami.” Coś w tym stylu.",
+      "– Nie. Słuchaj, Jean-Jacques, mam nadzieję, że UE mogłaby przyznać Wielkiej Brytanii status równoważności na mocy… jak to się nazywa? MiFID?",
+      "Przez chwilę wygląda na zaskoczonego. – Ach, ma pan na myśli dyrektywę w sprawie rynków instrumentów finansowych. Trudno o tym decydować z dnia na dzień.",
+      "– Ale moglibyście powiedzieć, że Wielka Brytania jest na ścieżce przyspieszonej do uzyskania równoważności. Gdybyśmy mogli to ogłosić teraz, może to powstrzyma część zagranicznych banków inwestycyjnych przed pakowaniem walizek."
     ],
     "GOTO": [
-      "[IF Goodwill>=25%] \"Thank goodness you still have some goodwill\" ►583",
-      "[ELSE] \"At a time like this you could do with more friends\" ►246"
+      "[IF Goodwill>=25%] \"Na szczęście wciąż masz trochę dobrej woli\" ►583",
+      "[ELSE] \"W takich czasach przydałoby się więcej przyjaciół\" ►246"
     ]
   },
   "519": {
     "PROSE": [
-      "Your staff at Number 10 give three rousing cheers as the votes are announced. Your own inner rush of triumph shows only as a slight upward curl of the lip.",
-      "Shortly after, standing in front of the cameras in Downing Street, you're asked how victory feels."
+      "Twoi pracownicy na Downing Street 10 wznoszą trzy gromkie okrzyki, gdy ogłaszane są wyniki głosowania. Twój własny wewnętrzny triumf przejawia się jedynie lekkim uniesieniem kącika ust.",
+      "Niedługo potem, stojąc przed kamerami na Downing Street, dostajesz pytanie, jak smakuje zwycięstwo."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Everyone watching knows that already, because this is the people's victory.'\" ►148",
-      "[OPTION] \"'It's not about victory, it's about the party making a clear and decisive choice of who should lead us into Brexit.'\" ►451",
-      "[OPTION] \"'The important thing is we've put an end to uncertainty.'\" ►47"
+      "[OPTION] \"– Każdy, kto ogląda, już to wie, bo to jest zwycięstwo narodu.\" ►148",
+      "[OPTION] \"– Nie chodzi o zwycięstwo, lecz o to, że partia dokonała jasnego i zdecydowanego wyboru, kto powinien poprowadzić nas przez brexit.\" ►451",
+      "[OPTION] \"– Najważniejsze, że położyliśmy kres niepewności.\" ►47"
     ]
   },
   "520": {
     "PROSE": [
-      "'No doubt that's what Margaret Thatcher would prefer, if she's looking down on us now. The single market is her legacy, after all.'",
-      "'I don't suppose she anticipated it turning into a federal state, though. In her day it was just supposed to be what it said on the tin. A market. But now we've got people flooding over our borders. Foreign legislation dictating to British courts.'",
-      "'The freedom of movement issue seems like a red line, I admit. I'm not quite sure how it got so blown out of proportion, mind you, but that's a discussion for another time. The fact is that all commerce involves an inevitable give-and-take over sovereignty. Unless we pull the shutters down like the Tokugawas in the 17th century, somebody has to decide on the size of washers, the purity of steel to be used in girders, that sort of thing. And those specifications need to be standard across a market.'",
-      "'But it has to be up to British courts whether to accept them.'",
-      "'That's a cake or death sort of choice if you ask me. Like saying that a shopkeeper has the right to chain up all his stock so you can't buy it.'",
-      "'And he should have that right.'",
-      "'The irony is that more and more these days the trading standards are being set at a level above the EU regulatory bodies, by the International Standards Organization and, for vehicle regs, by the UN Economic Commission for Europe. We could take a tip from Norway there. They go straight to the ISO and influence regulatory law at the global level, much of which is then adopted by the EU.'",
-      "'How much?'",
-      "'Take out the ISO regs and less than 10% of the legislation Norway has to accept as part of EFTA originates in the EU itself.'"
+      "– Bez wątpienia tego właśnie wolałaby Margaret Thatcher, jeśli teraz na nas spogląda z góry. Jednolity rynek to w końcu jej dziedzictwo.",
+      "– Nie sądzę, żeby przewidziała, że przekształci się w państwo federalne. Za jej czasów miał być po prostu tym, co obiecywała etykieta. Rynkiem. Ale teraz mamy ludzi zalewających nasze granice. Zagraniczne prawodawstwo dyktujące warunki brytyjskim sądom.",
+      "– Kwestia swobody przepływu osób wydaje się nieprzekraczalną granicą, przyznaję. Nie jestem pewien, jak to się tak rozdmuchało, ale to dyskusja na inny raz. Faktem jest, że każda wymiana handlowa wiąże się z nieuniknionym dawaniem i braniem w kwestii suwerenności. Chyba że zamkniemy okiennice jak Tokugawowie w XVII wieku, ktoś musi ustalać rozmiary podkładek, czystość stali używanej w dźwigarach i tym podobne rzeczy. A te specyfikacje muszą być ujednolicone na całym rynku.",
+      "– Ale to brytyjskie sądy powinny decydować, czy je przyjąć.",
+      "– To wybór w stylu „ciastko albo śmierć”, jeśli mnie pytasz. Jakby powiedzieć, że sklepikarz ma prawo przykuć łańcuchem cały towar, żebyś nie mógł go kupić.",
+      "– I powinien mieć takie prawo.",
+      "– Ironia polega na tym, że coraz częściej standardy handlowe ustalane są na poziomie ponad unijnymi organami regulacyjnymi – przez Międzynarodową Organizację Normalizacyjną, a w przypadku przepisów motoryzacyjnych przez Komisję Gospodarczą ONZ ds. Europy. Moglibyśmy wziąć przykład z Norwegii. Norwegowie idą prosto do ISO i wpływają na prawo regulacyjne na poziomie globalnym, które w dużej mierze jest potem przyjmowane przez UE.",
+      "– Jak dużej?",
+      "– Jeśli odliczymy regulacje ISO, mniej niż 10% prawodawstwa, które Norwegia musi przyjmować jako członek EFTA, pochodzi bezpośrednio z samej UE."
     ],
     "OPTIONS": [
-      "[OPTION] \"'What do you think our highest priority should be in negotiation?'\" ►98",
-      "[OPTION] \"'What are the biggest risks of dropping out to WTO rules?'\" ►588",
-      "[OPTION] \"'Sorry, Alan, I've got another meeting.'\" ►666"
+      "[OPTION] \"– Co twoim zdaniem powinno być naszym najwyższym priorytetem w negocjacjach?\" ►98",
+      "[OPTION] \"– Jakie są największe zagrożenia związane ze spadkiem do reguł WTO?\" ►588",
+      "[OPTION] \"– Przepraszam, Alan, mam kolejne spotkanie.\" ►666"
     ]
   }
 }
