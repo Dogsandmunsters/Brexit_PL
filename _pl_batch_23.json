@@ -1,11 +1,11 @@
 {
   "441": {
     "PROSE": [
-      "That was positively brain numbing. Still, you reckon you've got your head around the single market. You turn off your laptop and pull up the duvet cover, thoughts of the single market whirling around inside your brain. If you let yourself agonize over that you'll be awake all night. You need to think about something else – holidays for instance. Ah yes, much more soothing. You start to doze off, thoughts of wine and roses in your head.",
-      "What's it to be? Wine tasting in France? Or wine tasting in Sussex and Kent?"
+      "To było wręcz ogłupiające. Mimo to wydaje ci się, że ogarnąłeś jednolity rynek. Wyłączasz laptopa i naciągasz kołdrę, a myśli o jednolitym rynku wirują ci w głowie. Jeśli pozwolisz sobie nad tym rozmyślać, nie zaśniesz całą noc. Musisz pomyśleć o czymś innym – na przykład o wakacjach. Ach tak, o wiele przyjemniej. Zaczynasz drzemać, z głową pełną myśli o winie i różach.",
+      "Na co się zdecydujesz? Degustacja win we Francji? A może degustacja win w Sussex i Kent?"
     ],
     "OPTIONS": [
-      "[OPTION] \"Choose\" ►619"
+      "[OPTION] \"Wybierz\" ►619"
     ]
   },
   "442": {
@@ -16,15 +16,15 @@
   },
   "443": {
     "PROSE": [
-      "Stollard scoops some fruit out of the bowl in the middle of the table. 'Let's say this grapefruit is the EU. The other grapefruit is the US, roughly the same size economy. China is the orange. Japan is about a quarter as big as the EU economy, so it's this apple. A nice juicy plum will do for Germany – I love these mirabelles; they're prohibited by US import laws, you know. And then Russia, Brazil and Britain are half a tangerine each.'",
-      "'Ooh, I'll have that other half tangerine if it's going spare.'",
-      "'That was France,' says the Chancellor as Strewel pops it into his mouth.",
-      "'So you're making out we're just half a tangerine, alongside a grapefruit!' protests Dent. 'That's a pretty unpatriotic picture to paint.'",
-      "No doubt the sight of the fruit bowl has put him in mind of a Cézanne still life. You all sit looking at it in contemplative silence for a few moments while Stollard pulls up a chart on his iPad. 'The EU's economy is about $18 trillion. Ours, given the pound now, is here – a pip or two over $2 trillion, just ahead of France before Peter scoffed it.'",
-      "'If only we had a melon,' says Barkwell. You turn to look at him. 'I mean… the sky's the limit now we don't have the EU holding us back, eh? We don't have to settle for a grapefruit, we can have the whole bowl.'"
+      "Stollard wybiera owoce z misy stojącej na środku stołu. – Powiedzmy, że ten grejpfrut to UE. Drugi grejpfrut to USA, mniej więcej tej samej wielkości gospodarka. Chiny to pomarańcza. Japonia jest cztery razy mniejsza od gospodarki UE, więc będzie tym jabłkiem. Na Niemcy wystarczy ładna, soczysta śliwka – uwielbiam te mirabelki; czy wiecie, że ich import do USA jest zakazany? A potem Rosja, Brazylia i Wielka Brytania to po połówce mandarynki każda.",
+      "– Oo, wezmę tę drugą połówkę mandarynki, jeśli się marnuje.",
+      "– To była Francja – mówi kanclerz skarbu, gdy Strewel wpycha ją sobie do ust.",
+      "– Czyli sugerujesz, że jesteśmy zaledwie połówką mandarynki obok grejpfruta! – protestuje Dent. – To dość niepatriotyczny obraz.",
+      "Bez wątpienia widok misy z owocami przywołał mu na myśl martwą naturę Cézanne'a. Wszyscy siedzicie i przyglądacie się jej w zadumie przez kilka chwil, podczas gdy Stollard wyświetla wykres na iPadzie. – Gospodarka UE to około 18 bilionów dolarów. Nasza, biorąc pod uwagę obecny kurs funta, jest tutaj – odrobinkę powyżej 2 bilionów dolarów, tuż przed Francją, zanim Peter ją pożarł.",
+      "– Gdybyśmy tylko mieli melona – mówi Barkwell. Odwracasz się i patrzysz na niego. – To znaczy… teraz, gdy UE nas już nie hamuje, nie ma żadnych granic, co? Nie musimy się zadowalać grejpfrutem, możemy mieć całą misę."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►454"
+      "[OPTION] \"Dalej\" ►454"
     ]
   },
   "444": {
@@ -35,31 +35,31 @@
       "[EFFECT getKW:BLEAK]"
     ],
     "PROSE": [
-      "You manage to get the Commission to accept a stopgap solution. Britain will pay its membership fees up until the point of Brexit, along with ongoing payments for British EU officials' pensions and limited contributions to the EU budget for investments that will benefit the UK. Those comprise the bare minimum you'd have to pay anyway while still an EU member, with none of the threatened exit fee payments. On the principle of a bird in the hand, the general mood of the 27 is to go along with it for now and get to the meat of negotiations.",
-      "That's the part of the deal you let the press get excited about. A couple of weeks later the news leaks out that Britain will also continue to pay into the EU budget to secure a transitional arrangement after 2019. Some of the more extreme Europhobes get in a fury about that, but their fulminations are drowned out by the general euphoria of having apparently stuck it to the EU.",
-      "'We might end up having to pay the full bill anyway,' your chief of staff points out back at Downing Street. 'They'll take the exit fee as far as the International Court, which is hardly likely to decide that a country can break commitments willy-nilly.'",
-      "'Oh, Ron, try to see the glass half-full for once. If the court does rule against us, we can argue that the transitional payments should be counted as down payments against the full fee. And that will all come home to roost after the next election, when I should have a pretty unassailable majority as long as Labour don't wake up.'",
-      "He sticks his unlit pipe in his mouth and chews the stem fretfully. 'Maybe. But we'll need to ride out the reduced value of Britain's word internationally, along with a probable drop in credit rating. The storm's not rattling the teacups at home just yet, but out there it's raising Cain.'"
+      "Udaje ci się nakłonić Komisję do zaakceptowania tymczasowego rozwiązania. Wielka Brytania będzie płacić składki członkowskie aż do momentu Brexitu, a także bieżące wpłaty na emerytury brytyjskich urzędników unijnych i ograniczone składki do budżetu UE na inwestycje, z których skorzysta Wielka Brytania. To absolutne minimum, które i tak trzeba by zapłacić jako członek UE, bez żadnych grożonych opłat za wyjście. Kierując się zasadą „lepszy wróbel w garści”, ogólny nastrój dwudziestu siedmiu skłania się ku temu, by się na razie zgodzić i przejść do sedna negocjacji.",
+      "To ta część umowy, o której pozwalasz prasie się ekscytować. Kilka tygodni później wycieka informacja, że Wielka Brytania będzie nadal wpłacać do budżetu UE, aby zapewnić sobie porozumienie przejściowe po 2019 roku. Niektórzy bardziej skrajni eurosceptycy wpadają w furię, ale ich gromy toną w ogólnej euforii z powodu pozornego postawienia się UE.",
+      "– Może i tak będziemy musieli zapłacić cały rachunek – zauważa twój szef gabinetu po powrocie na Downing Street. – Będą dochodzić opłaty za wyjście aż w Międzynarodowym Trybunale Sprawiedliwości, który raczej nie uzna, że kraj może łamać zobowiązania jak mu się podoba.",
+      "– Ach, Ron, spróbuj choć raz zobaczyć szklankę do połowy pełną. Jeśli trybunał orzeknie na naszą niekorzyść, możemy argumentować, że wpłaty przejściowe powinny być zaliczone na poczet pełnej opłaty. A to wszystko i tak uderzy dopiero po następnych wyborach, kiedy powinienem mieć niezachwianą większość, o ile Partia Pracy się nie obudzi.",
+      "Wsuwa niezapaloną fajkę do ust i nerwowo gryzie cybuch. – Może. Ale będziemy musieli przetrwać spadek wartości brytyjskiego słowa na arenie międzynarodowej i prawdopodobne obniżenie ratingu kredytowego. Burza jeszcze nie daje się we znaki w kraju, ale tam, na zewnątrz, sieje spustoszenie."
     ],
     "REPORT": [
-      "<strong>+10% Authority</strong>: nobody is going to challenge your leadership of the party for a while now.",
-      "<strong>-15% Goodwill</strong>: your confrontational approach has lost friends among the other EU states.",
-      "<strong>+5% Popularity</strong>: the voters perceive this as a strong move."
+      "<strong>+10% Authority</strong>: przez jakiś czas nikt nie zakwestionuje twojego przywództwa w partii.",
+      "<strong>-15% Goodwill</strong>: twoje konfrontacyjne podejście zraziło sojuszników wśród pozostałych państw UE.",
+      "<strong>+5% Popularity</strong>: wyborcy postrzegają to jako zdecydowane posunięcie."
     ],
     "OPTIONS": [
-      "[OPTION] \"You can weather it\" ►150"
+      "[OPTION] \"Dasz radę to przetrwać\" ►150"
     ]
   },
   "445": {
     "PROSE": [
-      "You throw yourself into a heated TV debate in which you argue the case for a soft Brexit.",
-      "The ubiquitous Martin Mugglemore is chairing the debate. 'So, Prime Minister,' he asks, 'you're saying we can have our cake and eat it.'",
-      "'Only if you think that Norway is, or Switzerland. Look, Martin, no club can have a one-size-fits-all. Britain's circumstances are different from Lithuania's or Poland's. We have one foot on the world stage, one foot in Europe. It makes sense for all concerned to find a deal that helps us to remain close to the EU while being free to pursue our global interests too.'",
-      "'But staying in the single market, that means remaining subservient to the rulings of the European Court of Justice, doesn't it? What's the point of leaving at all if we're still having to sacrifice our sovereignty?'"
+      "Rzucasz się w wir gorącej debaty telewizyjnej, w której argumentujesz za łagodnym Brexitem.",
+      "Wszechobecny Martin Mugglemore prowadzi debatę. – Zatem, panie premierze – pyta – twierdzi pan, że można zjeść ciastko i mieć ciastko?",
+      "– Tylko jeśli uważa pan, że Norwegia albo Szwajcaria tak robią. Proszę posłuchać, Martin, żaden klub nie może stosować jednej miary do wszystkich. Sytuacja Wielkiej Brytanii jest inna niż Litwy czy Polski. Jedną nogą stoimy na scenie światowej, drugą w Europie. Rozsądne jest dla wszystkich stron znalezienie porozumienia, które pozwoli nam pozostać blisko UE, jednocześnie dając swobodę w realizacji naszych globalnych interesów.",
+      "– Ale pozostanie w jednolitym rynku oznacza dalsze podporządkowanie się orzeczeniom Europejskiego Trybunału Sprawiedliwości, prawda? Jaki sens ma wychodzenie, skoro nadal musimy poświęcać naszą suwerenność?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'Every market has to have laws. When a trader wheels his barrow into the town square and stacks up his loaves of bread, he's agreeing to abide by the laws of the street market. It doesn't mean he isn't in charge of his own business.'\" ►689",
-      "[OPTION] \"'There's no loss of sovereignty if we voluntarily accept the European Court's rulings.'\" ►723"
+      "[OPTION] \"– Każdy rynek musi mieć swoje prawa. Kiedy handlarz wjeżdża ze swoim wózkiem na rynek miejski i wykłada bochenki chleba, zgadza się przestrzegać praw tego targowiska. To nie znaczy, że nie jest panem swojego własnego biznesu.\" ►689",
+      "[OPTION] \"– Nie ma żadnej utraty suwerenności, jeśli dobrowolnie akceptujemy orzeczenia Trybunału Europejskiego.\" ►723"
     ]
   },
   "446": {
@@ -71,15 +71,15 @@
   },
   "447": {
     "PROSE": [
-      "Time to give him a lesson in the new politics of Britain. You wave a dismissive hand at the chamber behind you. 'What do you think happens if they reject the deal we have?'",
-      "'I suppose we have to go back and ask the EU for an extension. Hammer out a new deal?'",
-      "'Not a bit of it. We're quitting the EU on 29 March. Nothing can stop that. They already voted to trigger Article 50, bless their cotton socks, and that date is on the front page of the bill. So the only power they have now is to say no to the trade arrangement we've negotiated, in which case that blows up and we crash out to WTO rules instead.'",
-      "'And that means…'",
-      "'No deal is worse than the worst negotiated deal, as any fule kno. So this vote they're going to get, it's just rubber-stamping the inevitable.'",
-      "You're right. The Commons votes almost unanimously for the deal you have struck with the EU, and although there is some criticism in the Lords you can safely ignore that."
+      "Czas dać mu lekcję nowej polityki Wielkiej Brytanii. Machasz lekceważąco ręką w stronę izby za sobą. – Jak pan myśli, co się stanie, jeśli odrzucą naszą umowę?",
+      "– Sądzę, że musielibyśmy wrócić i poprosić UE o przedłużenie. Wykuć nowe porozumienie?",
+      "– Nic z tych rzeczy. Wychodzimy z UE 29 marca. Nic tego nie powstrzyma. Już zagłosowali za uruchomieniem Artykułu 50, niech im będzie, a ta data jest na pierwszej stronie ustawy. Więc jedyna władza, jaką teraz mają, to powiedzenie „nie” wynegocjowanemu przez nas porozumieniu handlowemu – a w takim wypadku wszystko się sypie i wypadamy na zasady WTO.",
+      "– A to oznacza…",
+      "– Brak umowy jest gorszy od najgorszej wynegocjowanej umowy, jak każdy głupek wie. Więc to głosowanie, które dostaną, to tylko przybicie pieczątki na czymś nieuniknionym.",
+      "Masz rację. Izba Gmin niemal jednogłośnie głosuje za umową, którą zawarłeś z UE, i chociaż pojawiają się pewne głosy krytyki w Izbie Lordów, możesz je spokojnie zignorować."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►806"
+      "[OPTION] \"Dalej\" ►806"
     ]
   },
   "448": {
@@ -94,10 +94,10 @@
       "[ELSE] CONTINUE"
     ],
     "PROSE": [
-      "Your track record speaks for you."
+      "Twoje dotychczasowe osiągnięcia mówią same za siebie."
     ],
     "OPTIONS": [
-      "[OPTION] \"Quite right\" ►645"
+      "[OPTION] \"Właśnie\" ►645"
     ]
   },
   "450": {
@@ -106,18 +106,18 @@
       "[ELSE] CONTINUE"
     ],
     "PROSE": [
-      "Perhaps you need a break? Pressure of the job starting to take its toll? This is the final phase of talks, so it's a good time to take a breather if you need one. On the other hand, if you have the energy to make that final push towards a successful Brexit, read on.",
-      "Time is running out, and you can't be everywhere at once. Still, don't they say that a good leader learns to delegate? With only a few months left before Brexit, you can see to just a single major issue in person."
+      "Może potrzebujesz przerwy? Presja stanowiska zaczyna dawać się we znaki? To ostatnia faza rozmów, więc to dobry moment, żeby złapać oddech, jeśli tego potrzebujesz. Z drugiej strony, jeśli masz siłę na ostatni zryw ku udanemu Brexitowi, czytaj dalej.",
+      "Czas ucieka i nie możesz być wszędzie naraz. Ale czy nie mówią, że dobry przywódca uczy się delegować? Zostało tylko kilka miesięcy do Brexitu, więc możesz osobiście zająć się tylko jedną ważną sprawą."
     ],
     "OPTIONS": [
-      "[IF !item:the NHS AND !box:450.box2] [OPTION] \"Deal with the NHS\" [EFFECT tick:450.box1] [EFFECT tick:450.box2] ►803",
-      "[IF !item:Second EU Referendum AND !box:450.box3] [OPTION] \"Decide whether to hold a second referendum on Brexit\" [EFFECT tick:450.box1] [EFFECT tick:450.box3] ►192",
-      "[IF !item:Residency Rights AND !box:450.box4] [OPTION] \"Tackle the issue of the residency rights of UK and EU citizens\" [EFFECT tick:450.box1] [EFFECT tick:450.box4] ►638",
-      "[IF !item:Security & Defence AND !box:450.box5] [OPTION] \"Deal with the question of UK/EU security and defence cooperation\" [EFFECT tick:450.box1] [EFFECT tick:450.box5] ►420",
-      "[IF !item:General Election AND !box:450.box6] [OPTION] \"Attempt to call a general election\" [EFFECT tick:450.box1] [EFFECT tick:450.box6] ►416",
-      "[IF keyword:APRICITY AND !item:Exit Fee AND !box:450.box7] [OPTION] \"Agree the exit fee Britain must pay to the EU\" [EFFECT tick:450.box1] [EFFECT tick:450.box7] ►611",
-      "[IF !item:EU Trade Talks AND !box:450.box8] [OPTION] \"Deal with EU Trade Talks\" [EFFECT tick:450.box1] [EFFECT tick:450.box8] ►688",
-      "[IF !item:International Trade Deals AND !box:450.box9] [OPTION] \"Start talks on international trade deals\" [EFFECT tick:450.box1] [EFFECT tick:450.box9] ►335"
+      "[IF !item:the NHS AND !box:450.box2] [OPTION] \"Zajmij się NHS\" [EFFECT tick:450.box1] [EFFECT tick:450.box2] ►803",
+      "[IF !item:Second EU Referendum AND !box:450.box3] [OPTION] \"Zdecyduj, czy przeprowadzić drugie referendum w sprawie Brexitu\" [EFFECT tick:450.box1] [EFFECT tick:450.box3] ►192",
+      "[IF !item:Residency Rights AND !box:450.box4] [OPTION] \"Zajmij się kwestią prawa pobytu obywateli Wielkiej Brytanii i UE\" [EFFECT tick:450.box1] [EFFECT tick:450.box4] ►638",
+      "[IF !item:Security & Defence AND !box:450.box5] [OPTION] \"Zajmij się kwestią współpracy Wielkiej Brytanii i UE w dziedzinie bezpieczeństwa i obronności\" [EFFECT tick:450.box1] [EFFECT tick:450.box5] ►420",
+      "[IF !item:General Election AND !box:450.box6] [OPTION] \"Spróbuj rozpisać wybory powszechne\" [EFFECT tick:450.box1] [EFFECT tick:450.box6] ►416",
+      "[IF keyword:APRICITY AND !item:Exit Fee AND !box:450.box7] [OPTION] \"Uzgodnij opłatę za wyjście, którą Wielka Brytania musi zapłacić UE\" [EFFECT tick:450.box1] [EFFECT tick:450.box7] ►611",
+      "[IF !item:EU Trade Talks AND !box:450.box8] [OPTION] \"Zajmij się rozmowami handlowymi z UE\" [EFFECT tick:450.box1] [EFFECT tick:450.box8] ►688",
+      "[IF !item:International Trade Deals AND !box:450.box9] [OPTION] \"Rozpocznij rozmowy o międzynarodowych umowach handlowych\" [EFFECT tick:450.box1] [EFFECT tick:450.box9] ►335"
     ]
   },
   "451": {
@@ -125,89 +125,89 @@
       "[EFFECT Authority+2]"
     ],
     "PROSE": [
-      "'There's been enough bickering. What we need to do now, what the people are telling us to do, what I've always been very keen to do – is get on with the job.'"
+      "– Dość już tych kłótni. To, co musimy teraz zrobić, to, czego oczekują od nas ludzie, to, na czym mi zawsze bardzo zależało – to zabrać się do roboty."
     ],
     "REPORT": [
-      "<strong>+2% Authority</strong>: your rivals get the message."
+      "<strong>+2% Authority</strong>: twoi rywale zrozumieli przekaz."
     ],
     "GOTO": [
-      "[IF keyword:YELLOW] \"Onwards\" ►670",
-      "[ELSE] \"Onwards\" ►163"
+      "[IF keyword:YELLOW] \"Dalej\" ►670",
+      "[ELSE] \"Dalej\" ►163"
     ]
   },
   "452": {
     "PROSE": [
-      "You throw yourself into a heated TV debate in which you argue the case for a soft Brexit.",
-      "The ubiquitous Martin Mugglemore is chairing the debate. 'So, Prime Minister,' he asks, 'you're saying we can have our cake and eat it.'",
-      "'Only if you think that Norway is, or Switzerland. Look, Martin, no club can have a one-size-fits-all. Britain's circumstances are different from Lithuania's or Poland's. We have one foot on the world stage, one foot in Europe. It makes sense for all concerned to find a deal that helps us to remain close to the EU while being free to pursue our global interests too.'",
-      "'But staying in the single market, that means remaining subservient to the rulings of the European Court of Justice, doesn't it? What's the point of leaving at all if we're still having to sacrifice our sovereignty?'"
+      "Rzucasz się w wir gorącej debaty telewizyjnej, w której argumentujesz za łagodnym Brexitem.",
+      "Wszędobylski Martin Mugglemore prowadzi debatę. – A więc, panie premierze – pyta – twierdzi pan, że można zjeść ciastko i mieć ciastko.",
+      "– Tylko jeśli uważa pan, że Norwegia tak robi, albo Szwajcaria. Słuchaj, Martin, żaden klub nie może mieć jednego rozwiązania dla wszystkich. Sytuacja Wielkiej Brytanii różni się od sytuacji Litwy czy Polski. Jedną nogą stoimy na arenie światowej, drugą w Europie. W interesie wszystkich leży znalezienie porozumienia, które pozwoli nam pozostać blisko UE, a jednocześnie da nam swobodę w realizacji naszych globalnych interesów.",
+      "– Ale pozostanie na jednolitym rynku oznacza dalsze podleganie orzeczeniom Europejskiego Trybunału Sprawiedliwości, prawda? Jaki sens ma w ogóle wychodzenie, skoro nadal musimy poświęcać naszą suwerenność?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'Every market has to have laws. When a trader wheels his barrow into the town square and stacks up his loaves of bread, he's agreeing to abide by the laws of the street market. It doesn't mean he isn't in charge of his own business.'\" ►614",
-      "[OPTION] \"'There's no loss of sovereignty if we choose to accept the European Court's rulings.'\" ►757"
+      "[OPTION] \"– Każdy rynek musi mieć swoje prawa. Kiedy handlarz wjeżdża ze swoim wózkiem na rynek miejski i wykłada bochenki chleba, godzi się na przestrzeganie zasad tego rynku. To nie znaczy, że nie jest panem własnego interesu.\" ►614",
+      "[OPTION] \"– Nie ma mowy o utracie suwerenności, jeśli sami zdecydujemy się uznawać orzeczenia Trybunału Europejskiego.\" ►757"
     ]
   },
   "453": {
     "PROSE": [
-      "After some more exchanges, many of them heated, the President of the Council asks you what you would propose.",
-      "'One option is to invoke the emergency brake. Article 112 of the European Economic Area agreement allows for restrictions to be placed on freedom of movement. If Britain were to apply that same principle, we could get our immigration under control while still remaining eligible for access to the single market.'",
-      "'I have the relevant article from the EEA agreement here,' says the President of the Commission. 'I will read it for the benefit of the ministers. \"If serious economic, societal or environmental difficulties of a sectorial or regional nature liable to persist are arising, a contracting nation may unilaterally take appropriate measures.\"'",
-      "'I don't understand,' says the French President. 'Those EU citizens aren't a drain on your social services. In fact, they create wealth for Britain. And you have fewer EU citizens living in Britain than we do, or Germany, or Spain.'",
-      "'We have a million Britons living in our country,' puts in the Spanish prime minister. 'Should I call a state of emergency?'",
-      "'The British don't call their own people immigrants,' the Greek prime minister tells him. 'When they're living in your country they're ex-pats.'",
-      "'There you have it,' says the French President. 'How can you justify using the emergency brake? In what way is this an emergency?'"
+      "Po kolejnych wymianach zdań, wielu z nich burzliwych, przewodniczący Rady pyta, co byś zaproponował.",
+      "– Jedną z opcji jest uruchomienie hamulca bezpieczeństwa. Artykuł 112 porozumienia o Europejskim Obszarze Gospodarczym pozwala na wprowadzenie ograniczeń swobody przepływu osób. Gdyby Wielka Brytania zastosowała tę samą zasadę, moglibyśmy zapanować nad imigracją, wciąż zachowując prawo dostępu do jednolitego rynku.",
+      "– Mam tu odpowiedni artykuł z porozumienia o EOG – mówi przewodniczący Komisji. – Odczytam go dla dobra zebranych ministrów. „Jeżeli poważne trudności gospodarcze, społeczne lub środowiskowe o charakterze sektorowym lub regionalnym, które mogą się utrzymywać, będą się pojawiać, umawiająca się strona może jednostronnie podjąć odpowiednie środki.”",
+      "– Nie rozumiem – mówi prezydent Francji. – Ci obywatele UE nie są obciążeniem dla waszych usług socjalnych. Wręcz przeciwnie, tworzą bogactwo dla Wielkiej Brytanii. A macie u siebie mniej obywateli UE niż my, niż Niemcy czy Hiszpania.",
+      "– W naszym kraju mieszka milion Brytyjczyków – wtrąca premier Hiszpanii. – Czy powinienem ogłosić stan wyjątkowy?",
+      "– Brytyjczycy nie nazywają swoich rodaków imigrantami – mówi mu premier Grecji. – Kiedy mieszkają w waszym kraju, to są „ekspatrianci”.",
+      "– I proszę bardzo – mówi prezydent Francji. – Jak pan może uzasadnić użycie hamulca bezpieczeństwa? W jakim sensie to jest sytuacja awaryjna?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'It's a social emergency.'\" ►147",
-      "[OPTION] \"'Well then, what do you suggest?'\" ►223",
-      "[OPTION] \"'If we can't use the brake then it'll have to be a visa system.'\" ►839"
+      "[OPTION] \"– To jest sytuacja awaryjna o charakterze społecznym.\" ►147",
+      "[OPTION] \"– A więc co pan proponuje?\" ►223",
+      "[OPTION] \"– Jeśli nie możemy użyć hamulca, to będzie musiał być system wizowy.\" ►839"
     ]
   },
   "454": {
     "PROSE": [
-      "Apparently World Trade Organization rules aren't the smooth, regulation-free trading nirvana you'd been led to expect. Better drill down and find out where the snares are."
+      "Najwyraźniej zasady Światowej Organizacji Handlu to nie jest ta gładka, wolna od regulacji nirwana handlowa, o jakiej ci mówiono. Lepiej zagłębić się w szczegóły i sprawdzić, gdzie czyhają pułapki."
     ],
     "OPTIONS": [
-      "[OPTION] \"'What kind of trade disputes might we need to watch out for?'\" ►741",
-      "[OPTION] \"'Britain has the fifth or sixth biggest economy in the world. Surely that gives us some leverage?'\" ►443",
-      "[OPTION] \"'Presumably the big advantage of WTO rules is that they are truly international.'\" ►590",
-      "[OPTION] \"'If we fall back on WTO rules, what are the benefits and disadvantages of that?'\" ►813",
-      "[OPTION] \"'Let's look at the alternatives.'\" ►56"
+      "[OPTION] \"– Na jakie spory handlowe powinniśmy uważać?\" ►741",
+      "[OPTION] \"– Wielka Brytania ma piątą lub szóstą co do wielkości gospodarkę na świecie. To chyba daje nam jakieś pole manewru?\" ►443",
+      "[OPTION] \"– Przypuszczam, że wielką zaletą zasad WTO jest to, że są naprawdę międzynarodowe.\" ►590",
+      "[OPTION] \"– Jeśli spadniemy na zasady WTO, jakie są tego zalety i wady?\" ►813",
+      "[OPTION] \"– Przyjrzyjmy się alternatywom.\" ►56"
     ]
   },
   "455": {
     "PROSE": [
-      "For reasons of their own, Labour go along with the motion. Perhaps it's true that Scraggle's faction actively welcomes the decimation of the party as a means to rebuild it in a more Marxist form. Who cares? Now that their support has granted you the snap election you sought, they will never be in power again."
+      "Z własnych powodów Labour popiera wniosek. Może to prawda, że frakcja Scraggle'a wręcz z radością wita dziesiątkowanie partii jako sposób na odbudowanie jej w bardziej marksistowskiej formie. Kogo to obchodzi? Skoro ich poparcie zapewniło ci przyspieszone wybory, których szukałeś, nigdy już nie dojdą do władzy."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►428"
+      "[OPTION] \"Dalej\" ►428"
     ]
   },
   "456": {
     "PROSE": [
-      "Fungale leans back in his chair. 'I just wanted to point out that Bob is answering a completely different question.'",
-      "That gets a big laugh. Fungale milks it by looking around with a smirk. Bob Owlbear blinks behind his glasses, baffled as a panda that's been poked awake with a stick.",
-      "'Does immigration have an effect on wages?' Mugglemore reminds him. 'I think that was the question. Was it? Yes.'",
-      "'All right,' says Owlbear. 'Well the simple answer is that in skilled professions immigration doesn't make any difference to wages. There's a shortage of people to do those jobs anyway. In lower-skilled areas, all right, the projections I've seen are that shutting off immigration altogether might raise wages, but only by a tiny amount. Just half a percent. Negligible compared to the economic benefits to the country.'",
-      "'That's what the experts say, is it?' says Fungale. 'I wonder if any of them ever carried a hod full of bricks on a freezing cold day.'",
-      "'Unskilled workers aren't coming here,' puts in Lucy Tooth. 'They go to countries where there's lots of unskilled work. Duh.'",
-      "'Stupid woman!' you yell at the screen. 'You could have scored a point there if you'd asked Fungale the last time he worked on a building site.'"
+      "Fungale odchyla się na krześle. – Chciałem tylko zwrócić uwagę, że Bob odpowiada na zupełnie inne pytanie.",
+      "To wywołuje wielki śmiech. Fungale wykorzystuje moment, rozglądając się z uśmieszkiem. Bob Owlbear mruga za okularami, zdezorientowany jak panda, którą obudzono, szturchając kijem.",
+      "– Czy imigracja ma wpływ na płace? – przypomina mu Mugglemore. – Chyba takie było pytanie. Prawda? Tak.",
+      "– Dobrze – mówi Owlbear. – No więc prosta odpowiedź jest taka, że w wykwalifikowanych zawodach imigracja nie ma żadnego wpływu na płace. I tak brakuje ludzi do tych prac. W sektorach o niższych kwalifikacjach, owszem, prognozy, jakie widziałem, mówią, że całkowite odcięcie imigracji mogłoby podnieść płace, ale tylko o niewielką kwotę. Zaledwie pół procenta. Pomijalnie w porównaniu z korzyściami gospodarczymi dla kraju.",
+      "– Tak mówią eksperci, tak? – pyta Fungale. – Ciekaw jestem, czy któryś z nich kiedykolwiek dźwigał tacę pełną cegieł w mroźny dzień.",
+      "– Niewykwalifikowani pracownicy tu nie przyjeżdżają – wtrąca Lucy Tooth. – Jadą do krajów, gdzie jest dużo niewykwalifikowanej pracy. No bez jaj.",
+      "– Głupia kobieta! – krzyczysz na ekran. – Mogłaś tam zdobyć punkt, gdybyś zapytała Fungale'a, kiedy ostatni raz pracował na budowie."
     ],
     "OPTIONS": [
-      "[OPTION] \"Listen to what else she has to say\" ►771",
-      "[OPTION] \"Find another question\" ►405",
-      "[OPTION] \"Give up and get a good night's sleep\" ►125"
+      "[OPTION] \"Posłuchaj, co jeszcze ma do powiedzenia\" ►771",
+      "[OPTION] \"Znajdź inne pytanie\" ►405",
+      "[OPTION] \"Daj spokój i dobrze się wyśpij\" ►125"
     ]
   },
   "457": {
     "PROSE": [
-      "'Free movement is one of the bits of the agreement that keeps threatening to push everything else over,' says the Chancellor. 'Switzerland has a free movement treaty with the EU, but their referendums keep sticking a spoke in the bicycle wheels. A few years ago they voted to give employment priority to Swiss citizens. The Swiss government watered it down, but not enough for the EU's liking. Now there's a ninety-day limit on Swiss nationals offering services in the EU, and Swiss universities lost out on £1.5 billion in scientific research funding they had been due to receive from the EU.'",
-      "'It's outrageous, really, and another clear case of EU bullying,' snorts Barkwell. 'Immigration to Switzerland is out of control. It's twice what it is here in Britain. They try to apply some sanity and the EU start shaking the stick.'",
-      "Strewel is nodding vehemently. 'Some EU chimp named Popocatapetowski or something had the cheek to tell the Swiss they needed to rethink their logic. He more or less told them to hold another referendum and get it right this time.'"
+      "– Swobodny przepływ osób to jeden z tych elementów porozumienia, który ciągle grozi przewróceniem wszystkiego innego – mówi kanclerz skarbu. – Szwajcaria ma umowę o swobodnym przepływie z UE, ale ich referenda wciąż wstawiają kij w szprychy. Kilka lat temu zagłosowali za pierwszeństwem zatrudnienia dla obywateli Szwajcarii. Rząd szwajcarski to złagodził, ale nie wystarczająco jak na gust UE. Teraz obowiązuje dziewięćdziesięciodniowy limit na świadczenie usług przez obywateli Szwajcarii w UE, a szwajcarskie uniwersytety straciły 1,5 miliarda funtów na finansowanie badań naukowych, które miały otrzymać od UE.",
+      "– To oburzające, naprawdę, i kolejny wyraźny przypadek zastraszania przez UE – prycha Barkwell. – Imigracja do Szwajcarii wymknęła się spod kontroli. Jest dwa razy większa niż u nas w Wielkiej Brytanii. Próbują zastosować odrobinę zdrowego rozsądku, a UE zaczyna grozić kijem.",
+      "Strewel kiwa energicznie głową. – Jakiś unijny osobnik nazwiskiem Popocatapetowski czy coś takiego miał czelność powiedzieć Szwajcarom, że muszą przemyśleć swoją logikę. Praktycznie kazał im przeprowadzić kolejne referendum i tym razem zagłosować jak trzeba."
     ],
     "OPTIONS": [
-      "[OPTION] \"'What about financial services?'\" ►394",
-      "[OPTION] \"'I think the takeaway here is the Swiss do have sovereignty. They can stand up against EU laws if they want to.'\" ►509"
+      "[OPTION] \"– A co z usługami finansowymi?\" ►394",
+      "[OPTION] \"– Myślę, że wniosek jest taki, że Szwajcarzy mają suwerenność. Mogą sprzeciwić się prawu UE, jeśli chcą.\" ►509"
     ]
   },
   "458": {
@@ -218,40 +218,40 @@
       "[EFFECT getItem:Residency Rights]"
     ],
     "PROSE": [
-      "As you've agreed to a modified form of free movement, the issue of EU and UK nationals living in each other's countries is now superfluous. You announce a mutual agreement permitting those citizens to keep their residency status following Brexit."
+      "Ponieważ zgodziłeś się na zmodyfikowaną formę swobodnego przepływu, kwestia obywateli UE i Wielkiej Brytanii mieszkających w krajach drugiej strony staje się bezprzedmiotowa. Ogłaszasz wzajemne porozumienie pozwalające tym obywatelom zachować status rezydenta po Brexicie."
     ],
     "REPORT": [
-      "<strong>+5% Economy</strong>: that's three million taxpayers you don't have to say goodbye to.",
-      "<strong>+10% Goodwill</strong>: your reasonable approach is making you friends in Europe.",
-      "<strong>+5% Popularity</strong>: to your surprise, the decision is welcomed at home too."
+      "<strong>+5% Economy</strong>: to trzy miliony podatników, z którymi nie musisz się żegnać.",
+      "<strong>+10% Goodwill</strong>: twoje rozsądne podejście zyskuje ci przyjaciół w Europie.",
+      "<strong>+5% Popularity</strong>: ku twojemu zaskoczeniu, decyzja zostaje dobrze przyjęta także w kraju."
     ],
     "OPTIONS": [
-      "[OPTION] \"You're on a roll\" ►200"
+      "[OPTION] \"Dobrze ci idzie\" ►200"
     ]
   },
   "459": {
     "PROSE": [
-      "'I'm not sure if that will quite wash, Prime Minister. Not so long ago you were campaigning for us to stay in the EU. Do you deny it?'",
-      "'Yes. Well, no, but… Um. There were different… er… The circumstances, Bill. That was then, and now is – well, now.'",
-      "The rest of the interview goes like a dream. A fever dream. The sort of dream where your toys leer at you from rough  pillow canyons and your own limbs feel like beached whales. When you come out of the studio, Terri Trough greets you with a face like her cat just died.",
-      "'Apart from that one tricky question, how did the rest of it sound?' you ask her.",
-      "She looks at you with shell-shocked eyes. 'The rest of it? That's all they'll remember.'"
+      "– Nie jestem pewien, czy to się uda, panie premierze. Nie tak dawno temu prowadził pan kampanię za pozostaniem w UE. Zaprzecza pan?",
+      "– Tak. To znaczy nie, ale… Hm. Były inne… eee… Okoliczności, Bill. To było wtedy, a teraz jest – no cóż, teraz.",
+      "Reszta wywiadu przebiega jak sen. Gorączkowy sen. Taki sen, w którym zabawki szczerzą się do ciebie z poduszkowych kanionów, a twoje własne kończyny wydają się jak wyrzucone na brzeg wieloryby. Kiedy wychodzisz ze studia, Terri Trough wita cię z miną, jakby właśnie zdechł jej kot.",
+      "– Pomijając to jedno podchwytliwe pytanie, jak brzmiała reszta? – pytasz ją.",
+      "Patrzy na ciebie oczami pełnymi szoku. – Reszta? Tylko to zapamiętają."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►377"
+      "[OPTION] \"Dalej\" ►377"
     ]
   },
   "460": {
     "PROSE": [
-      "Strong conviction is so often the cause of bad governance. Who in their right mind would choose to be led by a Robespierre or a Franco? And yet it's the pragmatists of history who get a bad press. Machiavelli, Talleyrand – 'shit in silk stockings,' Napoleon called him. Why? Because he wasn't dogmatic enough to get half a million men killed in a pointless invasion of Russia?",
-      "'It's not fair!'",
-      "Everyone's looking at you. Sir Harvey Doggerbank still has the results of the last round of Parliamentary voting in his hand.",
-      "'Did I say that out loud? Sorry.'",
-      "You lost. And so Noysom-Reek and Stollard go through to the membership vote. Whichever of them is picked, surely Labour will be the eventual winners. But that's no longer your problem.",
-      "'Where do you think you will go, Prime Minister?' asks Wilkins later as he packs your things.",
-      "You gaze out of the windows of Number 10 at the driving rain, the sullen streetlight, the grey streets, the huddled umbrellas.",
-      "'Anywhere but Britain, Wilkins.'",
-      "<p class=\"centered\">THE END</p>"
+      "Silne przekonania tak często bywają przyczyną złych rządów. Kto przy zdrowych zmysłach wybrałby przywódcę w rodzaju Robespierre'a czy Franco? A jednak to pragmatycy w historii mają złą prasę. Machiavelli, Talleyrand – „gówno w jedwabnych pończochach”, jak go nazwał Napoleon. Dlaczego? Bo nie był wystarczająco dogmatyczny, żeby doprowadzić pół miliona ludzi do śmierci w bezsensownej inwazji na Rosję?",
+      "– To niesprawiedliwe!",
+      "Wszyscy na ciebie patrzą. Sir Harvey Doggerbank wciąż trzyma w ręku wyniki ostatniej tury głosowania parlamentarnego.",
+      "– Czy ja to powiedziałem na głos? Przepraszam.",
+      "Przegrałeś. I tak Noysom-Reek i Stollard przechodzą do głosowania członkowskiego. Którykolwiek z nich zostanie wybrany, z pewnością to Labour będzie ostatecznym zwycięzcą. Ale to już nie twój problem.",
+      "– Gdzie się pan wybiera, panie premierze? – pyta później Wilkins, pakując twoje rzeczy.",
+      "Wyglądasz przez okna Downing Street 10 na ulewny deszcz, ponurą latarnię, szare ulice, skulone pod parasolami sylwetki.",
+      "– Gdziekolwiek, byle nie w Wielkiej Brytanii, Wilkins.",
+      "<p class=\"centered\">KONIEC</p>"
     ]
   }
 }
