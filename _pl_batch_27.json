@@ -5,41 +5,41 @@
       "[EFFECT getItem:Residency Rights]"
     ],
     "PROSE": [
-      "Despite some rumblings from the Spanish, who have the most UK residents, the EU have agreed to a quid pro quo deal. They will affirm the right of all UK citizens currently living in the EU to remain as long as you do the same for EU citizens residing in Britain.",
-      "You've got some good news to announce to the press for once."
+      "Mimo pewnych oporów ze strony Hiszpanów, którzy mają najwięcej rezydentów z Wielkiej Brytanii, UE zgodziła się na wzajemną umowę. Potwierdzą prawo wszystkich obywateli brytyjskich obecnie mieszkających w UE do pozostania, pod warunkiem że zrobisz to samo dla obywateli UE mieszkających w Wielkiej Brytanii.",
+      "W końcu masz jakieś dobre wieści do ogłoszenia prasie."
     ],
     "REPORT": [
-      "<strong>+5% Economy</strong>: the UK economy needs those EU nationals, and it helps not to be handed back a million pensioners from Spain.",
-      "Residency rights have been agreed."
+      "<strong>+5% Economy</strong>: brytyjska gospodarka potrzebuje tych obywateli UE, a poza tym lepiej nie dostawać z powrotem miliona emerytów z Hiszpanii.",
+      "Prawa pobytu zostały uzgodnione."
     ],
     "OPTIONS": [
-      "[OPTION] \"Enjoy it while it lasts\" ►666"
+      "[OPTION] „Ciesz się, póki możesz” ►666"
     ]
   },
   "522": {
     "PROSE": [
-      "It's come down to the wire. As you wait to hear the results of the next round of voting, how do you feel?"
+      "Wszystko rozstrzyga się w ostatniej chwili. Czekając na wyniki kolejnej rundy głosowania, co czujesz?"
     ],
     "OPTIONS": [
-      "[OPTION] \"Quietly confident\" ►597",
-      "[OPTION] \"A bag of nerves – but no one can tell\" ►377"
+      "[OPTION] „Spokojną pewność siebie” ►597",
+      "[OPTION] „Kłębek nerwów – ale nikt tego nie widzi” ►377"
     ]
   },
   "523": {
     "PROSE": [
-      "You're well known for ruthlessly gaming the system – exactly the quality that many MPs look for in a leader. Traditionally the Tory party has been suspicious of ideologues, and Fungale is an out-and-out evangelist. To beat him, you have to make him look dangerously unstable. Which shouldn't be too difficult."
+      "Jesteś znany z bezwzględnego rozgrywania systemu – dokładnie ta cecha, której wielu posłów szuka u lidera. Tradycyjnie partia torysów podchodzi nieufnie do ideologów, a Fungale jest zagorzałym ewangelistą. Żeby go pokonać, musisz sprawić, by wyglądał na niebezpiecznie niestabilnego. Co nie powinno być specjalnie trudne."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►708"
+      "[OPTION] „Dalej” ►708"
     ]
   },
   "524": {
     "PROSE": [
-      "A couple of issues have been sitting in your in-tray for a while. Now that you have a little time, decide which you want to deal with:"
+      "Kilka spraw leży w twojej skrzynce już od jakiegoś czasu. Teraz, gdy masz chwilę, zdecyduj, którą chcesz się zająć:"
     ],
     "OPTIONS": [
-      "[OPTION] \"A visa deal with Turkey\" ►629",
-      "[OPTION] \"Trouble brewing with Spain over Gibraltar\" ►598"
+      "[OPTION] „Umowa wizowa z Turcją” ►629",
+      "[OPTION] „Narastające kłopoty z Hiszpanią w sprawie Gibraltaru” ►598"
     ]
   },
   "525": {
@@ -53,112 +53,112 @@
       "[EFFECT Economy+3]"
     ],
     "PROSE": [
-      "Britain's influence in Brussels, once second only to Germany's, is now greatly diminished, but you still have some sway. Working through the countries most friendly to the UK, you're able to get some amendments to the draft agreement."
+      "Wpływy Wielkiej Brytanii w Brukseli, niegdyś ustępujące jedynie Niemcom, są teraz znacznie osłabione, ale wciąż masz pewną siłę przekonywania. Działając przez kraje najbardziej przychylne Wielkiej Brytanii, udaje ci się wprowadzić kilka poprawek do projektu porozumienia."
     ],
     "REPORT": [
-      "<strong>+3% Economy</strong>: every small concession helps."
+      "<strong>+3% Economy</strong>: każdy drobny ustępstwo pomaga."
     ],
     "OPTIONS": [
-      "[OPTION] \"What's next?\" ►865"
+      "[OPTION] „Co dalej?” ►865"
     ]
   },
   "527": {
     "PROSE": [
-      "Whether you have made the right decisions, only time will tell. In any case, there's no way to turn the clock back now on trade talks. And you have other matters urgently demanding your attention."
+      "Czy podjąłeś właściwe decyzje – pokaże dopiero czas. Tak czy inaczej, nie da się już cofnąć zegara w kwestii rozmów handlowych. A inne sprawy pilnie domagają się twojej uwagi."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►666"
+      "[OPTION] „Dalej” ►666"
     ]
   },
   "528": {
     "PROSE": [
-      "Party members' whims can change faster than the weather. To find out how they feel as they cast their votes…"
+      "Kaprysy członków partii potrafią zmieniać się szybciej niż pogoda. Żeby dowiedzieć się, co czują, oddając głosy…"
     ],
     "TOSS_ONE": [
-      "[HEAD] \"Continue\" ►782",
-      "[TAIL] \"Continue\" ►519"
+      "[HEAD] „Dalej” ►782",
+      "[TAIL] „Dalej” ►519"
     ]
   },
   "529": {
     "PROSE": [
-      "As the EU is not itself a sovereign state, it cannot bring a case against the UK in the international courts. The individual twenty-seven member countries can, however, and many of them will personally feel the pinch now that Britain is refusing to pay the full sum agreed under the treaty.",
-      "And come to that, what is the full sum? As usual for anything involving EU finance, it's a bureaucratic spaghetti of treaties and addenda that not even Stephen Hawking could untangle. Which is not to say the court won't have a stab at it.",
-      "How are you feeling about the International Court's ruling?"
+      "Ponieważ UE sama w sobie nie jest suwerennym państwem, nie może pozwać Wielkiej Brytanii przed trybunał międzynarodowy. Poszczególne dwadzieścia siedem państw członkowskich jednak mogą – i wiele z nich osobiście odczuje skutki, gdy Wielka Brytania odmówi zapłacenia pełnej sumy uzgodnionej na mocy traktatu.",
+      "A tak przy okazji, jaka właściwie jest ta pełna suma? Jak to zwykle bywa w przypadku wszystkiego, co dotyczy finansów UE, to biurokratyczne spaghetti traktatów i aneksów, z którego nawet Stephen Hawking by się nie wyplątał. Co nie znaczy, że trybunał nie spróbuje.",
+      "Jak oceniasz szanse na orzeczenie Trybunału Międzynarodowego?"
     ],
     "OPTIONS": [
-      "[OPTION] \"Time will tell\" ►365",
-      "[OPTION] \"Lap of the gods\" ►104",
-      "[OPTION] \"Que sera, sera\" ►146"
+      "[OPTION] „Czas pokaże” ►365",
+      "[OPTION] „Los w rękach bogów” ►104",
+      "[OPTION] „Que sera, sera” ►146"
     ]
   },
   "530": {
     "PROSE": [
-      "Owlbear eagerly jumps on that one. 'On average EU immigrants contribute far more in taxes than they take out. For every £1 an EU immigrant working here costs the state, he or she puts back £1.34.'",
-      "Brilliant. He's already getting bogged down in statistics. Labour frontbenchers can't grasp how this stuff just glides off the mind of the listener. You can see Fungale next to him grinning away like his face is about to fall in two. He knows. Could be dangerous, that one, for all that he seems like a throwback to 1970s sitcoms, ill-fitting pinstripe suit and all.",
-      "Owlbear drones on. 'EU migrants arriving in Britain over the last five years contributed £3 billion more in taxes than they received from public services. The treasury estimates they're helping to grow the economy by over half a percent every year.'",
-      "'I see Colin Fungale might want to come in there,' says Martin Mugglemore."
+      "Owlbear ochoczo się na to rzuca. – Przeciętnie imigranci z UE odprowadzają znacznie więcej podatków, niż pobierają. Za każdego funta, jaki imigrant z UE pracujący tutaj kosztuje państwo, oddaje on z powrotem 1,34 funta.",
+      "Świetnie. Już grzęźnie w statystykach. Frontbencherzy Partii Pracy nie potrafią zrozumieć, jak te dane po prostu spływają po słuchaczu. Widzisz obok niego Fungale'a szczerzącego się tak, jakby twarz miała mu się rozpaść na pół. On wie. Może być groźny, mimo że wygląda jak postać z sitcomu z lat siedemdziesiątych – źle dopasowany garnitur w prążki i w ogóle.",
+      "Owlbear ciągnie monotonnie. – Imigranci z UE, którzy przybyli do Wielkiej Brytanii w ciągu ostatnich pięciu lat, wpłacili trzy miliardy funtów więcej w podatkach, niż otrzymali z usług publicznych. Ministerstwo Skarbu szacuje, że pomagają rozwijać gospodarkę o ponad pół procenta rocznie.",
+      "– Widzę, że Colin Fungale chciałby się tu wtrącić – mówi Martin Mugglemore."
     ],
     "OPTIONS": [
-      "[OPTION] \"See what he has to say\" ►456",
-      "[OPTION] \"Fast-forward to Lucy Tooth for the Lib Dem view\" ►771",
-      "[OPTION] \"Find another question\" ►405",
-      "[OPTION] \"Give up and get a good night's sleep\" ►125"
+      "[OPTION] „Zobaczmy, co ma do powiedzenia” ►456",
+      "[OPTION] „Przeskoczmy do Lucy Tooth i stanowiska liberalnych demokratów” ►771",
+      "[OPTION] „Znajdź inne pytanie” ►405",
+      "[OPTION] „Odpuść i idź się porządnie wyspać” ►125"
     ]
   },
   "531": {
     "PROSE": [
-      "You join in a heated television debate in which you argue the case for remaining in the EU.",
-      "The ubiquitous Martin Mugglemore is chairing the debate. 'People are saying they like the Norway model. Stay in the single market but with the possibility of opting out of the EU's \"ever-closer\" policy. And it costs us less per head than remaining a full member. What's so bad about that?'"
+      "Bierzesz udział w gorącej debacie telewizyjnej, w której argumentujesz za pozostaniem w UE.",
+      "Wszędobylski Martin Mugglemore prowadzi debatę. – Ludzie mówią, że podoba im się model norweski. Pozostać na jednolitym rynku, ale z możliwością rezygnacji z unijnej polityki „coraz ściślejszej integracji”. I kosztuje nas to mniej na głowę niż pełne członkostwo. Co jest w tym złego?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'There's all this talk of a Norway model, but where would we fit in? As part of the European Free Trade Association? We don't know if they'd have us. It would be a minnow swallowing a whale. And it's not that much cheaper, either. Norwegians pay about three-quarters per head of the full EU membership fees Britain pays.'\" ►391",
-      "[OPTION] \"'Quite simply, Martin, Norway has very little leverage with the EU. If we are going to be subject to EU decisions – as we would in the European Economic Area – it's better if we keep a seat at the table.'\" ►539"
+      "[OPTION] \"– Dużo się mówi o modelu norweskim, ale gdzie byśmy się w nim znaleźli? W ramach Europejskiego Stowarzyszenia Wolnego Handlu? Nie wiemy, czy by nas przyjęli. To tak, jakby płotka próbowała połknąć wieloryba. I wcale nie jest dużo taniej. Norwegowie płacą około trzech czwartych stawki za głowę w porównaniu z pełną składką członkowską, jaką płaci Wielka Brytania.\" ►391",
+      "[OPTION] \"– Mówiąc najprościej, Martin, Norwegia ma bardzo niewielkie pole manewru wobec UE. Jeśli mamy podlegać decyzjom UE – a tak byłoby w Europejskim Obszarze Gospodarczym – lepiej, żebyśmy zachowali miejsce przy stole.\" ►539"
     ]
   },
   "532": {
     "PROSE": [
-      "'Look at the trade deals I've been lining up for after Brexit. Is that the hallmark of somebody who can't make up their mind? I have my hand firmly on the tiller, I can assure you.'",
-      "You leave the studio with a slight swagger to your step, feeling more confident than you have at any time in the last two years.",
-      "Whether that confidence is justified remains to be seen."
+      "– Proszę spojrzeć na umowy handlowe, które przygotowuję na okres po Brexicie. Czy tak wygląda ktoś, kto nie potrafi podjąć decyzji? Trzymam rękę mocno na sterze, zapewniam państwa.",
+      "Opuszczasz studio z lekkim krokiem, czując większą pewność siebie niż kiedykolwiek w ciągu ostatnich dwóch lat.",
+      "Czy ta pewność siebie jest uzasadniona – to się dopiero okaże."
     ],
     "GOTO": [
-      "[IF keyword:NYLON] \"Forward\" ►193",
-      "[ELSE] \"Forward\" ►726"
+      "[IF keyword:NYLON] \"Dalej\" ►193",
+      "[ELSE] \"Dalej\" ►726"
     ]
   },
   "533": {
     "PROSE": [
-      "You call in every favour, draw on every case where you've shown pragmatic leadership. The only thing that could count against you is if you're on record as having made a strong stand against Brexit. In the eyes of the members, that's the one unforgivable sin. That and not showing enough emotion in public."
+      "Wykorzystujesz każdą przysługę, powołujesz się na każdy przypadek, w którym wykazałeś się pragmatycznym przywództwem. Jedyne, co mogłoby ci zaszkodzić, to gdybyś publicznie zdecydowanie wypowiadał się przeciwko Brexitowi. W oczach członków partii to jedyny niewybaczalny grzech. No i jeszcze brak okazywania emocji publicznie."
     ],
     "GOTO": [
-      "[IF keyword:CLARION OR keyword:GAZELLE OR keyword:SANCTION] \"Carry on\" ►50",
-      "[ELSE] \"Carry on\" ►519"
+      "[IF keyword:CLARION OR keyword:GAZELLE OR keyword:SANCTION] \"Dalej\" ►50",
+      "[ELSE] \"Dalej\" ►519"
     ]
   },
   "534": {
     "PROSE": [
-      "Strewel backs out of the race with a surprisingly moving speech. When he admits that he has reluctantly decided he is not the man to unify party and country, you hear echoes of Edward VIII's abdication crossed with the death of Little Nell. You even shed a tear – of laughter, admittedly.",
-      "Now it's a vote of the party membership to decide between you and Tiffany Rufus. In a prepared announcement outside the door of Number 10, you say, 'I will ensure that Parliament delivers on the views of the British people and respects the democratic decision that they've taken.'",
-      "'What does that mean, Prime Minister?' calls out a journalist. 'Hard or soft Brexit?'",
-      "You sense a moment of destiny. What you say now has the potential to decide everything. Remember that while your words will be heard by everyone in Britain, the only voters who count now are the Tory party members."
+      "Strewel wycofuje się z wyścigu ze zaskakująco wzruszającym przemówieniem. Kiedy przyznaje, że niechętnie doszedł do wniosku, iż nie jest tym, który zjednoczy partię i kraj, słyszysz echa abdykacji Edwarda VIII w połączeniu ze śmiercią Małej Nell. Nawet ronisz łzę – trzeba przyznać, że ze śmiechu.",
+      "Teraz o losach wyborów decyduje głosowanie członków partii: ty przeciwko Tiffany Rufus. W przygotowanym oświadczeniu przed drzwiami Downing Street 10 mówisz: – Dopilnuję, by parlament zrealizował wolę obywateli Wielkiej Brytanii i uszanował demokratyczną decyzję, którą podjęli.",
+      "– Co to konkretnie znaczy, panie premierze? – woła dziennikarz. – Twardy czy miękki Brexit?",
+      "Czujesz, że to przełomowy moment. To, co teraz powiesz, może zadecydować o wszystkim. Pamiętaj, że choć twoje słowa usłyszy cała Wielka Brytania, jedynymi wyborcami, którzy się teraz liczą, są członkowie Partii Konserwatywnej."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Full tilt for a strong Brexit, that's the overwhelming mandate of the people.'\" ►519",
-      "[OPTION] \"'The vast majority of British voters would now prefer a close relationship with the EU, rather like Norway has.'\" ►782",
-      "[OPTION] \"'Frankly, there has to be an end to divisive politics or we risk tearing the country down the middle.'\" ►672"
+      "[OPTION] \"– Pełną parą w stronę silnego Brexitu – takie jest przytłaczające przesłanie narodu.\" ►519",
+      "[OPTION] \"– Zdecydowana większość brytyjskich wyborców wolałaby teraz bliskie relacje z UE, na wzór tych, jakie ma Norwegia.\" ►782",
+      "[OPTION] \"– Szczerze mówiąc, trzeba skończyć z polityką podziałów, bo inaczej grozi nam rozdarcie kraju na pół.\" ►672"
     ]
   },
   "535": {
     "PROSE": [
-      "'As far as the NHS is concerned, funding isn't even the primary issue anyway. Staffing is the big problem.' You see him disappear from the screen as he reaches across his desk, reappearing a moment later with a report that he leafs through. 'One in nine of our doctors is from an EU country. And one in twenty of our nurses.'",
-      "'One in twenty? As few as that, eh.'",
-      "'It's more pressing than it sounds. Nurses are getting older – '",
-      "'Funny. Doctors always seem to get younger.'",
-      "'I mean it's an ageing workforce. One third of nurses are due to retire in the next ten years. And when they retire they're going to need nurses and doctors to look after them. Where do we recruit all the medical staff we need?'"
+      "– Jeśli chodzi o NHS, finansowanie nie jest nawet głównym problemem. Kadry – oto prawdziwy kłopot. – Widzisz, jak znika z ekranu, sięgając po coś na biurku, i pojawia się chwilę później z raportem, który kartkuje. – Co dziewiąty nasz lekarz pochodzi z kraju UE. A co dwudziesta pielęgniarka.",
+      "– Co dwudziesta? Tylko tyle?",
+      "– To bardziej pilne, niż się wydaje. Pielęgniarki się starzeją…",
+      "– Zabawne. Lekarze za to zawsze wydają się coraz młodsi.",
+      "– Chodzi mi o starzejącą się kadrę. Jedna trzecia pielęgniarek przejdzie na emeryturę w ciągu najbliższych dziesięciu lat. A kiedy przejdą na emeryturę, same będą potrzebowały pielęgniarek i lekarzy, żeby się nimi ktoś opiekował. Skąd weźmiemy cały potrzebny personel medyczny?"
     ],
     "GOTO": [
-      "[IF keyword:HEMLOCK] \"Easy-peasy\" ►323",
-      "[ELSE] \"Easy-peasy\" ►511"
+      "[IF keyword:HEMLOCK] \"Bułka z masłem\" ►323",
+      "[ELSE] \"Bułka z masłem\" ►511"
     ]
   },
   "536": {
@@ -168,30 +168,30 @@
       "[EFFECT getItem:Negotiation Strategy]"
     ],
     "PROSE": [
-      "Your tone doesn't go down well.",
-      "'Do we really have to bring this tub-thumping rhetoric into the negotiating room?' asks Franjeboom, wincing in disappointment. 'I had hoped that here, without the cameras to play to, we could talk as adults.'"
+      "Twój ton nie zostaje dobrze przyjęty.",
+      "– Czy naprawdę musimy wnosić tę napuszoną retorykę do sali negocjacyjnej? – pyta Franjeboom, krzywiąc się z rozczarowaniem. – Miałem nadzieję, że tutaj, bez kamer, przed którymi można się popisywać, porozmawiamy jak dorośli."
     ],
     "REPORT": [
-      "<strong>+3% Authority</strong>: laying down the law helps quell any thoughts of rebellion from your unruly backbenchers",
-      "<strong>+5% Popularity</strong>: whatever the EU27 think, your strong stance goes down well with voters at home",
-      "You have your negotiation strategy."
+      "<strong>+3% Authority</strong>: twarde stawianie sprawy pomaga stłumić wszelkie myśli o buncie wśród twoich krnąbrnych backbencherów",
+      "<strong>+5% Popularity</strong>: cokolwiek sądzą UE-27, twoja zdecydowana postawa podoba się wyborcom w kraju",
+      "Masz już swoją strategię negocjacyjną."
     ],
     "OPTIONS": [
-      "[OPTION] \"It's all going swimmingly\" ►150"
+      "[OPTION] \"Wszystko idzie jak z płatka\" ►150"
     ]
   },
   "537": {
     "PROSE": [
-      "The Chancellor consults his iPad. 'Here's a statement that was made during the referendum campaign, and I quote: \"It is absolutely crazy that the EU is telling us how powerful our vacuum cleaners have got to be, what shape our bananas have got to be, and all that kind of thing.\"'",
-      "There's a moment of silence. All eyes turn to Strewel, who looks shifty for a moment, then gives a big, belly-shaking peal of laughter. 'Might be one of mine. Still, what of it?'",
-      "'It's not true. The EU directive didn't specify how powerful vacuum cleaners had to be, it was a ban on inefficient designs. Because of that directive, vacuum cleaners and other appliances like freezers use about a third less energy than they did five years ago.'",
-      "'You've got to admit the bananas rule was… bananas.'",
-      "'A good story spoiled by the facts. The EU rule simply places bananas into different classes according to size and shape. No bananas were banned in the making of this directive. And, crucially, neither that or the vacuum cleaner rule were just conjured out of the blue by bored bureaucrats. They were implemented to bring EU specifications into line with international standards set at the World Trade Organization.'"
+      "Kanclerz skarbu zagląda do swojego iPada. – Oto oświadczenie, które padło podczas kampanii referendalnej, cytuję: „To kompletne szaleństwo, że UE mówi nam, jak mocne mają być nasze odkurzacze, jaki kształt mają mieć nasze banany i tego typu rzeczy.”",
+      "Zapada chwila ciszy. Wszystkie oczy zwracają się ku Strewelowi, który przez moment wygląda na zakłopotanego, po czym wybucha donośnym, tubalnym śmiechem. – Możliwe, że to moje słowa. No i co z tego?",
+      "– To nieprawda. Dyrektywa UE nie określała, jak mocne mają być odkurzacze – to był zakaz nieefektywnych konstrukcji. Dzięki tej dyrektywie odkurzacze i inne urządzenia, takie jak zamrażarki, zużywają o jedną trzecią mniej energii niż pięć lat temu.",
+      "– Ale musisz przyznać, że przepis o bananach był… bananowy.",
+      "– Dobra historia, którą psują fakty. Unijna regulacja po prostu klasyfikuje banany według rozmiaru i kształtu. Żaden banan nie ucierpiał przy tworzeniu tej dyrektywy. I co kluczowe, ani ta regulacja, ani przepis o odkurzaczach nie zostały wymyślone z powietrza przez znudzonych biurokratów. Zostały wdrożone, by dostosować unijne specyfikacje do międzynarodowych standardów ustalonych w ramach Światowej Organizacji Handlu."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Still, it all smacks of the nanny state at work.'\" ►596",
-      "[OPTION] \"'So you're saying we could we exert influence at the international level?'\" ►684",
-      "[OPTION] \"'Rewind a few steps. I don't want to lose the big picture.'\" ►17"
+      "[OPTION] \"– Mimo wszystko to trąci państwem-niańką w akcji.\" ►596",
+      "[OPTION] \"– Czyli twierdzi pan, że moglibyśmy wywierać wpływ na szczeblu międzynarodowym?\" ►684",
+      "[OPTION] \"– Cofnijmy się o kilka kroków. Nie chcę stracić z oczu szerszego obrazu.\" ►17"
     ]
   },
   "538": {
@@ -199,20 +199,20 @@
       "[EFFECT getKW:SANCTION]"
     ],
     "PROSE": [
-      "You're throwing your weight behind the campaign for a soft Brexit."
+      "Rzucasz całą swoją wagę za kampanię na rzecz miękkiego Brexitu."
     ],
     "OPTIONS": [
-      "[OPTION] \"What could go wrong?\" ►302"
+      "[OPTION] \"Co mogłoby pójść nie tak?\" ►302"
     ]
   },
   "539": {
     "PROSE": [
-      "You feel that your arguments have helped swing the result, but nothing is certain till the votes are counted. You settle down in front of the television with a glass of milk and a plate of sandwiches and wait to see which way it will go."
+      "Czujesz, że twoje argumenty pomogły przechylić szalę, ale nic nie jest pewne, dopóki nie policzą głosów. Siadasz przed telewizorem ze szklanką mleka i talerzem kanapek i czekasz, w którą stronę się to potoczy."
     ],
     "TOSS_TWO": [
-      "[BOTH HEADS] \"Continue\" ►403",
-      "[BOTH TAILS] \"Continue\" ►313",
-      "[HEAD AND TAIL] \"Continue\" ►313"
+      "[BOTH HEADS] \"Dalej\" ►403",
+      "[BOTH TAILS] \"Dalej\" ►313",
+      "[HEAD AND TAIL] \"Dalej\" ►313"
     ]
   },
   "540": {
@@ -224,15 +224,15 @@
       "[EFFECT getKW:ZEBRA]"
     ],
     "PROSE": [
-      "The International Trade Minister is beside himself with joy. 'This is the opportunity I was waiting for. Wait till the EU see the juicy new deals I'm going to be doing under World Trade Organization rules. There'll be more countries jumping off the sinking ship, you mark my words.'"
+      "Minister handlu międzynarodowego nie posiadał się z radości. – To jest szansa, na którą czekałem. Niech tylko UE zobaczy soczyste nowe umowy, które będę zawierał w ramach zasad Światowej Organizacji Handlu. Jeszcze więcej krajów zacznie uciekać z tonącego okrętu, słowo daję."
     ],
     "REPORT": [
-      "<strong>+6% Authority</strong>: MPs are scared and look to you to fix the mess.",
-      "<strong>-20% Goodwill</strong>: you've left the EU in no doubt of the scant regard you have for them.",
-      "<strong>+7% Popularity</strong>: rightly or wrongly, the voters see this as a strong move."
+      "<strong>+6% Authority</strong>: posłowie są przestraszeni i oczekują, że naprawisz ten bałagan.",
+      "<strong>-20% Goodwill</strong>: nie pozostawiłeś UE żadnych wątpliwości co do tego, jak mało ich poważasz.",
+      "<strong>+7% Popularity</strong>: słusznie czy nie, wyborcy postrzegają to jako zdecydowany ruch."
     ],
     "OPTIONS": [
-      "[OPTION] \"Keep going\" ►150"
+      "[OPTION] \"Dalej\" ►150"
     ]
   }
 }
