@@ -136,52 +136,52 @@
   },
   "391": {
     "PROSE": [
-      "It's a weak response. A mistake to focus on whether there is even a viable chance of a Norway-type solution – the very idea that the other EFTA members would refuse admittance strikes at the national pride. You hear the shuffling of a discontented audience, but it's too late to take the words back. That's the trouble with live debates.",
-      "Still, it's one moment in a raging sea of discussion. Who knows if reason even plays a part in the decision making process now. People were asked if they wanted to jump off a cliff, and now they're confused because nobody mentioned the possibility of a painful landing.",
-      "On the night of the referendum you turn on the television and pace the room as the votes come in."
+      "To słaba odpowiedź. Błędem było skupienie się na tym, czy rozwiązanie na wzór Norwegii w ogóle ma szanse powodzenia – sama idea, że pozostali członkowie EFTA mogliby odmówić przyjęcia, uderza w narodową dumę. Słyszysz poruszenie niezadowolonej widowni, ale jest już za późno, by cofnąć wypowiedziane słowa. Taki problem z debatami na żywo.",
+      "Mimo wszystko to tylko jeden moment w szalejącym morzu dyskusji. Kto wie, czy rozum w ogóle odgrywa jeszcze jakąkolwiek rolę w procesie podejmowania decyzji. Ludzi zapytano, czy chcą skoczyć z klifu, a teraz są zdezorientowani, bo nikt nie wspomniał o możliwości bolesnego lądowania.",
+      "W noc referendum włączasz telewizor i krążysz po pokoju, śledząc napływające wyniki."
     ],
     "TOSS_TWO": [
-      "[BOTH HEADS] \"Continue\" ►173",
-      "[BOTH TAILS] \"Continue\" ►313",
-      "[HEAD AND TAIL] \"Continue\" ►403"
+      "[BOTH HEADS] „Dalej” ►173",
+      "[BOTH TAILS] „Dalej” ►313",
+      "[HEAD AND TAIL] „Dalej” ►403"
     ]
   },
   "392": {
     "PROSE": [
-      "'Glitzy new trade deals, for starters. There'll be some countries that prefer to deal with us than with the EU. Maybe we'll be more successful at closing deals with the USA. Then there's the opportunity of freeing up some of our tariff quotas – on oranges, for instance."
+      "– Przede wszystkim efektowne nowe umowy handlowe. Znajdą się kraje, które wolą handlować z nami niż z UE. Być może uda nam się skuteczniej zamknąć negocjacje ze Stanami Zjednoczonymi. Poza tym jest szansa na uwolnienie części naszych kontyngentów taryfowych – na przykład na pomarańcze."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Oranges, eh?'\" ►29",
-      "[OPTION] \"'What are our trading prospects with the US?'\" ►260",
-      "[OPTION] \"'Go back a step. I want to hear about the bad as well as the good.'\" ►700"
+      "[OPTION] „– Pomarańcze, tak?” ►29",
+      "[OPTION] „– Jakie są nasze perspektywy handlowe ze Stanami?” ►260",
+      "[OPTION] „– Cofnijmy się o krok. Chcę usłyszeć o złym i o dobrym.” ►700"
     ]
   },
   "393": {
     "PROSE": [
-      "It's a good answer. Confident. Reassuring. Just enough clarity not to confuse, but empty enough to defy analysis.",
-      "Perhaps you have swayed enough voters to push the result in your favour, you muse as you drive back to Downing Street after the debate. You'll soon know.",
-      "On the night of the referendum you turn on the television and pace the room as the votes come in."
+      "To dobra odpowiedź. Pewna siebie. Uspokajająca. Wystarczająco klarowna, by nie wprowadzać w błąd, ale na tyle pusta, by wymknąć się analizie.",
+      "Być może udało ci się przekonać wystarczająco wielu wyborców, by przechylić szalę na swoją stronę – rozmyślasz, jadąc po debacie z powrotem na Downing Street. Wkrótce się przekonasz.",
+      "W noc referendum włączasz telewizor i krążysz po pokoju, śledząc napływające wyniki."
     ],
     "TOSS_TWO": [
-      "[BOTH HEADS] \"Continue\" ►173",
-      "[BOTH TAILS] \"Continue\" ►403",
-      "[HEAD AND TAIL] \"Continue\" ►127"
+      "[BOTH HEADS] „Dalej” ►173",
+      "[BOTH TAILS] „Dalej” ►403",
+      "[HEAD AND TAIL] „Dalej” ►127"
     ]
   },
   "394": {
     "PROSE": [
-      "'No access, really,' admits Dent sheepishly. 'Swiss financial institutions don't have financial passports to trade in the single market. Hence all the Swiss financial institutions based in the City."
+      "– Właściwie żadnego dostępu – przyznaje Dent z zakłopotaniem. – Szwajcarskie instytucje finansowe nie mają paszportów finansowych umożliwiających handel na jednolitym rynku. Stąd tyle szwajcarskich instytucji finansowych ma siedzibę w City."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Are they working on that? And other service industries?'\" ►673",
-      "[OPTION] \"'Let's review other aspects of the Swiss arrangement. Maybe something similar is right for us.'\" ►378"
+      "[OPTION] „– Czy pracują nad tym? A co z innymi sektorami usług?” ►673",
+      "[OPTION] „– Przyjrzyjmy się innym aspektom porozumienia ze Szwajcarią. Może coś podobnego będzie dla nas odpowiednie.” ►378"
     ]
   },
   "395": {
     "PROSE": [
-      "It is an ignominious end to the brief, blazing glory of your career. You stepped into the breech to uphold the will of the people, only to find that it was a passing whim rather than a stern patriotic mandate.",
-      "Now the voters have come to regard their previous decision as a mistake, and in the way of human nature they must have scapegoats to blame. The helm passes to another and you must take your leave of Number 10, with only the prospect of lucrative book deals and highly-paid after-dinner speeches to console you.",
-      "<p class=\"centered\">THE END</p>"
+      "To niechlubny koniec krótkiej, płomiennej chwały twojej kariery. Stanąłeś na posterunku, by bronić woli narodu, a okazało się, że był to przelotny kaprys, nie zaś surowy patriotyczny mandat.",
+      "Teraz wyborcy uważają swoją poprzednią decyzję za błąd i – jak to w ludzkiej naturze – muszą znaleźć kozłów ofiarnych. Ster przejmuje ktoś inny, a ty musisz pożegnać się z Downing Street 10, pocieszając się jedynie perspektywą lukratywnych kontraktów książkowych i sowicie opłacanych przemówień na bankietach.",
+      "<p class=\"centered\">KONIEC</p>"
     ]
   },
   "396": {
@@ -194,62 +194,62 @@
       "[EFFECT getKW:CLARION]"
     ],
     "PROSE": [
-      "'So it's a case of the only way is Norway,' says the Chancellor when you discuss the outline of the deal in Cabinet.",
-      "'It's a damnable compromise,' fumes Barkwell. 'Our courts will be obliged to track standards laid down by European courts, we'll have hardly any influence over regulations, and – worst of all – the fangs of the EU will still be sucking money out of us year on year.'",
-      "'Parasites,' chimes in a little voice from the far end of the room, reminding you that Thomas Tode is here.",
-      "'But compromise is the very soul of politics,' you point out.",
-      "At that Peter Strewel produces a meaty laugh. 'Yesterday's politics, that! We're on the other side of history now. People have lost patience with negotiation and compromise. They're demanding simple answers.'",
-      "'Politics is complex,' says the Chancellor. 'There are no easy answers.'",
-      "'Really?' chortles Strewel. 'Religion has been riding the high hog on the promise of simple answers since Man first wondered if it was all right to brain his neighbour and steal his wife.'",
-      "You look at the febrile light in the eyes of Barkwell and Dent and the other hardline Brexiters and you know he is right. This isn't politics any more; it's blind faith."
+      "– Czyli jedyna droga to Norwegia – mówi kanclerz skarbu, gdy omawiasz zarys porozumienia na posiedzeniu gabinetu.",
+      "– To przeklęty kompromis – kipi Barkwell. – Nasze sądy będą zmuszone trzymać się standardów wyznaczanych przez sądy europejskie, nie będziemy mieli prawie żadnego wpływu na regulacje i – co najgorsze – kły UE nadal będą wysysać z nas pieniądze rok po roku.",
+      "– Pasożyty – wtóruje cienki głosik z drugiego końca sali, przypominając ci, że Thomas Tode tu jest.",
+      "– Ale kompromis to sama istota polityki – zauważasz.",
+      "Na to Peter Strewel wybucha tubalnym śmiechem. – To polityka wczorajsza! Jesteśmy po drugiej stronie historii. Ludzie stracili cierpliwość do negocjacji i kompromisów. Domagają się prostych odpowiedzi.",
+      "– Polityka jest skomplikowana – mówi kanclerz skarbu. – Nie ma łatwych odpowiedzi.",
+      "– Naprawdę? – rechocze Strewel. – Religia doskonale sobie radzi, obiecując proste odpowiedzi, odkąd człowiek po raz pierwszy zastanowił się, czy wolno mu rozbić łeb sąsiadowi i porwać mu żonę.",
+      "Spoglądasz na gorączkowy błysk w oczach Barkwella, Denta i innych zatwardziałych brexitowców i wiesz, że ma rację. To nie jest już polityka – to ślepa wiara."
     ],
     "REPORT": [
-      "<strong>-5% Authority</strong>: many of the hardcore Brexiters in the party are furious that you're keeping such close links with the EU.",
-      "<strong>-3% Economy</strong>: even with EEA-level access to the single market, there will be some degree of disruption to trade in services on which the UK depends.",
-      "<strong>+5% Goodw</strong><strong>ill</strong>: the EU27 may be hoping that in time Britain will return to the fold.",
-      "<strong>-10% Popularity</strong>: after all the <em>sturm und drang </em>of negotiation, the voters resent such an undramatic conclusion.",
-      "EU Trade Talks are complete."
+      "<strong>-5% Authority</strong>: wielu zagorzałych brexitowców w partii jest wściekłych, że utrzymujesz tak bliskie więzi z UE.",
+      "<strong>-3% Economy</strong>: nawet przy dostępie do jednolitego rynku na poziomie EOG nastąpią pewne zakłócenia w handlu usługami, od których zależy Wielka Brytania.",
+      "<strong>+5% Goodwill</strong>: UE-27 może mieć nadzieję, że z czasem Wielka Brytania wróci na łono wspólnoty.",
+      "<strong>-10% Popularity</strong>: po całym tym <em>sturm und drang</em> negocjacji wyborcy mają żal o tak mało dramatyczne zakończenie.",
+      "EU Trade Talks zakończone."
     ],
     "OPTIONS": [
-      "[OPTION] \"Plug on\" ►385"
+      "[OPTION] \"Ciągnąć dalej\" ►385"
     ]
   },
   "397": {
     "PROSE": [
-      "'CSI stands for Comprehensive Sickness Insurance. Since anyone who isn't working or paying taxes over here can't get free healthcare, the idea is that you have to take out your own insurance. This applies to students and self-sufficient applicants.'",
-      "'Seems reasonable. So what happens if they haven't got this CSI?'",
-      "'Any years spent living in the UK without CSI don't get counted towards the  five years you have to have lived here to be eligible for permanent residence.'",
-      "'From what I can gather, this is a bone of contention.'",
-      "'To put it mildly. It wasn't in any of the official guidance on the government website, and people have been complaining that it's suddenly been sprung on them in the application process. They feel it's a bit unfair to find out that their time doesn't count because they haven't had any health insurance that they weren't told they had to have.'",
-      "'Why haven't we been telling them about it?'",
-      "'Some would say it's deliberate. A tangle of Kafkaesque red-tape to reduce the number of residency applications.'",
-      "'Others might say it's just a  bureaucratic oversight.'",
-      "'I couldn't possibly comment, Prime Minister. Either way, you may need to sort that out if your intention is to give most of our current EU citizens some kind of residency rights before it all blows up.'"
+      "– CSI to Comprehensive Sickness Insurance, czyli kompleksowe ubezpieczenie zdrowotne. Ponieważ osoby, które tu nie pracują ani nie płacą podatków, nie mają prawa do bezpłatnej opieki zdrowotnej, muszą wykupić własne ubezpieczenie. Dotyczy to studentów i osób utrzymujących się samodzielnie.",
+      "– Brzmi rozsądnie. A co, jeśli nie mają tego CSI?",
+      "– Lata spędzone w Wielkiej Brytanii bez CSI nie są wliczane do pięciu lat zamieszkania wymaganych, by uzyskać prawo stałego pobytu.",
+      "– Z tego, co się orientuję, to kość niezgody.",
+      "– Delikatnie mówiąc. Nie było o tym ani słowa w oficjalnych wytycznych na rządowej stronie internetowej, a ludzie skarżą się, że nagle dowiadują się o tym w trakcie procedury składania wniosku. Uważają, że to niesprawiedliwe – ich czas pobytu się nie liczy, bo nie mieli ubezpieczenia, o którym nikt ich nie poinformował.",
+      "– Dlaczego ich o tym nie informowaliśmy?",
+      "– Niektórzy twierdzą, że to celowe. Kafkowski gąszcz biurokracji mający zmniejszyć liczbę wniosków o pobyt stały.",
+      "– Inni mogliby powiedzieć, że to zwykłe urzędnicze przeoczenie.",
+      "– Nie śmiałbym komentować, panie premierze. Tak czy owak, być może trzeba to będzie uporządkować, jeśli zamierza pan przyznać większości naszych obecnych obywateli UE jakąś formę prawa pobytu, zanim cała sprawa wybuchnie."
     ],
     "OPTIONS": [
-      "[OPTION] \"'What will happen to EU citizens in Britain if we leave without a deal regarding residency rights?'\" ►465",
-      "[OPTION] \"'What's the application process for permanent residence?'\" ►438",
-      "[OPTION] \"'What do you suggest is the best way to grant residency rights to EU citizens, should we choose to do so?'\" ►858",
-      "[OPTION] \"'That's all for now, thanks.'\" ►666"
+      "[OPTION] \"– Co się stanie z obywatelami UE w Wielkiej Brytanii, jeśli odejdziemy bez umowy dotyczącej prawa pobytu?\" ►465",
+      "[OPTION] \"– Jak wygląda procedura ubiegania się o prawo stałego pobytu?\" ►438",
+      "[OPTION] \"– Jakim sposobem najlepiej przyznać prawo pobytu obywatelom UE, gdybyśmy się na to zdecydowali?\" ►858",
+      "[OPTION] \"– To na razie wszystko, dziękuję.\" ►666"
     ]
   },
   "398": {
     "PROSE": [
-      "You join in a heated television debate in which you argue the case for remaining in the single market along the lines of Norway or Switzerland.",
-      "The ubiquitous Martin Mugglemore is chairing the debate. 'Come on, Prime Minister. We had a vote on this already. Just over half the country said they want out of the EU. Why not accept the result?'"
+      "Bierzesz udział w gorącej debacie telewizyjnej, w której argumentujesz za pozostaniem w jednolitym rynku na wzór Norwegii lub Szwajcarii.",
+      "Wszędobylski Martin Mugglemore prowadzi debatę. – Dość tego, panie premierze. Już raz głosowaliśmy. Nieco ponad połowa kraju powiedziała, że chce wyjść z UE. Czemu nie zaakceptować wyniku?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'If people have a right to make a decision, don't they have the right to change it? Democracy should never mean shutting down the debate.'\" ►602",
-      "[OPTION] \"'Because the first referendum was badly thought out. We asked people if they want to leave the EU, but not what they want in its place. Now they have a chance to tell us they want a new deal that restores Britain's sovereignty without wrecking our prosperity.'\" ►298"
+      "[OPTION] \"– Jeśli ludzie mają prawo podjąć decyzję, to czy nie mają też prawa jej zmienić? Demokracja nigdy nie powinna oznaczać zamknięcia debaty.\" ►602",
+      "[OPTION] \"– Bo pierwsze referendum było źle przemyślane. Zapytaliśmy ludzi, czy chcą opuścić UE, ale nie o to, czego chcą w zamian. Teraz mają szansę powiedzieć nam, że chcą nowej umowy, która przywróci suwerenność Wielkiej Brytanii, nie rujnując naszego dobrobytu.\" ►298"
     ]
   },
   "399": {
     "PROSE": [
-      "As Britain has already broken off negotiations with the EU over the so-called exit fee, there's no chance of remaining within the single market. The very best you can hope for is – what?"
+      "Skoro Wielka Brytania zerwała już negocjacje z UE w sprawie tak zwanej opłaty za wyjście, nie ma szans na pozostanie w jednolitym rynku. Na co najlepszego możesz liczyć?"
     ],
     "OPTIONS": [
-      "[OPTION] \"A customs union with the EU like Turkey has\" ►674",
-      "[OPTION] \"Or else create a new free trade agreement from scratch\" ►294"
+      "[OPTION] \"Unia celna z UE na wzór Turcji\" ►674",
+      "[OPTION] \"Albo stworzyć od podstaw nowe porozumienie o wolnym handlu\" ►294"
     ]
   },
   "400": {
@@ -261,8 +261,8 @@
       "[ELSE] CONTINUE"
     ],
     "OPTIONS": [
-      "[OPTION] \"Get a briefing on the issues you're facing\" ►425",
-      "[OPTION] \"Who has time for briefings? When the going gets tough, the tough get going\" ►450"
+      "[OPTION] \"Wysłuchaj briefingu na temat problemów, z którymi się mierzysz\" ►425",
+      "[OPTION] \"Kto ma czas na briefingi? Gdy robi się ciężko, twardzi ruszają do boju\" ►450"
     ]
   }
 }
