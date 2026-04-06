@@ -7,27 +7,27 @@
   },
   "822": {
     "PROSE": [
-      "At least there's no need to discuss Britain's continued involvement with Europol. There's already a precedent for close cooperation between EU police forces and other countries. You quickly agree a relationship along the same lines that the US and Australia currently enjoy, with British liaison officers at Europol and EU officers based at key UK police departments.",
-      "You meet with Chief Negotiator Franjeboom. 'Now we have our ducks in a row,' he says, 'it is time to consider the drake.'",
-      "'That probably loses something in translation.'",
-      "His smile doesn't waver. 'I refer to military cooperation in the aftermath of Brexit.'",
-      "'My government has repeatedly assured the EU that we will continue to cooperate proactively. As Britain is the most significant military power in Europe, I'm sure that's in everyone's interests.'",
-      "'You have the largest military budget, at any rate,' he says. 'The way the pound is now, that doesn't go as far as it used to. In any case, you should be aware that Britain's departure removes one of the main obstacles to much greater integration of European armed forces. Will you be willing to engage with the \"EU army\" your Leave politicians fulminated over?'"
+      "Przynajmniej nie trzeba omawiać dalszego udziału Wielkiej Brytanii w Europolu. Istnieje już precedens bliskiej współpracy między unijnymi siłami policyjnymi a innymi krajami. Szybko uzgadniacie relację na wzór tej, jaką obecnie mają Stany Zjednoczone i Australia – z brytyjskimi oficerami łącznikowymi w Europolu i unijnymi funkcjonariuszami w kluczowych brytyjskich departamentach policji.",
+      "Spotykasz się z głównym negocjatorem Franjeboomem. – Skoro mamy już wszystko poukładane – mówi – pora zająć się głównym tematem.",
+      "– To pewnie brzmi lepiej w oryginale.",
+      "Jego uśmiech ani drgnie. – Mam na myśli współpracę wojskową po brexicie.",
+      "– Mój rząd wielokrotnie zapewniał UE, że będziemy nadal aktywnie współpracować. Skoro Wielka Brytania jest najważniejszą potęgą militarną w Europie, jestem pewien, że to leży w interesie wszystkich.",
+      "– Macie największy budżet wojskowy, owszem – odpowiada. – Ale przy obecnym kursie funta nie idzie on tak daleko jak kiedyś. W każdym razie powinniście wiedzieć, że odejście Wielkiej Brytanii usuwa jedną z głównych przeszkód na drodze do znacznie większej integracji europejskich sił zbrojnych. Czy będziecie skłonni współpracować z „armią europejską”, na którą tak grzmiały wasze politycy z obozu Leave?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'I'm afraid Britain can't possibly subordinate her forces to missions over which we have little strategic or tactical control.'\" ►301",
-      "[OPTION] \"'We're willing to pull our weight, but we must insist on a special arrangement that gives us equal influence over the planning of joint military ventures.'\" ►279"
+      "[OPTION] „– Obawiam się, że Wielka Brytania nie może podporządkować swoich sił zbrojnych misjom, nad którymi nie mamy praktycznie żadnej kontroli strategicznej ani taktycznej.” ►301",
+      "[OPTION] „– Jesteśmy gotowi wziąć na siebie nasz udział, ale musimy nalegać na specjalne porozumienie, które da nam równy wpływ na planowanie wspólnych operacji wojskowych.” ►279"
     ]
   },
   "823": {
     "PROSE": [
-      "'You're the least popular Prime Minister since Eden bungled the Suez crisis.'",
-      "Lord Elmstead is going over the results you commissioned from his polling company. It doesn't make comforting reading.",
-      "'But sometimes the most unpopular leaders also get the highest scores in popularity,' you remind him. 'Think of President Windrip. The deplorables absolutely love him.'",
-      "'True, and there's the silver lining. As long as you have high approval ratings among your core supporters, and as long as the opposition is divided and your grip on the party is strong, overall unpopularity can't hurt you.'",
-      "The key is to continue the erosion of Parliamentary sovereignty that has been going on for at least a hundred years. Concentrate power in the executive, who are answerable to party members rather than the electorate as a whole, and you should be able to hang on.",
-      "And if not, and you're ousted before the next election, so what? You'll easily nab a few directorships. You'll coin it in with after-dinner speeches. And then there are the memoirs. If history looks back on you unkindly for your handling of Brexit – well, at least nobody's calling you a war criminal. And anyway, you only did what the people told you.",
-      "<p class=\"centered\">THE END</p>"
+      "– Jest pan najbardziej niepopularnym premierem od czasu, gdy Eden spartaczył kryzys sueski.",
+      "Lord Elmstead omawia wyniki, które zamówiłeś w jego firmie sondażowej. Nie jest to pocieszająca lektura.",
+      "– Ale czasem najbardziej niepopularni przywódcy mają jednocześnie najwyższe notowania popularności – przypominasz mu. – Pomyśl o prezydencie Windripie. Jego zwolennicy go uwielbiają.",
+      "– To prawda, i tu jest iskierka nadziei. Dopóki masz wysokie notowania wśród swoich kluczowych wyborców, dopóki opozycja jest podzielona, a twoja pozycja w partii silna, ogólna niepopularność nie może ci zaszkodzić.",
+      "Kluczem jest kontynuowanie erozji suwerenności parlamentarnej, która trwa od co najmniej stu lat. Skoncentruj władzę w rękach egzekutywy, która odpowiada przed członkami partii, a nie przed całym elektoratem, i powinieneś się utrzymać.",
+      "A jeśli nie i zostaniesz odsunięty przed kolejnymi wyborami – to co z tego? Łatwo załatwisz sobie kilka miejsc w radach nadzorczych. Zarobisz fortunę na przemówieniach po kolacjach. A potem wspomnienia. Jeśli historia źle oceni twoje prowadzenie brexitu – cóż, przynajmniej nikt nie nazywa cię zbrodniarzem wojennym. I tak czy inaczej, zrobiłeś tylko to, co kazali ci ludzie.",
+      "<p class=\"centered\">KONIEC</p>"
     ]
   },
   "824": {
@@ -35,57 +35,57 @@
       "[EFFECT Economy+1]"
     ],
     "PROSE": [
-      "The Health Secretary goes on <em>News Talk</em> to discuss the visa initiative. 'The NHS is the envy of the world,' he says. 'And our message today is that we want the best doctors, the best nurses. Brexit isn't about pulling up the drawbridge, it's about deciding who gets to come here. No more floods of half-qualified quacks taking out the wrong kidney. From now on, our health care is on the gold standard.'",
-      "He's a blithering idiot, obviously. And his quip about the drawbridge will lose some of the madder hard Brexit voters. But all in all you can bask in the satisfaction of a job spun to look as if it's being done well."
+      "Minister zdrowia idzie do programu <em>News Talk</em>, żeby omówić inicjatywę wizową. – NHS jest obiektem zazdrości całego świata – mówi. – A nasz przekaz na dziś jest taki, że chcemy najlepszych lekarzy, najlepsze pielęgniarki. Brexit nie polega na podnoszeniu mostu zwodzonego, tylko na decydowaniu, kto tu może przyjść. Koniec z zalewem niedouczonych konowałów wycinających nie tę nerkę. Od teraz nasza opieka zdrowotna jest na najwyższym poziomie.",
+      "To oczywiście kompletny kretyn. A jego uwaga o moście zwodzonym może zrazić niektórych bardziej szalonych zwolenników twardego brexitu. Ale ogólnie możesz się nacieszyć satysfakcją z roboty, którą udało się przedstawić jako dobrze wykonywaną."
     ],
     "REPORT": [
-      "<strong>+1% Economy</strong>: any message of welcome sent out to qualified immigrants helps reassure the world that Britain hasn't entirely shut up shop."
+      "<strong>+1% Economy</strong>: każdy sygnał powitalny wysłany do wykwalifikowanych imigrantów pomaga przekonać świat, że Wielka Brytania nie zamknęła się całkowicie na kłódkę."
     ],
     "GOTO": [
-      "[IF keyword:DODO] \"Continue\" ►431",
-      "[ELSE] [EFFECT getItem:the NHS] \"Continue\" ►450"
+      "[IF keyword:DODO] \"Dalej\" ►431",
+      "[ELSE] [EFFECT getItem:the NHS] \"Dalej\" ►450"
     ]
   },
   "825": {
     "PROSE": [
-      "As the results start coming in, you stare at the television in growing disbelief. By the small hours you can no longer escape the truth.",
-      "'We've lost…'",
-      "Your team, bone-weary and despondent, look at you with drawn faces. Finally one of the special advisers speaks up. 'Labour had a very strong manifesto, Prime Minister. Curbing the power of corporations, investing in the NHS, moderating Brexit. All popular policies.'",
-      "You shake your head. 'The explanation is very simple. The party failed me. In my hour of greatest need, I stood alone.'",
-      "Barry Scraggle will now be hustling to form a government, swallowing his principles to do deals with the Liberal Democrats and the SNP. Small wonder if the strain of the next five years doesn't kill him. You smile sourly as you unscrew one of the bolts in your office chair. That can be his welcoming present.",
-      "But for you, it is all over.",
-      "<p class=\"centered\">THE END</p>"
+      "Gdy zaczynają napływać wyniki, wpatrujesz się w telewizor z rosnącym niedowierzaniem. W małych godzinach nie sposób już uciec od prawdy.",
+      "– Przegraliśmy…",
+      "Twój zespół, zmęczony do granic i przygnębiony, patrzy na ciebie z wychudzonymi twarzami. W końcu odzywa się jeden z doradców specjalnych. – Partia Pracy miała bardzo mocny program wyborczy, panie premierze. Ograniczanie władzy korporacji, inwestycje w NHS, łagodzenie brexitu. Same popularne postulaty.",
+      "Kręcisz głową. – Wyjaśnienie jest bardzo proste. Partia mnie zawiodła. W mojej najcięższej godzinie stałem sam.",
+      "Barry Scraggle będzie teraz gorączkowo próbował sformować rząd, połykając swoje zasady, żeby dogadać się z Liberalnymi Demokratami i SNP. Nic dziwnego, jeśli stres najbliższych pięciu lat go nie wykończy. Uśmiechasz się krzywo, odkręcając jeden ze śrub z fotela w swoim gabinecie. To będzie jego prezent powitalny.",
+      "Ale dla ciebie to już koniec.",
+      "<p class=\"centered\">KONIEC</p>"
     ]
   },
   "826": {
     "PROSE": [
-      "'I'm not going quite so far as to advocate boilerplate World Trade Organization rules,' says Dent, throwing Barkwell an apologetic glance. 'It's potentially more of a bureaucratic nightmare than the EU, if we're honest. Every WTO member – '",
-      "'How many are we talking about?'",
-      "'A hundred and sixty plus, prime minister. And every single one of them can trigger a trade dispute if they're unhappy with arrangements.'",
-      "'But they're not going to do that, are they? I mean, they'll want to trade with us.'",
-      "'I'm sure they will trade with us,' puts in Stollard. 'But in the short term some of our competitors will use the opportunity to reset trade relations. It could get nasty.'"
+      "– Nie posuwam się aż tak daleko, żeby zalecać standardowe zasady Światowej Organizacji Handlu – mówi Dent, rzucając Barkwellowi przepraszające spojrzenie. – To potencjalnie większy koszmar biurokratyczny niż UE, jeśli mamy być szczerzy. Każdy członek WTO…",
+      "– O ilu mówimy?",
+      "– Ponad stu sześćdziesięciu, panie premierze. I każdy z nich może wszcząć spór handlowy, jeśli nie spodoba mu się porozumienie.",
+      "– Ale przecież nie będą tego robić, prawda? To znaczy, będą chcieli z nami handlować.",
+      "– Jestem pewien, że będą z nami handlować – wtrąca Stollard. – Ale w krótkim terminie część naszych konkurentów wykorzysta okazję do przebudowy stosunków handlowych. Może się zrobić nieprzyjemnie."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Give me an example.'\" ►741",
-      "[OPTION] \"'Surely they won't mess with us given the size of our economy?'\" ►443",
-      "[OPTION] \"'What actually is the WTO?'\" ►646"
+      "[OPTION] „– Proszę o konkretny przykład.” ►741",
+      "[OPTION] „– Chyba nie będą z nami zadzierać, biorąc pod uwagę rozmiar naszej gospodarki?” ►443",
+      "[OPTION] „– Czym właściwie jest WTO?” ►646"
     ]
   },
   "827": {
     "PROSE": [
-      "It's the moment of truth. Have you done enough to see off the threat of Fungale? And, if so, did you do it without crossing a moral line that you can't come back from?"
+      "To chwila prawdy. Czy zrobiłeś wystarczająco dużo, żeby odeprzeć zagrożenie ze strony Fungale'a? A jeśli tak, czy udało ci się to bez przekroczenia moralnej granicy, zza której nie ma powrotu?"
     ],
     "OPTIONS": [
-      "[OPTION] \"No use crying over spilt milk\" ►349",
-      "[OPTION] \"The ends justify the means\" ►377"
+      "[OPTION] „Nie ma co płakać nad rozlanym mlekiem” ►349",
+      "[OPTION] „Cel uświęca środki” ►377"
     ]
   },
   "828": {
     "PROSE": [
-      "Immigration was undoubtedly one of the major factors in the Leave vote. There was a very informative television debate about it that you remember watching. You cast your mind back…"
+      "Imigracja była niewątpliwie jednym z głównych czynników, które przesądziły o wyniku głosowania za Leave. Pamiętasz bardzo pouczającą debatę telewizyjną na ten temat. Wracasz myślami…"
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►746"
+      "[OPTION] \"Dalej\" ►746"
     ]
   },
   "829": {
@@ -95,61 +95,61 @@
       "[EFFECT Popularity+1]"
     ],
     "PROSE": [
-      "The <em>Outrage</em> and the <em>Daily Heil</em> dutifully run the story with just the spin you want, but the <em>Tomahawk</em> is a little more restrained. No great surprise there; many of its readers work in the financial sector."
+      "<em>Outrage</em> i <em>Daily Heil</em> posłusznie publikują historię dokładnie z takim wydźwiękiem, jaki chciałeś, ale <em>Tomahawk</em> jest nieco bardziej powściągliwy. Żadna niespodzianka – wielu jego czytelników pracuje w sektorze finansowym."
     ],
     "REPORT": [
-      "<strong>+1% Authority</strong>: seeing the media toeing your line serves as a warning to your opponents in the party.",
-      "<strong>-2% Economy</strong>: the haemorrhaging of financial services from the City is going to impact everyone's standard of living.",
-      "<strong>+1% Popularity</strong>: you've given the public their favourite villain: bankers."
+      "<strong>+1% Authority</strong>: widok mediów trzymających twoją linię jest ostrzeżeniem dla twoich przeciwników w partii.",
+      "<strong>-2% Economy</strong>: odpływ usług finansowych z City uderzy w standard życia wszystkich.",
+      "<strong>+1% Popularity</strong>: dałeś społeczeństwu ich ulubionego złoczyńcę: bankierów."
     ],
     "OPTIONS": [
-      "[OPTION] \"Triumph is built on small victories\" ►400"
+      "[OPTION] „Triumf buduje się z małych zwycięstw” ►400"
     ]
   },
   "830": {
     "PROSE": [
-      "Terri's summary is a lot politer than the actual question, which is more along the lines of: 'Why do we keep letting these people come over here taking jobs that could go to British workers?'",
-      "Mugglemore throws it to the Lib Dem woman. 'Immigrants don't subtract from our way of life,' she says. 'They add value, both in the taxes they pay and in terms of social value.' So she's both contradicting and avoiding the question. Double waffle points there: a rookie mistake.",
-      "Fungale is straight in like a rash on a hot day. 'What are you talking about, \"social value\"? National costume? Henna tattoos? Zither music? That isn't much consolation when an immigrant jumps the queue at the job centre, is it?'"
+      "Streszczenie Terri jest o wiele grzeczniejsze niż samo pytanie, które brzmi mniej więcej tak: „Dlaczego ciągle wpuszczamy tych ludzi, którzy zabierają pracę, która mogłaby trafić do Brytyjczyków?”",
+      "Mugglemore oddaje głos kobiecie z Lib Demów. – Imigranci nie umniejszają naszego poziomu życia – mówi. – Wnoszą wartość, zarówno w podatkach, które płacą, jak i w wymiarze społecznym. – Zatem jednocześnie zaprzecza pytaniu i go unika. Podwójne punkty za lanie wody: błąd nowicjuszki.",
+      "Fungale wpada prosto jak wysypka w upalny dzień. – O czym pani mówi, „wartość społeczna”? Stroje ludowe? Tatuaże z henny? Muzyka cytrowa? To niewielka pociecha, kiedy imigrant wpycha się przed ciebie w kolejce w urzędzie pracy, prawda?"
     ],
     "OPTIONS": [
-      "[OPTION] \"How's she going to answer that?\" ►358",
-      "[OPTION] \"See if Bob Owlbear can string a non-soporific thought together for once\" ►135",
-      "[OPTION] \"Find another question\" ►405",
-      "[OPTION] \"Give up and get a good night's sleep\" ►125"
+      "[OPTION] „Jak ona na to odpowie?” ►358",
+      "[OPTION] „Zobaczmy, czy Bob Owlbear zdoła sklecić jedną nie usypiającą myśl” ►135",
+      "[OPTION] „Znajdź inne pytanie” ►405",
+      "[OPTION] „Daj spokój i idź się porządnie wyspać” ►125"
     ]
   },
   "831": {
     "PROSE": [
-      "You were told that it might be possible to secure continued membership of the single market once the question of security and defence was resolved."
+      "Powiedziano ci, że być może uda się wynegocjować dalszy udział w jednolitym rynku, gdy kwestia bezpieczeństwa i obronności zostanie rozwiązana."
     ],
     "OPTIONS": [
-      "[IF Goodwill>=16] [OPTION] \"Reopen those discussions\" ►257",
-      "[IF Goodwill>=16] [OPTION] \"Forget about single market access\" ►385",
-      "[IF Goodwill<=15] [OPTION] \"That ship has sailed\" ►385"
+      "[IF Goodwill>=16] [OPTION] „Wróćmy do tych rozmów” ►257",
+      "[IF Goodwill>=16] [OPTION] „Zapomnijmy o dostępie do jednolitego rynku” ►385",
+      "[IF Goodwill<=15] [OPTION] „Ten pociąg już odjechał” ►385"
     ]
   },
   "832": {
     "PROSE": [
-      "'OK. Back in 1999, Switzerland and the EU signed a bunch of sectoral deals known collectively as the Bilateral Agreements I. There are seven of them, covering agriculture, free movement, non-tariff barriers, public procurement, research, aviation, and transport. Those are all linked by a guillotine clause, meaning that if one agreement is broken, they all go. That's why the Swiss continue to tolerate free movement in spite of all the nationalist agitation about it.'",
-      "'So the Bilateral Agreements I are in effect a bolt-on emulator of the single market rules,' puts in Strewel helpfully. 'Sort of like that free Open Office program you used to be able to get that did the same as Microsoft Word.'",
-      "The Chancellor laughs. 'The difference being that Open Office was simpler than the original, whereas the Swiss agreements are much, much more complicated.'"
+      "– W porządku. W 1999 roku Szwajcaria i UE podpisały szereg umów sektorowych, znanych łącznie jako Umowy Bilateralne I. Jest ich siedem i obejmują rolnictwo, swobodę przepływu osób, bariery pozataryfowe, zamówienia publiczne, badania naukowe, lotnictwo i transport. Wszystkie są powiązane klauzulą gilotyny, co oznacza, że jeśli jedna umowa zostanie złamana, wszystkie tracą moc. Dlatego Szwajcarzy nadal tolerują swobodę przepływu osób pomimo nacjonalistycznych agitacji w tej sprawie.",
+      "– Czyli Umowy Bilateralne I to w zasadzie nakładka emulująca zasady jednolitego rynku – wtrąca pomocnie Strewel. – Coś jak ten darmowy program Open Office, który kiedyś można było dostać i który robił to samo co Microsoft Word.",
+      "Kanclerz skarbu się śmieje. – Różnica polega na tym, że Open Office był prostszy od oryginału, podczas gdy szwajcarskie umowy są znacznie, znacznie bardziej skomplikowane."
     ],
     "OPTIONS": [
-      "[OPTION] \"'And do they cover services?'\" ►673",
-      "[OPTION] \"'Not to be masochistic, but I assume there's a Bilateral Agreements II?'\" ►690",
-      "[OPTION] \"'What does the EU think of all this palaver?'\" ►559"
+      "[OPTION] „«A czy obejmują one usługi?»” ►673",
+      "[OPTION] „«Nie chcę być masochistą, ale zakładam, że istnieją też Umowy Bilateralne II?»” ►690",
+      "[OPTION] „«A co UE sądzi o całym tym zamieszaniu?»” ►559"
     ]
   },
   "833": {
     "PROSE": [
-      "'You're coming across as a little soft on Brexit,' says Ron Beardsley as you go over your campaign strategy. 'Also, the Party members regard you as having a reputation for Machiavellian scheming coupled with no moral compass whatsoever.'",
-      "'Oh dear. But – '",
-      "'No, that's a good thing. Perfect leadership material.'"
+      "– Sprawiasz wrażenie trochę zbyt łagodnego w kwestii Brexitu – mówi Ron Beardsley, gdy omawiacie strategię kampanii. – Poza tym członkowie partii uważają, że masz opinię makiawelicznego intyganta pozbawionego jakiegokolwiek kompasu moralnego.",
+      "– O rany. Ale…",
+      "– Nie, to dobrze. Idealny materiał na lidera."
     ],
     "GOTO": [
-      "[IF keyword:NYLON] \"Continue\" ►193",
-      "[ELSE] \"Continue\" ►726"
+      "[IF keyword:NYLON] \"Dalej\" ►193",
+      "[ELSE] \"Dalej\" ►726"
     ]
   },
   "834": {
@@ -160,63 +160,63 @@
   },
   "835": {
     "PROSE": [
-      "All of the hopes, fears and uncertainties concerning the National Health Service are revealed to you in a dark, unbidden vision of things to come..."
+      "Wszystkie nadzieje, obawy i niepewności dotyczące NHS objawiają ci się w mrocznej, niechcianej wizji nadchodzących rzeczy…"
     ],
     "GOTO": [
-      "[IF box:835.box1] \"Continue\" ►711",
-      "[ELSE] [EFFECT tick:835.box1] \"Continue\" ►730"
+      "[IF box:835.box1] \"Dalej\" ►711",
+      "[ELSE] [EFFECT tick:835.box1] \"Dalej\" ►730"
     ]
   },
   "836": {
     "PROSE": [
-      "The Chancellor throws you a warning look. 'That's a lot to get into in a morning meeting, Prime Minister.'",
-      "For once Barkwell and he are on the same page. 'The Department for International Trade has a number of proposals to make about our future outside the single market. I'd like more time to present those properly.'",
-      "'Very well. We'll resume this discussion at a later date. Thank you, gentlemen.'"
+      "Kanclerz skarbu rzuca ci ostrzegawcze spojrzenie. – To za dużo jak na poranne spotkanie, panie premierze.",
+      "Wyjątkowo Barkwell jest z nim zgodny. – Departament Handlu Międzynarodowego ma szereg propozycji dotyczących naszej przyszłości poza jednolitym rynkiem. Chciałbym mieć więcej czasu, żeby je odpowiednio przedstawić.",
+      "– Dobrze. Wrócimy do tej dyskusji w późniejszym terminie. Dziękuję, panowie."
     ],
     "OPTIONS": [
-      "[OPTION] \"Ask the Chancellor to stay behind for a chat\" ►348",
-      "[OPTION] \"There's other urgent business to take care of\" ►666"
+      "[OPTION] „Poprosić kanclerza skarbu, żeby został na chwilę” ►348",
+      "[OPTION] „Są inne pilne sprawy do załatwienia” ►666"
     ]
   },
   "837": {
     "PROSE": [
-      "You hold your own against your opponents in the debate. Towards the close, thinking you're ahead, you even start to relax. That could be a big mistake.",
-      "'Prime Minister,' says the show's compère, Martin Mugglemore, 'isn't it true that Brexit is like proposing radical surgery for an ingrown toenail? It might cure the problem, but equally well you might lose the foot. Is it, in short, a risk worth taking?'"
+      "Dobrze radzisz sobie z oponentami w debacie. Pod koniec, myśląc, że prowadzisz, zaczynasz nawet się odprężać. To może być poważny błąd.",
+      "– Panie premierze – mówi prowadzący program Martin Mugglemore – czy to nie jest tak, że Brexit jest jak proponowanie radykalnej operacji na wrastający paznokieć? Może wyleczy problem, ale równie dobrze można stracić stopę. Krótko mówiąc, czy to ryzyko warte podjęcia?"
     ],
     "OPTIONS": [
-      "[OPTION] \"'Maybe it isn't just an ingrown toenail, though. What if the foot is in danger of going septic? Sometimes the biggest risk is to do nothing.'\" ►572",
-      "[OPTION] \"'Don't you ever do the pools, Martin? Buy a lottery ticket? A scratch card? Maybe you don't, but millions who do know that sometimes it's worth having a flutter. Risks can pay off, you know.'\" ►8"
+      "[OPTION] „«Może to nie jest tylko wrastający paznokieć. A jeśli stopa jest zagrożona gangreną? Czasem największym ryzykiem jest bezczynność.»” ►572",
+      "[OPTION] „«Nigdy pan nie gra w totka, Martin? Nie kupuje losu na loterię? Zdrapki? Może pan nie, ale miliony ludzi, którzy to robią, wiedzą, że czasem warto zaryzykować. Ryzyko może się opłacić.»” ►8"
     ]
   },
   "838": {
     "PROSE": [
-      "'Of course not,' says the scientist. 'Don't you realize that even prior to leaving the EU, Britain was ranked twenty-fourth out of the twenty-eight states for the number of doctors per person? The NHS was always a political football, and Brexit was the tack that finally deflated it.'",
-      "'Surely with all the fabulous new trade deals we did there was more money to spend on research?' It's all you can do to resist asking him what year this is.",
-      "'Medical research is bloody expensive,' he says. 'And it calls for a long-range vision. When Britain pooled money with the rest of the EU we were making some real strides. After all, cancer doesn't care what nationality you are. But when everybody goes it alone it's hard to get anywhere.'",
-      "'Surely some research is still going on?'",
-      "'Of course. Each village practice is funding its own research program as part of the last prime minister's Plucky Little England initiative. I'm hoping the summer fete will raise nearly £500 for my own research into Alzheimer's.'",
-      "Abednego meets your gaze, but cannot bring himself to express the disapproval you know he must be feeling. As a child you swore to protect him, but here he is adrift in a privatized cyberpunk future that has no place for old teddy bears. Your tears leave dark patches on his scraggy fur."
+      "– Oczywiście, że nie – mówi naukowiec. – Czy zdajecie sobie sprawę, że jeszcze przed wyjściem z UE Wielka Brytania zajmowała dwudzieste czwarte miejsce wśród dwudziestu ośmiu państw pod względem liczby lekarzy na mieszkańca? NHS zawsze był piłką nożną polityków, a Brexit był gwoździem, który go ostatecznie przebił.",
+      "– Ale przecież dzięki tym wspaniałym nowym umowom handlowym było więcej pieniędzy na badania? – Ledwo powstrzymujesz się od zapytania go, który mamy rok.",
+      "– Badania medyczne są cholernie drogie – mówi. – I wymagają dalekosiężnej wizji. Kiedy Wielka Brytania łączyła środki z resztą UE, robiliśmy prawdziwe postępy. W końcu raka nie obchodzi, jakiej jesteś narodowości. Ale kiedy każdy działa na własną rękę, trudno gdziekolwiek dojść.",
+      "– Na pewno jakieś badania nadal się prowadzi?",
+      "– Oczywiście. Każda wiejska przychodnia finansuje własny program badawczy w ramach inicjatywy ostatniego premiera „Dzielna Mała Anglia”. Mam nadzieję, że letni festyn przyniesie prawie pięćset funtów na moje badania nad Alzheimerem.",
+      "Abednego spotyka twoje spojrzenie, ale nie potrafi wyrazić dezaprobaty, którą – jak wiesz – musi odczuwać. Jako dziecko przysiągłeś go chronić, a tymczasem dryfuje w sprywatyzowanej cyberpunkowej przyszłości, w której nie ma miejsca dla starych pluszowych misiów. Twoje łzy zostawiają ciemne plamy na jego wytartym futerku."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►368"
+      "[OPTION] \"Dalej\" ►368"
     ]
   },
   "839": {
     "PROSE": [
-      "Naturally the other ministers want to know who will get the visas. Whatever deal you reach is going to be reciprocal. Service industries often need employees to relocate to another country, even if only temporarily while a new office is being set up. And that applies as much to British workers supplying services to the continent as EU workers moving to the UK.",
-      "'What restrictions are you intending to place on visa applications?' asks the President of the Council."
+      "Oczywiście pozostali ministrowie chcą wiedzieć, kto dostanie wizy. Jakakolwiek umowa, którą zawrzesz, będzie miała charakter wzajemny. Branże usługowe często potrzebują, by pracownicy przenieśli się do innego kraju, choćby tymczasowo, na czas uruchamiania nowego biura. I dotyczy to zarówno brytyjskich pracowników świadczących usługi na kontynencie, jak i pracowników z UE przenoszących się do Wielkiej Brytanii.",
+      "– Jakie ograniczenia zamierzacie nałożyć na wnioski wizowe? – pyta przewodniczący Rady."
     ],
     "OPTIONS": [
-      "[OPTION] \"'Anyone can come to Britain as long as they have a job or a university place lined up.'\" ►136",
-      "[OPTION] \"'Highly qualified workers will have no trouble getting visas, but the goal is to stop the influx of low-skilled immigrants over the next few years.'\" ►156"
+      "[OPTION] „«Każdy może przyjechać do Wielkiej Brytanii, pod warunkiem że ma zapewnioną pracę lub miejsce na uczelni.»” ►136",
+      "[OPTION] „«Wysoko wykwalifikowani pracownicy nie będą mieli problemu z uzyskaniem wiz, ale celem jest zatrzymanie napływu nisko wykwalifikowanych imigrantów w ciągu najbliższych kilku lat.»” ►156"
     ]
   },
   "840": {
     "PROSE": [
-      "A nicely anodyne statement that commits you to nothing at all."
+      "Ładne, nic nieznaczące oświadczenie, które do niczego cię nie zobowiązuje."
     ],
     "OPTIONS": [
-      "[OPTION] \"Continue\" ►125"
+      "[OPTION] \"Dalej\" ►125"
     ]
   }
 }
